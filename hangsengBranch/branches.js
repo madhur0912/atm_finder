@@ -315,7 +315,7 @@ per_service = "service_";
 				HourSat: "09:00 - 13:00",
 				HourSun: "",
 				HourRemark: "戶口開立或查詢(個人)/ 櫃位服務/ 財富管理/ 保管箱服務",
-				HourAMB: "自動櫃員機及存款快入數機:24小時 <br/> 存票快入票機:09:00 - 17:00 (星期一至五) , 09:00 - 13:00 (星期六)"
+				HourAMB: "自動櫃員機及存款快入數機:24小時 /  存票快入票機:09:00 - 17:00 (星期一至五) , 09:00 - 13:00 (星期六)"
 			};
 
 		allSites[9] = 
@@ -6272,4 +6272,5 @@ per_service = "service_";
 
 
 	
-module.exports = allSites;
+exports.allSites = allSites;
+exports.districts = districts;

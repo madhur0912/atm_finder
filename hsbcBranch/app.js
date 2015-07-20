@@ -12,13 +12,13 @@ var requestData = {
   "countryCode": "HK",
   "locale": "zh-hk",
   "locationTypes": [{
-    "locationType": "branch"
-  }, {
-    "locationType": "ssb"
-  }, {
-    "locationType": "hpc"
-  }, {
-    "locationType": "ctc"
+    "locationType": "ssb" //only search ssb, means ATM
+    // }, {
+    //   "locationType": "branch"
+    // }, {
+    //   "locationType": "hpc"
+    // }, {
+    //   "locationType": "ctc"
   }],
   "services": [{
     "service": "show-all-results"
@@ -29,6 +29,16 @@ var requestData = {
   "bottomLeftLng": 113.58415355111697,
   "topRightLat": 22.749359536368125,
   "topRightLng": 114.68278636361697
+};
+
+var twentyFourHours = {
+  "monday": "00:00 - 23:59",
+  "tuesday": "00:00 - 23:59",
+  "wednesday": "00:00 - 23:59",
+  "thursday": "00:00 - 23:59",
+  "friday": "00:00 - 23:59",
+  "saturday": "00:00 - 23:59",
+  "sunday": "00:00 - 23:59"
 };
 
 var findBranch = function(requestData, callback) {
@@ -116,6 +126,63 @@ var recursiveFindBranch = function(requestData, callback) {
   })
 };
 
+var formatBranches = function() {
+  for (var i = 0; i < branches.length; i++) {
+
+    var addressObj = branches[i].address;
+
+    var address = addressObj.line1;
+
+    var string = JSON.stringify(branches[i]);
+
+    var atm24 = (string.indexOf('00:00 - 23:59') != -1) || (string.indexOf('24小時') != -1);
+
+    var serviceString = '';
+
+    for (var j = 0; j < branches[i].services.length; j++) {
+      serviceString = serviceString + branches[i].services[j].service + '\n';
+    };
+
+    var firstUseful = JSON.stringify(branches[i].workHrs.lobby).indexOf(' - ') != -1;
+    var secondUseful = JSON.stringify(branches[i].workHrs.driveThru).indexOf(' - ') != -1;
+
+    if (secondUseful) {
+      secondUseful = (JSON.stringify(branches[i].workHrs.driveThru).indexOf('00:00 - 23:59') === -1);
+    };
+
+    var workHrs = null;
+
+    if (firstUseful && secondUseful) {
+      if (JSON.stringify(branches[i].workHrs.lobby) === JSON.stringify(branches[i].workHrs.driveThru)) {
+        workHrs = branches[i].workHrs.lobby;
+      } else {
+        workHrs = null;
+      }
+    } else if (firstUseful) {
+      workHrs = branches[i].workHrs.lobby;
+    } else if (secondUseful) {
+      workHrs = branches[i].workHrs.driveThru;
+    }
+
+    var branch = {
+      atm_type: 'hsbc',
+      bank_type: '匯豐銀行',
+      name: '匯豐銀行 ' + branches[i].name,
+      area: addressObj.prov,
+      district: addressObj.city,
+      address: address,
+      service: serviceString.trim(),
+      detail: null,
+      atm24: atm24,
+      lat: addressObj.lat,
+      lng: addressObj.lng,
+      workHrs: workHrs
+    };
+
+    branches[i] = branch;
+  };
+}
+
 recursiveFindBranch(requestData, function(exceedMaximum, results) {
   if (!exceedMaximum) {
     count++;
@@ -123,6 +190,7 @@ recursiveFindBranch(requestData, function(exceedMaximum, results) {
   }
   if (falseNeed === falseCount) {
     console.log(JSON.stringify(branches, 0, 4) + '\nCOUNT:' + count + '\nLength:' + branches.length);
+    formatBranches();
     fs.writeFileSync('./branches.json', JSON.stringify(branches, 0, 4), 'utf-8');
   } else {
     console.log(falseNeed + ' != ' + falseCount);
