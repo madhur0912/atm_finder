@@ -1,0 +1,647 @@
+{
+    "url": "https://www.hsbc.com.hk/gpib/channel/proxy/abslSvc/enqBranchABSL",
+    "method": "POST",
+    "json": true,
+    "headers": {
+        "content-type": "application/json"
+    },
+    "body": {
+        "countryCode": "HK",
+        "locale": "zh-hk",
+        "locationTypes": [
+            {
+                "locationType": "ssb"
+            }
+        ],
+        "services": [
+            {
+                "service": "show-all-results"
+            }
+        ],
+        "cLat": 22.265173537171332,
+        "cLng": 113.92747630502322,
+        "bottomLeftLat": 22.221075452784145,
+        "bottomLeftLng": 113.85881175424197,
+        "topRightLat": 22.30927162155852,
+        "topRightLng": 113.99614085580447
+    }
+},
+{
+    "responseInfo": {
+        "reasons": [],
+        "correlationId": null
+    },
+    "localFields": null,
+    "extensions": [],
+    "exceedMaximum": false,
+    "systemTime": null,
+    "results": [
+        {
+            "name": "逸東邨自動櫃員機",
+            "locationId": "646-04509",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "大嶼山東涌逸東商場1樓110號舖側5號自動櫃員機",
+                "line2": null,
+                "line3": null,
+                "city": "離島",
+                "prov": "離島",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.28171",
+                "lng": "113.93477"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "07:00 - 23:00",
+                    "tuesday": "07:00 - 23:00",
+                    "wednesday": "07:00 - 23:00",
+                    "thursday": "07:00 - 23:00",
+                    "friday": "07:00 - 23:00",
+                    "saturday": "07:00 - 23:00",
+                    "sunday": "07:00 - 23:00"
+                },
+                "todayOpenHours": "07:00 - 23:00"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "1.98 公里"
+        },
+        {
+            "name": "東薈城名店倉理財易中心",
+            "locationId": "646-04501",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "大嶼山東涌達東路東薈城名店倉地下G25號舖",
+                "line2": null,
+                "line3": null,
+                "city": "離島",
+                "prov": "離島",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.28955",
+                "lng": "113.94042"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                },
+                {
+                    "service": "現金存款"
+                },
+                {
+                    "service": "更新存摺簿交易資料"
+                },
+                {
+                    "service": "支票存款"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "3.02 公里"
+        },
+        {
+            "name": "富東邨自動櫃員機",
+            "locationId": "646-04512",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "新界富東邨富東商埸自動櫃員機1號",
+                "line2": null,
+                "line3": null,
+                "city": "離島",
+                "prov": "離島",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.288828",
+                "lng": "113.942422"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "09:00 - 23:00",
+                    "tuesday": "09:00 - 23:00",
+                    "wednesday": "09:00 - 23:00",
+                    "thursday": "09:00 - 23:00",
+                    "friday": "09:00 - 23:00",
+                    "saturday": "09:00 - 23:00",
+                    "sunday": "09:00 - 23:00"
+                },
+                "todayOpenHours": "09:00 - 23:00"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "3.04 公里"
+        },
+        {
+            "name": "國泰航空貨運站自動櫃員機",
+            "locationId": "646-04516",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "赤鱲角香港國際機場駿運路國泰航空貨運站三樓",
+                "line2": null,
+                "line3": null,
+                "city": "離島",
+                "prov": "離島",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.296686",
+                "lng": "113.926447"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "3.5 公里"
+        },
+        {
+            "name": "超級貨站理財易中心",
+            "locationId": "646-04506",
+            "type": "ssb",
+            "addInfo": {
+                "callOutText": "受限制區域",
+                "institution": null,
+                "landMark": null,
+                "imageName": null
+            },
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "赤鱲角超級1號貨站辦公室大樓南座地下",
+                "line2": null,
+                "line3": null,
+                "city": "離島",
+                "prov": "離島",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.2986",
+                "lng": "113.9297"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "3.72 公里"
+        },
+        {
+            "name": "國泰城分行",
+            "locationId": "648.0",
+            "type": "branchssb",
+            "addInfo": {
+                "callOutText": "受限制區域",
+                "institution": null,
+                "landMark": null,
+                "imageName": null
+            },
+            "facilities": [
+                {
+                    "facility": "分行"
+                },
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "大嶼山赤鱲角觀景道8號國泰城商場1樓B-E舖",
+                "line2": null,
+                "line3": null,
+                "city": "離島區",
+                "prov": null,
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.298083",
+                "lng": "113.934183"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "09:00 - 16:30",
+                    "tuesday": "09:00 - 16:30",
+                    "wednesday": "09:00 - 16:30",
+                    "thursday": "09:00 - 16:30",
+                    "friday": "09:00 - 17:00",
+                    "saturday": "09:00 - 13:00",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "09:00 - 17:00"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "外幣兌換服務"
+                },
+                {
+                    "service": "匯豐卓越理財服務櫃檯"
+                },
+                {
+                    "service": "現金存款"
+                },
+                {
+                    "service": "網上理財服務"
+                },
+                {
+                    "service": "輪椅通道 (分行)"
+                },
+                {
+                    "service": "更新存摺簿交易資料"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "傳真",
+                    "value": "(852) 3418 8730"
+                },
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "3.72 公里"
+        },
+        {
+            "name": "港龍大廈理財易中心",
+            "locationId": "646-04502",
+            "type": "ssb",
+            "addInfo": {
+                "callOutText": "受限制區域",
+                "institution": null,
+                "landMark": null,
+                "imageName": null
+            },
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "赤鱲角香港國際機場東輝路11-12號港龍大廈地下",
+                "line2": null,
+                "line3": null,
+                "city": "離島",
+                "prov": "離島",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.30342",
+                "lng": "113.93927"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "4.42 公里"
+        },
+        {
+            "name": "香港飛機工程理財易中心",
+            "locationId": "646-04505",
+            "type": "ssb",
+            "addInfo": {
+                "callOutText": "受限制區域",
+                "institution": null,
+                "landMark": null,
+                "imageName": null
+            },
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "赤鱲角香港國際機場南環路80號正門側",
+                "line2": null,
+                "line3": null,
+                "city": "離島",
+                "prov": "離島",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.30359",
+                "lng": "113.89933"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "5.16 公里"
+        },
+        {
+            "name": "大澳理財易中心",
+            "locationId": "066-04501",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "大嶼山大澳街市街二十五號地下D座",
+                "line2": null,
+                "line3": null,
+                "city": "離島",
+                "prov": "離島",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.254382",
+                "lng": "113.862026"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "6.84 公里"
+        }
+    ]
+}

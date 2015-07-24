@@ -1,0 +1,311 @@
+{
+    "url": "https://www.hsbc.com.hk/gpib/channel/proxy/abslSvc/enqBranchABSL",
+    "method": "POST",
+    "json": true,
+    "headers": {
+        "content-type": "application/json"
+    },
+    "body": {
+        "countryCode": "HK",
+        "locale": "zh-hk",
+        "locationTypes": [
+            {
+                "locationType": "ssb"
+            }
+        ],
+        "services": [
+            {
+                "service": "show-all-results"
+            }
+        ],
+        "cLat": 22.298247100461722,
+        "cLng": 114.21930064584353,
+        "bottomLeftLat": 22.287222579364926,
+        "bottomLeftLng": 114.20213450814822,
+        "topRightLat": 22.30927162155852,
+        "topRightLng": 114.23646678353884
+    }
+},
+{
+    "responseInfo": {
+        "reasons": [],
+        "correlationId": null
+    },
+    "localFields": null,
+    "extensions": [],
+    "exceedMaximum": false,
+    "systemTime": null,
+    "results": [
+        {
+            "name": "鰂魚涌理財易中心",
+            "locationId": "615-04501",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "香港鰂魚涌英皇道971號地下",
+                "line2": null,
+                "line3": null,
+                "city": "東區",
+                "prov": "香港島",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.28759",
+                "lng": "114.21041"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                },
+                {
+                    "service": "現金存款"
+                },
+                {
+                    "service": "更新存摺簿交易資料"
+                },
+                {
+                    "service": "支票存款"
+                },
+                {
+                    "service": "現金提款 (港幣及人民幣)"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "1.49 公里"
+        },
+        {
+            "name": "藍田理財易中心",
+            "locationId": "116-04508",
+            "type": "ssb",
+            "addInfo": {
+                "callOutText": "「提存易」接受港幣$20及$50元現鈔存款",
+                "institution": null,
+                "landMark": null,
+                "imageName": null
+            },
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "九龍藍田滙景道8號滙景廣場第四層H 號舖",
+                "line2": null,
+                "line3": null,
+                "city": "觀塘",
+                "prov": "九龍",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.30746",
+                "lng": "114.23293"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "06:00 - 23:59",
+                    "tuesday": "06:00 - 23:59",
+                    "wednesday": "06:00 - 23:59",
+                    "thursday": "06:00 - 23:59",
+                    "friday": "06:00 - 23:59",
+                    "saturday": "06:00 - 23:59",
+                    "sunday": "06:00 - 23:59"
+                },
+                "todayOpenHours": "06:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                },
+                {
+                    "service": "現金存款"
+                },
+                {
+                    "service": "更新存摺簿交易資料"
+                },
+                {
+                    "service": "支票存款"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "1.73 公里"
+        },
+        {
+            "name": "油麗邨自動櫃員機",
+            "locationId": "116-04504",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "九龍油塘油麗邨三期豐麗樓升降機大樓底層",
+                "line2": null,
+                "line3": null,
+                "city": "觀塘",
+                "prov": "九龍",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.300247",
+                "lng": "114.236207"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "1.75 公里"
+        },
+        {
+            "name": "啟田邨自動櫃員機",
+            "locationId": "116-04510",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "九龍藍田啟田道啟田商場2樓櫃員機位2號",
+                "line2": null,
+                "line3": null,
+                "city": "觀塘",
+                "prov": "九龍",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.30845",
+                "lng": "114.23489"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "07:00 - 00:00",
+                    "tuesday": "07:00 - 00:00",
+                    "wednesday": "07:00 - 00:00",
+                    "thursday": "07:00 - 00:00",
+                    "friday": "07:00 - 00:00",
+                    "saturday": "07:00 - 00:00",
+                    "sunday": "07:00 - 00:00"
+                },
+                "todayOpenHours": "07:00 - 00:00"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "1.96 公里"
+        }
+    ]
+}

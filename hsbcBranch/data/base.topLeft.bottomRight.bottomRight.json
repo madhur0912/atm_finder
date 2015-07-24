@@ -1,0 +1,1310 @@
+{
+    "url": "https://www.hsbc.com.hk/gpib/channel/proxy/abslSvc/enqBranchABSL",
+    "method": "POST",
+    "json": true,
+    "headers": {
+        "content-type": "application/json"
+    },
+    "body": {
+        "countryCode": "HK",
+        "locale": "zh-hk",
+        "locationTypes": [
+            {
+                "locationType": "ssb"
+            }
+        ],
+        "services": [
+            {
+                "service": "show-all-results"
+            }
+        ],
+        "cLat": 22.4414542585873,
+        "cLng": 114.06480540658572,
+        "bottomLeftLat": 22.397467790332893,
+        "bottomLeftLng": 113.99614085580447,
+        "topRightLat": 22.485440726841702,
+        "topRightLng": 114.13346995736697
+    }
+},
+{
+    "responseInfo": {
+        "reasons": [],
+        "correlationId": null
+    },
+    "localFields": null,
+    "extensions": [],
+    "exceedMaximum": false,
+    "systemTime": null,
+    "results": [
+        {
+            "name": "錦田理財易中心",
+            "locationId": "034-04505",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "新界元朗錦田大馬路40號",
+                "line2": null,
+                "line3": null,
+                "city": "元朗",
+                "prov": "新界",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.43992",
+                "lng": "114.06681"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "0.26 公里"
+        },
+        {
+            "name": "港鐵錦上路站理財易中心",
+            "locationId": "034-04501",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "新界元朗港鐵錦上路站收費區外1號舖",
+                "line2": null,
+                "line3": null,
+                "city": "元朗",
+                "prov": "新界",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.43525",
+                "lng": "114.0631"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "0.71 公里"
+        },
+        {
+            "name": "港鐵元朗站理財易中心",
+            "locationId": "034-04513",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "新界元朗港鐵元朗站收費區外19號舖",
+                "line2": null,
+                "line3": null,
+                "city": "元朗",
+                "prov": "新界",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.446108",
+                "lng": "114.034717"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                },
+                {
+                    "service": "現金提款 (港幣及人民幣)"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "3.13 公里"
+        },
+        {
+            "name": "安寧路(7-Eleven)自動櫃員機",
+            "locationId": "034-045-14",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "新界元朗安寧路8號冠煌樓地下C號舖",
+                "line2": null,
+                "line3": null,
+                "city": "元朗",
+                "prov": "新界",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.446154",
+                "lng": "114.029583"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "3.65 公里"
+        },
+        {
+            "name": "合益廣場(7-Eleven)自動櫃員機",
+            "locationId": "034-04509",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "新界元朗元朗新街1-49號合益廣場地下A59舖",
+                "line2": null,
+                "line3": null,
+                "city": "元朗",
+                "prov": "新界",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.44337",
+                "lng": "114.02915"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "3.67 公里"
+        },
+        {
+            "name": "元朗理財易中心",
+            "locationId": "034-04508",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "新界元朗青山公路150-160號 元朗滙豐大廈地下",
+                "line2": null,
+                "line3": null,
+                "city": "元朗",
+                "prov": "新界",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.444239",
+                "lng": "114.027392"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                },
+                {
+                    "service": "現金存款"
+                },
+                {
+                    "service": "更新存摺簿交易資料"
+                },
+                {
+                    "service": "支票存款"
+                },
+                {
+                    "service": "現金提款 (港幣及人民幣)"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "3.85 公里"
+        },
+        {
+            "name": "富興大廈(Circle-K) 自動櫃員機",
+            "locationId": "034-04510",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "新界元朗青山公路元朗段218號富興大廈地下A號舖Circle-K便利店",
+                "line2": null,
+                "line3": null,
+                "city": "元朗",
+                "prov": "新界",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.4443",
+                "lng": "114.02508"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "4.09 公里"
+        },
+        {
+            "name": "港鐵朗屏站理財易中心",
+            "locationId": "034-04502",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "新界元朗港鐵朗屏站收費區外自動櫃員機A02號",
+                "line2": null,
+                "line3": null,
+                "city": "元朗",
+                "prov": "新界",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.44763",
+                "lng": "114.02471"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "05:54 - 00:30",
+                    "tuesday": "05:54 - 00:30",
+                    "wednesday": "05:54 - 00:30",
+                    "thursday": "05:54 - 00:30",
+                    "friday": "05:54 - 00:30",
+                    "saturday": "05:54 - 00:30",
+                    "sunday": "05:54 - 00:30"
+                },
+                "todayOpenHours": "05:54 - 00:30"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "4.17 公里"
+        },
+        {
+            "name": "朗屏邨理財易中心",
+            "locationId": "034-04511",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "元朗朗屏商場鏡屏樓平台3B號舖",
+                "line2": null,
+                "line3": null,
+                "city": "元朗",
+                "prov": "新界",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.45035",
+                "lng": "114.02316"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "4.39 公里"
+        },
+        {
+            "name": "錦綉花園理財易中心",
+            "locationId": "034-04503",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "新界元朗錦綉花園市中心D座地下1C號舖",
+                "line2": null,
+                "line3": null,
+                "city": "元朗",
+                "prov": "新界",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.47766",
+                "lng": "114.04512"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                },
+                {
+                    "service": "現金存款"
+                },
+                {
+                    "service": "更新存摺簿交易資料"
+                },
+                {
+                    "service": "支票存款"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "4.5 公里"
+        },
+        {
+            "name": "水邊圍邨(Circle-K)自動櫃員機",
+            "locationId": "034-04512",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "元朗水邊圍邨康水樓103 & 105號舖Circle-K便利店",
+                "line2": null,
+                "line3": null,
+                "city": "元朗",
+                "prov": "新界",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.44671",
+                "lng": "114.02102"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "4.53 公里"
+        },
+        {
+            "name": "天慈邨自動櫃員機",
+            "locationId": "507-04506",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "新界天水圍天喜街9號天慈邨天慈商場地下",
+                "line2": null,
+                "line3": null,
+                "city": "元朗",
+                "prov": "新界",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.453077",
+                "lng": "114.006929"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "6.08 公里"
+        },
+        {
+            "name": "港鐵天水圍站理財易中心",
+            "locationId": "507-04504",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "收費區 - 港鐵天水圍站收費區17號舖 及 收費區外 - 港鐵天水圍站收費區外櫃員機,自動售賣機A01號位",
+                "line2": null,
+                "line3": null,
+                "city": "元朗",
+                "prov": "新界",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.44853",
+                "lng": "114.00515"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "05:51 - 00:36",
+                    "tuesday": "05:51 - 00:36",
+                    "wednesday": "05:51 - 00:36",
+                    "thursday": "05:51 - 00:36",
+                    "friday": "05:51 - 00:36",
+                    "saturday": "05:51 - 00:36",
+                    "sunday": "05:51 - 00:36"
+                },
+                "todayOpenHours": "05:51 - 00:36"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                },
+                {
+                    "service": "現金存款"
+                },
+                {
+                    "service": "更新存摺簿交易資料"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "6.18 公里"
+        },
+        {
+            "name": "天耀邨理財易中心",
+            "locationId": "507-045-09",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "新界元朗天水圍天湖路二號天耀商埸地下L019A號舖",
+                "line2": null,
+                "line3": null,
+                "city": "元朗",
+                "prov": "新界",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.450786",
+                "lng": "114.003308"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "6.4 公里"
+        },
+        {
+            "name": "天水圍理財易中心",
+            "locationId": "507-04503",
+            "type": "ssb",
+            "addInfo": {
+                "callOutText": "入票易將於2015年7月18日至19日暫停服務",
+                "institution": null,
+                "landMark": null,
+                "imageName": null
+            },
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "新界天水圍嘉湖銀座第二期",
+                "line2": null,
+                "line3": null,
+                "city": "元朗",
+                "prov": "新界",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.457068",
+                "lng": "114.003268"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                },
+                {
+                    "service": "現金存款"
+                },
+                {
+                    "service": "更新存摺簿交易資料"
+                },
+                {
+                    "service": "支票存款"
+                },
+                {
+                    "service": "現金提款 (港幣及人民幣)"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "6.55 公里"
+        },
+        {
+            "name": "嘉湖新北江商場(7-Eleven) 自動櫃員機",
+            "locationId": "507-04501",
+            "type": "ssb",
+            "addInfo": {
+                "callOutText": "自動櫃員機將於2015年8月24日至27日起暫停服務",
+                "institution": null,
+                "landMark": null,
+                "imageName": null
+            },
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "新界元朗天水圍天湖路1號嘉湖新北江商場地下A10-A13號舖7-Eleven便利店",
+                "line2": null,
+                "line3": null,
+                "city": "元朗",
+                "prov": "新界",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.45219",
+                "lng": "114.00044"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "6.72 公里"
+        },
+        {
+            "name": "天晴邨 (7-Eleven) 自動櫃員機",
+            "locationId": "507-04508",
+            "type": "ssb",
+            "addInfo": {
+                "callOutText": "自動櫃員機將於2015年8月12日至15日起暫停服務",
+                "institution": null,
+                "landMark": null,
+                "imageName": null
+            },
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "新界天水圍天晴邨天晴商場地下 7 號舖位",
+                "line2": null,
+                "line3": null,
+                "city": "元朗",
+                "prov": "新界",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.463309",
+                "lng": "114.002917"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "6.8 公里"
+        },
+        {
+            "name": "頌富理財易中心",
+            "locationId": "507-04502",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "新界天水圍頌富商場20號舖側空地",
+                "line2": null,
+                "line3": null,
+                "city": "元朗",
+                "prov": "新界",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.46161",
+                "lng": "113.99778"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "7.24 公里"
+        },
+        {
+            "name": "天恩邨自動櫃員機",
+            "locationId": "507-045-05",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "新界天水圍天恩邨天恩商場自動扶手電梯下空地",
+                "line2": null,
+                "line3": null,
+                "city": "元朗",
+                "prov": "新界",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.462494",
+                "lng": "113.996301"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "06:00 - 23:59",
+                    "tuesday": "06:00 - 23:59",
+                    "wednesday": "06:00 - 23:59",
+                    "thursday": "06:00 - 23:59",
+                    "friday": "06:00 - 23:59",
+                    "saturday": "06:00 - 23:59",
+                    "sunday": "06:00 - 23:59"
+                },
+                "todayOpenHours": "06:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "7.41 公里"
+        },
+        {
+            "name": "天澤邨自動櫃員機",
+            "locationId": "507-04507",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "新界天水圍天瑞路77號天澤商場地下",
+                "line2": null,
+                "line3": null,
+                "city": "元朗",
+                "prov": "新界",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.468366",
+                "lng": "113.998786"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "7.41 公里"
+        }
+    ]
+}

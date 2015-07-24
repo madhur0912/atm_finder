@@ -1,0 +1,39 @@
+{
+    "url": "https://www.hsbc.com.hk/gpib/channel/proxy/abslSvc/enqBranchABSL",
+    "method": "POST",
+    "json": true,
+    "headers": {
+        "content-type": "application/json"
+    },
+    "body": {
+        "countryCode": "HK",
+        "locale": "zh-hk",
+        "locationTypes": [
+            {
+                "locationType": "ssb"
+            }
+        ],
+        "services": [
+            {
+                "service": "show-all-results"
+            }
+        ],
+        "cLat": 22.331320663752113,
+        "cLng": 114.0304731311951,
+        "bottomLeftLat": 22.30927162155852,
+        "bottomLeftLng": 113.99614085580447,
+        "topRightLat": 22.353369705945706,
+        "topRightLng": 114.06480540658572
+    }
+},
+{
+    "responseInfo": {
+        "reasons": [],
+        "correlationId": null
+    },
+    "localFields": null,
+    "extensions": [],
+    "exceedMaximum": false,
+    "systemTime": null,
+    "results": []
+}

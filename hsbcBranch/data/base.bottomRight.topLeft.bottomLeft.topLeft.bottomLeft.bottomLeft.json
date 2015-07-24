@@ -1,0 +1,105 @@
+{
+    "url": "https://www.hsbc.com.hk/gpib/channel/proxy/abslSvc/enqBranchABSL",
+    "method": "POST",
+    "json": true,
+    "headers": {
+        "content-type": "application/json"
+    },
+    "body": {
+        "countryCode": "HK",
+        "locale": "zh-hk",
+        "locationTypes": [
+            {
+                "locationType": "ssb"
+            }
+        ],
+        "services": [
+            {
+                "service": "show-all-results"
+            }
+        ],
+        "cLat": 22.27068579771973,
+        "cLng": 114.14205302621463,
+        "bottomLeftLat": 22.265173537171332,
+        "bottomLeftLng": 114.13346995736697,
+        "topRightLat": 22.27619805826813,
+        "topRightLng": 114.15063609506228
+    }
+},
+{
+    "responseInfo": {
+        "reasons": [],
+        "correlationId": null
+    },
+    "localFields": null,
+    "extensions": [],
+    "exceedMaximum": false,
+    "systemTime": null,
+    "results": [
+        {
+            "name": "山頂廣場自動櫃員機",
+            "locationId": "593-04502",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "香港山頂道118號山頂廣場1樓",
+                "line2": null,
+                "line3": null,
+                "city": "中西區",
+                "prov": "香港島",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.27055",
+                "lng": "114.14975"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "10:00 - 22:00",
+                    "tuesday": "10:00 - 22:00",
+                    "wednesday": "10:00 - 22:00",
+                    "thursday": "10:00 - 22:00",
+                    "friday": "10:00 - 22:00",
+                    "saturday": "10:00 - 22:00",
+                    "sunday": "10:00 - 22:00"
+                },
+                "todayOpenHours": "10:00 - 22:00"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                },
+                {
+                    "service": "現金存款"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "0.79 公里"
+        }
+    ]
+}

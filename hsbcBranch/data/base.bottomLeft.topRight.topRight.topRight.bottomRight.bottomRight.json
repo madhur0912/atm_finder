@@ -1,0 +1,513 @@
+{
+    "url": "https://www.hsbc.com.hk/gpib/channel/proxy/abslSvc/enqBranchABSL",
+    "method": "POST",
+    "json": true,
+    "headers": {
+        "content-type": "application/json"
+    },
+    "body": {
+        "countryCode": "HK",
+        "locale": "zh-hk",
+        "locationTypes": [
+            {
+                "locationType": "ssb"
+            }
+        ],
+        "services": [
+            {
+                "service": "show-all-results"
+            }
+        ],
+        "cLat": 22.358881966494103,
+        "cLng": 114.12488688851931,
+        "bottomLeftLat": 22.353369705945706,
+        "bottomLeftLng": 114.11630381967166,
+        "topRightLat": 22.364394227042503,
+        "topRightLng": 114.13346995736697
+    }
+},
+{
+    "responseInfo": {
+        "reasons": [],
+        "correlationId": null
+    },
+    "localFields": null,
+    "extensions": [],
+    "exceedMaximum": false,
+    "systemTime": null,
+    "results": [
+        {
+            "name": "葵芳分行",
+            "locationId": "094",
+            "type": "branchssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "分行"
+                },
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "新界葵芳新都會廣場地下153-160號舖",
+                "line2": null,
+                "line3": null,
+                "city": "葵青區",
+                "prov": "新界",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.357961",
+                "lng": "114.126503"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "09:00 - 16:30",
+                    "tuesday": "09:00 - 16:30",
+                    "wednesday": "09:00 - 16:30",
+                    "thursday": "09:00 - 16:30",
+                    "friday": "09:00 - 17:00",
+                    "saturday": "09:00 - 13:00",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "09:00 - 17:00"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "外幣兌換服務"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                },
+                {
+                    "service": "網上理財服務"
+                },
+                {
+                    "service": "輪椅通道 (分行)"
+                },
+                {
+                    "service": "匯豐運籌理財服務櫃檯"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "傳真",
+                    "value": "(852) 3418 8810"
+                },
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "0.19 公里"
+        },
+        {
+            "name": "葵芳理財易中心",
+            "locationId": "094-04505",
+            "type": "ssb",
+            "addInfo": {
+                "callOutText": "「存錢妥」接受港幣$20及$50元現鈔存款",
+                "institution": null,
+                "landMark": null,
+                "imageName": null
+            },
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "新界葵芳新都會廣場地下151-152號舖",
+                "line2": null,
+                "line3": null,
+                "city": "葵青",
+                "prov": "新界",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.357971",
+                "lng": "114.126533"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "08:00 - 23:00",
+                    "tuesday": "08:00 - 23:00",
+                    "wednesday": "08:00 - 23:00",
+                    "thursday": "08:00 - 23:00",
+                    "friday": "08:00 - 23:00",
+                    "saturday": "08:00 - 23:00",
+                    "sunday": "08:00 - 23:00"
+                },
+                "todayOpenHours": "08:00 - 23:00"
+            },
+            "services": [
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                },
+                {
+                    "service": "現金存款"
+                },
+                {
+                    "service": "更新存摺簿交易資料"
+                },
+                {
+                    "service": "支票存款"
+                },
+                {
+                    "service": "現金提款 (港幣及人民幣)"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "0.19 公里"
+        },
+        {
+            "name": "葵盛西理財易中心",
+            "locationId": "094-04504",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "新界葵涌葵盛西邨第7座地下1B號舖",
+                "line2": null,
+                "line3": null,
+                "city": "葵青",
+                "prov": "新界",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.361166",
+                "lng": "114.122691"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "0.33 公里"
+        },
+        {
+            "name": "葵芳邨自動櫃員機",
+            "locationId": "094-04509",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "新界葵芳邨葵芳商埸自動櫃員機1號",
+                "line2": null,
+                "line3": null,
+                "city": "葵青",
+                "prov": "新界",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.357786",
+                "lng": "114.129839"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "07:00 - 23:00",
+                    "tuesday": "07:00 - 23:00",
+                    "wednesday": "07:00 - 23:00",
+                    "thursday": "07:00 - 23:00",
+                    "friday": "07:00 - 23:00",
+                    "saturday": "07:00 - 23:00",
+                    "sunday": "07:00 - 23:00"
+                },
+                "todayOpenHours": "07:00 - 23:00"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "0.52 公里"
+        },
+        {
+            "name": "嘉里貨運中心自動櫃員機",
+            "locationId": "094-04510",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "新界葵涌永基路55號嘉里貨運中心電梯大堂 P1 樓",
+                "line2": null,
+                "line3": null,
+                "city": "葵青",
+                "prov": "新界",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.363737",
+                "lng": "114.121071"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "0.66 公里"
+        },
+        {
+            "name": "麗瑤邨理財易中心",
+            "locationId": "119-04501",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "新界葵涌麗瑤邨麗瑤商場中心地下",
+                "line2": null,
+                "line3": null,
+                "city": "葵青",
+                "prov": "新界",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.35407",
+                "lng": "114.13105"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "0.82 公里"
+        },
+        {
+            "name": "葵興理財易中心",
+            "locationId": "541-04504",
+            "type": "ssb",
+            "addInfo": {
+                "callOutText": "「提存易」接受港幣$20及$50元現鈔存款",
+                "institution": null,
+                "landMark": null,
+                "imageName": null
+            },
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "新界葵涌興芳路166-174號 新葵興廣場3樓2號舖",
+                "line2": null,
+                "line3": null,
+                "city": "葵青",
+                "prov": "新界",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.363218",
+                "lng": "114.131421"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "06:00 - 00:00",
+                    "tuesday": "06:00 - 00:00",
+                    "wednesday": "06:00 - 00:00",
+                    "thursday": "06:00 - 00:00",
+                    "friday": "06:00 - 00:00",
+                    "saturday": "06:00 - 00:00",
+                    "sunday": "06:00 - 00:00"
+                },
+                "todayOpenHours": "06:00 - 00:00"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                },
+                {
+                    "service": "現金存款"
+                },
+                {
+                    "service": "更新存摺簿交易資料"
+                },
+                {
+                    "service": "支票存款"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "0.82 公里"
+        }
+    ]
+}

@@ -1,0 +1,519 @@
+{
+    "url": "https://www.hsbc.com.hk/gpib/channel/proxy/abslSvc/enqBranchABSL",
+    "method": "POST",
+    "json": true,
+    "headers": {
+        "content-type": "application/json"
+    },
+    "body": {
+        "countryCode": "HK",
+        "locale": "zh-hk",
+        "locationTypes": [
+            {
+                "locationType": "ssb"
+            }
+        ],
+        "services": [
+            {
+                "service": "show-all-results"
+            }
+        ],
+        "cLat": 22.314783882106916,
+        "cLng": 114.22788371469119,
+        "bottomLeftLat": 22.30927162155852,
+        "bottomLeftLng": 114.21930064584353,
+        "topRightLat": 22.320296142655316,
+        "topRightLng": 114.23646678353884
+    }
+},
+{
+    "responseInfo": {
+        "reasons": [],
+        "correlationId": null
+    },
+    "localFields": null,
+    "extensions": [],
+    "exceedMaximum": false,
+    "systemTime": null,
+    "results": [
+        {
+            "name": "翠屏邨理財易中心",
+            "locationId": "116-04507",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "九龍觀塘翠屏邨翠桃樓76-78號舖",
+                "line2": null,
+                "line3": null,
+                "city": "觀塘",
+                "prov": "九龍",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.31554",
+                "lng": "114.22979"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "0.21 公里"
+        },
+        {
+            "name": "物華街理財易中心",
+            "locationId": "116-04514",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "九龍觀塘物華街55號安寧大樓地下A號舖",
+                "line2": null,
+                "line3": null,
+                "city": "觀塘",
+                "prov": "九龍",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.31534",
+                "lng": "114.22541"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                },
+                {
+                    "service": "現金存款"
+                },
+                {
+                    "service": "更新存摺簿交易資料"
+                },
+                {
+                    "service": "支票存款"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "0.26 公里"
+        },
+        {
+            "name": "觀塘商業客戶服務中心",
+            "locationId": "642.0",
+            "type": "ctcssb",
+            "addInfo": {
+                "callOutText": "附設「商業客戶服務」專屬櫃位",
+                "institution": null,
+                "landMark": null,
+                "imageName": null
+            },
+            "facilities": [
+                {
+                    "facility": "工商專用服務"
+                },
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "九龍觀塘開源道71號王子大廈3樓(只供工商客戶使用)",
+                "line2": null,
+                "line3": null,
+                "city": "觀塘區",
+                "prov": "九龍",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.311071",
+                "lng": "114.225224"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "09:30 - 17:00",
+                    "tuesday": "09:30 - 17:00",
+                    "wednesday": "09:30 - 17:00",
+                    "thursday": "09:30 - 17:00",
+                    "friday": "09:30 - 17:00",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "09:30 - 17:00",
+                    "tuesday": "09:30 - 17:00",
+                    "wednesday": "09:30 - 17:00",
+                    "thursday": "09:30 - 17:00",
+                    "friday": "09:30 - 17:00",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "todayOpenHours": "09:30 - 17:00"
+            },
+            "services": [
+                {
+                    "service": "外幣兌換服務"
+                },
+                {
+                    "service": "現金存款"
+                },
+                {
+                    "service": "網上理財服務"
+                },
+                {
+                    "service": "輪椅通道 (分行)"
+                },
+                {
+                    "service": "工商金融服務櫃檯"
+                },
+                {
+                    "service": "支票存款"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "傳真",
+                    "value": "(852) 3418 8840"
+                },
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "0.49 公里"
+        },
+        {
+            "name": "觀塘理財易中心",
+            "locationId": "116-04503",
+            "type": "ssb",
+            "addInfo": {
+                "callOutText": "「存錢妥」接受港幣$20及$50元現鈔存款",
+                "institution": null,
+                "landMark": null,
+                "imageName": null
+            },
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "九龍觀塘開源道71號王子大廈地下",
+                "line2": null,
+                "line3": null,
+                "city": "觀塘",
+                "prov": "九龍",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.31104",
+                "lng": "114.22494"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                },
+                {
+                    "service": "現金存款"
+                },
+                {
+                    "service": "更新存摺簿交易資料"
+                },
+                {
+                    "service": "支票存款"
+                },
+                {
+                    "service": "現金提款 (港幣及人民幣)"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "0.51 公里"
+        },
+        {
+            "name": "秀茂坪自動櫃員機",
+            "locationId": "116-04506",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "九龍觀塘秀茂坪邨秀茂坪商場2樓自動櫃員機2及3號",
+                "line2": null,
+                "line3": null,
+                "city": "觀塘",
+                "prov": "九龍",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.31938",
+                "lng": "114.23221"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "07:00 - 00:00",
+                    "tuesday": "07:00 - 00:00",
+                    "wednesday": "07:00 - 00:00",
+                    "thursday": "07:00 - 00:00",
+                    "friday": "07:00 - 00:00",
+                    "saturday": "07:00 - 00:00",
+                    "sunday": "07:00 - 00:00"
+                },
+                "todayOpenHours": "07:00 - 00:00"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "0.67 公里"
+        },
+        {
+            "name": "創紀之城自動櫃員機",
+            "locationId": "116-04502",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "觀塘觀塘道378號創紀之城二期1樓自動提款機3號",
+                "line2": null,
+                "line3": null,
+                "city": "觀塘",
+                "prov": "九龍",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.314485",
+                "lng": "114.22024"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "現金存款"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "0.78 公里"
+        },
+        {
+            "name": "寶達邨自動櫃員機",
+            "locationId": "116-04509",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "九龍觀塘秀茂坪寶達商場地下扶手梯1號及2號梯底(1號舖對面)",
+                "line2": null,
+                "line3": null,
+                "city": "觀塘",
+                "prov": "九龍",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.31743",
+                "lng": "114.23625"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "06:00 - 23:30",
+                    "tuesday": "06:00 - 23:30",
+                    "wednesday": "06:00 - 23:30",
+                    "thursday": "06:00 - 23:30",
+                    "friday": "06:00 - 23:30",
+                    "saturday": "06:00 - 23:30",
+                    "sunday": "06:00 - 23:30"
+                },
+                "todayOpenHours": "06:00 - 23:30"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "0.9 公里"
+        }
+    ]
+}

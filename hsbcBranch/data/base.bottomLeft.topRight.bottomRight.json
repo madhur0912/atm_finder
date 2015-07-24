@@ -1,0 +1,650 @@
+{
+    "url": "https://www.hsbc.com.hk/gpib/channel/proxy/abslSvc/enqBranchABSL",
+    "method": "POST",
+    "json": true,
+    "headers": {
+        "content-type": "application/json"
+    },
+    "body": {
+        "countryCode": "HK",
+        "locale": "zh-hk",
+        "locationTypes": [
+            {
+                "locationType": "ssb"
+            }
+        ],
+        "services": [
+            {
+                "service": "show-all-results"
+            }
+        ],
+        "cLat": 22.265173537171332,
+        "cLng": 114.06480540658572,
+        "bottomLeftLat": 22.221075452784145,
+        "bottomLeftLng": 113.99614085580447,
+        "topRightLat": 22.30927162155852,
+        "topRightLng": 114.13346995736697
+    }
+},
+{
+    "responseInfo": {
+        "reasons": [],
+        "correlationId": null
+    },
+    "localFields": null,
+    "extensions": [],
+    "exceedMaximum": false,
+    "systemTime": null,
+    "results": [
+        {
+            "name": "坪洲分行",
+            "locationId": "117.0",
+            "type": "branchssb",
+            "addInfo": {
+                "callOutText": "24小時自動櫃員機服務",
+                "institution": null,
+                "landMark": null,
+                "imageName": null
+            },
+            "facilities": [
+                {
+                    "facility": "分行"
+                },
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "坪洲永興街1-3號",
+                "line2": null,
+                "line3": null,
+                "city": "離島區",
+                "prov": null,
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.284411",
+                "lng": "114.038596"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "08:30 - 16:15",
+                    "tuesday": "-",
+                    "wednesday": "08:30 - 16:15",
+                    "thursday": "-",
+                    "friday": "08:30 - 16:15",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "08:30 - 16:15",
+                    "tuesday": "-",
+                    "wednesday": "08:30 - 16:15",
+                    "thursday": "-",
+                    "friday": "08:30 - 16:15",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "todayOpenHours": "08:30 - 16:15"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "外幣兌換服務"
+                },
+                {
+                    "service": "匯豐卓越理財服務櫃檯"
+                },
+                {
+                    "service": "網上理財服務"
+                },
+                {
+                    "service": "更新存摺簿交易資料"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "傳真",
+                    "value": "(852) 3418 8841"
+                },
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "3.44 公里"
+        },
+        {
+            "name": "愉景灣分行",
+            "locationId": "571.0",
+            "type": "branchssb",
+            "addInfo": {
+                "callOutText": "24小時自動櫃員機服務",
+                "institution": null,
+                "landMark": null,
+                "imageName": null
+            },
+            "facilities": [
+                {
+                    "facility": "分行"
+                },
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "大嶼山愉景灣愉景廣場地下G15A, 12D 及 G13 號舖",
+                "line2": null,
+                "line3": null,
+                "city": "離島區",
+                "prov": null,
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.296396",
+                "lng": "114.016905"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "09:00 - 16:30",
+                    "tuesday": "09:00 - 16:30",
+                    "wednesday": "09:00 - 16:30",
+                    "thursday": "09:00 - 16:30",
+                    "friday": "09:00 - 17:00",
+                    "saturday": "09:00 - 13:00",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "09:00 - 16:30",
+                    "tuesday": "09:00 - 16:30",
+                    "wednesday": "09:00 - 16:30",
+                    "thursday": "09:00 - 16:30",
+                    "friday": "09:00 - 17:00",
+                    "saturday": "09:00 - 13:00",
+                    "sunday": "-"
+                },
+                "todayOpenHours": "09:00 - 17:00"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "外幣兌換服務"
+                },
+                {
+                    "service": "匯豐卓越理財服務櫃檯"
+                },
+                {
+                    "service": "網上理財服務"
+                },
+                {
+                    "service": "輪椅通道 (分行)"
+                },
+                {
+                    "service": "更新存摺簿交易資料"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "傳真",
+                    "value": "(852) 3418 8839"
+                },
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "6.02 公里"
+        },
+        {
+            "name": "榕樹灣分行",
+            "locationId": "161.0",
+            "type": "branchssb",
+            "addInfo": {
+                "callOutText": "24小時自動櫃員機服務",
+                "institution": null,
+                "landMark": null,
+                "imageName": null
+            },
+            "facilities": [
+                {
+                    "facility": "分行"
+                },
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "南丫島榕樹灣大街19號",
+                "line2": null,
+                "line3": null,
+                "city": "離島區",
+                "prov": null,
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.226625",
+                "lng": "114.111429"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "08:30 - 16:15",
+                    "wednesday": "-",
+                    "thursday": "08:30 - 16:15",
+                    "friday": "08:30 - 16:15",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "-",
+                    "tuesday": "08:30 - 16:15",
+                    "wednesday": "-",
+                    "thursday": "08:30 - 16:15",
+                    "friday": "08:30 - 16:15",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "todayOpenHours": "08:30 - 16:15"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "外幣兌換服務"
+                },
+                {
+                    "service": "匯豐卓越理財服務櫃檯"
+                },
+                {
+                    "service": "網上理財服務"
+                },
+                {
+                    "service": "更新存摺簿交易資料"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "傳真",
+                    "value": "(852) 3418 8843"
+                },
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "6.43 公里"
+        },
+        {
+            "name": "梅窩分行",
+            "locationId": "066",
+            "type": "branchssb",
+            "addInfo": {
+                "callOutText": "24小時自動櫃員機服務",
+                "institution": null,
+                "landMark": null,
+                "imageName": null
+            },
+            "facilities": [
+                {
+                    "facility": "分行"
+                },
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "大嶼山銀礦灣4號",
+                "line2": null,
+                "line3": null,
+                "city": "離島區",
+                "prov": null,
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.264907",
+                "lng": "114.000674"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "08:30 - 16:15",
+                    "tuesday": "08:30 - 16:15",
+                    "wednesday": "-",
+                    "thursday": "08:30 - 16:15",
+                    "friday": "08:30 - 16:15",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "08:30 - 16:15",
+                    "tuesday": "08:30 - 16:15",
+                    "wednesday": "-",
+                    "thursday": "08:30 - 16:15",
+                    "friday": "08:30 - 16:15",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "todayOpenHours": "08:30 - 16:15"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "外幣兌換服務"
+                },
+                {
+                    "service": "匯豐卓越理財服務櫃檯"
+                },
+                {
+                    "service": "網上理財服務"
+                },
+                {
+                    "service": "保險箱服務"
+                },
+                {
+                    "service": "更新存摺簿交易資料"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "傳真",
+                    "value": "(852) 3418 8847"
+                },
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "6.59 公里"
+        },
+        {
+            "name": "堅尼地城理財易中心",
+            "locationId": "008-04501",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "香港西環卑路乍街144-148號金豪閣地下2C-2D號舖",
+                "line2": null,
+                "line3": null,
+                "city": "中西區",
+                "prov": "香港島",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.28225",
+                "lng": "114.12676"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                },
+                {
+                    "service": "現金存款"
+                },
+                {
+                    "service": "更新存摺簿交易資料"
+                },
+                {
+                    "service": "支票存款"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "6.65 公里"
+        },
+        {
+            "name": "數碼港理財易中心",
+            "locationId": "068-04502",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "香港薄扶林數碼港道100 號商場3樓5號舖",
+                "line2": null,
+                "line3": null,
+                "city": "南區",
+                "prov": "香港島",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.26069",
+                "lng": "114.12976"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "09:00 - 21:00",
+                    "tuesday": "09:00 - 21:00",
+                    "wednesday": "09:00 - 21:00",
+                    "thursday": "09:00 - 21:00",
+                    "friday": "09:00 - 21:00",
+                    "saturday": "09:00 - 21:00",
+                    "sunday": "09:00 - 21:00"
+                },
+                "todayOpenHours": "09:00 - 21:00"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "6.7 公里"
+        },
+        {
+            "name": "瑪麗醫院理財易中心",
+            "locationId": "068-04506",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "香港薄扶林道瑪麗醫院A翼大堂入口",
+                "line2": null,
+                "line3": null,
+                "city": "南區",
+                "prov": "香港島",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.27054",
+                "lng": "114.131"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "6.83 公里"
+        },
+        {
+            "name": "西寶城理財易中心",
+            "locationId": "008-04502",
+            "type": "ssb",
+            "addInfo": {
+                "callOutText": "入票易將於2015年8月1日暫停服務",
+                "institution": null,
+                "landMark": null,
+                "imageName": null
+            },
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "香港西環卑路乍街8號西寶城地下低層1-3 號舖",
+                "line2": null,
+                "line3": null,
+                "city": "中西區",
+                "prov": "香港島",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.285014",
+                "lng": "114.133132"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                },
+                {
+                    "service": "現金存款"
+                },
+                {
+                    "service": "更新存摺簿交易資料"
+                },
+                {
+                    "service": "支票存款"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "7.36 公里"
+        }
+    ]
+}

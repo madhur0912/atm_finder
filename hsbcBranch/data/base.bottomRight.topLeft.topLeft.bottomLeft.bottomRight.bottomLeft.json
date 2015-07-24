@@ -1,0 +1,792 @@
+{
+    "url": "https://www.hsbc.com.hk/gpib/channel/proxy/abslSvc/enqBranchABSL",
+    "method": "POST",
+    "json": true,
+    "headers": {
+        "content-type": "application/json"
+    },
+    "body": {
+        "countryCode": "HK",
+        "locale": "zh-hk",
+        "locationTypes": [
+            {
+                "locationType": "ssb"
+            }
+        ],
+        "services": [
+            {
+                "service": "show-all-results"
+            }
+        ],
+        "cLat": 22.314783882106916,
+        "cLng": 114.17638530160525,
+        "bottomLeftLat": 22.30927162155852,
+        "bottomLeftLng": 114.1678022327576,
+        "topRightLat": 22.320296142655316,
+        "topRightLng": 114.1849683704529
+    }
+},
+{
+    "responseInfo": {
+        "reasons": [],
+        "correlationId": null
+    },
+    "localFields": null,
+    "extensions": [],
+    "exceedMaximum": false,
+    "systemTime": null,
+    "results": [
+        {
+            "name": "愛民理財易中心",
+            "locationId": "017-04503",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "九龍愛民邨愛民商場1樓F23A號舖",
+                "line2": null,
+                "line3": null,
+                "city": "九龍城",
+                "prov": "九龍",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.31214",
+                "lng": "114.17867"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "06:00 - 00:00",
+                    "tuesday": "06:00 - 00:00",
+                    "wednesday": "06:00 - 00:00",
+                    "thursday": "06:00 - 00:00",
+                    "friday": "06:00 - 00:00",
+                    "saturday": "06:00 - 00:00",
+                    "sunday": "06:00 - 00:00"
+                },
+                "todayOpenHours": "06:00 - 00:00"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "0.37 公里"
+        },
+        {
+            "name": "窩打老道分行",
+            "locationId": "017",
+            "type": "branchssb",
+            "addInfo": {
+                "callOutText": "24小時自動櫃員機服務",
+                "institution": null,
+                "landMark": null,
+                "imageName": null
+            },
+            "facilities": [
+                {
+                    "facility": "分行"
+                },
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "九龍何文田窩打老道71號",
+                "line2": null,
+                "line3": null,
+                "city": "九龍城區",
+                "prov": "九龍",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.31881",
+                "lng": "114.175453"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "09:00 - 16:30",
+                    "tuesday": "09:00 - 16:30",
+                    "wednesday": "09:00 - 16:30",
+                    "thursday": "09:00 - 16:30",
+                    "friday": "09:00 - 17:00",
+                    "saturday": "09:00 - 13:00",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "09:00 - 16:30",
+                    "tuesday": "09:00 - 16:30",
+                    "wednesday": "09:00 - 16:30",
+                    "thursday": "09:00 - 16:30",
+                    "friday": "09:00 - 17:00",
+                    "saturday": "09:00 - 13:00",
+                    "sunday": "-"
+                },
+                "todayOpenHours": "09:00 - 17:00"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "外幣兌換服務"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                },
+                {
+                    "service": "現金存款"
+                },
+                {
+                    "service": "網上理財服務"
+                },
+                {
+                    "service": "輪椅通道 (分行)"
+                },
+                {
+                    "service": "更新存摺簿交易資料"
+                },
+                {
+                    "service": "匯豐運籌理財服務櫃檯"
+                },
+                {
+                    "service": "支票存款"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "傳真",
+                    "value": "(852) 3418 8802"
+                },
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "0.45 公里"
+        },
+        {
+            "name": "房屋委員會理財易中心",
+            "locationId": "017-04501",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "九龍何文田佛光街33號香港房屋委員會總辦事處地下",
+                "line2": null,
+                "line3": null,
+                "city": "九龍城",
+                "prov": "九龍",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.3157",
+                "lng": "114.18103"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "0.48 公里"
+        },
+        {
+            "name": "豉油街(7-Eleven)自動櫃員機",
+            "locationId": "001-04510",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "九龍旺角豉油街60-140號鴻都大廈地下16號舖",
+                "line2": null,
+                "line3": null,
+                "city": "油尖旺",
+                "prov": "九龍",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.316942",
+                "lng": "114.171765"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款 (港幣及人民幣)"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "0.53 公里"
+        },
+        {
+            "name": "何文田理財易中心",
+            "locationId": "017-04504",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "九龍何文田何文田廣場2樓219號舖",
+                "line2": null,
+                "line3": null,
+                "city": "九龍城",
+                "prov": "九龍",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.31631",
+                "lng": "114.18186"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "06:00 - 00:00",
+                    "tuesday": "06:00 - 00:00",
+                    "wednesday": "06:00 - 00:00",
+                    "thursday": "06:00 - 00:00",
+                    "friday": "06:00 - 00:00",
+                    "saturday": "06:00 - 00:00",
+                    "sunday": "06:00 - 00:00"
+                },
+                "todayOpenHours": "06:00 - 00:00"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                },
+                {
+                    "service": "現金存款"
+                },
+                {
+                    "service": "更新存摺簿交易資料"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "0.58 公里"
+        },
+        {
+            "name": "康祐大廈理財易中心",
+            "locationId": "001-04509",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "九龍油麻地彌敦道528號康祐大廈地下",
+                "line2": null,
+                "line3": null,
+                "city": "油尖旺",
+                "prov": "九龍",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.31321",
+                "lng": "114.17087"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                },
+                {
+                    "service": "現金存款"
+                },
+                {
+                    "service": "更新存摺簿交易資料"
+                },
+                {
+                    "service": "支票存款"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "0.59 公里"
+        },
+        {
+            "name": "山東街50號理財易中心",
+            "locationId": "001-04511",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "九龍旺角山東街50號地下B舖",
+                "line2": null,
+                "line3": null,
+                "city": "油尖旺",
+                "prov": "九龍",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.317776",
+                "lng": "114.171325"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                },
+                {
+                    "service": "現金提款 (港幣及人民幣)"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "0.61 公里"
+        },
+        {
+            "name": "伊利沙伯醫院理財易中心",
+            "locationId": "127-04502",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "九龍加士居道依利沙伯醫院西翼地下",
+                "line2": null,
+                "line3": null,
+                "city": "油尖旺",
+                "prov": "九龍",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.30947",
+                "lng": "114.1748"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "0.61 公里"
+        },
+        {
+            "name": "通菜街(7-Eleven) 自動櫃員機",
+            "locationId": "001-04504",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "九龍旺角通菜街81 號地下 7-Eleven便利店",
+                "line2": null,
+                "line3": null,
+                "city": "油尖旺",
+                "prov": "九龍",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.31899",
+                "lng": "114.17048"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "00:00 - 23:59",
+                    "tuesday": "00:00 - 23:59",
+                    "wednesday": "00:00 - 23:59",
+                    "thursday": "00:00 - 23:59",
+                    "friday": "00:00 - 23:59",
+                    "saturday": "00:00 - 23:59",
+                    "sunday": "00:00 - 23:59"
+                },
+                "todayOpenHours": "00:00 - 23:59"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "0.76 公里"
+        },
+        {
+            "name": "旺角理財易中心",
+            "locationId": "001-04506",
+            "type": "ssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "九龍旺角彌敦道673號低層地下",
+                "line2": null,
+                "line3": null,
+                "city": "油尖旺",
+                "prov": "九龍",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.31883",
+                "lng": "114.16925"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "06:00 - 00:00",
+                    "tuesday": "06:00 - 00:00",
+                    "wednesday": "06:00 - 00:00",
+                    "thursday": "06:00 - 00:00",
+                    "friday": "06:00 - 00:00",
+                    "saturday": "06:00 - 00:00",
+                    "sunday": "06:00 - 00:00"
+                },
+                "todayOpenHours": "06:00 - 00:00"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "輪椅通道 (自動櫃員機)"
+                },
+                {
+                    "service": "現金存款"
+                },
+                {
+                    "service": "外幣現金提款"
+                },
+                {
+                    "service": "禮券銷售"
+                },
+                {
+                    "service": "更新存摺簿交易資料"
+                },
+                {
+                    "service": "支票存款"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "0.86 公里"
+        },
+        {
+            "name": "旺角商業客戶服務中心",
+            "locationId": "537.0",
+            "type": "ctcssb",
+            "addInfo": null,
+            "facilities": [
+                {
+                    "facility": "工商專用服務"
+                },
+                {
+                    "facility": "理財易中心"
+                }
+            ],
+            "address": {
+                "addrFrmtTyp": null,
+                "line1": "九龍旺角彌敦道673號2樓",
+                "line2": null,
+                "line3": null,
+                "city": "油尖旺區",
+                "prov": "九龍",
+                "postalCde": null,
+                "ctryCde": "香港特別行政區",
+                "line4": null,
+                "lat": "22.31891",
+                "lng": "114.169163"
+            },
+            "workHrs": {
+                "lobby": {
+                    "monday": "09:00 - 17:00",
+                    "tuesday": "09:00 - 17:00",
+                    "wednesday": "09:00 - 17:00",
+                    "thursday": "09:00 - 17:00",
+                    "friday": "09:00 - 17:00",
+                    "saturday": "09:00 - 13:00",
+                    "sunday": "-"
+                },
+                "driveThru": {
+                    "monday": "-",
+                    "tuesday": "-",
+                    "wednesday": "-",
+                    "thursday": "-",
+                    "friday": "-",
+                    "saturday": "-",
+                    "sunday": "-"
+                },
+                "todayOpenHours": "09:00 - 17:00"
+            },
+            "services": [
+                {
+                    "service": "現金提款"
+                },
+                {
+                    "service": "外幣兌換服務"
+                },
+                {
+                    "service": "現金存款"
+                },
+                {
+                    "service": "輪椅通道 (分行)"
+                },
+                {
+                    "service": "工商金融服務櫃檯"
+                },
+                {
+                    "service": "支票存款"
+                },
+                {
+                    "service": "延長服務時間"
+                }
+            ],
+            "contacts": [
+                {
+                    "type": null,
+                    "name": "電話",
+                    "value": "(+852) 2233 3000"
+                }
+            ],
+            "email": null,
+            "distance": "0.87 公里"
+        }
+    ]
+}

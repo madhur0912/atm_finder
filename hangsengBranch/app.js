@@ -171,7 +171,8 @@ request.get({
   if (error) {
     console.log('error: ' + error);
   }
-  //console.log(body);
+
+  fs.writeFileSync('./raw.txt', body, 'utf-8');
 
   var $ = cheerio.load(body);
   var text = $('script').text();
