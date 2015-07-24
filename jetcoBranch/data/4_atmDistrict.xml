@@ -1,0 +1,20 @@
+<!-- http://www.jetco.com.hk/tc/xml/atm/4_atmDistrict.xml-->
+<?xml version="1.0" encoding="UTF-8"?>
+<xml_msg query="language=tc,area=4">
+<atm_districts area_id="4">
+<atm_district>
+<district_id>69</district_id>
+<option_tc>長洲</option_tc>
+<latitude>22.2016179</latitude>
+<longitude>114.0265007</longitude>
+<zoom_level>15</zoom_level>
+</atm_district>
+<atm_district>
+<district_id>70</district_id>
+<option_tc>大嶼山</option_tc>
+<latitude>22.2894</latitude>
+<longitude>113.9415</longitude>
+<zoom_level>15</zoom_level>
+</atm_district>
+</atm_districts>
+</xml_msg>

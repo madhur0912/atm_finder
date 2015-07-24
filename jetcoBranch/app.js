@@ -1,150 +1,195 @@
-// example link
-// http://www.jetco.com.hk/tc/xml/atm/2_1_10_0_atmDetails.xml
+'use strict';
 
-var http = require('http');
+/**
+ * Download all Jetco ATM infos, parse it and save to branches.json
+ *
+ * Example link:
+ * http://www.jetco.com.hk/tc/xml/atm/2_1_10_0_atmDetails.xml
+ * Please take a look at the HTML structure before reading the code.
+ */
+var Promise = require('bluebird');
 var fs = require('fs');
-var cheerio = require('cheerio');
+var $ = require('cheerio');
 var request = require('request');
 
-var url = 'http://www.jetco.com.hk/tc/xml/atm/';
-
-// Hong Kong Region number = 2
+var dataDir = './data/';
+var baseURL = 'http://www.jetco.com.hk/tc/xml/atm/';
 var areaPath = '2_atmArea.xml';
 var districtPath = 'AREA.ID_atmDistrict.xml';
 var detailPath = '2_AREA.ID_DISTRICT.ID_0_atmDetails.xml';
 
-var branches = [];
-var banks = [];
+// Area Object
+function Area(area_id, district_ids) {
+  this.area_id = area_id;
+  this.district_ids = district_ids;
+}
 
-var area_id_count = 0;
-var district_id_count = 0;
+// Branch Object
+function Branch(atm) {
+  this.atm_type = 'jetco';
+  this.name = $(atm).find('ob_name').text();
+  this.bank_type = this.name.substring(0, this.name.indexOf('銀行') + 2);
+  this.area = $(atm).find('aarea').text();
+  this.district = $(atm).find('district').text();
+  this.address = $(atm).find('addr').text();
+  this.service = $(atm).find('supp_tran').text().trim();
+  this.detail = null;
+  this.atm24 = true;
+  this.lat = parseFloat($(atm).find('latitude').text());
+  this.lng = parseFloat($(atm).find('longitude').text());
+  this.workHrs = null;
+}
 
-// Get area_ids, return to the callback
-var getAreaIds = function(callback) {
-  request.get({
-      url: url + areaPath
-    },
-    function(error, response, body) {
-      if (error) {
-        callback(error);
-      }
-
-      var $ = cheerio.load(body);
-
-      var area_ids_node = $('atm_areas').find('area_id');
-      var area_ids = [];
-      for (var i = 0; i < area_ids_node.length; i++) {
-        console.log(i + ' = ' + $(area_ids_node[i]).text());
-        area_ids.push($(area_ids_node[i]).text());
-      };
-
-      callback(error, area_ids);
-    }
-  );
+// Function to flatten an array
+var flattenArray = function(array) {
+  return [].concat.apply([], array);
 };
 
-// Input area_id, return district_ids to callback
-var getDistrictIds = function(area_id, callback) {
-  request.get({
-      url: url + districtPath.replace('AREA.ID', area_id)
-    },
-    function(error, response, body) {
-      if (error) {
-        callback(error);
-      }
-      // console.log(body);
+// Return Promise of array of area_id
+var getAreaIds = function() {
+  return new Promise(function(resolve, reject) {
+    var currentURL = baseURL + areaPath;
 
-      var $ = cheerio.load(body);
+    // Start the request
+    request
+      .get(currentURL, function(error, response, body) {
 
-      //console.log('AREA ID = ' + area_id + '\n');
+        // Save the response body
+        saveResponseBody(areaPath, currentURL, body);
 
-      var district_ids_node = $('atm_districts').find('district_id');
-      var district_ids = [];
-      for (var i = 0; i < district_ids_node.length; i++) {
-        district_ids.push($(district_ids_node[i]).text());
-      };
+        // Use cheerio to find all <area_id>
+        var area_ids = [];
+        $(body).find('atm_areas').find('area_id').map(function(index, element) {
+          area_ids.push($(element).text());
+        });
 
-      callback(error, area_id, district_ids);
-    }
-  );
-}
-
-// Input area_id and district_id, return atms to callback
-var getDetails = function(area_id, district_id, callback) {
-  var currentURL = url + detailPath.replace('AREA.ID', area_id).replace('DISTRICT.ID', district_id);
-
-  request.get({
-      url: currentURL
-    },
-    function(error, response, body) {
-      if (error) {
-        callback(error);
-      }
-
-      var $ = cheerio.load(body.replace(/area/g, 'aarea'));
-
-      var atms = $('atms').find('atm');
-
-      var results = [];
-
-      //console.log('ARRAY! = ' + atms.length);
-
-      for (var i = 0; i < atms.length; i++) {
-        //console.log($(atms[i]).find('ob_name').text() + ' ' + $(atms[i]).find('addr').text());
-
-        var name = $(atms[i]).find('ob_name').text();
-        var serviceString = $(atms[i]).find('supp_tran').text();
-
-        var branch = {
-          atm_type: 'jetco',
-          bank_type: name.substring(0, name.indexOf('銀行') + 2),
-          name: $(atms[i]).find('ob_name').text(),
-          area: $(atms[i]).find('aarea').text(),
-          district: $(atms[i]).find('district').text(),
-          address: $(atms[i]).find('addr').text(),
-          service: serviceString.trim(),
-          detail: null,
-          atm24: true,
-          lat: $(atms[i]).find('latitude').text(),
-          lng: $(atms[i]).find('longitude').text(),
-          workHrs: null
-        };
-
-        if (banks.indexOf(branch.bank_type) === -1) {
-          banks.push(branch.bank_type);
-        };
-
-        results.push(branch);
-      };
-
-      callback(null, results);
-    }
-  );
-}
-
-getAreaIds(function(err, area_ids) {
-  area_id_count = area_ids.length;
-  if (err) {
-    console.log(err);
-  } else {
-    for (var i = 0; i < area_ids.length; i++) {
-      getDistrictIds(area_ids[i], function(err, area_id, district_ids) {
-        area_id_count--;
-        district_id_count += district_ids.length;
-        for (var j = 0; j < district_ids.length; j++) {
-          console.log('GO! ' + area_id + '_' + district_ids[j]);
-          getDetails(area_id, district_ids[j], function(err, atms) {
-            district_id_count--;
-            branches = branches.concat(atms);
-
-            if (area_id_count === 0 && district_id_count === 0) {
-              console.log(branches);
-              console.log(banks);
-              fs.writeFileSync('./branches.json', JSON.stringify(branches, 0, 4), 'utf-8');
-            };
-          })
-        };
+        // Resolve it
+        resolve(area_ids);
       })
-    };
+      .on('error', function(error) {
+
+        // Error
+        reject(error);
+      });
+  });
+};
+
+// Input array of area_id, return array of Area Objects
+var getAllDistrictIds = function(area_ids) {
+  return Promise.map(area_ids, getDistrictIdsFromArea);
+};
+
+// Input area_id, return the Promise of Area Object
+var getDistrictIdsFromArea = function(area_id) {
+  return new Promise(function(resolve, reject) {
+
+    // Setup the URL
+    var currentDistrictPath = districtPath.replace('AREA.ID', area_id);
+    var currentURL = baseURL + currentDistrictPath;
+
+    // Start the request
+    request
+      .get(currentURL, function(error, response, body) {
+
+        // Save the response body
+        saveResponseBody(currentDistrictPath, currentURL, body);
+
+        // Use cheerio to find all <district_id>
+        var district_ids = [];
+        $(body).find('atm_districts').find('district_id').map(function(index, element) {
+          district_ids.push($(element).text());
+        });
+
+        // Resolve it
+        resolve(new Area(area_id, district_ids));
+      })
+      .on('error', function(error) {
+
+        // Error
+        reject(error);
+      });
+  });
+};
+
+// Input array of Area Objects, return Promise of array of all branches
+var getAllBranches = function(areas) {
+
+  // For each area, 
+  return Promise.map(areas, function(area) {
+
+    // For each district,
+    return Promise.map(area.district_ids, function(district_id) {
+
+      // Return the Promise of array of branches
+      return getBranchesWithAreaAndDistricts(area.area_id, district_id);
+    }).then(flattenArray);
+  }).then(flattenArray);
+};
+
+// Input area_id and district_id, return Promise of array of branches
+var getBranchesWithAreaAndDistricts = function(area_id, district_id) {
+  return new Promise(function(resolve, reject) {
+    var currentDetailPath = detailPath.replace('AREA.ID', area_id).replace('DISTRICT.ID', district_id);
+    var currentURL = baseURL + currentDetailPath;
+    // Start the request
+    request
+      .get(currentURL, function(error, response, body) {
+
+        // Save the response body
+        saveResponseBody(currentDetailPath, currentURL, body);
+
+        // Replace 'area' with 'aarea' in body,
+        // since cheerio cannot find <area>
+        body = body.replace(/area/g, 'aarea');
+
+        // Use cheerio to find all <atm>
+        var atms = $(body).find('atms').find('atm');
+
+        // Format all branches in this district
+        var branchesInDistrict = [];
+        for (var i = 0; i < atms.length; i++) {
+
+          // Add branch to branchesInDistrict
+          branchesInDistrict.push(new Branch(atms[i]));
+        }
+
+        // Resolve it
+        resolve(branchesInDistrict);
+      })
+      .on('error', function(error) {
+        // Error
+        reject(error);
+      });
+  });
+};
+
+// Save response body
+var saveResponseBody = function(filename, url, body) {
+  body = '<!-- ' + url + '-->\n' + body;
+  if (!fs.existsSync(dataDir)) {
+    fs.mkdirSync(dataDir);
   }
+  fs.writeFileSync(dataDir + filename, body, 'utf-8');
+
+  console.log('Save ' + filename + ' success!');
+};
+
+// Start the promise
+Promise
+// Get an array of area_ids
+.try(getAreaIds)
+// Input area_ids, return array of Area Objects
+.then(getAllDistrictIds)
+// Input array of Area Objects, return array of Branch Objects
+.then(getAllBranches)
+// Save to json
+.then(function(branches) {
+  //console.log(JSON.stringify(branches, 0, 4));
+  fs.writeFileSync('./branches.json', JSON.stringify(branches, 0, 4), 'utf-8');
+  console.log('Save branches.json success!');
+  console.log('Finish.');
 })
+// Error handler
+.catch(function(error) {
+  console.log(error);
+});

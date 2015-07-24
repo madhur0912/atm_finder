@@ -1,0 +1,1456 @@
+<!-- http://www.jetco.com.hk/tc/xml/atm/2_2_28_0_atmDetails.xml-->
+<?xml version="1.0" encoding="UTF-8"?>
+<xml_msg query="region=2,area=2,district=28,transaction=0">
+<supp_cb/>
+<atms>
+<atm id="991">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>渣打銀行(香港)有限公司</ob_name>
+<addr>觀塘觀塘道378號怡和科技中心1樓</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.314304263822805</latitude>
+<longitude>114.22027230262756</longitude>
+</atm>
+<atm id="988">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>渣打銀行(香港)有限公司</ob_name>
+<addr>九龍觀塘道414號地下及1樓</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.31408094199348</latitude>
+<longitude>114.22365725040436</longitude>
+</atm>
+<atm id="989">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>渣打銀行(香港)有限公司</ob_name>
+<addr>九龍觀塘道414號地下及1樓</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.314085904704676</latitude>
+<longitude>114.22365188598633</longitude>
+</atm>
+<atm id="993">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>渣打銀行(香港)有限公司</ob_name>
+<addr>觀塘觀塘道388號渣打中心地下5A單位</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.313803029884756</latitude>
+<longitude>114.22144711017609</longitude>
+</atm>
+<atm id="994">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>渣打銀行(香港)有限公司</ob_name>
+<addr>觀塘開源道63號福昌大廈地下</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.310616926540913</latitude>
+<longitude>114.22482669353485</longitude>
+</atm>
+<atm id="995">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>渣打銀行(香港)有限公司</ob_name>
+<addr>觀塘開源道63號福昌大廈地下</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.310631815043383</latitude>
+<longitude>114.22482669353485</longitude>
+</atm>
+<atm id="992">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>渣打銀行(香港)有限公司</ob_name>
+<addr>觀塘觀塘道388號渣打中心地下5A單位</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.313874989323136</latitude>
+<longitude>114.2215034365654</longitude>
+</atm>
+<atm id="990">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>渣打銀行(香港)有限公司</ob_name>
+<addr>九龍觀塘道414號地下及1樓</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.314061091146925</latitude>
+<longitude>114.22365188598633</longitude>
+</atm>
+<atm id="960">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>中國建設銀行(亞洲)股份有限公司</ob_name>
+<addr>觀塘地鐵開源道56號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>銀聯</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.309959349431946</latitude>
+<longitude>114.22421246767044</longitude>
+</atm>
+<atm id="20065">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>中國建設銀行(亞洲)股份有限公司</ob_name>
+<addr>觀塘協和街</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.317180120789992</latitude>
+<longitude>114.22659695148468</longitude>
+</atm>
+<atm id="949">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>中國銀行(香港)有限公司</ob_name>
+<addr>九龍觀塘協和街195-197號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.316934471818925</latitude>
+<longitude>114.22647356987</longitude>
+</atm>
+<atm id="950">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>中國銀行(香港)有限公司</ob_name>
+<addr>觀塘開源道68號觀塘廣場G1</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.31116780007476</latitude>
+<longitude>114.22590494155884</longitude>
+</atm>
+<atm id="951">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>中國銀行(香港)有限公司</ob_name>
+<addr>觀塘開源道68號觀塘廣場G1</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.311162837259825</latitude>
+<longitude>114.22593712806702</longitude>
+</atm>
+<atm id="952">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>中國銀行(香港)有限公司</ob_name>
+<addr>觀塘開源道55號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.310190122128553</latitude>
+<longitude>114.22421783208847</longitude>
+</atm>
+<atm id="953">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>中國銀行(香港)有限公司</ob_name>
+<addr>觀塘開源道55號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.310187640703735</latitude>
+<longitude>114.22423660755157</longitude>
+</atm>
+<atm id="954">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>中國銀行(香港)有限公司</ob_name>
+<addr>九龍觀塘開源道55號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.3101525</latitude>
+<longitude>114.2242349</longitude>
+</atm>
+<atm id="12356">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>中國銀行(香港)有限公司</ob_name>
+<addr>觀塘秀茂坪﹝南﹞村秀善樓地下房屋邨辦事處外面的公共地方ATM位置</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.315128070147995</latitude>
+<longitude>114.23482596874237</longitude>
+</atm>
+<atm id="14888">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>中國銀行(香港)有限公司</ob_name>
+<addr>九龍觀塘輔仁街 26-32 號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.3152642</latitude>
+<longitude>114.2241385</longitude>
+</atm>
+<atm id="14889">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>中國銀行(香港)有限公司</ob_name>
+<addr>九龍觀塘輔仁街 26-32 號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.31542210827655</latitude>
+<longitude>114.22408774495125</longitude>
+</atm>
+<atm id="14899">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>中國銀行(香港)有限公司</ob_name>
+<addr>九龍觀塘翠屏邨商場二樓116號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.315887357214656</latitude>
+<longitude>114.22960638999939</longitude>
+</atm>
+<atm id="14900">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>中國銀行(香港)有限公司</ob_name>
+<addr>九龍觀塘翠屏邨商場二樓116號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.31600646069352</latitude>
+<longitude>114.22960102558136</longitude>
+</atm>
+<atm id="66142">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>中國銀行(香港)有限公司</ob_name>
+<addr>觀塘彩褔村彩喜樓1樓位置</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.327291054276404</latitude>
+<longitude>114.21680688858032</longitude>
+</atm>
+<atm id="137822">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>中國銀行(香港)有限公司</ob_name>
+<addr>九龍觀塘開源道68號觀塘廣場G1</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.3111987</latitude>
+<longitude>114.22600060000002</longitude>
+</atm>
+<atm id="957">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>中國銀行(香港)有限公司</ob_name>
+<addr>觀塘秀茂坪商場214號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.31969</latitude>
+<longitude>114.231951</longitude>
+</atm>
+<atm id="958">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>中國銀行(香港)有限公司</ob_name>
+<addr>觀塘秀茂坪商場214號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.319639067979555</latitude>
+<longitude>114.23208475112915</longitude>
+</atm>
+<atm id="959">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>中國銀行(香港)有限公司</ob_name>
+<addr>觀塘港鐵站</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.3122633</latitude>
+<longitude>114.2264356</longitude>
+</atm>
+<atm id="939">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>東亞銀行有限公司</ob_name>
+<addr>觀塘康寧道7號地下</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.313651666807115</latitude>
+<longitude>114.2232871055603</longitude>
+</atm>
+<atm id="940">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>東亞銀行有限公司</ob_name>
+<addr>觀塘開源道54號豐利中心地下1號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.309678947685207</latitude>
+<longitude>114.22383159399033</longitude>
+</atm>
+<atm id="134762">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>東亞銀行有限公司</ob_name>
+<addr>觀塘開源道54號豐利中心地下1號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.3095383</latitude>
+<longitude>114.22409659999994</longitude>
+</atm>
+<atm id="941">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>東亞銀行有限公司</ob_name>
+<addr>觀塘麗港城商場地下38號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.306904677050486</latitude>
+<longitude>114.22813653945923</longitude>
+</atm>
+<atm id="9800">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>東亞銀行有限公司</ob_name>
+<addr>九龍觀塘麗港城商場地下38號 </addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.306942</latitude>
+<longitude>114.228015</longitude>
+</atm>
+<atm id="942">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>東亞銀行有限公司</ob_name>
+<addr>觀塘觀塘道418號創紀之城五期地下1號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.312527604718916</latitude>
+<longitude>114.22519147396088</longitude>
+</atm>
+<atm id="68940">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>東亞銀行有限公司</ob_name>
+<addr>九龍官塘秀明道101號秀茂坪商場2樓自動櫃員機 4號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.319381017029574</latitude>
+<longitude>114.23204183578491</longitude>
+</atm>
+<atm id="71761">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>東亞銀行有限公司</ob_name>
+<addr>九龍觀塘順利商場平台自動櫃員機 2號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.331383</latitude>
+<longitude>114.225617</longitude>
+</atm>
+<atm id="943">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>東亞銀行有限公司</ob_name>
+<addr>觀塘觀塘道418號創紀之城五期大堂高層UC-36舖對出</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.312468051508155</latitude>
+<longitude>114.22518074512482</longitude>
+</atm>
+<atm id="944">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>東亞銀行有限公司</ob_name>
+<addr>觀塘觀塘道418號創紀之城五期大堂高層UC-36舖對出</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.312520160568955</latitude>
+<longitude>114.22508150339127</longitude>
+</atm>
+<atm id="945">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>東亞銀行有限公司</ob_name>
+<addr>觀塘秀茂坪寶達邨商場地下9號舖對出自動扶手電梯下</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.317286816673054</latitude>
+<longitude>114.23632800579071</longitude>
+</atm>
+<atm id="946">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>東亞銀行有限公司</ob_name>
+<addr>觀塘曉麗苑曉麗商場出入口對出近209A號舖</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.320671267008155</latitude>
+<longitude>114.22946691513062</longitude>
+</atm>
+<atm id="2405">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>東亞銀行有限公司</ob_name>
+<addr>觀塘協和街130號基教聯合醫院S座地下入口側</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.323359</latitude>
+<longitude>114.22703</longitude>
+</atm>
+<atm id="970">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>星展銀行(香港)有限公司</ob_name>
+<addr>觀塘開源道54號豐利中心地下2號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.309634281868238</latitude>
+<longitude>114.22388255596161</longitude>
+</atm>
+<atm id="971">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>星展銀行(香港)有限公司</ob_name>
+<addr>觀塘開源道54號豐利中心地下2號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.309661577646967</latitude>
+<longitude>114.2238637804985</longitude>
+</atm>
+<atm id="972">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>星展銀行(香港)有限公司</ob_name>
+<addr>觀塘地鐵開源道54號豐利中心地下2號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.309624356129202</latitude>
+<longitude>114.22385573387146</longitude>
+</atm>
+<atm id="41416">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>星展銀行(香港)有限公司</ob_name>
+<addr>九龍官塘偉業街223-231號宏利金融中心一樓</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.307758304654534</latitude>
+<longitude>114.22355532646179</longitude>
+</atm>
+<atm id="961">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>中信銀行(國際)有限公司</ob_name>
+<addr>觀塘牛頭角道300-302號裕民中心地下4至6號舖</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>銀聯</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.314636764551196</latitude>
+<longitude>114.22258704900742</longitude>
+</atm>
+<atm id="98215">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>中信銀行(國際)有限公司</ob_name>
+<addr>九龍觀塘開源道 54 號豐利中心地下 3號 </addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>銀聯</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.309498</latitude>
+<longitude>114.224017</longitude>
+</atm>
+<atm id="98216">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>中信銀行(國際)有限公司</ob_name>
+<addr>九龍觀塘開源道 54 號豐利中心地下 3號 </addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>銀聯</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.309498</latitude>
+<longitude>114.224017</longitude>
+</atm>
+<atm id="98217">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>中信銀行(國際)有限公司</ob_name>
+<addr>九龍觀塘開源道 54 號豐利中心地下 3號  </addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>銀聯</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.309498</latitude>
+<longitude>114.224017</longitude>
+</atm>
+<atm id="998">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>永隆銀行有限公司</ob_name>
+<addr>觀塘牛頭角道339號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.31479805193271</latitude>
+<longitude>114.22258973121643</longitude>
+</atm>
+<atm id="7324">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>永隆銀行有限公司</ob_name>
+<addr>觀塘成業街7號寧晉中心東廣場1樓149號舖</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.3109275</latitude>
+<longitude>114.2258148</longitude>
+</atm>
+<atm id="985">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>上海商業銀行</ob_name>
+<addr>觀塘康寧道57-61號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.31551267685804</latitude>
+<longitude>114.22350972890854</longitude>
+</atm>
+<atm id="938">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>交通銀行股份有限公司</ob_name>
+<addr>觀塘康寧道55號地下A舖及1樓</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.315413423614952</latitude>
+<longitude>114.22352850437164</longitude>
+</atm>
+<atm id="137825">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>華僑永亨銀行有限公司</ob_name>
+<addr>觀塘輔仁街22至24號 </addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.3155151</latitude>
+<longitude>114.22408369999994</longitude>
+</atm>
+<atm id="89153">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>華僑永亨銀行有限公司</ob_name>
+<addr>觀塘牛頭角道347至349號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.3146726</latitude>
+<longitude>114.2228203</longitude>
+</atm>
+<atm id="89154">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>華僑永亨銀行有限公司</ob_name>
+<addr>觀塘開源道60號2號舖</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.3101355307724</latitude>
+<longitude>114.2246013879776</longitude>
+</atm>
+<atm id="969">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>集友銀行有限公司</ob_name>
+<addr>觀塘道398-402號嘉域大廈地下A單位</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.313455638970847</latitude>
+<longitude>114.22290086746216</longitude>
+</atm>
+<atm id="975">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>大新銀行有限公司</ob_name>
+<addr>九龍觀塘成業街10號地下A舖</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.3106682</latitude>
+<longitude>114.22600339999997</longitude>
+</atm>
+<atm id="977">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>大新銀行有限公司</ob_name>
+<addr>九龍觀塘康寧道45 號宜安中心地下７ -９號舖</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.31520747291042</latitude>
+<longitude>114.22354727983475</longitude>
+</atm>
+<atm id="963">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>創興銀行有限公司</ob_name>
+<addr>觀塘物華街31至33號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>銀聯</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.315088368749837</latitude>
+<longitude>114.22472208738327</longitude>
+</atm>
+<atm id="964">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>創興銀行有限公司</ob_name>
+<addr>觀塘巧明街114號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>銀聯</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.31129931460605</latitude>
+<longitude>114.22442436218262</longitude>
+</atm>
+<atm id="962">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>創興銀行有限公司</ob_name>
+<addr>觀塘寶逹邨寶逹商場2樓203B-204號舖</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>銀聯</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.31727689147807</latitude>
+<longitude>114.23624753952026</longitude>
+</atm>
+<atm id="101265">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>南洋商業銀行有限公司</ob_name>
+<addr>九龍觀塘康寧道45號宜安中心地下4-6號舖</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.315085887412085</latitude>
+<longitude>114.22333538532257</longitude>
+</atm>
+<atm id="101261">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>南洋商業銀行有限公司</ob_name>
+<addr>九龍長沙灣道792-794號地下</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.30694934374053</latitude>
+<longitude>114.2280775308609</longitude>
+</atm>
+<atm id="980">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>中國工商銀行(亞洲)有限公司</ob_name>
+<addr>觀塘開源道79號鱷魚恤中心一樓5號和6號舖</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.311433310416213</latitude>
+<longitude>114.2258432507515</longitude>
+</atm>
+<atm id="981">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>中國工商銀行(亞洲)有限公司</ob_name>
+<addr>觀塘開源道79號鱷魚恤中心一樓5號和6號舖</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.311420903402148</latitude>
+<longitude>114.22582983970642</longitude>
+</atm>
+<atm id="44170">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>中國工商銀行(亞洲)有限公司</ob_name>
+<addr>九龍觀塘康寧道58號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.3155808</latitude>
+<longitude>114.2236553</longitude>
+</atm>
+<atm id="46958">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>中國工商銀行(亞洲)有限公司</ob_name>
+<addr>九龍觀塘巧明街94-96號鴻圖中心地下ATM</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.312823</latitude>
+<longitude>114.220369</longitude>
+</atm>
+<atm id="98232">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>中國工商銀行(亞洲)有限公司</ob_name>
+<addr>觀塘藍田碧雲道223號德田廣場1樓5號ATM</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.310903</latitude>
+<longitude>114.238071</longitude>
+</atm>
+<atm id="77499">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>花旗銀行(香港)有限公司</ob_name>
+<addr>觀塘開源道60號駱駝漆大廈3座地下及閣樓3號舖</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.31022486207135</latitude>
+<longitude>114.22467648983002</longitude>
+</atm>
+<atm id="190017">
+<region>香港</region>
+<area>九龍</area>
+<district>觀塘</district>
+<ob_name>花旗銀行(香港)有限公司</ob_name>
+<addr>觀塘開源道60號駱駝漆大廈3座地下及閣樓3號舖</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.3101324</latitude>
+<longitude>114.22506959999998</longitude>
+</atm>
+</atms>
+</xml_msg>

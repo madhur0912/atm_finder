@@ -1,0 +1,693 @@
+<!-- http://www.jetco.com.hk/tc/xml/atm/2_3_63_0_atmDetails.xml-->
+<?xml version="1.0" encoding="UTF-8"?>
+<xml_msg query="region=2,area=3,district=63,transaction=0">
+<supp_cb/>
+<atms>
+<atm id="1610">
+<region>香港</region>
+<area>新界</area>
+<district>天水圍</district>
+<ob_name>渣打銀行(香港)有限公司</ob_name>
+<addr>天水圍天耀邨天耀商場1樓103號舖</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.450677085617613</latitude>
+<longitude>114.00360882282257</longitude>
+</atm>
+<atm id="1609">
+<region>香港</region>
+<area>新界</area>
+<district>天水圍</district>
+<ob_name>渣打銀行(香港)有限公司</ob_name>
+<addr>天水圍天耀邨天耀商場1樓103號舖</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.450781200247835</latitude>
+<longitude>114.00351762771606</longitude>
+</atm>
+<atm id="1599">
+<region>香港</region>
+<area>新界</area>
+<district>天水圍</district>
+<ob_name>中國銀行(香港)有限公司</ob_name>
+<addr>新界元朗天水圍天恩路18號置富嘉湖第一期地下G64A號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.4572962</latitude>
+<longitude>114.0043855</longitude>
+</atm>
+<atm id="1600">
+<region>香港</region>
+<area>新界</area>
+<district>天水圍</district>
+<ob_name>中國銀行(香港)有限公司</ob_name>
+<addr>新界元朗天水圍天恩路18號置富嘉湖第一期地下G64A號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.45698331645474</latitude>
+<longitude>114.00441884994507</longitude>
+</atm>
+<atm id="1601">
+<region>香港</region>
+<area>新界</area>
+<district>天水圍</district>
+<ob_name>中國銀行(香港)有限公司</ob_name>
+<addr>新界元朗天水圍天恩路18號置富嘉湖第一期地下G64A號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.457022977376155</latitude>
+<longitude>114.00413990020752</longitude>
+</atm>
+<atm id="2420">
+<region>香港</region>
+<area>新界</area>
+<district>天水圍</district>
+<ob_name>中國銀行(香港)有限公司</ob_name>
+<addr>天水圍頌富商場二期地下ATM No.4</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.46241179954677</latitude>
+<longitude>113.99790108203888</longitude>
+</atm>
+<atm id="2421">
+<region>香港</region>
+<area>新界</area>
+<district>天水圍</district>
+<ob_name>中國銀行(香港)有限公司</ob_name>
+<addr>天水圍頌富商場二期地下ATM No.4</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.462486160852595</latitude>
+<longitude>113.99793326854706</longitude>
+</atm>
+<atm id="7314">
+<region>香港</region>
+<area>新界</area>
+<district>天水圍</district>
+<ob_name>中國銀行(香港)有限公司</ob_name>
+<addr>新界天水圍天晴村晴雲樓地下</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.46286292418882</latitude>
+<longitude>114.00336742401123</longitude>
+</atm>
+<atm id="38689">
+<region>香港</region>
+<area>新界</area>
+<district>天水圍</district>
+<ob_name>中國銀行(香港)有限公司</ob_name>
+<addr>新界天水圍天瑞商場G30號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.45690399457784</latitude>
+<longitude>113.99824976921082</longitude>
+</atm>
+<atm id="38686">
+<region>香港</region>
+<area>新界</area>
+<district>天水圍</district>
+<ob_name>中國銀行(香港)有限公司</ob_name>
+<addr>新界天水圍天瑞商場G30號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.456819715033927</latitude>
+<longitude>113.99842143058777</longitude>
+</atm>
+<atm id="131680">
+<region>香港</region>
+<area>新界</area>
+<district>天水圍</district>
+<ob_name>中國銀行(香港)有限公司</ob_name>
+<addr>新界天水圍嘉湖山莊新北江商場A189號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.458301</latitude>
+<longitude>113.999878</longitude>
+</atm>
+<atm id="131679">
+<region>香港</region>
+<area>新界</area>
+<district>天水圍</district>
+<ob_name>中國銀行(香港)有限公司</ob_name>
+<addr>新界天水圍嘉湖山莊新北江商場A189號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.458301</latitude>
+<longitude>113.999878</longitude>
+</atm>
+<atm id="162117">
+<region>香港</region>
+<area>新界</area>
+<district>天水圍</district>
+<ob_name>中國銀行(香港)有限公司</ob_name>
+<addr>天水圍天瑞路 Nos.71,73,75 及77 天澤商場地下 ATM No.6</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.4682969</latitude>
+<longitude>113.99881000000005</longitude>
+</atm>
+<atm id="1602">
+<region>香港</region>
+<area>新界</area>
+<district>天水圍</district>
+<ob_name>中國銀行(香港)有限公司</ob_name>
+<addr>港鐵天水圍站</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.44958139834024</latitude>
+<longitude>114.00615155696869</longitude>
+</atm>
+<atm id="1603">
+<region>香港</region>
+<area>新界</area>
+<district>天水圍</district>
+<ob_name>中國銀行(香港)有限公司</ob_name>
+<addr>港鐵天水圍站</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.449576440459577</latitude>
+<longitude>114.00615155696869</longitude>
+</atm>
+<atm id="71746">
+<region>香港</region>
+<area>新界</area>
+<district>天水圍</district>
+<ob_name>東亞銀行有限公司</ob_name>
+<addr>天水圍站非付款大堂TIS41號舖</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.448282427546754</latitude>
+<longitude>114.00472462177277</longitude>
+</atm>
+<atm id="71745">
+<region>香港</region>
+<area>新界</area>
+<district>天水圍</district>
+<ob_name>東亞銀行有限公司</ob_name>
+<addr>天水圍站非付款大堂TIS41號舖</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.448252679981497</latitude>
+<longitude>114.00478899478912</longitude>
+</atm>
+<atm id="80401">
+<region>香港</region>
+<area>新界</area>
+<district>天水圍</district>
+<ob_name>東亞銀行有限公司</ob_name>
+<addr>新界天水圍天盛商場地下自動櫃員機１號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.448743</latitude>
+<longitude>114.002941</longitude>
+</atm>
+<atm id="113549">
+<region>香港</region>
+<area>新界</area>
+<district>天水圍</district>
+<ob_name>東亞銀行有限公司</ob_name>
+<addr>新界天水圍天湖路2號天耀廣場地下自動櫃員機1號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.451886793641232</latitude>
+<longitude>114.001345038414</longitude>
+</atm>
+<atm id="1594">
+<region>香港</region>
+<area>新界</area>
+<district>天水圍</district>
+<ob_name>東亞銀行有限公司</ob_name>
+<addr>天水圍嘉湖銀座第2期1樓134A號舖對出</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.456933740287003</latitude>
+<longitude>114.00468707084656</longitude>
+</atm>
+<atm id="1596">
+<region>香港</region>
+<area>新界</area>
+<district>天水圍</district>
+<ob_name>東亞銀行有限公司</ob_name>
+<addr>天水圍天澤商場地下5號舖對出位置﹝扶手電梯側﹞</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.46826639091367</latitude>
+<longitude>113.99874866008759</longitude>
+</atm>
+<atm id="1597">
+<region>香港</region>
+<area>新界</area>
+<district>天水圍</district>
+<ob_name>東亞銀行有限公司</ob_name>
+<addr>天水圍天澤商場地下5號舖對出位置﹝扶手電梯側﹞</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.4682969</latitude>
+<longitude>113.99881</longitude>
+</atm>
+<atm id="1595">
+<region>香港</region>
+<area>新界</area>
+<district>天水圍</district>
+<ob_name>東亞銀行有限公司</ob_name>
+<addr>天水圍頌富廣場二期1樓自動櫃員機 5號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.461544248030634</latitude>
+<longitude>113.99724125862122</longitude>
+</atm>
+<atm id="1607">
+<region>香港</region>
+<area>新界</area>
+<district>天水圍</district>
+<ob_name>上海商業銀行</ob_name>
+<addr>天水圍天恩路18號嘉湖銀座第二期地下G8號舖</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.456869291242437</latitude>
+<longitude>114.00500893592834</longitude>
+</atm>
+<atm id="174516">
+<region>香港</region>
+<area>新界</area>
+<district>天水圍</district>
+<ob_name>上海商業銀行</ob_name>
+<addr>天水圍天恩路18號嘉湖銀座第二期地下G8號舖</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.457743884379358</latitude>
+<longitude>114.00334743320468</longitude>
+</atm>
+<atm id="1592">
+<region>香港</region>
+<area>新界</area>
+<district>天水圍</district>
+<ob_name>交通銀行股份有限公司</ob_name>
+<addr>天水圍天盛苑天盛商場119號舖  </addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.449001325100163</latitude>
+<longitude>114.00285243988037</longitude>
+</atm>
+<atm id="1606">
+<region>香港</region>
+<area>新界</area>
+<district>天水圍</district>
+<ob_name>大新銀行有限公司</ob_name>
+<addr>天水圍頌富商場二期132號舖</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>PLUS</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.462394448569686</latitude>
+<longitude>113.9979413151741</longitude>
+</atm>
+<atm id="2398">
+<region>香港</region>
+<area>新界</area>
+<district>天水圍</district>
+<ob_name>創興銀行有限公司</ob_name>
+<addr>新界天水圍置富嘉湖2期1樓103號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>銀聯</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.4572962</latitude>
+<longitude>114.0043855</longitude>
+</atm>
+<atm id="1604">
+<region>香港</region>
+<area>新界</area>
+<district>天水圍</district>
+<ob_name>創興銀行有限公司</ob_name>
+<addr>天水圍天慈邨天慈商場110號</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>銀聯</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.45316094190915</latitude>
+<longitude>114.00677919387817</longitude>
+</atm>
+<atm id="1605">
+<region>香港</region>
+<area>新界</area>
+<district>天水圍</district>
+<ob_name>創興銀行有限公司</ob_name>
+<addr>天水圍天澤邨天澤商場1樓112號舖</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>強積金</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>銀聯</tran_name>
+</supp_tran>
+<currencies>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.46828126254965</latitude>
+<longitude>113.99868965148926</longitude>
+</atm>
+<atm id="83313">
+<region>香港</region>
+<area>新界</area>
+<district>天水圍</district>
+<ob_name>中國工商銀行(亞洲)有限公司</ob_name>
+<addr>天水圍天恩商場地下</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.462426671811126</latitude>
+<longitude>113.99634003639221</longitude>
+</atm>
+<atm id="156032">
+<region>香港</region>
+<area>新界</area>
+<district>天水圍</district>
+<ob_name>中國工商銀行(亞洲)有限公司</ob_name>
+<addr>新界天水圍天澤商場1樓</addr>
+<supp_tran>
+<tran_name>現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務</tran_name>
+<tran_name>跨行轉賬</tran_name>
+<tran_name>賬單繳費, 信用卡繳費, 慈善捐款</tran_name>
+<tran_name>JCB</tran_name>
+<tran_name>銀聯</tran_name>
+<tran_name>CIRRUS</tran_name>
+</supp_tran>
+<currencies>
+<currency>人民幣</currency>
+<currency>港幣</currency>
+</currencies>
+<latitude>22.4682969</latitude>
+<longitude>113.99881000000005</longitude>
+</atm>
+</atms>
+</xml_msg>
