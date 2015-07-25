@@ -1,0 +1,2718 @@
+//卑路乍街77號
+{
+    "formattedAddress": "香港西環卑路乍街77號",
+    "latitude": 22.2827854,
+    "longitude": 114.1291956,
+    "extra": {
+        "googlePlaceId": "Eh3pppnmuK_opb_nkrDljZHot6_kuY3ooZc3N-iZnw",
+        "confidence": 0.9,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "西環",
+        "establishment": null
+    },
+    "streetNumber": "77",
+    "streetName": "卑路乍街",
+    "state": "香港島",
+    "stateCode": "香港島",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//香港科技大學李兆基商學大樓
+{
+    "formattedAddress": "香港清水灣李兆基商學大樓香港科技大學",
+    "latitude": 22.3332974,
+    "longitude": 114.2648975,
+    "extra": {
+        "googlePlaceId": "ChIJB2J9Y2sEBDQRNrDHFFoUzyg",
+        "confidence": 1,
+        "premise": "李兆基商學大樓",
+        "subpremise": null,
+        "neighborhood": "清水灣",
+        "establishment": null
+    },
+    "city": "西貢區",
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵寶琳站
+{
+    "formattedAddress": "香港魷魚灣寶琳站",
+    "latitude": 22.322511,
+    "longitude": 114.257832,
+    "extra": {
+        "googlePlaceId": "ChIJcfQh8QsEBDQRTggL7ynzP2o",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "魷魚灣",
+        "establishment": null
+    },
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//將軍澳寶寧里2號
+{
+    "formattedAddress": "香港將軍澳寶寧里2號",
+    "latitude": 22.3185262,
+    "longitude": 114.2684986,
+    "extra": {
+        "googlePlaceId": "EhzpppnmuK_lsIfou43mvrPlr7blr6fph4wy6Jmf",
+        "confidence": 0.9,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "將軍澳",
+        "establishment": null
+    },
+    "streetNumber": "2",
+    "streetName": "寶寧里",
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//唐俊街8號
+{
+    "formattedAddress": "香港將軍澳唐俊街8號",
+    "latitude": 22.309394,
+    "longitude": 114.25981,
+    "extra": {
+        "googlePlaceId": "ChIJHdr8p_MDBDQRugxIXw7TTrA",
+        "confidence": 1,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "將軍澳",
+        "establishment": null
+    },
+    "streetNumber": "8",
+    "streetName": "唐俊街",
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵將軍澳站
+{
+    "formattedAddress": "香港將軍澳將軍澳站",
+    "latitude": 22.307436,
+    "longitude": 114.260018,
+    "extra": {
+        "googlePlaceId": "ChIJpxmq9fIDBDQRiztEZz1ViXc",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "將軍澳",
+        "establishment": null
+    },
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵調景嶺站
+{
+    "formattedAddress": "香港照鏡環調景嶺站",
+    "latitude": 22.3038,
+    "longitude": 114.252098,
+    "extra": {
+        "googlePlaceId": "ChIJxVgtcu8DBDQRDImddNu74hw",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "照鏡環",
+        "establishment": null
+    },
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//亞公角街33號
+{
+    "formattedAddress": "香港沙田亞公角街33號",
+    "latitude": 22.398076,
+    "longitude": 114.212764,
+    "extra": {
+        "googlePlaceId": "ChIJe5xKyT0GBDQRrpIeJUoagJ4",
+        "confidence": 1,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "沙田",
+        "establishment": null
+    },
+    "streetNumber": "33",
+    "streetName": "亞公角街",
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//恒信街2號富安花園
+{
+    "formattedAddress": "香港馬鞍山恆信街2號",
+    "latitude": 22.403669,
+    "longitude": 114.224592,
+    "extra": {
+        "googlePlaceId": "ChIJj50uAhsGBDQR_qKhUza98F8",
+        "confidence": 1,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "馬鞍山",
+        "establishment": null
+    },
+    "streetNumber": "2",
+    "streetName": "恆信街",
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//馬鞍山廣場2樓256-257號舖
+{
+    "formattedAddress": "香港馬鞍山西沙路608號馬鞍山廣場",
+    "latitude": 22.4254406,
+    "longitude": 114.2313392,
+    "extra": {
+        "googlePlaceId": "ChIJxdqKDbEIBDQRckGbU7-QaSc",
+        "confidence": 1,
+        "premise": "馬鞍山廣場",
+        "subpremise": null,
+        "neighborhood": "馬鞍山",
+        "establishment": null
+    },
+    "streetNumber": "608",
+    "streetName": "西沙路",
+    "city": "香港",
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//大圍富健街18號
+{
+    "formattedAddress": "香港大圍富健街18號",
+    "latitude": 22.360974,
+    "longitude": 114.175634,
+    "extra": {
+        "googlePlaceId": "ChIJ_zLBCREHBDQR9gqgyg58NMo",
+        "confidence": 1,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "大圍",
+        "establishment": null
+    },
+    "streetNumber": "18",
+    "streetName": "富健街",
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//大圍道33號
+{
+    "formattedAddress": "香港大圍大圍道33號",
+    "latitude": 22.3756288,
+    "longitude": 114.177463,
+    "extra": {
+        "googlePlaceId": "EhrpppnmuK_lpKflnI3lpKflnI3pgZMzM-iZnw",
+        "confidence": 0.9,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "大圍",
+        "establishment": null
+    },
+    "streetNumber": "33",
+    "streetName": "大圍道",
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵大圍站
+{
+    "formattedAddress": "香港大圍大圍站",
+    "latitude": 22.372746,
+    "longitude": 114.178677,
+    "extra": {
+        "googlePlaceId": "ChIJs4p9bggHBDQRHZvBErYbbo0",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "大圍",
+        "establishment": null
+    },
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//沙田乙明邨明耀樓地下7及9號舖
+{
+    "formattedAddress": "香港沙田乙明邨街11號乙明邨明耀樓",
+    "latitude": 22.3774055,
+    "longitude": 114.1916331,
+    "extra": {
+        "googlePlaceId": "ChIJYdNvrVQGBDQRQOUw6ISTjOc",
+        "confidence": 1,
+        "premise": "乙明邨明耀樓",
+        "subpremise": null,
+        "neighborhood": "沙田",
+        "establishment": null
+    },
+    "streetNumber": "11",
+    "streetName": "乙明邨街",
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//新城市廣場第三期2樓
+{
+    "formattedAddress": "香港沙田新城市廣場第三期停車場",
+    "latitude": 22.380447,
+    "longitude": 114.187576,
+    "extra": {
+        "googlePlaceId": "ChIJu91-RKwHBDQREtBV1Y59GM8",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "沙田",
+        "establishment": null
+    },
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//橫壆街好運中心18號
+{
+    "formattedAddress": "香港沙田橫壆街1-15號好運中心榆林閣",
+    "latitude": 22.383577,
+    "longitude": 114.190124,
+    "extra": {
+        "googlePlaceId": "ChIJlSZsXq0HBDQRoCUC0B2NxKw",
+        "confidence": 1,
+        "premise": "好運中心榆林閣",
+        "subpremise": null,
+        "neighborhood": "沙田",
+        "establishment": null
+    },
+    "streetNumber": "1-15",
+    "streetName": "橫壆街",
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵沙田站
+{
+    "formattedAddress": "香港沙田沙田站",
+    "latitude": 22.382049,
+    "longitude": 114.186856,
+    "extra": {
+        "googlePlaceId": "ChIJS7igya0HBDQR0X5S6_g0EME",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "沙田",
+        "establishment": null
+    },
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//山尾街18號沙田商業中心1樓19號舖
+{
+    "formattedAddress": "香港火炭山尾街18-24號沙田商業中心",
+    "latitude": 22.3972641,
+    "longitude": 114.193468,
+    "extra": {
+        "googlePlaceId": "ChIJNRgJ4jQGBDQR1qRAOvrLcKk",
+        "confidence": 1,
+        "premise": "沙田商業中心",
+        "subpremise": null,
+        "neighborhood": "火炭",
+        "establishment": null
+    },
+    "streetNumber": "18-24",
+    "streetName": "山尾街",
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵火炭站
+{
+    "formattedAddress": "香港火炭火炭站",
+    "latitude": 22.395003,
+    "longitude": 114.198037,
+    "extra": {
+        "googlePlaceId": "ChIJ_bgHDTYGBDQRGYuausYOBTU",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "火炭",
+        "establishment": null
+    },
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//香港中文大學和聲書院
+{
+    "formattedAddress": "香港馬料水士林路香港中文大學和聲書院",
+    "latitude": 22.4223228,
+    "longitude": 114.2041401,
+    "extra": {
+        "googlePlaceId": "ChIJl9ApOpsIBDQRxEKBXENTLFo",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "馬料水",
+        "establishment": null
+    },
+    "streetName": "士林路",
+    "city": "香港",
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//香港教育學院中央大樓C-P-11C室
+{
+    "formattedAddress": "香港汀角露屏路10號香港教育學院中央大樓",
+    "latitude": 22.4689102,
+    "longitude": 114.1943841,
+    "extra": {
+        "googlePlaceId": "ChIJTeRAHQcJBDQRNoEnFowtBWQ",
+        "confidence": 1,
+        "premise": "香港教育學院中央大樓",
+        "subpremise": null,
+        "neighborhood": "汀角",
+        "establishment": null
+    },
+    "streetNumber": "10",
+    "streetName": "露屏路",
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//廣福道35號
+{
+    "formattedAddress": "香港大埔廣福道35號",
+    "latitude": 22.4491134,
+    "longitude": 114.1659601,
+    "extra": {
+        "googlePlaceId": "EhrpppnmuK_lpKfln5Tlu6Pnpo_pgZMzNeiZnw",
+        "confidence": 0.9,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "大埔",
+        "establishment": null
+    },
+    "streetNumber": "35",
+    "streetName": "廣福道",
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵大埔墟站
+{
+    "formattedAddress": "香港大埔大埔墟站",
+    "latitude": 22.444547,
+    "longitude": 114.170482,
+    "extra": {
+        "googlePlaceId": "ChIJ9Q98TEAIBDQREOd9WIlfWbA",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "大埔",
+        "establishment": null
+    },
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//聯和墟聯興街9號
+{
+    "formattedAddress": "香港粉嶺聯興街9號",
+    "latitude": 22.498164,
+    "longitude": 114.1425876,
+    "extra": {
+        "googlePlaceId": "EhnpppnmuK_nsonltrroga_oiIjooZc56Jmf",
+        "confidence": 0.9,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "粉嶺",
+        "establishment": null
+    },
+    "streetNumber": "9",
+    "streetName": "聯興街",
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//新康街5號
+{
+    "formattedAddress": "香港上水新康街5號",
+    "latitude": 22.5054374,
+    "longitude": 114.1270174,
+    "extra": {
+        "googlePlaceId": "EhnpppnmuK_kuIrmsLTmlrDlurfooZc16Jmf",
+        "confidence": 0.9,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "上水",
+        "establishment": null
+    },
+    "streetNumber": "5",
+    "streetName": "新康街",
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//上水中心一樓1040-1042號舖
+{
+    "formattedAddress": "香港上水智昌路3號上水中心1座",
+    "latitude": 22.5011315,
+    "longitude": 114.1291195,
+    "extra": {
+        "googlePlaceId": "ChIJ4VnN4RD2AzQRLHj90QdoQlU",
+        "confidence": 1,
+        "premise": "上水中心1座",
+        "subpremise": null,
+        "neighborhood": "上水",
+        "establishment": null
+    },
+    "streetNumber": "3",
+    "streetName": "智昌路",
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵落馬洲站
+{
+    "formattedAddress": "香港米埔落馬洲站",
+    "latitude": 22.514464,
+    "longitude": 114.065647,
+    "extra": {
+        "googlePlaceId": "ChIJ4zeJRbv2AzQR13s4XGP4V04",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "米埔",
+        "establishment": null
+    },
+    "state": "廣東省",
+    "stateCode": "廣東省",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵羅湖站
+{
+    "formattedAddress": "香港羅湖羅湖站",
+    "latitude": 22.527801,
+    "longitude": 114.113192,
+    "extra": {
+        "googlePlaceId": "ChIJjbW_cdv1AzQRJiHWVDU1TZo",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "羅湖",
+        "establishment": null
+    },
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵迪士尼站
+{
+    "formattedAddress": "香港香港迪士尼���園度假區迪士尼站",
+    "latitude": 22.315474,
+    "longitude": 114.044921,
+    "extra": {
+        "googlePlaceId": "ChIJp_-r7yj8AzQRPd6ByNJup24",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "香港迪士尼樂園度假區",
+        "establishment": null
+    },
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵欣澳站
+{
+    "formattedAddress": "香港大嶼山欣澳站",
+    "latitude": 22.332071,
+    "longitude": 114.029067,
+    "extra": {
+        "googlePlaceId": "ChIJLYdakRX8AzQRGgPZ_ZX_ppg",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "大嶼山",
+        "establishment": null
+    },
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//東涌健東路1號
+{
+    "formattedAddress": "香港東涌健東路1號",
+    "latitude": 22.29212,
+    "longitude": 113.949882,
+    "extra": {
+        "googlePlaceId": "ChIJ91ZNl7PiAzQR7KmCzGWQ8BU",
+        "confidence": 1,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "東涌",
+        "establishment": null
+    },
+    "streetNumber": "1",
+    "streetName": "健東路",
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//北大嶼山醫院1樓
+{
+    "formattedAddress": "香港東涌松仁路8號北大嶼山醫院主座大樓",
+    "latitude": 22.2823705,
+    "longitude": 113.9391165,
+    "extra": {
+        "googlePlaceId": "ChIJB8fNYKbiAzQRIkCzYiFvEzg",
+        "confidence": 1,
+        "premise": "北大嶼山醫院主座大樓",
+        "subpremise": null,
+        "neighborhood": "東涌",
+        "establishment": null
+    },
+    "streetNumber": "8",
+    "streetName": "松仁路",
+    "city": "香港",
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵青衣站
+{
+    "formattedAddress": "香港青衣青衣站",
+    "latitude": 22.358487,
+    "longitude": 114.107261,
+    "extra": {
+        "googlePlaceId": "ChIJ4frBpNz4AzQR0NFrQedi88k",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "青衣",
+        "establishment": null
+    },
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//新都會廣場219號
+{
+    "formattedAddress": "香港葵芳興芳路223號新都會廣場",
+    "latitude": 22.3571261,
+    "longitude": 114.1273968,
+    "extra": {
+        "googlePlaceId": "ChIJJy-VM7z4AzQR6s5QPU4Vu8E",
+        "confidence": 1,
+        "premise": "新都會廣場",
+        "subpremise": null,
+        "neighborhood": "葵芳",
+        "establishment": null
+    },
+    "streetNumber": "223",
+    "streetName": "興芳路",
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//石蔭路50號
+{
+    "formattedAddress": "香港葵涌石蔭路50號",
+    "latitude": 22.3683947,
+    "longitude": 114.1398886,
+    "extra": {
+        "googlePlaceId": "EhrpppnmuK_okbXmtoznn7PolK3ot681MOiZnw",
+        "confidence": 0.9,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "石蔭",
+        "establishment": null
+    },
+    "streetNumber": "50",
+    "streetName": "石蔭路",
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//葵涌邨葵涌商場地下
+{
+    "formattedAddress": "香港葵涌葵涌商場",
+    "latitude": 22.368135,
+    "longitude": 114.12818,
+    "extra": {
+        "googlePlaceId": "ChIJYQ4lD5H4AzQR1BZU0sqLqn0",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "葵涌",
+        "establishment": null
+    },
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//新葵興廣場2樓B舖
+{
+    "formattedAddress": "香港葵涌興芳路166-174號新葵興廣場",
+    "latitude": 22.363047,
+    "longitude": 114.1316094,
+    "extra": {
+        "googlePlaceId": "ChIJvXJEe5f4AzQRNKeeCNRRmTg",
+        "confidence": 1,
+        "premise": "新葵興廣場",
+        "subpremise": null,
+        "neighborhood": "葵涌",
+        "establishment": null
+    },
+    "streetNumber": "166-174",
+    "streetName": "興芳路",
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵葵興站
+{
+    "formattedAddress": "香港葵涌葵興站",
+    "latitude": 22.363056,
+    "longitude": 114.131207,
+    "extra": {
+        "googlePlaceId": "ChIJBXpCcJf4AzQRvwIWdrxqxD4",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "葵涌",
+        "establishment": null
+    },
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//華景山道9號華景山莊
+{
+    "formattedAddress": "香港華景山莊華景山路9號華景山莊南停車場",
+    "latitude": 22.352307,
+    "longitude": 114.136324,
+    "extra": {
+        "googlePlaceId": "ChIJ87eJbKT4AzQRdukqo7w1Jts",
+        "confidence": 1,
+        "premise": "華景山莊南停車場",
+        "subpremise": null,
+        "neighborhood": "華景山莊",
+        "establishment": null
+    },
+    "streetNumber": "9",
+    "streetName": "華景山路",
+    "city": "香港",
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵錦上路站
+{
+    "formattedAddress": "香港錦田錦上路站",
+    "latitude": 22.434798,
+    "longitude": 114.063441,
+    "extra": {
+        "googlePlaceId": "ChIJYb7l_uL5AzQR1upTVoqA3RM",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "錦田",
+        "establishment": null
+    },
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//教育路5號富好大樓1樓
+{
+    "formattedAddress": "香港元朗教育路3-7號富好大樓",
+    "latitude": 22.4427108,
+    "longitude": 114.0279148,
+    "extra": {
+        "googlePlaceId": "ChIJ33_Efwr6AzQRAmSm06_fFas",
+        "confidence": 1,
+        "premise": "富好大樓",
+        "subpremise": null,
+        "neighborhood": "元朗",
+        "establishment": null
+    },
+    "streetNumber": "3-7",
+    "streetName": "教育路",
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//青山道93號
+{
+    "formattedAddress": "香港青山道93號",
+    "latitude": 22.3336568,
+    "longitude": 114.1624575,
+    "extra": {
+        "googlePlaceId": "EhTpppnmuK_pnZLlsbHpgZM5M-iZnw",
+        "confidence": 0.9,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+    },
+    "streetNumber": "93",
+    "streetName": "青山道",
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//谷亭街2-4號地下
+{
+    "formattedAddress": "香港元朗谷亭街2號",
+    "latitude": 22.444574,
+    "longitude": 114.0295664,
+    "extra": {
+        "googlePlaceId": "EhnpppnmuK_lhYPmnJfosLfkuq3ooZcy6Jmf",
+        "confidence": 0.9,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "元朗",
+        "establishment": null
+    },
+    "streetNumber": "2",
+    "streetName": "谷亭街",
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵元朗站
+{
+    "formattedAddress": "香港元朗元朗站",
+    "latitude": 22.446113,
+    "longitude": 114.034706,
+    "extra": {
+        "googlePlaceId": "ChIJkV8PaKbwAzQRndElEzvLn6Q",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "元朗",
+        "establishment": null
+    },
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵朗屏站
+{
+    "formattedAddress": "香港元朗朗屏站",
+    "latitude": 22.44766,
+    "longitude": 114.02485,
+    "extra": {
+        "googlePlaceId": "ChIJeRzSX5_wAzQR0xOi6P0J99A",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "元朗",
+        "establishment": null
+    },
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//天水圍頌富廣場一期2樓L221號舖
+{
+    "formattedAddress": "香港天水圍天華路30號頌富廣場一期",
+    "latitude": 22.4613865,
+    "longitude": 113.9977809,
+    "extra": {
+        "googlePlaceId": "ChIJZzeVBmPwAzQRbOw-gIwIrm8",
+        "confidence": 1,
+        "premise": "頌富廣場一期",
+        "subpremise": null,
+        "neighborhood": "天水圍",
+        "establishment": null
+    },
+    "streetNumber": "30",
+    "streetName": "天華路",
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵天水圍站
+{
+    "formattedAddress": "香港天水圍天水圍站",
+    "latitude": 22.448281,
+    "longitude": 114.004687,
+    "extra": {
+        "googlePlaceId": "ChIJOVXBtoHwAzQRwIUO-tGF8Ko",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "天水圍",
+        "establishment": null
+    },
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//屯門鄉事會路4-26號明偉大樓6-7號舖
+{
+    "formattedAddress": "香港屯門屯門鄉事會路26號",
+    "latitude": 22.395438,
+    "longitude": 113.97469,
+    "extra": {
+        "googlePlaceId": "ChIJo3ItKz37AzQRHUgndQVQX7I",
+        "confidence": 1,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "新墟",
+        "establishment": null
+    },
+    "streetNumber": "26",
+    "streetName": "屯門鄉事會路",
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//屯門大興邨大興商場1樓
+{
+    "formattedAddress": "香港屯門大興街1號大興商場",
+    "latitude": 22.4026756,
+    "longitude": 113.9707035,
+    "extra": {
+        "googlePlaceId": "ChIJ8ailuyb7AzQRru7UtpuS6rM",
+        "confidence": 1,
+        "premise": "大興商場",
+        "subpremise": null,
+        "neighborhood": "屯門",
+        "establishment": null
+    },
+    "streetNumber": "1",
+    "streetName": "大興街",
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵屯門站
+{
+    "formattedAddress": "香港屯門屯門站",
+    "latitude": 22.393982,
+    "longitude": 113.972894,
+    "extra": {
+        "googlePlaceId": "ChIJb3-glDz7AzQRENMVdxZ447M",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "屯門",
+        "establishment": null
+    },
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵兆康站
+{
+    "formattedAddress": "香港屯門兆康站",
+    "latitude": 22.411341,
+    "longitude": 113.978772,
+    "extra": {
+        "googlePlaceId": "ChIJnbOxteD6AzQRqGvT2PLgw_Q",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "屯門",
+        "establishment": null
+    },
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//荃灣海盛路9號有線電視大樓地下
+{
+    "formattedAddress": "香港柴灣角海盛路9號有線電視大樓",
+    "latitude": 22.372844,
+    "longitude": 114.107402,
+    "extra": {
+        "googlePlaceId": "ChIJyYEzb-X4AzQR5BOgP9xpu70",
+        "confidence": 1,
+        "premise": "有線電視大樓",
+        "subpremise": null,
+        "neighborhood": "柴灣角",
+        "establishment": null
+    },
+    "streetNumber": "9",
+    "streetName": "海盛路",
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//荃灣荃華街3號悅來坊地庫1樓
+{
+    "formattedAddress": "香港荃灣荃華街3號悅來坊商場",
+    "latitude": 22.3690012,
+    "longitude": 114.1207636,
+    "extra": {
+        "googlePlaceId": "ChIJkTEgMJP4AzQR6GHVsjvy4es",
+        "confidence": 1,
+        "premise": "悅來坊商場",
+        "subpremise": null,
+        "neighborhood": "荃灣",
+        "establishment": null
+    },
+    "streetNumber": "3",
+    "streetName": "荃華街",
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//沙咀道289號
+{
+    "formattedAddress": "香港荃灣沙咀道289號",
+    "latitude": 22.3693247,
+    "longitude": 114.1175734,
+    "extra": {
+        "googlePlaceId": "EhvpppnmuK_ojYPngaPmspnlkoDpgZMyODnomZ8",
+        "confidence": 0.9,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "荃灣",
+        "establishment": null
+    },
+    "streetNumber": "289",
+    "streetName": "沙咀道",
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//眾安街38號
+{
+    "formattedAddress": "香港荃灣眾安街38號",
+    "latitude": 22.3709907,
+    "longitude": 114.1175648,
+    "extra": {
+        "googlePlaceId": "EhrpppnmuK_ojYPngaPnnL7lronooZczOOiZnw",
+        "confidence": 0.9,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "荃灣",
+        "establishment": null
+    },
+    "streetNumber": "38",
+    "streetName": "眾安街",
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//大河道30號
+{
+    "formattedAddress": "香港荃灣大河道30號",
+    "latitude": 22.3720064,
+    "longitude": 114.1157368,
+    "extra": {
+        "googlePlaceId": "EhrpppnmuK_ojYPngaPlpKfmsrPpgZMzMOiZnw",
+        "confidence": 0.9,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "荃灣",
+        "establishment": null
+    },
+    "streetNumber": "30",
+    "streetName": "大河道",
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//荃灣荃錦中心商場2樓5號
+{
+    "formattedAddress": "荃灣荃錦中心商場",
+    "latitude": 22.374345,
+    "longitude": 114.114982,
+    "extra": {
+        "googlePlaceId": "ChIJQWSZEPL4AzQRzotuMiW0uXU",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "荃灣",
+        "establishment": null
+    },
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵荃灣西站
+{
+    "formattedAddress": "香港荃灣荃灣西站",
+    "latitude": 22.368313,
+    "longitude": 114.10978,
+    "extra": {
+        "googlePlaceId": "ChIJ0Y8Dyuj4AzQRObQ6ZpLAtpw",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "荃灣",
+        "establishment": null
+    },
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵大窩口站
+{
+    "formattedAddress": "香港葵涌大窩口站",
+    "latitude": 22.370758,
+    "longitude": 114.124951,
+    "extra": {
+        "googlePlaceId": "ChIJB04EFJL4AzQREzCbJA3xThw",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "葵涌",
+        "establishment": null
+    },
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵油塘站
+{
+    "formattedAddress": "香港油塘油塘站",
+    "latitude": 22.298112,
+    "longitude": 114.236966,
+    "extra": {
+        "googlePlaceId": "ChIJt4oZd2ABBDQRJN5m2SN9pEU",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "油塘",
+        "establishment": null
+    },
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//麗港城商場1樓50A號
+{
+    "formattedAddress": "香港麗港城茶果嶺道88號麗港城商場",
+    "latitude": 22.3068794,
+    "longitude": 114.2279879,
+    "extra": {
+        "googlePlaceId": "ChIJB5k3OFsBBDQRtC4zlgFV-1k",
+        "confidence": 1,
+        "premise": "麗港城商場",
+        "subpremise": null,
+        "neighborhood": "麗港城",
+        "establishment": null
+    },
+    "streetNumber": "88",
+    "streetName": "茶果嶺道",
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//曉光街21號曉麗苑曉麗商場2樓
+{
+    "formattedAddress": "香港秀茂坪曉光街21號曉麗苑商場",
+    "latitude": 22.3207886,
+    "longitude": 114.229419,
+    "extra": {
+        "googlePlaceId": "ChIJU7iu3FIBBDQRWriUsVRbBEU",
+        "confidence": 1,
+        "premise": "曉麗苑商場",
+        "subpremise": null,
+        "neighborhood": "秀茂坪",
+        "establishment": null
+    },
+    "streetNumber": "21",
+    "streetName": "曉光街",
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//開源道64號源成中心地下
+{
+    "formattedAddress": "香港觀塘開源道64號",
+    "latitude": 22.310726,
+    "longitude": 114.225464,
+    "extra": {
+        "googlePlaceId": "ChIJw4RJZkUBBDQRkK7ttHHoh0s",
+        "confidence": 1,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "觀塘",
+        "establishment": null
+    },
+    "streetNumber": "64",
+    "streetName": "開源道",
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//觀塘廣場地下17號舖
+{
+    "formattedAddress": "香港觀塘開源道68號觀塘廣場",
+    "latitude": 22.3111759,
+    "longitude": 114.226019,
+    "extra": {
+        "googlePlaceId": "ChIJ5bZOX0UBBDQRRJAQ2YaX--8",
+        "confidence": 1,
+        "premise": "觀塘廣場",
+        "subpremise": null,
+        "neighborhood": "觀塘",
+        "establishment": null
+    },
+    "streetNumber": "68",
+    "streetName": "開源道",
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//佐敦谷北道5號
+{
+    "formattedAddress": "香港牛頭角佐敦谷北道5號",
+    "latitude": 22.3233719,
+    "longitude": 114.2165686,
+    "extra": {
+        "googlePlaceId": "EjM1IEpvcmRhbiBWYWxsZXkgTm9ydGggUm9hZCwgTmdhdSBUYXUgS29rLCBIb25nIEtvbmc",
+        "confidence": 0.9,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "牛頭角",
+        "establishment": null
+    },
+    "streetNumber": "5",
+    "streetName": "佐敦谷北道",
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵牛頭角站
+{
+    "formattedAddress": "香港牛頭角牛頭角站",
+    "latitude": 22.315547,
+    "longitude": 114.218913,
+    "extra": {
+        "googlePlaceId": "ChIJD7i8BEkBBDQRg8SETaI6rcE",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "牛頭角",
+        "establishment": null
+    },
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//九龍灣宏照道38號企業廣場五期2座2樓
+{
+    "formattedAddress": "香港九龍灣宏照道38號企業廣場五期2座",
+    "latitude": 22.3198392,
+    "longitude": 114.2081294,
+    "extra": {
+        "googlePlaceId": "ChIJlTic4TMBBDQRHG2oZjd0Ywk",
+        "confidence": 1,
+        "premise": "企業廣場五期2座",
+        "subpremise": null,
+        "neighborhood": "九龍灣",
+        "establishment": null
+    },
+    "streetNumber": "38",
+    "streetName": "宏照道",
+    "city": "香港",
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//德福大廈1樓3B號
+{
+    "formattedAddress": "香港九龍灣宏開道16號德福大廈",
+    "latitude": 22.3227015,
+    "longitude": 114.2111795,
+    "extra": {
+        "googlePlaceId": "ChIJt-3i7TQBBDQRPub7r-eIRTs",
+        "confidence": 1,
+        "premise": "德福大廈",
+        "subpremise": null,
+        "neighborhood": "九龍灣",
+        "establishment": null
+    },
+    "streetNumber": "16",
+    "streetName": "宏開道",
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵九龍灣站
+{
+    "formattedAddress": "香港九龍灣九龍灣站",
+    "latitude": 22.323385,
+    "longitude": 114.214014,
+    "extra": {
+        "googlePlaceId": "ChIJcZX6RjUBBDQRMZv6f6zU8XQ",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "九龍灣",
+        "establishment": null
+    },
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵樂富站
+{
+    "formattedAddress": "香港老虎岩樂富站",
+    "latitude": 22.338026,
+    "longitude": 114.187022,
+    "extra": {
+        "googlePlaceId": "ChIJ8w_jwSgHBDQR-sSZzEPgvCw",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "老虎岩",
+        "establishment": null
+    },
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//鳳德道63號
+{
+    "formattedAddress": "香港慈雲山鳳德道63號",
+    "latitude": 22.3435068,
+    "longitude": 114.1977035,
+    "extra": {
+        "googlePlaceId": "ChIJdTgU_9sGBDQRTQCXK8nd4_4",
+        "confidence": 1,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "慈雲山",
+        "establishment": null
+    },
+    "streetNumber": "63",
+    "streetName": "鳳德道",
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//爵祿街56號
+{
+    "formattedAddress": "香港爵祿街56號",
+    "latitude": 22.3358928,
+    "longitude": 114.1965034,
+    "extra": {
+        "googlePlaceId": "EhTpppnmuK_niLXnpb_ooZc1NuiZnw",
+        "confidence": 0.9,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+    },
+    "streetNumber": "56",
+    "streetName": "爵祿街",
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵鑽石山站
+{
+    "formattedAddress": "香港大磡鑽石山站",
+    "latitude": 22.340017,
+    "longitude": 114.201698,
+    "extra": {
+        "googlePlaceId": "ChIJfXqq4doGBDQR80p_usKdf3k",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "大磡",
+        "establishment": null
+    },
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//馬頭圍道21號
+{
+    "formattedAddress": "香港紅磡馬頭圍道21號",
+    "latitude": 22.308358,
+    "longitude": 114.187884,
+    "extra": {
+        "googlePlaceId": "ChIJY6pfUN4ABDQRYvKlqsXoI84",
+        "confidence": 1,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "紅磡",
+        "establishment": null
+    },
+    "streetNumber": "21",
+    "streetName": "馬頭圍道",
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//德民街36-60號黃埔新邨地下5C舖
+{
+    "formattedAddress": "香港紅磡德民街36號",
+    "latitude": 22.3060515,
+    "longitude": 114.1879063,
+    "extra": {
+        "googlePlaceId": "EhrpppnmuK_ntIXno6HlvrfmsJHooZczNuiZnw",
+        "confidence": 0.9,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "紅磡",
+        "establishment": null
+    },
+    "streetNumber": "36",
+    "streetName": "德民街",
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵紅磡站
+{
+    "formattedAddress": "香港紅磡灣紅磡站",
+    "latitude": 22.303067,
+    "longitude": 114.181527,
+    "extra": {
+        "googlePlaceId": "ChIJGWoxQuYABDQRddHAL7P5CXo",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "紅磡灣",
+        "establishment": null
+    },
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//土瓜灣道33號
+{
+    "formattedAddress": "香港土瓜灣土瓜灣道33號",
+    "latitude": 22.31486,
+    "longitude": 114.188642,
+    "extra": {
+        "googlePlaceId": "ChIJUTscU9gABDQRGNzLsU9UFFM",
+        "confidence": 1,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "土瓜灣",
+        "establishment": null
+    },
+    "streetNumber": "33",
+    "streetName": "土瓜灣道",
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//譚公道38號
+{
+    "formattedAddress": "香港馬頭涌譚公道38號",
+    "latitude": 22.3219385,
+    "longitude": 114.1881753,
+    "extra": {
+        "googlePlaceId": "Eh3pppnmuK_ppqzpoK3mtozorZrlhazpgZMzOOiZnw",
+        "confidence": 0.9,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "馬頭涌",
+        "establishment": null
+    },
+    "streetNumber": "38",
+    "streetName": "譚公道",
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//香港城巿大學康樂樓4樓
+{
+    "formattedAddress": "香港九龍塘達之路83號香港城市大學康樂樓香港城市大學",
+    "latitude": 22.3368785,
+    "longitude": 114.1719954,
+    "extra": {
+        "googlePlaceId": "ChIJV_iWsjYHBDQRuLwC4oYpeTA",
+        "confidence": 1,
+        "premise": "香港城市大學康樂樓",
+        "subpremise": null,
+        "neighborhood": "九龍塘",
+        "establishment": null
+    },
+    "streetNumber": "83",
+    "streetName": "達之路",
+    "city": "香港",
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//蘭秀道10號
+{
+    "formattedAddress": "香港荔枝角蘭秀道10號",
+    "latitude": 22.338473,
+    "longitude": 114.138753,
+    "extra": {
+        "googlePlaceId": "ChIJO2-DcKv4AzQRRG-9uTfS3_s",
+        "confidence": 1,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "美孚新邨",
+        "establishment": null
+    },
+    "streetNumber": "10",
+    "streetName": "蘭秀道",
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵美孚站
+{
+    "formattedAddress": "香港荔枝角美孚站",
+    "latitude": 22.337751,
+    "longitude": 114.136401,
+    "extra": {
+        "googlePlaceId": "ChIJDQT1wKz4AzQRfmaE8-0Kdcg",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "荔枝角",
+        "establishment": null
+    },
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//九龍荔枝角青山道800號
+{
+    "formattedAddress": "香港長沙灣青山道800號",
+    "latitude": 22.3373541,
+    "longitude": 114.1451325,
+    "extra": {
+        "googlePlaceId": "Eh7pppnmuK_plbfmspnngaPpnZLlsbHpgZM4MDDomZ8",
+        "confidence": 0.9,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "長沙灣",
+        "establishment": null
+    },
+    "streetNumber": "800",
+    "streetName": "青山道",
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//青山道322號地下
+{
+    "formattedAddress": "香港李鄭屋青山道322號",
+    "latitude": 22.33851,
+    "longitude": 114.156561,
+    "extra": {
+        "googlePlaceId": "ChIJYZpK-00HBDQRRxbzBqAsRfg",
+        "confidence": 1,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "李鄭屋",
+        "establishment": null
+    },
+    "streetNumber": "322",
+    "streetName": "青山道",
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//北河街151號
+{
+    "formattedAddress": "香港元洲北河街151號",
+    "latitude": 22.330834,
+    "longitude": 114.162862,
+    "extra": {
+        "googlePlaceId": "ChIJwSl6lrQABDQRDdEJpWi4X74",
+        "confidence": 1,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "元洲",
+        "establishment": null
+    },
+    "streetNumber": "151",
+    "streetName": "北河街",
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵深水埗站
+{
+    "formattedAddress": "香港深水埗深水埗站",
+    "latitude": 22.33107,
+    "longitude": 114.161876,
+    "extra": {
+        "googlePlaceId": "ChIJUaCTn7QABDQRhlcmZ-02QnU",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "深水埗",
+        "establishment": null
+    },
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵石硤尾站
+{
+    "formattedAddress": "香港石硤尾站",
+    "latitude": 22.331728,
+    "longitude": 114.168813,
+    "extra": {
+        "googlePlaceId": "ChIJmcIITDUHBDQR_Zu4fBRBg_o",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+    },
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵奧運站
+{
+    "formattedAddress": "香港大角咀奧運站",
+    "latitude": 22.317771,
+    "longitude": 114.16022,
+    "extra": {
+        "googlePlaceId": "ChIJIWtMv7sABDQRESdbVIYJ5CI",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "大角咀",
+        "establishment": null
+    },
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵太子站
+{
+    "formattedAddress": "香港旺角太子站",
+    "latitude": 22.32474,
+    "longitude": 114.168252,
+    "extra": {
+        "googlePlaceId": "ChIJD1P55skABDQROjVGrkhmK7g",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "旺角",
+        "establishment": null
+    },
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//埃華街70-86號大成樓地下1號舖
+{
+    "formattedAddress": "香港大角咀埃華街70-86號大同新邨大成樓",
+    "latitude": 22.3215751,
+    "longitude": 114.1610874,
+    "extra": {
+        "googlePlaceId": "ChIJd9NsqLAABDQRlDHjquoiUYk",
+        "confidence": 1,
+        "premise": "大同新邨大成樓",
+        "subpremise": null,
+        "neighborhood": "大角咀",
+        "establishment": null
+    },
+    "streetNumber": "70-86",
+    "streetName": "埃華街",
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//埃華街1號明泰樓地下
+{
+    "formattedAddress": "香港大角咀埃華街1號明泰樓",
+    "latitude": 22.3209505,
+    "longitude": 114.1641006,
+    "extra": {
+        "googlePlaceId": "ChIJiTvC17kABDQRaIfwC1rd1Mk",
+        "confidence": 1,
+        "premise": "明泰樓",
+        "subpremise": null,
+        "neighborhood": "大角咀",
+        "establishment": null
+    },
+    "streetNumber": "1",
+    "streetName": "埃華街",
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//豉油街50號富達大廈地下4號舖
+{
+    "formattedAddress": "香港旺角豉油街50號富達大廈",
+    "latitude": 22.3166795,
+    "longitude": 114.1713756,
+    "extra": {
+        "googlePlaceId": "ChIJ52QQ-sYABDQR7IVaS57mLRE",
+        "confidence": 1,
+        "premise": "富達大廈",
+        "subpremise": null,
+        "neighborhood": "旺角",
+        "establishment": null
+    },
+    "streetNumber": "50",
+    "streetName": "豉油街",
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//彌敦道677號
+{
+    "formattedAddress": "香港旺角彌敦道677號",
+    "latitude": 22.319519,
+    "longitude": 114.169065,
+    "extra": {
+        "googlePlaceId": "ChIJ_3p36McABDQRJEt3BAT5Gas",
+        "confidence": 1,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "旺角",
+        "establishment": null
+    },
+    "streetNumber": "677",
+    "streetName": "彌敦道",
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵旺角站
+{
+    "formattedAddress": "香港旺角旺角站",
+    "latitude": 22.319253,
+    "longitude": 114.169355,
+    "extra": {
+        "googlePlaceId": "ChIJk-ZOwscABDQReCIKoir2RpU",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "旺角",
+        "establishment": null
+    },
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//亞皆老街113號地下
+{
+    "formattedAddress": "香港加多利山亞皆老街113號亞皆老街113號",
+    "latitude": 22.3204289,
+    "longitude": 114.173165,
+    "extra": {
+        "googlePlaceId": "ChIJmzmkscgABDQR2FiFVdl2eFg",
+        "confidence": 1,
+        "premise": "亞皆老街113號",
+        "subpremise": null,
+        "neighborhood": "加多利山",
+        "establishment": null
+    },
+    "streetNumber": "113",
+    "streetName": "亞皆老街",
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵旺角東站
+{
+    "formattedAddress": "香港旺角旺角東站",
+    "latitude": 22.322051,
+    "longitude": 114.172604,
+    "extra": {
+        "googlePlaceId": "ChIJiWLu28gABDQRKbBOXX0OTck",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "旺角",
+        "establishment": null
+    },
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//窩打老道86號
+{
+    "formattedAddress": "香港何文田窩打老道86號",
+    "latitude": 22.319899,
+    "longitude": 114.176898,
+    "extra": {
+        "googlePlaceId": "ChIJ11dcnM8ABDQRqB3CzPCS4Us",
+        "confidence": 1,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "何文田",
+        "establishment": null
+    },
+    "streetNumber": "86",
+    "streetName": "窩打老道",
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//彌敦道618號
+{
+    "formattedAddress": "香港旺角彌敦道618號",
+    "latitude": 22.3172022,
+    "longitude": 114.1699574,
+    "extra": {
+        "googlePlaceId": "ChIJwZmUB8cABDQRffD-VSaBmjc",
+        "confidence": 1,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "旺角",
+        "establishment": null
+    },
+    "streetNumber": "618",
+    "streetName": "彌敦道",
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵油麻地站
+{
+    "formattedAddress": "香港油麻地油麻地站",
+    "latitude": 22.312828,
+    "longitude": 114.170682,
+    "extra": {
+        "googlePlaceId": "ChIJB8cq4MAABDQR4d1zemkYDTs",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "油麻地",
+        "establishment": null
+    },
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//彌敦道363號
+{
+    "formattedAddress": "香港油麻地彌敦道363號",
+    "latitude": 22.3078601,
+    "longitude": 114.1709465,
+    "extra": {
+        "googlePlaceId": "ChIJ-8CxY-oABDQRQFcjJHGuxrQ",
+        "confidence": 1,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "油麻地",
+        "establishment": null
+    },
+    "streetNumber": "363",
+    "streetName": "彌敦道",
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//漢口道4號
+{
+    "formattedAddress": "香港尖沙咀漢口道4號",
+    "latitude": 22.295977,
+    "longitude": 114.171502,
+    "extra": {
+        "googlePlaceId": "ChIJ3QbcQvIABDQR-JRG9pCpZ80",
+        "confidence": 1,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "尖沙咀",
+        "establishment": null
+    },
+    "streetNumber": "4",
+    "streetName": "漢口道",
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵尖沙咀站
+{
+    "formattedAddress": "香港尖沙咀尖沙咀站",
+    "latitude": 22.297604,
+    "longitude": 114.172175,
+    "extra": {
+        "googlePlaceId": "ChIJa9PU9O0ABDQRnTEyNIPOwTU",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "尖沙咀",
+        "establishment": null
+    },
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵尖東站
+{
+    "formattedAddress": "香港尖沙咀尖東站",
+    "latitude": 22.295263,
+    "longitude": 114.174586,
+    "extra": {
+        "googlePlaceId": "ChIJmWWCkfEABDQRRBcOF7N7EyQ",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "尖沙咀",
+        "establishment": null
+    },
+    "state": "九龍",
+    "stateCode": "九龍",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//香港仔深灣道8號
+{
+    "formattedAddress": "香港香港仔水塘深灣道8號",
+    "latitude": 22.244447,
+    "longitude": 114.164729,
+    "extra": {
+        "googlePlaceId": "ChIJsVpKSx4ABDQRg0aMnv3jv3E",
+        "confidence": 1,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "香港仔水塘",
+        "establishment": null
+    },
+    "streetNumber": "8",
+    "streetName": "深灣道",
+    "city": "香港島",
+    "state": "新界",
+    "stateCode": "新界",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//祥利街7號萬峯工業大廈地下
+{
+    "formattedAddress": "香港柴灣祥利街7號",
+    "latitude": 22.264233,
+    "longitude": 114.23612,
+    "extra": {
+        "googlePlaceId": "ChIJZ7uiYogBBDQRLvR7_LMz3Hs",
+        "confidence": 1,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "柴灣",
+        "establishment": null
+    },
+    "streetNumber": "7",
+    "streetName": "祥利街",
+    "state": "香港島",
+    "stateCode": "香港島",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵柴灣站
+{
+    "formattedAddress": "香港柴灣柴灣站",
+    "latitude": 22.264625,
+    "longitude": 114.237139,
+    "extra": {
+        "googlePlaceId": "ChIJa1-QdogBBDQRB_vVGuTyS1E",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "柴灣",
+        "establishment": null
+    },
+    "state": "香港島",
+    "stateCode": "香港島",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵筲箕灣站
+{
+    "formattedAddress": "香港筲箕灣站",
+    "latitude": 22.279189,
+    "longitude": 114.228921,
+    "extra": {
+        "googlePlaceId": "ChIJicHyRngBBDQRm2UoEKlTyA0",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+    },
+    "state": "香港島",
+    "stateCode": "香港島",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//筲箕灣道295號譽都1樓6號舖
+{
+    "formattedAddress": "香港筲箕灣筲箕灣道305號譽都",
+    "latitude": 22.2784925,
+    "longitude": 114.2266774,
+    "extra": {
+        "googlePlaceId": "ChIJ_Rrm8HcBBDQRSkFWoLUXRRg",
+        "confidence": 1,
+        "premise": "譽都",
+        "subpremise": null,
+        "neighborhood": "筲箕灣",
+        "establishment": null
+    },
+    "streetNumber": "305",
+    "streetName": "筲箕灣道",
+    "state": "香港島",
+    "stateCode": "香港島",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//筲箕灣道251-261號F01號舖
+{
+    "formattedAddress": "香港筲箕灣筲箕灣道251-261號都城大樓",
+    "latitude": 22.2794794,
+    "longitude": 114.2260875,
+    "extra": {
+        "googlePlaceId": "ChIJEZj8k3cBBDQRkL3-bvCSdyg",
+        "confidence": 1,
+        "premise": "都城大樓",
+        "subpremise": null,
+        "neighborhood": "筲箕灣",
+        "establishment": null
+    },
+    "streetNumber": "251-261",
+    "streetName": "筲箕灣道",
+    "state": "香港島",
+    "stateCode": "香港島",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵西灣河站
+{
+    "formattedAddress": "香港西灣河西灣河站",
+    "latitude": 22.282096,
+    "longitude": 114.221905,
+    "extra": {
+        "googlePlaceId": "ChIJo3pjmnYBBDQRQLu7xtyyOp4",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "西灣河",
+        "establishment": null
+    },
+    "state": "香港島",
+    "stateCode": "香港島",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//太古城道25號富山閣地下G15號
+{
+    "formattedAddress": "香港鰂魚涌太古城道25號太古城高山台富山閣",
+    "latitude": 22.285982,
+    "longitude": 114.218366,
+    "extra": {
+        "googlePlaceId": "ChIJC4wkoHMBBDQRlr86SMCA7Nc",
+        "confidence": 1,
+        "premise": "太古城高山台富山閣",
+        "subpremise": null,
+        "neighborhood": "鰂魚涌",
+        "establishment": null
+    },
+    "streetNumber": "25",
+    "streetName": "太古城道",
+    "state": "香港島",
+    "stateCode": "香港島",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//太古城道24號夏宮閣地下G408號
+{
+    "formattedAddress": "香港鰂魚涌太古城道24號太古城金殿台夏宮閣",
+    "latitude": 22.2864844,
+    "longitude": 114.2156179,
+    "extra": {
+        "googlePlaceId": "ChIJHT3cNXMBBDQRzv8UMnHmXoE",
+        "confidence": 1,
+        "premise": "太古城金殿台夏宮閣",
+        "subpremise": null,
+        "neighborhood": "鰂魚涌",
+        "establishment": null
+    },
+    "streetNumber": "24",
+    "streetName": "太古城道",
+    "state": "香港島",
+    "stateCode": "香港島",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵太古站
+{
+    "formattedAddress": "香港康山太古站",
+    "latitude": 22.284649,
+    "longitude": 114.216359,
+    "extra": {
+        "googlePlaceId": "ChIJ7RfOpnQBBDQRemQVEpdDcGY",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "康山",
+        "establishment": null
+    },
+    "state": "香港島",
+    "stateCode": "香港島",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//英皇道989號
+{
+    "formattedAddress": "香港鰂魚涌英皇道989號",
+    "latitude": 22.285715,
+    "longitude": 114.211948,
+    "extra": {
+        "googlePlaceId": "ChIJyRMsfwwBBDQRXD_kgKm9Ot0",
+        "confidence": 1,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "鰂魚涌",
+        "establishment": null
+    },
+    "streetNumber": "989",
+    "streetName": "英皇道",
+    "state": "香港島",
+    "stateCode": "香港島",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//英皇道468號
+{
+    "formattedAddress": "香港北角英皇道468號",
+    "latitude": 22.2911471,
+    "longitude": 114.2007986,
+    "extra": {
+        "googlePlaceId": "EhvpppnmuK_ljJfop5Loi7HnmofpgZM0NjjomZ8",
+        "confidence": 0.9,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "北角",
+        "establishment": null
+    },
+    "streetNumber": "468",
+    "streetName": "英皇道",
+    "state": "香港島",
+    "stateCode": "香港島",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵北角站
+{
+    "formattedAddress": "香港北角北角站",
+    "latitude": 22.291123,
+    "longitude": 114.200018,
+    "extra": {
+        "googlePlaceId": "ChIJ2YJ-5AQBBDQROAXrNLrsXzw",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "北角",
+        "establishment": null
+    },
+    "state": "香港島",
+    "stateCode": "香港島",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//英皇道335號
+{
+    "formattedAddress": "香港北角英皇道335號",
+    "latitude": 22.2906534,
+    "longitude": 114.1970109,
+    "extra": {
+        "googlePlaceId": "ChIJ_RAKggMBBDQR5gd68XCJZKQ",
+        "confidence": 1,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "北角",
+        "establishment": null
+    },
+    "streetNumber": "335",
+    "streetName": "英皇道",
+    "state": "香港島",
+    "stateCode": "香港島",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//電氣道233號
+{
+    "formattedAddress": "香港北角電氣道233號",
+    "latitude": 22.290648,
+    "longitude": 114.194482,
+    "extra": {
+        "googlePlaceId": "ChIJdWjMrAMBBDQRRkIcVrBiKCs",
+        "confidence": 1,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "北角",
+        "establishment": null
+    },
+    "streetNumber": "233",
+    "streetName": "電氣道",
+    "state": "香港島",
+    "stateCode": "香港島",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵炮台山站
+{
+    "formattedAddress": "香港北角炮台山站",
+    "latitude": 22.287913,
+    "longitude": 114.193661,
+    "extra": {
+        "googlePlaceId": "ChIJp0ecjwEBBDQRFZZhu-ivpRA",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "炮台山",
+        "establishment": null
+    },
+    "state": "香港島",
+    "stateCode": "香港島",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//山村道76號
+{
+    "formattedAddress": "香港跑馬地山村道76號",
+    "latitude": 22.268162,
+    "longitude": 114.186358,
+    "extra": {
+        "googlePlaceId": "ChIJ-ZiJEEwABDQRcphvayRC5Jc",
+        "confidence": 1,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "跑馬地",
+        "establishment": null
+    },
+    "streetNumber": "76",
+    "streetName": "山村道",
+    "state": "香港島",
+    "stateCode": "香港島",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//加路連山道88號體育中心地下
+{
+    "formattedAddress": "香港加路連山加路連山道88號",
+    "latitude": 22.275296,
+    "longitude": 114.186892,
+    "extra": {
+        "googlePlaceId": "ChIJz2DINVIABDQRpvzwYOkI_60",
+        "confidence": 1,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "加路連山",
+        "establishment": null
+    },
+    "streetNumber": "88",
+    "streetName": "加路連山道",
+    "state": "香港島",
+    "stateCode": "香���島",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//怡和街28號
+{
+    "formattedAddress": "香港東角怡和街28號",
+    "latitude": 22.279694,
+    "longitude": 114.185389,
+    "extra": {
+        "googlePlaceId": "ChIJmSvaoFYABDQRdBR_hRvAyvQ",
+        "confidence": 1,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "東角",
+        "establishment": null
+    },
+    "streetNumber": "28",
+    "streetName": "怡和街",
+    "state": "香港島",
+    "stateCode": "香港島",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//軒尼詩道417號
+{
+    "formattedAddress": "香港灣仔軒尼詩道417號",
+    "latitude": 22.279442,
+    "longitude": 114.18076,
+    "extra": {
+        "googlePlaceId": "ChIJZaFlS1cABDQRaLEj1hl4hWo",
+        "confidence": 1,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "鵝頸",
+        "establishment": null
+    },
+    "streetNumber": "417",
+    "streetName": "軒尼詩道",
+    "state": "香港島",
+    "stateCode": "香港島",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//軒尼詩道200號
+{
+    "formattedAddress": "香港灣仔軒尼詩道200號",
+    "latitude": 22.2774721,
+    "longitude": 114.1745881,
+    "extra": {
+        "googlePlaceId": "ChIJ3SZ1nVsABDQR9NsJooi0y4Q",
+        "confidence": 1,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "灣仔",
+        "establishment": null
+    },
+    "streetNumber": "200",
+    "streetName": "軒尼詩道",
+    "state": "香港島",
+    "stateCode": "香港島",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//莊士敦道132號
+{
+    "formattedAddress": "香港灣仔莊士敦道132號",
+    "latitude": 22.2764851,
+    "longitude": 114.1737267,
+    "extra": {
+        "googlePlaceId": "Eh7pppnmuK_ngaPku5Tojorlo6vmlabpgZMxMzLomZ8",
+        "confidence": 0.9,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "灣仔",
+        "establishment": null
+    },
+    "streetNumber": "132",
+    "streetName": "莊士敦道",
+    "state": "香港島",
+    "stateCode": "香港島",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵灣仔站
+{
+    "formattedAddress": "香港灣仔灣仔站",
+    "latitude": 22.277608,
+    "longitude": 114.172967,
+    "extra": {
+        "googlePlaceId": "ChIJ_QfOh1wABDQRqNVhIcl46KU",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "灣仔",
+        "establishment": null
+    },
+    "state": "香港島",
+    "stateCode": "香港島",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港島線金鐘站
+{
+    "formattedAddress": "香港中環金鐘站",
+    "latitude": 22.279412,
+    "longitude": 114.164559,
+    "extra": {
+        "googlePlaceId": "ChIJMwF-_mYABDQRaVnq758Eb-g",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "中環",
+        "establishment": null
+    },
+    "state": "香港島",
+    "stateCode": "香港島",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵香港站
+{
+    "formattedAddress": "香港中環香港站",
+    "latitude": 22.284681,
+    "longitude": 114.158177,
+    "extra": {
+        "googlePlaceId": "ChIJKZNuDmMABDQRYvRmIXBsfRk",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "中環",
+        "establishment": null
+    },
+    "state": "香港島",
+    "stateCode": "香港島",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//中環國際金融中心二期地下
+{
+    "formattedAddress": "香港中環金融街8號國際金融中心二期",
+    "latitude": 22.2852909,
+    "longitude": 114.1592925,
+    "extra": {
+        "googlePlaceId": "ChIJ61hZrGMABDQRQqYh3YtZtP4",
+        "confidence": 1,
+        "premise": "國際金融中心二期",
+        "subpremise": null,
+        "neighborhood": "中環",
+        "establishment": null
+    },
+    "streetNumber": "8",
+    "streetName": "金融街",
+    "state": "香港島",
+    "stateCode": "香港島",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//德輔道中83號
+{
+    "formattedAddress": "香港中環德輔道中83號",
+    "latitude": 22.284561,
+    "longitude": 114.156191,
+    "extra": {
+        "googlePlaceId": "ChIJ1z0CSmMABDQROmtQiQpB0Q8",
+        "confidence": 1,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "中環",
+        "establishment": null
+    },
+    "streetNumber": "83",
+    "streetName": "德輔道中",
+    "state": "香港島",
+    "stateCode": "香港島",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//德輔道西52號
+{
+    "formattedAddress": "香港上環德輔道西52號",
+    "latitude": 22.287458,
+    "longitude": 114.146768,
+    "extra": {
+        "googlePlaceId": "ChIJ1SB4AH8ABDQRhGxdiZ7BgGo",
+        "confidence": 1,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "上環",
+        "establishment": null
+    },
+    "streetNumber": "52",
+    "streetName": "德輔道西",
+    "state": "香港島",
+    "stateCode": "香港島",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//港鐵西營盤站
+{
+    "formattedAddress": "香港西環西營盤站",
+    "latitude": 22.285533,
+    "longitude": 114.142733,
+    "extra": {
+        "googlePlaceId": "ChIJCT9otID_AzQRa1XGkhsLYck",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "西營盤",
+        "establishment": null
+    },
+    "state": "香港島",
+    "stateCode": "香港島",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//皇后大道西484-496號新安大樓地下
+{
+    "formattedAddress": "香港西環皇后大道西484-496號新安大樓",
+    "latitude": 22.2857964,
+    "longitude": 114.13547,
+    "extra": {
+        "googlePlaceId": "ChIJE4BIe4T_AzQRcsAGRh4AO7Y",
+        "confidence": 1,
+        "premise": "新安大樓",
+        "subpremise": null,
+        "neighborhood": "石塘咀",
+        "establishment": null
+    },
+    "streetNumber": "484-496",
+    "streetName": "皇后大道西",
+    "state": "香港島",
+    "stateCode": "香港島",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//德輔道西363號地下4號舖
+{
+    "formattedAddress": "香港石塘咀德輔道西363號",
+    "latitude": 22.2868134,
+    "longitude": 114.1363018,
+    "extra": {
+        "googlePlaceId": "EiHpppnmuK_nn7PloZjlkoDlvrfovJTpgZPopb8zNjPomZ8",
+        "confidence": 0.9,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "石塘咀",
+        "establishment": null
+    },
+    "streetNumber": "363",
+    "streetName": "德輔道西",
+    "state": "香港島",
+    "stateCode": "香港島",
+    "country": "香港",
+    "countryCode": "HK"
+},
+
+//香港士美菲路45-51號地下及地庫
+{
+    "formattedAddress": "香港西環士美菲路45號",
+    "latitude": 22.281674,
+    "longitude": 114.128129,
+    "extra": {
+        "googlePlaceId": "ChIJhYKAm5D_AzQRPL9azyi2-TA",
+        "confidence": 1,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "西環",
+        "establishment": null
+    },
+    "streetNumber": "45",
+    "streetName": "士美菲路",
+    "state": "香港島",
+    "stateCode": "香港島",
+    "country": "香港",
+    "countryCode": "HK"
+}

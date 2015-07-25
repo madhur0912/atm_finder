@@ -1,5 +1,8 @@
 'use strict';
 
+/**
+ * Download all HSBC branch infos, parse it and save to branches.json
+ */
 var Promise = require('bluebird');
 var request = require('request');
 var fs = require('fs');
@@ -151,7 +154,7 @@ var saveResponseBody = function(filename, postData, body) {
 
 // Input a requestData,
 // recursively find branches inside,
-// return the Pormise of array of branches
+// return the Promise of array of branches
 var findBranches = function(requestData, route) {
   return new Promise(function(resolve, reject) {
     var postData = {
@@ -214,6 +217,8 @@ findBranches(requestData, 'base')
 
     // Save to branches.json
     fs.writeFileSync('./branches.json', JSON.stringify(formated, 0, 4), 'utf-8');
+    console.log('Save branches.json success!');
+    console.log('Finish.');
   })
   .catch(function(error) {
 
