@@ -20,158 +20,158 @@ var detailPath = '2_AREA.ID_DISTRICT.ID_0_atmDetails.xml';
 
 // Area Object
 function Area(area_id, district_ids) {
-  this.area_id = area_id;
-  this.district_ids = district_ids;
+	this.area_id = area_id;
+	this.district_ids = district_ids;
 }
 
 // Branch Object
 function Branch(atm) {
-  this.atm_type = 'jetco';
-  this.name = $(atm).find('ob_name').text();
-  this.bank_type = this.name.substring(0, this.name.indexOf('銀行') + 2);
-  this.area = $(atm).find('aarea').text();
-  this.district = $(atm).find('district').text();
-  this.address = $(atm).find('addr').text();
-  this.service = $(atm).find('supp_tran').text().trim();
-  this.detail = null;
-  this.atm24 = true;
-  this.lat = parseFloat($(atm).find('latitude').text());
-  this.lng = parseFloat($(atm).find('longitude').text());
-  this.workHrs = null;
+	this.atm_type = 'jetco';
+	this.name = $(atm).find('ob_name').text();
+	this.bank_type = this.name.substring(0, this.name.indexOf('銀行') + 2);
+	this.area = $(atm).find('aarea').text();
+	this.district = $(atm).find('district').text();
+	this.address = $(atm).find('addr').text();
+	this.service = $(atm).find('supp_tran').text().trim();
+	this.detail = null;
+	this.atm24 = true;
+	this.lat = parseFloat($(atm).find('latitude').text());
+	this.lng = parseFloat($(atm).find('longitude').text());
+	this.workHrs = null;
 }
 
 // Function to flatten an array
 var flattenArray = function(array) {
-  return [].concat.apply([], array);
+	return [].concat.apply([], array);
 };
 
 // Return Promise of array of area_id
 var getAreaIds = function() {
-  return new Promise(function(resolve, reject) {
-    var currentURL = baseURL + areaPath;
+	return new Promise(function(resolve, reject) {
+		var currentURL = baseURL + areaPath;
 
-    // Start the request
-    request
-      .get(currentURL, function(error, response, body) {
+		// Start the request
+		request
+			.get(currentURL, function(error, response, body) {
 
-        // Save the response body
-        saveResponseBody(areaPath, currentURL, body);
+				// Save the response body
+				saveResponseBody(areaPath, currentURL, body);
 
-        // Use cheerio to find all <area_id>
-        var area_ids = [];
-        $(body).find('atm_areas').find('area_id').map(function(index, element) {
-          area_ids.push($(element).text());
-        });
+				// Use cheerio to find all <area_id>
+				var area_ids = [];
+				$(body).find('atm_areas').find('area_id').map(function(index, element) {
+					area_ids.push($(element).text());
+				});
 
-        // Resolve it
-        resolve(area_ids);
-      })
-      .on('error', function(error) {
+				// Resolve it
+				resolve(area_ids);
+			})
+			.on('error', function(error) {
 
-        // Error
-        reject(error);
-      });
-  });
+				// Error
+				reject(error);
+			});
+	});
 };
 
 // Input array of area_id, return array of Area Objects
 var getAllDistrictIds = function(area_ids) {
-  return Promise.map(area_ids, getDistrictIdsFromArea);
+	return Promise.map(area_ids, getDistrictIdsFromArea);
 };
 
 // Input area_id, return the Promise of Area Object
 var getDistrictIdsFromArea = function(area_id) {
-  return new Promise(function(resolve, reject) {
+	return new Promise(function(resolve, reject) {
 
-    // Setup the URL
-    var currentDistrictPath = districtPath.replace('AREA.ID', area_id);
-    var currentURL = baseURL + currentDistrictPath;
+		// Setup the URL
+		var currentDistrictPath = districtPath.replace('AREA.ID', area_id);
+		var currentURL = baseURL + currentDistrictPath;
 
-    // Start the request
-    request
-      .get(currentURL, function(error, response, body) {
+		// Start the request
+		request
+			.get(currentURL, function(error, response, body) {
 
-        // Save the response body
-        saveResponseBody(currentDistrictPath, currentURL, body);
+				// Save the response body
+				saveResponseBody(currentDistrictPath, currentURL, body);
 
-        // Use cheerio to find all <district_id>
-        var district_ids = [];
-        $(body).find('atm_districts').find('district_id').map(function(index, element) {
-          district_ids.push($(element).text());
-        });
+				// Use cheerio to find all <district_id>
+				var district_ids = [];
+				$(body).find('atm_districts').find('district_id').map(function(index, element) {
+					district_ids.push($(element).text());
+				});
 
-        // Resolve it
-        resolve(new Area(area_id, district_ids));
-      })
-      .on('error', function(error) {
+				// Resolve it
+				resolve(new Area(area_id, district_ids));
+			})
+			.on('error', function(error) {
 
-        // Error
-        reject(error);
-      });
-  });
+				// Error
+				reject(error);
+			});
+	});
 };
 
 // Input array of Area Objects, return Promise of array of all branches
 var getAllBranches = function(areas) {
 
-  // For each area, 
-  return Promise.map(areas, function(area) {
+	// For each area, 
+	return Promise.map(areas, function(area) {
 
-    // For each district,
-    return Promise.map(area.district_ids, function(district_id) {
+		// For each district,
+		return Promise.map(area.district_ids, function(district_id) {
 
-      // Return the Promise of array of branches
-      return getBranchesWithAreaAndDistricts(area.area_id, district_id);
-    }).then(flattenArray);
-  }).then(flattenArray);
+			// Return the Promise of array of branches
+			return getBranchesWithAreaAndDistricts(area.area_id, district_id);
+		}).then(flattenArray);
+	}).then(flattenArray);
 };
 
 // Input area_id and district_id, return Promise of array of branches
 var getBranchesWithAreaAndDistricts = function(area_id, district_id) {
-  return new Promise(function(resolve, reject) {
-    var currentDetailPath = detailPath.replace('AREA.ID', area_id).replace('DISTRICT.ID', district_id);
-    var currentURL = baseURL + currentDetailPath;
-    // Start the request
-    request
-      .get(currentURL, function(error, response, body) {
+	return new Promise(function(resolve, reject) {
+		var currentDetailPath = detailPath.replace('AREA.ID', area_id).replace('DISTRICT.ID', district_id);
+		var currentURL = baseURL + currentDetailPath;
+		// Start the request
+		request
+			.get(currentURL, function(error, response, body) {
 
-        // Save the response body
-        saveResponseBody(currentDetailPath, currentURL, body);
+				// Save the response body
+				saveResponseBody(currentDetailPath, currentURL, body);
 
-        // Replace 'area' with 'aarea' in body,
-        // since cheerio cannot find <area>
-        body = body.replace(/area/g, 'aarea');
+				// Replace 'area' with 'aarea' in body,
+				// since cheerio cannot find <area>
+				body = body.replace(/area/g, 'aarea');
 
-        // Use cheerio to find all <atm>
-        var atms = $(body).find('atms').find('atm');
+				// Use cheerio to find all <atm>
+				var atms = $(body).find('atms').find('atm');
 
-        // Format all branches in this district
-        var branchesInDistrict = [];
-        for (var i = 0; i < atms.length; i++) {
+				// Format all branches in this district
+				var branchesInDistrict = [];
+				for (var i = 0; i < atms.length; i++) {
 
-          // Add branch to branchesInDistrict
-          branchesInDistrict.push(new Branch(atms[i]));
-        }
+					// Add branch to branchesInDistrict
+					branchesInDistrict.push(new Branch(atms[i]));
+				}
 
-        // Resolve it
-        resolve(branchesInDistrict);
-      })
-      .on('error', function(error) {
-        // Error
-        reject(error);
-      });
-  });
+				// Resolve it
+				resolve(branchesInDistrict);
+			})
+			.on('error', function(error) {
+				// Error
+				reject(error);
+			});
+	});
 };
 
 // Save response body
 var saveResponseBody = function(filename, url, body) {
-  body = '<!-- ' + url + '-->\n' + body;
-  if (!fs.existsSync(dataDir)) {
-    fs.mkdirSync(dataDir);
-  }
-  fs.writeFileSync(dataDir + filename, body, 'utf-8');
+	body = '<!-- ' + url + '-->\n' + body;
+	if (!fs.existsSync(dataDir)) {
+		fs.mkdirSync(dataDir);
+	}
+	fs.writeFileSync(dataDir + filename, body, 'utf-8');
 
-  console.log('Save ' + filename + ' success!');
+	console.log('Save ' + filename + ' success!');
 };
 
 // Start the promise
@@ -184,12 +184,12 @@ Promise
 .then(getAllBranches)
 // Save to json
 .then(function(branches) {
-  //console.log(JSON.stringify(branches, 0, 4));
-  fs.writeFileSync('./branches.json', JSON.stringify(branches, 0, 4), 'utf-8');
-  console.log('Save branches.json success!');
-  console.log('Finish.');
+	//console.log(JSON.stringify(branches, 0, 4));
+	fs.writeFileSync('./branches.json', JSON.stringify(branches, 0, 4), 'utf-8');
+	console.log('Save branches.json success!');
+	console.log('Finish.');
 })
 // Error handler
 .catch(function(error) {
-  console.log(error);
+	console.log(error);
 });
