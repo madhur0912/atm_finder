@@ -12,7 +12,7 @@ var fs = require('fs');
 var $ = require('cheerio');
 var request = require('request');
 
-var dataDir = './data/';
+var dataDir = __dirname + '/data/';
 var baseURL = 'http://www.jetco.com.hk/tc/xml/atm/';
 var areaPath = '2_atmArea.xml';
 var districtPath = 'AREA.ID_atmDistrict.xml';
@@ -171,25 +171,32 @@ var saveResponseBody = function(filename, url, body) {
 	}
 	fs.writeFileSync(dataDir + filename, body, 'utf-8');
 
-	console.log('Save ' + filename + ' success!');
+	console.log('Jetco: Save ' + filename + ' success!');
 };
 
 // Start the promise
-Promise
-// Get an array of area_ids
-.try(getAreaIds)
-// Input area_ids, return array of Area Objects
-.then(getAllDistrictIds)
-// Input array of Area Objects, return array of Branch Objects
-.then(getAllBranches)
-// Save to json
-.then(function(branches) {
-	//console.log(JSON.stringify(branches, 0, 4));
-	fs.writeFileSync('./branches.json', JSON.stringify(branches, 0, 4), 'utf-8');
-	console.log('Save branches.json success!');
-	console.log('Finish.');
-})
-// Error handler
-.catch(function(error) {
-	console.log(error);
-});
+var branches = Promise
+	// Get an array of area_ids
+	.try(getAreaIds)
+	// Input area_ids, return array of Area Objects
+	.then(getAllDistrictIds)
+	// Input array of Area Objects, return array of Branch Objects
+	.then(getAllBranches)
+	// Save to json
+	.then(function(branches) {
+		return new Promise(function(resolve) {
+			//console.log(JJetco: SON.stringify(branches, 0, 4));
+			fs.writeFileSync(__dirname + '/branches.json', JSON.stringify(branches, 0, 4), 'utf-8');
+			console.log('Jetco: Save branches.json success!');
+			console.log('Jetco: Resolve branches.');
+
+			resolve(branches);
+		});
+	})
+	// Error handler
+	.catch(function(error) {
+		console.log('Jetco: ' + error);
+	});
+
+// Exports the promise with branches
+module.exports = branches;

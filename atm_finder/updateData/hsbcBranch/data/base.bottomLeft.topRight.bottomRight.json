@@ -86,7 +86,7 @@
                     "saturday": "-",
                     "sunday": "-"
                 },
-                "todayOpenHours": "08:30 - 16:15"
+                "todayOpenHours": "-"
             },
             "services": [
                 {
@@ -170,7 +170,7 @@
                     "saturday": "09:00 - 13:00",
                     "sunday": "-"
                 },
-                "todayOpenHours": "09:00 - 17:00"
+                "todayOpenHours": "09:00 - 16:30"
             },
             "services": [
                 {

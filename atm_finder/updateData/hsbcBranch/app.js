@@ -7,7 +7,7 @@ var Promise = require('bluebird');
 var request = require('request');
 var fs = require('fs');
 
-var dataDir = './data/';
+var dataDir = __dirname + '/data/';
 var url = 'https://www.hsbc.com.hk/gpib/channel/proxy/abslSvc/enqBranchABSL';
 
 // Base request data, which enclose HK region
@@ -97,8 +97,8 @@ var toBottomRight = function(requestData) {
 // Input a HSBC branch json, return a Branch Object
 function Branch(branch) {
 
-	console.log('creating');
-	console.log(branch);
+	// console.log(branch.hasOwnProperty('addInfo'));
+	// console.log(JSON.stringify(branch, 0, 4));
 
 	// Set basic key-value
 	this.atm_type = 'hsbc';
@@ -107,7 +107,7 @@ function Branch(branch) {
 	this.area = branch.address.prov;
 	this.district = branch.address.city;
 	this.address = branch.address.line1;
-	this.detail = null;
+	this.detail = branch.addInfo !== null ? branch.addInfo.callOutText : null;
 	this.lat = branch.address.lat;
 	this.lng = branch.address.lng;
 
@@ -149,13 +149,16 @@ var saveResponseBody = function(filename, postData, body) {
 	}
 	fs.writeFileSync(dataDir + filename, text, 'utf-8');
 
-	console.log('Save ' + filename + ' success!');
+	console.log('HSBC: Save ' + filename + ' success!');
 };
 
 // Input a requestData,
 // recursively find branches inside,
 // return the Promise of array of branches
 var findBranches = function(requestData, route) {
+
+	console.log('HSBC: Finding branches in ' + route);
+
 	return new Promise(function(resolve, reject) {
 		var postData = {
 			url: url,
@@ -169,7 +172,12 @@ var findBranches = function(requestData, route) {
 
 		request(postData, function(error, response, body) {
 
-			if (body.exceedMaximum) {
+			if (error) {
+				if (error.code === 'ECONNRESET') {
+					console.log('HSBC: ECONNRESET Retry request');
+					resolve(findBranches(requestData, route));
+				}
+			} else if (body.exceedMaximum) {
 
 				// If result exceed maximum (> 20)
 				// Cut it to 4 part and recursively find branches
@@ -202,26 +210,40 @@ var findBranches = function(requestData, route) {
 	});
 };
 
-// Start the recursion
-findBranches(requestData, 'base')
-	.then(function(branches) {
+// Input array of unformated branches
+// return the Promise of array of formated branches
+var formatBranches = function(branches) {
+	return new Promise(function(resolve) {
 
-		console.log(branches.length);
-		//Format all branches
+		// Format all branches
 		var formated = [];
 		for (var i = 0; i < branches.length; i++) {
-
-			// Add branch to branchesInDistrict
 			formated.push(new Branch(branches[i]));
 		}
 
-		// Save to branches.json
-		fs.writeFileSync('./branches.json', JSON.stringify(formated, 0, 4), 'utf-8');
-		console.log('Save branches.json success!');
-		console.log('Finish.');
-	})
-	.catch(function(error) {
-
-		// Error
-		console.log(error);
+		// Resolve the formated branches
+		resolve(formated);
 	});
+};
+
+// Start the recursion
+var branches = Promise
+	.join(requestData, 'base', findBranches)
+	.then(formatBranches)
+	.then(function(branches) {
+		return new Promise(function(resolve) {
+			// Save to branches.json
+			fs.writeFileSync(__dirname + '/branches.json', JSON.stringify(branches, 0, 4), 'utf-8');
+			console.log('HSBC: Save branches.json success!');
+			console.log('HSBC: Finish.');
+
+			resolve(branches);
+		});
+	})
+	// Error handler
+	.catch(function(error) {
+		console.log('HSBC: ' + error);
+	});
+
+// Exports the promise with branches
+module.exports = branches;

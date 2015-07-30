@@ -20,8 +20,8 @@ var extra = {
 var geocoder = require('node-geocoder')(geocoderProvider, httpAdapter, extra);
 
 // Path
-var dataDir = './data/';
-var patchDir = './patch/';
+var dataDir = __dirname + '/data/';
+var patchDir = __dirname + '/patch/';
 var geocodeJsonPath = dataDir + 'geocode.json';
 var url = 'http://bank.hangseng.com/1/2/chi/contact-us/branch-addresses';
 
@@ -84,7 +84,7 @@ var branchGetLatLong = function(branch) {
 			geocoder.geocode(address.replace('港鐵', ''))
 				.then(function(res) {
 
-					console.log(res[0]);
+					console.log('HangSeng: geocode result = [' + address + ', ' + res[0].latitude + ', ' + res[0].longitude + ']');
 
 					// Save each geocode result
 					if (!fs.existsSync(geocodeJsonPath)) {
@@ -174,7 +174,7 @@ var saveResponseBody = function(filename, body) {
 	}
 	fs.writeFileSync(dataDir + filename, body, 'utf-8');
 
-	console.log('Save ' + filename + ' success!');
+	console.log('HangSeng: Save ' + filename + ' success!');
 };
 
 // Input the branch and districts Object,
@@ -249,32 +249,30 @@ var getAllBranches = function() {
 // Delete previous geocode.json
 fs.unlink(geocodeJsonPath, function(err) {
 	if (err) {
-		console.log(err);
+		console.log('HangSeng: ' + err);
 	} else {
-		console.log('successfully deleted ' + geocodeJsonPath);
+		console.log('HangSeng: Successfully deleted ' + geocodeJsonPath);
 	}
 });
 
 // Start the Promise
-Promise
+var branches = Promise
 	.try(getAllBranches)
 	.map(formatBranch)
 	.map(branchGetLatLong, {
 		concurrency: 1
 	})
 	.then(function(branches) {
-
-
-		for (var i = 0; i < branches.length; i++) {
-			for (var j = 0; j < branches.length; j++) {
-				if (branches[i].lat === branches[j].lat && branches[i].lng === branches[j].lng && i !== j) {
-					console.log('////////////////////////////////////')
-					console.log(JSON.stringify(branches[i]) + '\n=\n' + JSON.stringify(branches[j]));
-				};
-			};
-		};
-
-		fs.writeFileSync('./branches.json', JSON.stringify(branches, 0, 4), 'utf-8');
-		console.log('Save branches.json success!');
-		console.log('Finish.');
+		return new Promise(function(resolve) {
+			fs.writeFileSync(__dirname + '/branches.json', JSON.stringify(branches, 0, 4), 'utf-8');
+			console.log('HangSeng: Save branches.json success!');
+			console.log('HangSeng Finish.');
+			resolve(branches);
+		});
+	})
+	.catch(function(error) {
+		console.log('HangSeng: ' + error);
 	});
+
+// Exports the promise with branches
+module.exports = branches;
