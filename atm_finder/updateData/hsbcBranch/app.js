@@ -102,14 +102,28 @@ function Branch(branch) {
 
 	// Set basic key-value
 	this.atm_type = 'hsbc';
-	this.bank_type = '匯豐銀行';
-	this.name = '匯豐銀行 ' + branch.name;
-	this.area = branch.address.prov;
-	this.district = branch.address.city;
-	this.address = branch.address.line1;
-	this.detail = branch.addInfo !== null ? branch.addInfo.callOutText : null;
-	this.lat = branch.address.lat;
-	this.lng = branch.address.lng;
+	this.bank_type = 'hsbc';
+	this.name = {
+		zh: '匯豐銀行 ' + branch.name,
+		en: 'HSBC ' + branch.en.name
+	};
+	this.area = {
+		zh: branch.address.prov,
+		en: branch.en.address.prov
+	};
+	this.district = {
+		zh: branch.address.city,
+		en: branch.en.address.city
+	};
+	this.address = {
+		zh: branch.address.line1,
+		en: branch.en.address.line1
+	};
+	this.detail = {
+		zh: branch.addInfo !== null ? branch.addInfo.callOutText : null,
+		en: branch.en.addInfo !== null ? branch.en.addInfo.callOutText : null,
+	};
+	this.loc = [parseFloat(branch.address.lng), parseFloat(branch.address.lat)];
 
 	// Set workHrs
 	this.workHrs = null;
@@ -133,12 +147,20 @@ function Branch(branch) {
 	this.atm24 = (stringify.indexOf('00:00 - 23:59') != -1) || (stringify.indexOf('24小時') != -1);
 
 	// Set service
-	var serviceString = '';
+	var serviceStringZh = '';
 	for (var j = 0; j < branch.services.length; j++) {
-		serviceString = serviceString + branch.services[j].service + '\n';
+		serviceStringZh = serviceStringZh + branch.services[j].service + '\n';
+	}
+	// Set service
+	var serviceStringEn = '';
+	for (var j = 0; j < branch.en.services.length; j++) {
+		serviceStringEn = serviceStringEn + branch.en.services[j].service + '\n';
 	}
 
-	this.service = serviceString.trim();
+	this.service = {
+		zh: serviceStringZh.trim(),
+		en: serviceStringEn.trim()
+	};
 }
 
 // Save response body
@@ -197,10 +219,41 @@ var findBranches = function(requestData, route) {
 
 				// If result not exceed maximum (<= 20)
 				// Save the result
-				saveResponseBody(route + '.json', postData, body);
+				saveResponseBody(route + '.Zh.json', postData, body);
 
-				// Resolve it
-				resolve(body.results);
+				// Find En version
+				var postDataEn = JSON.parse(JSON.stringify(postData));
+				postDataEn.body.locale = 'zh-en';
+				request(postDataEn, function(errorEn, responseEn, bodyEn) {
+
+					// If error, find it again
+					if (errorEn) {
+						if (errorEn.code === 'ECONNRESET') {
+							console.log('HSBC: ECONNRESET Retry request');
+							resolve(findBranches(requestData, route));
+						}
+					} else {
+
+						// Save the result
+						saveResponseBody(route + '.En.json', postDataEn, bodyEn);
+
+						var resultZh = body.results;
+						var resultEn = bodyEn.results;
+
+						for (var i = 0; i < resultZh.length; i++) {
+							for (var j = 0; j < resultEn.length; j++) {
+								if (resultZh[i].locationId === resultEn[j].locationId) {
+									resultZh[i].en = resultEn[j];
+									resultEn.splice(j, 1);
+									break;
+								}
+							};
+						};
+
+						// Resolve it
+						resolve(resultZh);
+					}
+				})
 			}
 		}).on('error', function(error) {
 
@@ -232,6 +285,12 @@ var branches = Promise
 	.then(formatBranches)
 	.then(function(branches) {
 		return new Promise(function(resolve) {
+
+			// Sort branches by longitude
+			branches.sort(function(a, b) {
+				return a.loc[0] - b.loc[0];
+			});
+
 			// Save to branches.json
 			fs.writeFileSync(__dirname + '/branches.json', JSON.stringify(branches, 0, 4), 'utf-8');
 			console.log('HSBC: Save branches.json success!');

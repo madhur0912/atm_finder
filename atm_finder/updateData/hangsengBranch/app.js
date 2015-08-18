@@ -23,10 +23,11 @@ var geocoder = require('node-geocoder')(geocoderProvider, httpAdapter, extra);
 var dataDir = __dirname + '/data/';
 var patchDir = __dirname + '/patch/';
 var geocodeJsonPath = dataDir + 'geocode.json';
-var url = 'http://bank.hangseng.com/1/2/chi/contact-us/branch-addresses';
+var zhUrl = 'http://bank.hangseng.com/1/2/chi/contact-us/branch-addresses';
+var enUrl = 'http://bank.hangseng.com/1/2/contact-us/branch-addresses';
 
 // Services Key-String pair
-var services = {
+var servicesZh = {
 	'Disable': '輪椅通道',
 	'ABC': '自助理財中心',
 	'ATM': '自動櫃員機',
@@ -34,6 +35,16 @@ var services = {
 	'SDB': '保管箱服務',
 	'CDM': '存款快入數機',
 	'SEC': '證券服務',
+};
+
+var servicesEn = {
+	'Disable': 'Wheel Chair Access',
+	'ABC': 'Automated Banking Centres',
+	'ATM': 'Automated Teller Machine',
+	'CHQ': 'Cheque Deposit Machine, Cut-off time ',
+	'SDB': 'Safe Deposit Box Services',
+	'CDM': 'Cash Deposit Machine',
+	'SEC': 'Securities Services',
 };
 
 // Return the workingHour Object
@@ -57,24 +68,22 @@ function workingHourFromBranch(branch) {
 var branchGetLatLong = function(branch) {
 	return new Promise(function(resolve, reject) {
 		// Get the address and patch
-		var address = branch.address;
-		var name = branch.name;
+		var address = branch.address.zh;
+		var name = branch.name.zh;
 		var patch = JSON.parse(fs.readFileSync(patchDir + 'patch.json', 'utf8'));
 
 		if (patch.address.hasOwnProperty(address)) {
 			// If address exist in patch
 			// Set .lat and .lng
 			// and resolve it
-			branch.lat = patch.address[address][0];
-			branch.lng = patch.address[address][1];
+			branch.loc = patch.address[address];
 
 			resolve(branch);
 		} else if (patch.name.hasOwnProperty(name)) {
 			// If name exist in patch
 			// Set .lat and .lng
 			// and resolve it
-			branch.lat = patch.name[name][0];
-			branch.lng = patch.name[name][1];
+			branch.loc = patch.name[name];
 
 			resolve(branch);
 		} else {
@@ -83,7 +92,6 @@ var branchGetLatLong = function(branch) {
 			// Use geocoder to find lat and long
 			geocoder.geocode(address.replace('港鐵', ''))
 				.then(function(res) {
-
 					console.log('HangSeng: geocode result = [' + address + ', ' + res[0].latitude + ', ' + res[0].longitude + ']');
 
 					// Save each geocode result
@@ -98,8 +106,7 @@ var branchGetLatLong = function(branch) {
 
 					// Get the response
 					// Set .lat and .lng and resolve it
-					branch.lat = res[0].latitude;
-					branch.lng = res[0].longitude;
+					branch.loc = [res[0].longitude, res[0].latitude];
 					sleep.usleep(1000000 / 4);
 					resolve(branch);
 				})
@@ -116,51 +123,75 @@ var formatBranch = function(branch) {
 	return new Promise(function(resolve) {
 
 		// Set basic serviceString
-		var serviceString = branch.HourRemark.replace(/\/ /g, '\n');
+		var serviceStringZh = branch.zh.HourRemark.replace(/\/ /g, '\n');
+		var serviceStringEn = branch.en.HourRemark.replace(/\/ /g, '\n');
 
 		// For every services
-		var serviceKeys = Object.keys(services);
+		var serviceKeys = Object.keys(servicesZh);
 		for (var i = 0; i < serviceKeys.length; i++) {
 			// If that branch has that service
-			if (branch[serviceKeys[i]]) {
-				if (serviceKeys[i] === 'ATM' && branch.ATMRMB) {
+			if (branch.zh[serviceKeys[i]]) {
+				if (serviceKeys[i] === 'ATM' && branch.zh.ATMRMB) {
 
 					// If the key is 'ATM' and 'ATMRMB' is also true
 					// Add ATM and ATMRMB string to serviceString
-					serviceString += services[serviceKeys[i]] + '(港幣及人民幣)' + '\n';
+					serviceStringZh += servicesZh[serviceKeys[i]] + '(港幣及人民幣)' + '\n';
+					serviceStringEn += servicesEn[serviceKeys[i]] + '(HKD & RMB)' + '\n';
 				} else if (serviceKeys[i] === 'CHQ') {
 
 					// If the key is 'CHQ'
 					// Add CHQ and CHQCUT string to serviceString
-					serviceString += services[serviceKeys[i]] + ' ' + branch.CHQCUT + '\n';
+					serviceStringZh += servicesZh[serviceKeys[i]] + ' ' + branch.zh.CHQCUT + '\n';
+					serviceStringEn += servicesEn[serviceKeys[i]] + ' ' + branch.en.CHQCUT + '\n';
 				} else {
 
 					// Else, add the service string
-					serviceString += services[serviceKeys[i]] + '\n';
+					serviceStringZh += servicesZh[serviceKeys[i]] + '\n';
+					serviceStringEn += servicesEn[serviceKeys[i]] + '\n';
 				}
 			}
 		}
 
 		// Set detailString to be ATM working hour
-		var detailString = '自動櫃員機服務時間\n' + branch.HourAMB.replace(/<br\/>/g, '\n');
+		var detailStringZh = '自動櫃員機服務時間\n' + branch.zh.HourAMB.replace(/<br\/>/g, '\n');
+		var detailStringEn = 'ATM Service Hours\n' + branch.en.HourAMB.replace(/<br\/>/g, '\n');
 
 		// Set atm24
-		var atm24 = (JSON.stringify(branch).indexOf('24小') != -1);
+		var atm24 = (JSON.stringify(branch.zh).indexOf('24小') != -1);
 
 		// Set workHrs
-		var workHrs = workingHourFromBranch(branch);
+		var workHrs = workingHourFromBranch(branch.zh);
 
 		var result = {
 			atm_type: 'hsbc',
-			bank_type: '恒生銀行',
-			name: '恒生銀行 ' + branch.Name,
-			area: branch.area,
-			district: branch.district,
-			address: branch.Address,
-			service: serviceString.trim(),
-			detail: detailString,
+			bank_type: 'hangseng',
+			name: {
+				zh: '恒生銀行 ' + branch.zh.Name,
+				en: 'Hang Seng Bank ' + branch.en.Name
+			},
+			area: {
+				zh: branch.zh.area,
+				en: branch.en.area
+			},
+			district: {
+				zh: branch.zh.district,
+				en: branch.en.district
+			},
+			address: {
+				zh: branch.zh.Address,
+				en: branch.en.Address
+			},
+			service: {
+				zh: serviceStringZh.trim(),
+				en: serviceStringEn.trim()
+			},
+			detail: {
+				zh: detailStringZh,
+				en: detailStringEn
+			},
 			atm24: atm24,
-			workHrs: workHrs
+			workHrs: workHrs,
+			tel: null
 		};
 
 		resolve(result);
@@ -197,15 +228,15 @@ var addAreaAndDistrictToBranch = function(branch, districts) {
 
 // Get all branches
 // Return the Promise of object with branches and districts
-var getAllBranches = function() {
+var getAllBranchesZh = function() {
 	return new Promise(function(resolve, reject) {
 
 		// Get the html file which contains the branch data
 		request
-			.get(url, function(error, response, body) {
+			.get(zhUrl, function(error, response, body) {
 
 				// Save the response body
-				saveResponseBody('/body.html', body);
+				saveResponseBody('/bodyZh.html', body);
 
 				// Cut out the useful script
 				var text = $(body).find('script').text();
@@ -218,10 +249,10 @@ var getAllBranches = function() {
 				text = text.replace(/<br\/>/, '/ ');
 
 				// Save it to branches.js
-				fs.writeFileSync(dataDir + 'branches.js', text, 'utf-8');
+				fs.writeFileSync(dataDir + 'branchesZh.js', text, 'utf-8');
 
 				// Read it
-				var readBranches = require(dataDir + 'branches.js');
+				var readBranches = require(dataDir + 'branchesZh.js');
 				var branches = readBranches.allSites;
 				var districts = readBranches.districts;
 
@@ -246,6 +277,79 @@ var getAllBranches = function() {
 	});
 };
 
+
+// Get all branches
+// Return the Promise of object with branches and districts
+var getAllBranchesEn = function() {
+	return new Promise(function(resolve, reject) {
+
+		// Get the html file which contains the branch data
+		request
+			.get(enUrl, function(error, response, body) {
+
+				// Save the response body
+				saveResponseBody('/bodyEn.html', body);
+
+				// Cut out the useful script
+				var text = $(body).find('script').text();
+				var start = text.indexOf('allSites ');
+				var end = text.indexOf('var html');
+				text = text.substring(start, end);
+
+				// Add some code to exports the branch array and district array
+				text = text + '\nexports.allSites = allSites;\nexports.districts = districts;';
+				text = text.replace(/<br\/>/, '/ ');
+
+				// Save it to branches.js
+				fs.writeFileSync(dataDir + 'branchesEn.js', text, 'utf-8');
+
+				// Read it
+				var readBranches = require(dataDir + 'branchesEn.js');
+				var branches = readBranches.allSites;
+				var districts = readBranches.districts;
+
+				// Filter branch without ATM
+				var branches = branches.filter(function(branch) {
+					return branch.ATM;
+				});
+
+				// Add .area and .district to branches
+				for (var i = 0; i < branches.length; i++) {
+					branches[i] = addAreaAndDistrictToBranch(branches[i], districts);
+				}
+
+				// Resolve it
+				resolve(branches);
+			})
+			.on('error', function(error) {
+
+				// Error
+				reject(error);
+			});
+	});
+};
+
+var mergeZhEnBranches = function(zh, en) {
+	return new Promise(function(resolve, reject) {
+		var branches = [];
+
+		for (var i = 0; i < zh.length; i++) {
+			var branch = {
+				zh: zh[i],
+				en: en[i]
+			}
+
+			if (branch.zh.Code === branch.en.Code) {
+				branches.push(branch);
+			} else {
+				reject('Error: Branch Zh and En array are not match!');
+			}
+		};
+
+		resolve(branches);
+	});
+}
+
 // Delete previous geocode.json
 fs.unlink(geocodeJsonPath, function(err) {
 	if (err) {
@@ -257,13 +361,18 @@ fs.unlink(geocodeJsonPath, function(err) {
 
 // Start the Promise
 var branches = Promise
-	.try(getAllBranches)
+	.join(getAllBranchesZh(), getAllBranchesEn(), mergeZhEnBranches)
 	.map(formatBranch)
 	.map(branchGetLatLong, {
 		concurrency: 1
 	})
 	.then(function(branches) {
 		return new Promise(function(resolve) {
+			// Sort branches by longitude
+			branches.sort(function(a, b) {
+				return a.loc[0] - b.loc[0];
+			});
+
 			fs.writeFileSync(__dirname + '/branches.json', JSON.stringify(branches, 0, 4), 'utf-8');
 			console.log('HangSeng: Save branches.json success!');
 			console.log('HangSeng Finish.');

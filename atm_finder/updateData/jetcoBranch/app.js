@@ -13,7 +13,8 @@ var $ = require('cheerio');
 var request = require('request');
 
 var dataDir = __dirname + '/data/';
-var baseURL = 'http://www.jetco.com.hk/tc/xml/atm/';
+var baseURLZh = 'http://www.jetco.com.hk/tc/xml/atm/';
+var baseURLEn = 'http://www.jetco.com.hk/en/xml/atm/';
 var areaPath = '2_atmArea.xml';
 var districtPath = 'AREA.ID_atmDistrict.xml';
 var detailPath = '2_AREA.ID_DISTRICT.ID_0_atmDetails.xml';
@@ -25,19 +26,34 @@ function Area(area_id, district_ids) {
 }
 
 // Branch Object
-function Branch(atm) {
+function Branch(atm, en) {
 	this.atm_type = 'jetco';
-	this.name = $(atm).find('ob_name').text();
-	this.bank_type = this.name.substring(0, this.name.indexOf('銀行') + 2);
-	this.area = $(atm).find('aarea').text();
-	this.district = $(atm).find('district').text();
-	this.address = $(atm).find('addr').text();
-	this.service = $(atm).find('supp_tran').text().trim();
+	this.name = {
+		zh: $(atm).find('ob_name').text(),
+		en: $(en).find('ob_name').text()
+	};
+	this.bank_type = this.name.zh.substring(0, this.name.zh.indexOf('銀行') + 2);
+	this.area = {
+		zh: $(atm).find('aarea').text(),
+		en: $(en).find('aarea').text()
+	};
+	this.district = {
+		zh: $(atm).find('district').text(),
+		en: $(en).find('district').text()
+	};
+	this.address = {
+		zh: $(atm).find('addr').text(),
+		en: $(en).find('addr').text()
+	};
+	this.service = {
+		zh: $(atm).find('supp_tran').text().trim(),
+		en: $(en).find('supp_tran').text().trim()
+	};
 	this.detail = null;
 	this.atm24 = true;
-	this.lat = parseFloat($(atm).find('latitude').text());
-	this.lng = parseFloat($(atm).find('longitude').text());
+	this.loc = [parseFloat($(atm).find('longitude').text()), parseFloat($(atm).find('latitude').text())];
 	this.workHrs = null;
+	this.tel = null;
 }
 
 // Function to flatten an array
@@ -48,7 +64,7 @@ var flattenArray = function(array) {
 // Return Promise of array of area_id
 var getAreaIds = function() {
 	return new Promise(function(resolve, reject) {
-		var currentURL = baseURL + areaPath;
+		var currentURL = baseURLZh + areaPath;
 
 		// Start the request
 		request
@@ -85,7 +101,7 @@ var getDistrictIdsFromArea = function(area_id) {
 
 		// Setup the URL
 		var currentDistrictPath = districtPath.replace('AREA.ID', area_id);
-		var currentURL = baseURL + currentDistrictPath;
+		var currentURL = baseURLZh + currentDistrictPath;
 
 		// Start the request
 		request
@@ -130,13 +146,14 @@ var getAllBranches = function(areas) {
 var getBranchesWithAreaAndDistricts = function(area_id, district_id) {
 	return new Promise(function(resolve, reject) {
 		var currentDetailPath = detailPath.replace('AREA.ID', area_id).replace('DISTRICT.ID', district_id);
-		var currentURL = baseURL + currentDetailPath;
+		var currentURLZh = baseURLZh + currentDetailPath;
+		var currentURLEn = baseURLEn + currentDetailPath;
 		// Start the request
 		request
-			.get(currentURL, function(error, response, body) {
+			.get(currentURLZh, function(error, response, body) {
 
 				// Save the response body
-				saveResponseBody(currentDetailPath, currentURL, body);
+				saveResponseBody(currentDetailPath + '.zh', currentURLZh, body);
 
 				// Replace 'area' with 'aarea' in body,
 				// since cheerio cannot find <area>
@@ -145,16 +162,47 @@ var getBranchesWithAreaAndDistricts = function(area_id, district_id) {
 				// Use cheerio to find all <atm>
 				var atms = $(body).find('atms').find('atm');
 
-				// Format all branches in this district
-				var branchesInDistrict = [];
-				for (var i = 0; i < atms.length; i++) {
+				// Get en version
+				request
+					.get(currentURLEn, function(errorEn, responseEn, bodyEn) {
 
-					// Add branch to branchesInDistrict
-					branchesInDistrict.push(new Branch(atms[i]));
-				}
+						// Save the response body
+						saveResponseBody(currentDetailPath + '.en', currentURLEn, bodyEn);
 
-				// Resolve it
-				resolve(branchesInDistrict);
+						// Replace 'area' with 'aarea' in body,
+						// since cheerio cannot find <area>
+						bodyEn = bodyEn.replace(/area/g, 'aarea');
+
+						// Use cheerio to find all <atm>
+						var atmsEn = $(bodyEn).find('atms').find('atm');
+
+						// Format all branches in this district
+						var branchesInDistrict = [];
+						for (var i = 0; i < atms.length; i++) {
+
+							// For each atm,
+							// Find the en version
+							var enIndex = -1;
+							var id = $(atms[i]).attr('id');
+							for (var j = 0; j < atmsEn.length; j++) {
+								if ($(atmsEn[j]).attr('id') === id) {
+									enIndex = j;
+									break;
+								}
+							};
+
+							// Construct the branch object
+							// Add branch to branchesInDistrict
+							branchesInDistrict.push(new Branch(atms[i], atmsEn[enIndex]));
+						}
+
+
+						// Resolve it
+						resolve(branchesInDistrict);
+					})
+					.on('error', function(error) {
+						reject(error);
+					});
 			})
 			.on('error', function(error) {
 				// Error
@@ -186,6 +234,20 @@ var branches = Promise
 	.then(function(branches) {
 		return new Promise(function(resolve) {
 			//console.log(JJetco: SON.stringify(branches, 0, 4));
+
+			var banks = [];
+			for (var i = 0; i < branches.length; i++) {
+				if (banks.indexOf(branches[i].name) === -1) {
+					banks.push(branches[i].name);
+				}
+			}
+
+			// Sort branches by longitude
+			branches.sort(function(a, b) {
+				return a.loc[0] - b.loc[0];
+			});
+
+			fs.writeFileSync(__dirname + '/banks.json', JSON.stringify(banks, 0, 4), 'utf-8');
 			fs.writeFileSync(__dirname + '/branches.json', JSON.stringify(branches, 0, 4), 'utf-8');
 			console.log('Jetco: Save branches.json success!');
 			console.log('Jetco: Resolve branches.');

@@ -32,6 +32,8 @@
         "neighborhood": "清水灣",
         "establishment": null
     },
+    "state": "新界",
+    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -39,12 +41,12 @@
 //港鐵寶琳站
 {
     "formattedAddress": "香港魷魚灣寶琳站",
-    "latitude": 22.322511,
-    "longitude": 114.257832,
+    "latitude": 22.3225461,
+    "longitude": 114.2578565,
     "extra": {
-        "googlePlaceId": "ChIJcfQh8QsEBDQRTggL7ynzP2o",
-        "confidence": 0.5,
-        "premise": null,
+        "googlePlaceId": "ChIJYdkf8QsEBDQRDib8Dbkyfbo",
+        "confidence": 1,
+        "premise": "寶琳站",
         "subpremise": null,
         "neighborhood": "魷魚灣",
         "establishment": null
@@ -78,7 +80,7 @@
 
 //唐俊街8號
 {
-    "formattedAddress": "8 Tong Chun Street, Tseung Kwan O, 香港",
+    "formattedAddress": "8 Tong Chun Street, Tseung Kwan O, 香���",
     "latitude": 22.309394,
     "longitude": 114.25981,
     "extra": {
@@ -99,7 +101,7 @@
 
 //港鐵將軍澳站
 {
-    "formattedAddress": "香港將軍澳將軍澳站",
+    "formattedAddress": "香港將軍澳站",
     "latitude": 22.307436,
     "longitude": 114.260018,
     "extra": {
@@ -107,11 +109,9 @@
         "confidence": 0.5,
         "premise": null,
         "subpremise": null,
-        "neighborhood": "將軍澳",
+        "neighborhood": null,
         "establishment": null
     },
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -119,12 +119,12 @@
 //港鐵調景嶺站
 {
     "formattedAddress": "香港照鏡環調景嶺站",
-    "latitude": 22.3038,
-    "longitude": 114.252098,
+    "latitude": 22.3039051,
+    "longitude": 114.2522843,
     "extra": {
-        "googlePlaceId": "ChIJxVgtcu8DBDQRDImddNu74hw",
-        "confidence": 0.5,
-        "premise": null,
+        "googlePlaceId": "ChIJmb6dc-8DBDQRdjmnjioVD2Y",
+        "confidence": 1,
+        "premise": "調景嶺站",
         "subpremise": null,
         "neighborhood": "照鏡環",
         "establishment": null
@@ -244,12 +244,12 @@
 //港鐵大圍站
 {
     "formattedAddress": "香港大圍大圍站",
-    "latitude": 22.372746,
-    "longitude": 114.178677,
+    "latitude": 22.3729477,
+    "longitude": 114.1786768,
     "extra": {
-        "googlePlaceId": "ChIJs4p9bggHBDQRHZvBErYbbo0",
-        "confidence": 0.5,
-        "premise": null,
+        "googlePlaceId": "ChIJ-zt3bAgHBDQR5OXPxBm6wK4",
+        "confidence": 1,
+        "premise": "大圍站",
         "subpremise": null,
         "neighborhood": "大圍",
         "establishment": null
@@ -323,17 +323,19 @@
 
 //港鐵沙田站
 {
-    "formattedAddress": "香港沙田沙田站",
-    "latitude": 22.382049,
-    "longitude": 114.186856,
+    "formattedAddress": "香港馬料水車站路",
+    "latitude": 22.41578,
+    "longitude": 114.210969,
     "extra": {
-        "googlePlaceId": "ChIJS7igya0HBDQR0X5S6_g0EME",
-        "confidence": 0.5,
+        "googlePlaceId": "ChIJe3fDQZ4IBDQRTIWIPx9Uhvk",
+        "confidence": 0.7,
         "premise": null,
         "subpremise": null,
-        "neighborhood": "沙田",
+        "neighborhood": "馬料水",
         "establishment": null
     },
+    "streetName": "車站路",
+    "city": "沙田",
     "state": "新界",
     "stateCode": "新界",
     "country": "香港",
@@ -363,7 +365,7 @@
 
 //港鐵火炭站
 {
-    "formattedAddress": "香港火炭火炭站",
+    "formattedAddress": "香港火炭站",
     "latitude": 22.395003,
     "longitude": 114.198037,
     "extra": {
@@ -371,11 +373,9 @@
         "confidence": 0.5,
         "premise": null,
         "subpremise": null,
-        "neighborhood": "火炭",
+        "neighborhood": null,
         "establishment": null
     },
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -409,14 +409,14 @@
         "confidence": 1,
         "premise": "香港教育學院中央大樓",
         "subpremise": null,
-        "neighborhood": "汀角",
+        "neighborhood": "���角",
         "establishment": null
     },
     "streetNumber": "10",
     "streetName": "露屏路",
     "state": "新界",
     "stateCode": "新界",
-    "country": "香港",
+    "country": "香���",
     "countryCode": "HK"
 },
 
@@ -443,7 +443,7 @@
 
 //港鐵大埔墟站
 {
-    "formattedAddress": "香港大埔大埔墟站",
+    "formattedAddress": "香港大埔墟站",
     "latitude": 22.444547,
     "longitude": 114.170482,
     "extra": {
@@ -451,11 +451,9 @@
         "confidence": 0.5,
         "premise": null,
         "subpremise": null,
-        "neighborhood": "大埔",
+        "neighborhood": null,
         "establishment": null
     },
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -526,33 +524,14 @@
 //港鐵落馬洲站
 {
     "formattedAddress": "香港米埔落馬洲站",
-    "latitude": 22.514464,
-    "longitude": 114.065647,
+    "latitude": 22.5148515,
+    "longitude": 114.065525,
     "extra": {
-        "googlePlaceId": "ChIJ4zeJRbv2AzQR13s4XGP4V04",
-        "confidence": 0.5,
-        "premise": null,
+        "googlePlaceId": "ChIJ77FOTLv2AzQRkpK3UZHh4u8",
+        "confidence": 1,
+        "premise": "落馬洲站",
         "subpremise": null,
         "neighborhood": "米埔",
-        "establishment": null
-    },
-    "state": "廣東省",
-    "stateCode": "廣東省",
-    "country": "香港",
-    "countryCode": "HK"
-},
-
-//港鐵羅湖站
-{
-    "formattedAddress": "香港羅湖羅湖站",
-    "latitude": 22.527801,
-    "longitude": 114.113192,
-    "extra": {
-        "googlePlaceId": "ChIJjbW_cdv1AzQRJiHWVDU1TZo",
-        "confidence": 0.5,
-        "premise": null,
-        "subpremise": null,
-        "neighborhood": "羅湖",
         "establishment": null
     },
     "state": "新界",
@@ -563,7 +542,7 @@
 
 //港鐵迪士尼站
 {
-    "formattedAddress": "香港香港迪士尼���園度假區迪士尼站",
+    "formattedAddress": "香港迪士尼站",
     "latitude": 22.315474,
     "longitude": 114.044921,
     "extra": {
@@ -571,11 +550,9 @@
         "confidence": 0.5,
         "premise": null,
         "subpremise": null,
-        "neighborhood": "香港迪士尼樂園度假區",
+        "neighborhood": null,
         "establishment": null
     },
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -583,12 +560,12 @@
 //港鐵欣澳站
 {
     "formattedAddress": "香港大嶼山欣澳站",
-    "latitude": 22.332071,
-    "longitude": 114.029067,
+    "latitude": 22.3321032,
+    "longitude": 114.0294276,
     "extra": {
-        "googlePlaceId": "ChIJLYdakRX8AzQRGgPZ_ZX_ppg",
-        "confidence": 0.5,
-        "premise": null,
+        "googlePlaceId": "ChIJgbWhlBX8AzQRUCqqeI9OQ9g",
+        "confidence": 1,
+        "premise": "欣澳站",
         "subpremise": null,
         "neighborhood": "大嶼山",
         "establishment": null
@@ -630,7 +607,7 @@
         "confidence": 0.5,
         "premise": null,
         "subpremise": null,
-        "neighborhood": "東涌",
+        "neighborhood": "���涌",
         "establishment": null
     },
     "streetNumber": "8",
@@ -644,7 +621,7 @@
 
 //港鐵青衣站
 {
-    "formattedAddress": "香港青衣青衣站",
+    "formattedAddress": "香港青衣站",
     "latitude": 22.358487,
     "longitude": 114.107261,
     "extra": {
@@ -652,11 +629,9 @@
         "confidence": 0.5,
         "premise": null,
         "subpremise": null,
-        "neighborhood": "青衣",
+        "neighborhood": null,
         "establishment": null
     },
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -705,11 +680,11 @@
 
 //葵涌邨葵涌商場地下
 {
-    "formattedAddress": "香港葵涌葵涌商場",
-    "latitude": 22.368135,
-    "longitude": 114.12818,
+    "formattedAddress": "香港葵涌萬寧 - 葵涌葵涌邨",
+    "latitude": 22.367234,
+    "longitude": 114.128313,
     "extra": {
-        "googlePlaceId": "ChIJYQ4lD5H4AzQR1BZU0sqLqn0",
+        "googlePlaceId": "ChIJWRGJF5H4AzQRhtdswV0fmjA",
         "confidence": 0.5,
         "premise": null,
         "subpremise": null,
@@ -745,7 +720,7 @@
 
 //港鐵葵興站
 {
-    "formattedAddress": "香港葵涌葵興站",
+    "formattedAddress": "香港葵興站",
     "latitude": 22.363056,
     "longitude": 114.131207,
     "extra": {
@@ -753,11 +728,9 @@
         "confidence": 0.5,
         "premise": null,
         "subpremise": null,
-        "neighborhood": "葵涌",
+        "neighborhood": null,
         "establishment": null
     },
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -772,7 +745,7 @@
         "confidence": 1,
         "premise": "華景山莊南停車場",
         "subpremise": null,
-        "neighborhood": "華景山莊",
+        "neighborhood": "華景山���",
         "establishment": null
     },
     "streetNumber": "9",
@@ -786,7 +759,7 @@
 
 //港鐵錦上路站
 {
-    "formattedAddress": "香港錦田錦上路站",
+    "formattedAddress": "香港錦上路站",
     "latitude": 22.434798,
     "longitude": 114.063441,
     "extra": {
@@ -794,11 +767,9 @@
         "confidence": 0.5,
         "premise": null,
         "subpremise": null,
-        "neighborhood": "錦田",
+        "neighborhood": null,
         "establishment": null
     },
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -869,12 +840,12 @@
 //港鐵元朗站
 {
     "formattedAddress": "香港元朗元朗站",
-    "latitude": 22.446113,
-    "longitude": 114.034706,
+    "latitude": 22.4460516,
+    "longitude": 114.0351893,
     "extra": {
-        "googlePlaceId": "ChIJkV8PaKbwAzQRndElEzvLn6Q",
-        "confidence": 0.5,
-        "premise": null,
+        "googlePlaceId": "ChIJrYr8aqbwAzQRwN1sSgNUsVo",
+        "confidence": 1,
+        "premise": "元朗站",
         "subpremise": null,
         "neighborhood": "元朗",
         "establishment": null
@@ -888,12 +859,12 @@
 //港鐵朗屏站
 {
     "formattedAddress": "香港元朗朗屏站",
-    "latitude": 22.44766,
-    "longitude": 114.02485,
+    "latitude": 22.4475432,
+    "longitude": 114.0250604,
     "extra": {
-        "googlePlaceId": "ChIJeRzSX5_wAzQR0xOi6P0J99A",
-        "confidence": 0.5,
-        "premise": null,
+        "googlePlaceId": "ChIJGQ5N56HwAzQROi6J__sOjhs",
+        "confidence": 1,
+        "premise": "朗屏站",
         "subpremise": null,
         "neighborhood": "元朗",
         "establishment": null
@@ -927,7 +898,7 @@
 
 //港鐵天水圍站
 {
-    "formattedAddress": "香港天水圍天水圍站",
+    "formattedAddress": "香港天水圍站",
     "latitude": 22.448281,
     "longitude": 114.004687,
     "extra": {
@@ -935,18 +906,16 @@
         "confidence": 0.5,
         "premise": null,
         "subpremise": null,
-        "neighborhood": "天水圍",
+        "neighborhood": null,
         "establishment": null
     },
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
 
 //屯門鄉事會路4-26號明偉大樓6-7號舖
 {
-    "formattedAddress": "香港屯門屯門鄉事會路26號",
+    "formattedAddress": "香港屯門屯門鄉事���路26號",
     "latitude": 22.395438,
     "longitude": 113.97469,
     "extra": {
@@ -988,19 +957,17 @@
 
 //港鐵屯門站
 {
-    "formattedAddress": "香港屯門屯門站",
-    "latitude": 22.393982,
-    "longitude": 113.972894,
+    "formattedAddress": "香港屯門站",
+    "latitude": 22.394875,
+    "longitude": 113.973132,
     "extra": {
-        "googlePlaceId": "ChIJb3-glDz7AzQRENMVdxZ447M",
+        "googlePlaceId": "ChIJFRKxxzz7AzQRYJGF-3acJR4",
         "confidence": 0.5,
         "premise": null,
         "subpremise": null,
-        "neighborhood": "屯門",
+        "neighborhood": null,
         "establishment": null
     },
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1008,12 +975,12 @@
 //港鐵兆康站
 {
     "formattedAddress": "香港屯門兆康站",
-    "latitude": 22.411341,
-    "longitude": 113.978772,
+    "latitude": 22.4113971,
+    "longitude": 113.9787379,
     "extra": {
-        "googlePlaceId": "ChIJnbOxteD6AzQRqGvT2PLgw_Q",
-        "confidence": 0.5,
-        "premise": null,
+        "googlePlaceId": "ChIJwQA0Suf6AzQRWhtupbXlVyo",
+        "confidence": 1,
+        "premise": "兆康站",
         "subpremise": null,
         "neighborhood": "屯門",
         "establishment": null
@@ -1131,7 +1098,7 @@
 
 //荃灣荃錦中心商場2樓5號
 {
-    "formattedAddress": "荃灣荃錦中心商場",
+    "formattedAddress": "香港荃灣荃錦中心商場",
     "latitude": 22.374345,
     "longitude": 114.114982,
     "extra": {
@@ -1150,7 +1117,7 @@
 
 //港鐵荃灣西站
 {
-    "formattedAddress": "香港荃灣荃灣西站",
+    "formattedAddress": "香港荃灣西站",
     "latitude": 22.368313,
     "longitude": 114.10978,
     "extra": {
@@ -1158,18 +1125,16 @@
         "confidence": 0.5,
         "premise": null,
         "subpremise": null,
-        "neighborhood": "荃灣",
+        "neighborhood": null,
         "establishment": null
     },
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
 
 //港鐵大窩口站
 {
-    "formattedAddress": "香港葵涌大窩口站",
+    "formattedAddress": "香港大窩口站",
     "latitude": 22.370758,
     "longitude": 114.124951,
     "extra": {
@@ -1177,11 +1142,9 @@
         "confidence": 0.5,
         "premise": null,
         "subpremise": null,
-        "neighborhood": "葵涌",
+        "neighborhood": null,
         "establishment": null
     },
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1189,12 +1152,12 @@
 //港鐵油塘站
 {
     "formattedAddress": "香港油塘油塘站",
-    "latitude": 22.298112,
-    "longitude": 114.236966,
+    "latitude": 22.298028,
+    "longitude": 114.2367941,
     "extra": {
-        "googlePlaceId": "ChIJt4oZd2ABBDQRJN5m2SN9pEU",
-        "confidence": 0.5,
-        "premise": null,
+        "googlePlaceId": "ChIJl7VlcWABBDQRnrA41r0wiwk",
+        "confidence": 1,
+        "premise": "油塘站",
         "subpremise": null,
         "neighborhood": "油塘",
         "establishment": null
@@ -1291,7 +1254,7 @@
 
 //佐敦谷北道5號
 {
-    "formattedAddress": "香港牛頭角佐敦谷北道5號",
+    "formattedAddress": "香港牛頭角佐敦谷北���5號",
     "latitude": 22.3233719,
     "longitude": 114.2165686,
     "extra": {
@@ -1312,7 +1275,7 @@
 
 //港鐵牛頭角站
 {
-    "formattedAddress": "香港牛頭角牛頭角站",
+    "formattedAddress": "香港牛頭角站",
     "latitude": 22.315547,
     "longitude": 114.218913,
     "extra": {
@@ -1320,11 +1283,9 @@
         "confidence": 0.5,
         "premise": null,
         "subpremise": null,
-        "neighborhood": "牛頭角",
+        "neighborhood": null,
         "establishment": null
     },
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1372,28 +1333,9 @@
     "countryCode": "HK"
 },
 
-//港鐵九龍灣站
-{
-    "formattedAddress": "香港九龍灣九龍灣站",
-    "latitude": 22.323385,
-    "longitude": 114.214014,
-    "extra": {
-        "googlePlaceId": "ChIJcZX6RjUBBDQRMZv6f6zU8XQ",
-        "confidence": 0.5,
-        "premise": null,
-        "subpremise": null,
-        "neighborhood": "九龍灣",
-        "establishment": null
-    },
-    "state": "九龍",
-    "stateCode": "九龍",
-    "country": "香港",
-    "countryCode": "HK"
-},
-
 //港鐵樂富站
 {
-    "formattedAddress": "香港老虎岩樂富站",
+    "formattedAddress": "香港樂富站",
     "latitude": 22.338026,
     "longitude": 114.187022,
     "extra": {
@@ -1401,11 +1343,9 @@
         "confidence": 0.5,
         "premise": null,
         "subpremise": null,
-        "neighborhood": "老虎岩",
+        "neighborhood": null,
         "establishment": null
     },
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1454,7 +1394,7 @@
 
 //港鐵鑽石山站
 {
-    "formattedAddress": "香港大磡鑽石山站",
+    "formattedAddress": "香港鑽石山站",
     "latitude": 22.340017,
     "longitude": 114.201698,
     "extra": {
@@ -1462,11 +1402,9 @@
         "confidence": 0.5,
         "premise": null,
         "subpremise": null,
-        "neighborhood": "大磡",
+        "neighborhood": null,
         "establishment": null
     },
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1515,7 +1453,7 @@
 
 //港鐵紅磡站
 {
-    "formattedAddress": "香港紅磡灣紅磡站",
+    "formattedAddress": "香港紅磡站",
     "latitude": 22.303067,
     "longitude": 114.181527,
     "extra": {
@@ -1523,11 +1461,9 @@
         "confidence": 0.5,
         "premise": null,
         "subpremise": null,
-        "neighborhood": "紅磡灣",
+        "neighborhood": null,
         "establishment": null
     },
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1576,7 +1512,7 @@
 
 //香港城巿大學康樂樓4樓
 {
-    "formattedAddress": "香港九龍塘達之路83號香港城市大學康樂樓香港城市大學",
+    "formattedAddress": "香港九龍塘達之路83號香港城市大學康樂樓",
     "latitude": 22.3368785,
     "longitude": 114.1719954,
     "extra": {
@@ -1584,7 +1520,7 @@
         "confidence": 1,
         "premise": "香港城市大學康樂樓",
         "subpremise": null,
-        "neighborhood": "九龍塘",
+        "neighborhood": "九龍���",
         "establishment": null
     },
     "streetNumber": "83",
@@ -1620,12 +1556,12 @@
 //港鐵美孚站
 {
     "formattedAddress": "香港荔枝角美孚站",
-    "latitude": 22.337751,
-    "longitude": 114.136401,
+    "latitude": 22.3384127,
+    "longitude": 114.1366895,
     "extra": {
-        "googlePlaceId": "ChIJDQT1wKz4AzQRfmaE8-0Kdcg",
-        "confidence": 0.5,
-        "premise": null,
+        "googlePlaceId": "ChIJrbXejqz4AzQR6qG3MNxZkiI",
+        "confidence": 1,
+        "premise": "美孚站",
         "subpremise": null,
         "neighborhood": "荔枝角",
         "establishment": null
@@ -1701,7 +1637,7 @@
 
 //港鐵深水埗站
 {
-    "formattedAddress": "香港深水埗深水埗站",
+    "formattedAddress": "香港深水埗站",
     "latitude": 22.33107,
     "longitude": 114.161876,
     "extra": {
@@ -1709,11 +1645,9 @@
         "confidence": 0.5,
         "premise": null,
         "subpremise": null,
-        "neighborhood": "深水埗",
+        "neighborhood": null,
         "establishment": null
     },
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1721,25 +1655,23 @@
 //港鐵石硤尾站
 {
     "formattedAddress": "香港石硤尾站",
-    "latitude": 22.331728,
-    "longitude": 114.168813,
+    "latitude": 22.33186,
+    "longitude": 114.167951,
     "extra": {
-        "googlePlaceId": "ChIJmcIITDUHBDQR_Zu4fBRBg_o",
+        "googlePlaceId": "ChIJzXw6VDUHBDQRm4DP9zZJEuE",
         "confidence": 0.5,
         "premise": null,
         "subpremise": null,
         "neighborhood": null,
         "establishment": null
     },
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
 
 //港鐵奧運站
 {
-    "formattedAddress": "香港大角咀奧運站",
+    "formattedAddress": "香港奧運站",
     "latitude": 22.317771,
     "longitude": 114.16022,
     "extra": {
@@ -1747,32 +1679,32 @@
         "confidence": 0.5,
         "premise": null,
         "subpremise": null,
-        "neighborhood": "大角咀",
+        "neighborhood": null,
         "establishment": null
     },
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
 
 //港鐵太子站
 {
-    "formattedAddress": "香港旺角太子站",
-    "latitude": 22.32474,
-    "longitude": 114.168252,
+    "formattedAddress": "Kaminotaishi Station, Asuka, Habikino, Osaka Prefecture 583-0842日本",
+    "latitude": 34.533038,
+    "longitude": 135.637987,
     "extra": {
-        "googlePlaceId": "ChIJD1P55skABDQROjVGrkhmK7g",
+        "googlePlaceId": "ChIJcdJHraopAWARWqLWksuA8VE",
         "confidence": 0.5,
         "premise": null,
         "subpremise": null,
-        "neighborhood": "旺角",
+        "neighborhood": null,
         "establishment": null
     },
-    "state": "九龍",
-    "stateCode": "九龍",
-    "country": "香港",
-    "countryCode": "HK"
+    "city": "Habikino",
+    "state": "Osaka Prefecture",
+    "stateCode": "Osaka Prefecture",
+    "country": "日本",
+    "countryCode": "JP",
+    "zipcode": "583-0842"
 },
 
 //埃華街70-86號大成樓地下1號舖
@@ -1861,7 +1793,7 @@
 
 //港鐵旺角站
 {
-    "formattedAddress": "香港旺角旺角站",
+    "formattedAddress": "香港旺角站",
     "latitude": 22.319253,
     "longitude": 114.169355,
     "extra": {
@@ -1869,11 +1801,9 @@
         "confidence": 0.5,
         "premise": null,
         "subpremise": null,
-        "neighborhood": "旺角",
+        "neighborhood": null,
         "establishment": null
     },
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1901,7 +1831,7 @@
 
 //港鐵旺角東站
 {
-    "formattedAddress": "香港旺角旺角東站",
+    "formattedAddress": "香港旺角東站",
     "latitude": 22.322051,
     "longitude": 114.172604,
     "extra": {
@@ -1909,11 +1839,9 @@
         "confidence": 0.5,
         "premise": null,
         "subpremise": null,
-        "neighborhood": "旺角",
+        "neighborhood": null,
         "establishment": null
     },
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1954,25 +1882,6 @@
     },
     "streetNumber": "618",
     "streetName": "彌敦道",
-    "state": "九龍",
-    "stateCode": "九龍",
-    "country": "香港",
-    "countryCode": "HK"
-},
-
-//港鐵油麻地站
-{
-    "formattedAddress": "香港油麻地油麻地站",
-    "latitude": 22.312828,
-    "longitude": 114.170682,
-    "extra": {
-        "googlePlaceId": "ChIJB8cq4MAABDQR4d1zemkYDTs",
-        "confidence": 0.5,
-        "premise": null,
-        "subpremise": null,
-        "neighborhood": "油麻地",
-        "establishment": null
-    },
     "state": "九龍",
     "stateCode": "九龍",
     "country": "香港",
@@ -2023,7 +1932,7 @@
 
 //港鐵尖沙咀站
 {
-    "formattedAddress": "香港尖沙咀尖沙咀站",
+    "formattedAddress": "香港尖沙咀站",
     "latitude": 22.297604,
     "longitude": 114.172175,
     "extra": {
@@ -2031,18 +1940,16 @@
         "confidence": 0.5,
         "premise": null,
         "subpremise": null,
-        "neighborhood": "尖沙咀",
+        "neighborhood": null,
         "establishment": null
     },
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
 
 //港鐵尖東站
 {
-    "formattedAddress": "香港尖沙咀尖東站",
+    "formattedAddress": "香港尖東站",
     "latitude": 22.295263,
     "longitude": 114.174586,
     "extra": {
@@ -2050,11 +1957,9 @@
         "confidence": 0.5,
         "premise": null,
         "subpremise": null,
-        "neighborhood": "尖沙咀",
+        "neighborhood": null,
         "establishment": null
     },
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -2105,12 +2010,12 @@
 //港鐵柴灣站
 {
     "formattedAddress": "香港柴灣柴灣站",
-    "latitude": 22.264625,
-    "longitude": 114.237139,
+    "latitude": 22.2651097,
+    "longitude": 114.2380616,
     "extra": {
-        "googlePlaceId": "ChIJa1-QdogBBDQRB_vVGuTyS1E",
-        "confidence": 0.5,
-        "premise": null,
+        "googlePlaceId": "ChIJlTO-dogBBDQRQLFB6I4p0QI",
+        "confidence": 1,
+        "premise": "柴灣站",
         "subpremise": null,
         "neighborhood": "柴灣",
         "establishment": null
@@ -2134,8 +2039,6 @@
         "neighborhood": null,
         "establishment": null
     },
-    "state": "香港島",
-    "stateCode": "香港島",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -2182,25 +2085,6 @@
     "countryCode": "HK"
 },
 
-//港鐵西灣河站
-{
-    "formattedAddress": "香港西灣河西灣河站",
-    "latitude": 22.282096,
-    "longitude": 114.221905,
-    "extra": {
-        "googlePlaceId": "ChIJo3pjmnYBBDQRQLu7xtyyOp4",
-        "confidence": 0.5,
-        "premise": null,
-        "subpremise": null,
-        "neighborhood": "西灣河",
-        "establishment": null
-    },
-    "state": "香港島",
-    "stateCode": "香港島",
-    "country": "香港",
-    "countryCode": "HK"
-},
-
 //太古城道25號富山閣地下G15號
 {
     "formattedAddress": "香港鰂魚涌太古城道25號太古城高山台富山閣",
@@ -2211,7 +2095,7 @@
         "confidence": 1,
         "premise": "太古城高山台富山閣",
         "subpremise": null,
-        "neighborhood": "鰂魚涌",
+        "neighborhood": "���魚涌",
         "establishment": null
     },
     "streetNumber": "25",
@@ -2232,30 +2116,11 @@
         "confidence": 1,
         "premise": "太古城金殿台夏宮閣",
         "subpremise": null,
-        "neighborhood": "鰂魚涌",
+        "neighborhood": "���魚涌",
         "establishment": null
     },
     "streetNumber": "24",
     "streetName": "太古城道",
-    "state": "香港島",
-    "stateCode": "香港島",
-    "country": "香港",
-    "countryCode": "HK"
-},
-
-//港鐵太古站
-{
-    "formattedAddress": "香港康山太古站",
-    "latitude": 22.284649,
-    "longitude": 114.216359,
-    "extra": {
-        "googlePlaceId": "ChIJ7RfOpnQBBDQRemQVEpdDcGY",
-        "confidence": 0.5,
-        "premise": null,
-        "subpremise": null,
-        "neighborhood": "康山",
-        "establishment": null
-    },
     "state": "香港島",
     "stateCode": "香港島",
     "country": "香港",
@@ -2304,25 +2169,6 @@
     "countryCode": "HK"
 },
 
-//港鐵北角站
-{
-    "formattedAddress": "香港北角北角站",
-    "latitude": 22.291123,
-    "longitude": 114.200018,
-    "extra": {
-        "googlePlaceId": "ChIJ2YJ-5AQBBDQROAXrNLrsXzw",
-        "confidence": 0.5,
-        "premise": null,
-        "subpremise": null,
-        "neighborhood": "北角",
-        "establishment": null
-    },
-    "state": "香港島",
-    "stateCode": "香港島",
-    "country": "香港",
-    "countryCode": "HK"
-},
-
 //英皇道335號
 {
     "formattedAddress": "香港北角英皇道335號",
@@ -2347,10 +2193,10 @@
 //電氣道233號
 {
     "formattedAddress": "香港北角電氣道233號",
-    "latitude": 22.290648,
-    "longitude": 114.194482,
+    "latitude": 22.291118,
+    "longitude": 114.195015,
     "extra": {
-        "googlePlaceId": "ChIJdWjMrAMBBDQRRkIcVrBiKCs",
+        "googlePlaceId": "ChIJi9sKBwMBBDQRFi15TdSHsAw",
         "confidence": 1,
         "premise": null,
         "subpremise": null,
@@ -2359,25 +2205,6 @@
     },
     "streetNumber": "233",
     "streetName": "電氣道",
-    "state": "香港島",
-    "stateCode": "香港島",
-    "country": "香港",
-    "countryCode": "HK"
-},
-
-//港鐵炮台山站
-{
-    "formattedAddress": "香港北角炮台山站",
-    "latitude": 22.287913,
-    "longitude": 114.193661,
-    "extra": {
-        "googlePlaceId": "ChIJp0ecjwEBBDQRFZZhu-ivpRA",
-        "confidence": 0.5,
-        "premise": null,
-        "subpremise": null,
-        "neighborhood": "炮台山",
-        "establishment": null
-    },
     "state": "香港島",
     "stateCode": "香港島",
     "country": "香港",
@@ -2407,7 +2234,7 @@
 
 //加路連山道88號體育中心地下
 {
-    "formattedAddress": "香港加路連山加路連山道88號",
+    "formattedAddress": "香港加路���山加路連山道88號",
     "latitude": 22.275296,
     "longitude": 114.186892,
     "extra": {
@@ -2420,8 +2247,8 @@
     },
     "streetNumber": "88",
     "streetName": "加路連山道",
-    "state": "香港島",
-    "stateCode": "香���島",
+    "state": "香港���",
+    "stateCode": "香港島",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -2449,7 +2276,7 @@
 
 //軒尼詩道417號
 {
-    "formattedAddress": "香港鵝頸軒尼詩道417號",
+    "formattedAddress": "香港灣仔軒尼詩道417號",
     "latitude": 22.279442,
     "longitude": 114.18076,
     "extra": {
@@ -2512,7 +2339,7 @@
 
 //港鐵灣仔站
 {
-    "formattedAddress": "香港灣仔灣仔站",
+    "formattedAddress": "香港灣仔站",
     "latitude": 22.277608,
     "longitude": 114.172967,
     "extra": {
@@ -2520,41 +2347,20 @@
         "confidence": 0.5,
         "premise": null,
         "subpremise": null,
-        "neighborhood": "灣仔",
+        "neighborhood": null,
         "establishment": null
     },
-    "state": "香港島",
-    "stateCode": "香港島",
     "country": "香港",
     "countryCode": "HK"
 },
 
 //港島線金鐘站
 {
-    "formattedAddress": "香港中環金鐘站",
-    "latitude": 22.279412,
-    "longitude": 114.164559,
+    "formattedAddress": "香港中環GNC - 金鐘港鐵金鐘站",
+    "latitude": 22.278857,
+    "longitude": 114.16596,
     "extra": {
-        "googlePlaceId": "ChIJMwF-_mYABDQRaVnq758Eb-g",
-        "confidence": 0.5,
-        "premise": null,
-        "subpremise": null,
-        "neighborhood": "中環",
-        "establishment": null
-    },
-    "state": "香港島",
-    "stateCode": "香港島",
-    "country": "香港",
-    "countryCode": "HK"
-},
-
-//港鐵香港站
-{
-    "formattedAddress": "香港中環香港站",
-    "latitude": 22.284681,
-    "longitude": 114.158177,
-    "extra": {
-        "googlePlaceId": "ChIJKZNuDmMABDQRYvRmIXBsfRk",
+        "googlePlaceId": "ChIJR7efoGcABDQR3UfB2IJP0Pc",
         "confidence": 0.5,
         "premise": null,
         "subpremise": null,
@@ -2630,25 +2436,6 @@
     "countryCode": "HK"
 },
 
-//港鐵西營盤站
-{
-    "formattedAddress": "香港西環西營盤站",
-    "latitude": 22.285533,
-    "longitude": 114.142733,
-    "extra": {
-        "googlePlaceId": "ChIJCT9otID_AzQRa1XGkhsLYck",
-        "confidence": 0.5,
-        "premise": null,
-        "subpremise": null,
-        "neighborhood": "西營盤",
-        "establishment": null
-    },
-    "state": "香港島",
-    "stateCode": "香港島",
-    "country": "香港",
-    "countryCode": "HK"
-},
-
 //皇后大道西484-496號新安大樓地下
 {
     "formattedAddress": "香港西環皇后大道西484-496號新安大樓",
@@ -2673,8 +2460,8 @@
 //德輔道西363號地下4號舖
 {
     "formattedAddress": "香港石塘咀德輔道西363號",
-    "latitude": 22.2868134,
-    "longitude": 114.1363018,
+    "latitude": 22.2868145,
+    "longitude": 114.1363051,
     "extra": {
         "googlePlaceId": "EiHpppnmuK_nn7PloZjlkoDlvrfovJTpgZPopb8zNjPomZ8",
         "confidence": 0.9,
