@@ -163,8 +163,9 @@ var formatBranch = function(branch) {
 		var workHrs = workingHourFromBranch(branch.zh);
 
 		var result = {
+			_id: 'HANGSENG_' + branch.zh.Code,
 			atm_type: 'hsbc',
-			bank_type: 'hangseng',
+			shop_type: 'hangseng',
 			name: {
 				zh: '恒生銀行 ' + branch.zh.Name,
 				en: 'Hang Seng Bank ' + branch.en.Name
@@ -329,6 +330,7 @@ var getAllBranchesEn = function() {
 	});
 };
 
+// Merge two array
 var mergeZhEnBranches = function(zh, en) {
 	return new Promise(function(resolve, reject) {
 		var branches = [];
@@ -337,18 +339,18 @@ var mergeZhEnBranches = function(zh, en) {
 			var branch = {
 				zh: zh[i],
 				en: en[i]
-			}
+			};
 
 			if (branch.zh.Code === branch.en.Code) {
 				branches.push(branch);
 			} else {
 				reject('Error: Branch Zh and En array are not match!');
 			}
-		};
+		}
 
 		resolve(branches);
 	});
-}
+};
 
 // Delete previous geocode.json
 fs.unlink(geocodeJsonPath, function(err) {

@@ -27,12 +27,13 @@ function Area(area_id, district_ids) {
 
 // Branch Object
 function Branch(atm, en) {
+	this._id = 'JETCO_' + $(atm).attr('id');
 	this.atm_type = 'jetco';
 	this.name = {
 		zh: $(atm).find('ob_name').text(),
 		en: $(en).find('ob_name').text()
 	};
-	this.bank_type = this.name.zh.substring(0, this.name.zh.indexOf('銀行') + 2);
+	this.shop_type = this.name.zh.substring(0, this.name.zh.indexOf('銀行') + 2);
 	this.area = {
 		zh: $(atm).find('aarea').text(),
 		en: $(en).find('aarea').text()
@@ -189,7 +190,7 @@ var getBranchesWithAreaAndDistricts = function(area_id, district_id) {
 									enIndex = j;
 									break;
 								}
-							};
+							}
 
 							// Construct the branch object
 							// Add branch to branchesInDistrict
@@ -237,7 +238,10 @@ var branches = Promise
 
 			var banks = [];
 			for (var i = 0; i < branches.length; i++) {
-				if (banks.indexOf(branches[i].name) === -1) {
+				var index = banks.map(function(e) {
+					return e.zh;
+				}).indexOf(branches[i].name.zh);
+				if (index === -1) {
 					banks.push(branches[i].name);
 				}
 			}

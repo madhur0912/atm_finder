@@ -101,8 +101,9 @@ function Branch(branch) {
 	// console.log(JSON.stringify(branch, 0, 4));
 
 	// Set basic key-value
+	this._id = 'HSBC_' + branch.locationId;
 	this.atm_type = 'hsbc';
-	this.bank_type = 'hsbc';
+	this.shop_type = 'hsbc';
 	this.name = {
 		zh: '匯豐銀行 ' + branch.name,
 		en: 'HSBC ' + branch.en.name
@@ -161,6 +162,8 @@ function Branch(branch) {
 		zh: serviceStringZh.trim(),
 		en: serviceStringEn.trim()
 	};
+
+	this.tel = null;
 }
 
 // Save response body
@@ -247,13 +250,13 @@ var findBranches = function(requestData, route) {
 									resultEn.splice(j, 1);
 									break;
 								}
-							};
-						};
+							}
+						}
 
 						// Resolve it
 						resolve(resultZh);
 					}
-				})
+				});
 			}
 		}).on('error', function(error) {
 

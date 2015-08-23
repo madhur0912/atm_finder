@@ -1,7 +1,8 @@
 [
     {
+        "_id": "HANGSENG_193",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 北大嶼山醫院",
             "en": "Hang Seng Bank North Lantau Hospital"
@@ -35,8 +36,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_191",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵博覽館站",
             "en": "Hang Seng Bank Asiaworld Expo Station"
@@ -70,8 +72,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_192",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵東涌站 (港鐵站辦事處)",
             "en": "Hang Seng Bank Tung Chung Station (MTR Station Office)"
@@ -113,8 +116,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_194",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 映灣薈",
             "en": "Hang Seng Bank Caribbean Square"
@@ -148,8 +152,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_161",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 大興邨",
             "en": "Hang Seng Bank Tai Hing Estate"
@@ -183,8 +188,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_160",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵屯門站",
             "en": "Hang Seng Bank Tuen Mun Station"
@@ -218,8 +224,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_163",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 屯門鄉事會路分行",
             "en": "Hang Seng Bank Tuen Mun Heung Sze Wui Road Branch"
@@ -261,8 +268,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_162",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 屯門市廣場優越及優進理財中心",
             "en": "Hang Seng Bank Tuen Mun Town Plaza Prestige & Preferred Banking Centre"
@@ -304,8 +312,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_159",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵兆康站",
             "en": "Hang Seng Bank Siu Hong Station"
@@ -339,8 +348,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_167",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 頌富廣場",
             "en": "Hang Seng Bank Chung Fu Plaza"
@@ -369,13 +379,14 @@
         "workHrs": null,
         "tel": null,
         "loc": [
-            113.9977809,
-            22.4613865
+            113.9977793,
+            22.4614291
         ]
     },
     {
+        "_id": "HANGSENG_166",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 天瑞商場",
             "en": "Hang Seng Bank Tin Shui Shopping Centre"
@@ -409,8 +420,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_168",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 天澤商場",
             "en": "Hang Seng Bank Tin Chak Shopping Centre"
@@ -444,8 +456,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_165",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 嘉湖銀座分行",
             "en": "Hang Seng Bank Kingswood Ginza Branch"
@@ -487,8 +500,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_164",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵天水圍站",
             "en": "Hang Seng Bank Tin Shui Wai Station"
@@ -522,8 +536,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_169",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵朗屏站",
             "en": "Hang Seng Bank Long Ping Station"
@@ -557,8 +572,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_173",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 元朗(教育路)分行",
             "en": "Hang Seng Bank Yuen Long (Kau Yuk Road) Branch"
@@ -600,8 +616,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_195",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵欣澳站",
             "en": "Hang Seng Bank Sunny Bay Station"
@@ -635,8 +652,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_171",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 谷亭街",
             "en": "Hang Seng Bank Kuk Ting Street"
@@ -670,8 +688,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_170",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵元朗站",
             "en": "Hang Seng Bank Yuen Long Station"
@@ -705,8 +724,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_174",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 博愛醫院",
             "en": "Hang Seng Bank Pok Oi Hospital"
@@ -740,8 +760,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_196",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵迪士尼站",
             "en": "Hang Seng Bank Disneyland Resort Station"
@@ -775,8 +796,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_175",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵錦上路站",
             "en": "Hang Seng Bank Kam Sheung Road Station"
@@ -810,8 +832,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_198",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵落馬洲站",
             "en": "Hang Seng Bank Lok Ma Chau Station"
@@ -845,8 +868,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_188",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 長亨邨",
             "en": "Hang Seng Bank Cheung Hang Estate"
@@ -880,8 +904,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_158",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 麗城花園",
             "en": "Hang Seng Bank Belvedere Garden"
@@ -915,8 +940,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_187",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 青衣邨",
             "en": "Hang Seng Bank Tsing Yi Estate"
@@ -950,8 +976,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_189",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 長康一期商場",
             "en": "Hang Seng Bank Cheung Hong Shopping Centre"
@@ -985,8 +1012,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_184",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵青衣站",
             "en": "Hang Seng Bank Tsing Yi Station"
@@ -1020,8 +1048,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_157",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 有線電視大樓",
             "en": "Hang Seng Bank Cable TV Tower"
@@ -1055,8 +1084,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_185",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 青衣城分行",
             "en": "Hang Seng Bank Maritime Square Branch"
@@ -1098,8 +1128,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_190",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 翠怡花園",
             "en": "Hang Seng Bank Greenfield Garden Shopping Arcade"
@@ -1133,8 +1164,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_149",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵荃灣西站",
             "en": "Hang Seng Bank Tsuen Wan West Station"
@@ -1168,8 +1200,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_155",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 荃灣廣場一田百貨",
             "en": "Hang Seng Bank Tsuen Wan Plaza (YATA)"
@@ -1203,8 +1236,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_197",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵羅湖站",
             "en": "Hang Seng Bank Lo Wu Station"
@@ -1238,8 +1272,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_151",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 荃錦中心商場",
             "en": "Hang Seng Bank Tsuen Kam Centre"
@@ -1273,8 +1308,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_152",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 大河道分行",
             "en": "Hang Seng Bank Tai Ho Road Branch"
@@ -1316,8 +1352,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_153",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 眾安街分行",
             "en": "Hang Seng Bank Chung On Street Branch"
@@ -1354,13 +1391,14 @@
         },
         "tel": null,
         "loc": [
-            114.1175648,
-            22.3709907
+            114.1175618,
+            22.370986
         ]
     },
     {
+        "_id": "HANGSENG_154",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 荃灣分行",
             "en": "Hang Seng Bank Tsuen Wan Branch"
@@ -1402,8 +1440,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_148",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵荃灣站 (港鐵站辦事處)",
             "en": "Hang Seng Bank Tsuen Wan Station (MTR Station Office)"
@@ -1445,8 +1484,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_156",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 悅來坊",
             "en": "Hang Seng Bank Panda Place"
@@ -1480,8 +1520,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_147",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵大窩口站",
             "en": "Hang Seng Bank Tai Wo Hau Station"
@@ -1515,8 +1556,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_183",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵荔景站 (港鐵站辦事處)",
             "en": "Hang Seng Bank Lai King Station (MTR Station Office)"
@@ -1558,8 +1600,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_203",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 新康街",
             "en": "Hang Seng Bank San Hong Street"
@@ -1593,8 +1636,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_182",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 新都會廣場分行",
             "en": "Hang Seng Bank Metroplaza Branch"
@@ -1636,8 +1680,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_181",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵葵芳站 (港鐵站辦事處)",
             "en": "Hang Seng Bank Kwai Fong Station (MTR Station Office)"
@@ -1679,8 +1724,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_199",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵上水站",
             "en": "Hang Seng Bank Sheung Shui Station"
@@ -1714,8 +1760,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_2",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 士美非路(百佳)",
             "en": "Hang Seng Bank Smithfield Road (PARKnSHOP)"
@@ -1749,8 +1796,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_179",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 葵涌商場",
             "en": "Hang Seng Bank Kwai Chung Shopping Centre"
@@ -1784,8 +1832,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_3",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵堅尼地城站",
             "en": "Hang Seng Bank Kennedy Town Station"
@@ -1819,8 +1868,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_8",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵西營盤站",
             "en": "Hang Seng Bank Sai Ying Pun Station"
@@ -1854,8 +1904,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_200",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 上水個人理財中心",
             "en": "Hang Seng Bank Sheung Shui Sales & Service Centre"
@@ -1897,8 +1948,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_1",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 堅尼地城分行",
             "en": "Hang Seng Bank Kennedy Town Branch"
@@ -1935,13 +1987,14 @@
         },
         "tel": null,
         "loc": [
-            114.1291956,
-            22.2827854
+            114.1291905,
+            22.2827843
         ]
     },
     {
+        "_id": "HANGSENG_62",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 香港大學",
             "en": "Hang Seng Bank Hong Kong University"
@@ -1975,8 +2028,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_177",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵葵興站",
             "en": "Hang Seng Bank Kwai Hing Station"
@@ -2010,8 +2064,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_178",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 新葵興廣場分行",
             "en": "Hang Seng Bank Sun Kwai Hing Plaza Branch"
@@ -2053,8 +2108,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_7",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵香港大學站",
             "en": "Hang Seng Bank HKU Station"
@@ -2088,8 +2144,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_6",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 石塘咀",
             "en": "Hang Seng Bank Shek Tong Tsui"
@@ -2123,8 +2180,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_4",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 龍豐閣",
             "en": "Hang Seng Bank Lun Fung Court"
@@ -2158,8 +2216,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_176",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 華景山莊",
             "en": "Hang Seng Bank Wonderland Villas"
@@ -2193,8 +2252,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_96",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵美孚站",
             "en": "Hang Seng Bank Mei Foo Station"
@@ -2228,8 +2288,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_97",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 美孚新邨(蘭秀道)分行",
             "en": "Hang Seng Bank Mei Foo Sun Chuen (Nassau Street) Branch"
@@ -2271,8 +2332,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_180",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 上葵涌分行",
             "en": "Hang Seng Bank Sheung Kwai Chung Branch"
@@ -2314,8 +2376,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_98",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 美孚廣場優越及優進理財中心",
             "en": "Hang Seng Bank Mei Foo Plaza Prestige & Preferred Banking Centre"
@@ -2357,8 +2420,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_204",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 花都廣場",
             "en": "Hang Seng Bank Flora Plaza"
@@ -2392,8 +2456,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_205",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 粉嶺分行",
             "en": "Hang Seng Bank Fanling Branch"
@@ -2435,8 +2500,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_95",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 饒宗頤文化館",
             "en": "Hang Seng Bank Jao Tsung-I Academy"
@@ -2470,8 +2536,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_9",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 德輔道西分行",
             "en": "Hang Seng Bank Des Voeux Road West Branch"
@@ -2513,8 +2580,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_94",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵荔枝角站 (港鐵站辦事處)",
             "en": "Hang Seng Bank Lai Chi Kok Station (MTR Station Office)"
@@ -2556,8 +2624,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_92",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 長沙灣廣場分行",
             "en": "Hang Seng Bank Cheung Sha Wan Plaza Branch"
@@ -2599,8 +2668,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_61",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 鴨脷洲邨",
             "en": "Hang Seng Bank Ap Lei Chau Estate"
@@ -2634,8 +2704,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_11",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵上環站(中) (港鐵站辦事處)",
             "en": "Hang Seng Bank Sheung Wan Station (Central) (MTR Station Office)"
@@ -2677,8 +2748,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_12",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵上環站(東) (港鐵站辦事處)",
             "en": "Hang Seng Bank Sheung Wan Station (East) (MTR Station Office)"
@@ -2720,8 +2792,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_10",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 上環分行",
             "en": "Hang Seng Bank Sheung Wan Branch"
@@ -2763,8 +2836,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_99",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵南昌站",
             "en": "Hang Seng Bank Nam Cheong Station"
@@ -2798,8 +2872,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_60",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 香港仔中心",
             "en": "Hang Seng Bank Aberdeen Centre"
@@ -2833,8 +2908,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_93",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵長沙灣站",
             "en": "Hang Seng Bank Cheung Sha Wan Station"
@@ -2868,8 +2944,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_13",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 總行",
             "en": "Hang Seng Bank Head Office"
@@ -2911,8 +2988,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_91",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 青山道",
             "en": "Hang Seng Bank Castle Peak Road"
@@ -2946,8 +3024,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_17",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵中環站(環球大廈)個人理財中心",
             "en": "Hang Seng Bank MTR Central (Worldwide House) Sales & Service Centre"
@@ -2989,8 +3068,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_16",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵香港站",
             "en": "Hang Seng Bank Hong Kong Station"
@@ -3024,8 +3104,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_251",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 奧海城分行",
             "en": "Hang Seng Bank Olympian City Branch"
@@ -3067,8 +3148,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_15",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 國際金融中心",
             "en": "Hang Seng Bank Two International Finance Centre"
@@ -3102,8 +3184,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_85",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵奧運站",
             "en": "Hang Seng Bank Olympic Station"
@@ -3137,8 +3220,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_18",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵中環站(昃臣道)",
             "en": "Hang Seng Bank Central (Jackson Road) Station"
@@ -3172,8 +3256,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_81",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 埃華街",
             "en": "Hang Seng Bank Ivy Street"
@@ -3207,8 +3292,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_206",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵太和站",
             "en": "Hang Seng Bank Tai Wo Station"
@@ -3242,8 +3328,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_84",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵九龍站 (港鐵站辦事處)",
             "en": "Hang Seng Bank Kowloon Station (MTR Station Office)"
@@ -3285,8 +3372,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_88",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵深水埗站",
             "en": "Hang Seng Bank Shamshuipo Station"
@@ -3320,8 +3408,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_172",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 元朗優越及優進理財中心",
             "en": "Hang Seng Bank Yuen Long Prestige & Preferred Banking Centre"
@@ -3363,8 +3452,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_89",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 北河街分行",
             "en": "Hang Seng Bank Pei Ho Street Branch"
@@ -3406,8 +3496,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_80",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 大角咀",
             "en": "Hang Seng Bank Tai Kok Tsui"
@@ -3441,8 +3532,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_63",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 深灣遊艇會",
             "en": "Hang Seng Bank Aberdeen Marina Club"
@@ -3476,8 +3568,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_72",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 理工大學西九龍校園",
             "en": "Hang Seng Bank PolyU HKCC West Kowloon Campus"
@@ -3511,8 +3604,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_24",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 政府總部",
             "en": "Hang Seng Bank Central Government Offices"
@@ -3546,8 +3640,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_23",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 统一中心",
             "en": "Hang Seng Bank United Centre Automated Banking Centre"
@@ -3581,8 +3676,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_20",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵金鐘站 (港鐵站辦事處)",
             "en": "Hang Seng Bank Admiralty Station (MTR Station Office)"
@@ -3624,8 +3720,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_209",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 大埔分行",
             "en": "Hang Seng Bank Tai Po Branch"
@@ -3662,13 +3759,14 @@
         },
         "tel": null,
         "loc": [
-            114.1659601,
-            22.4491134
+            114.1659614,
+            22.4491178
         ]
     },
     {
+        "_id": "HANGSENG_87",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 石硤尾邨",
             "en": "Hang Seng Bank Shek Kip Mei Estate"
@@ -3702,8 +3800,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_208",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 大埔(安慈路)分行",
             "en": "Hang Seng Bank Tai Po (On Chee Road) Branch"
@@ -3745,8 +3844,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_86",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵石硤尾站",
             "en": "Hang Seng Bank Shek Kip Mei Station"
@@ -3780,8 +3880,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_83",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 太子道141號分行",
             "en": "Hang Seng Bank 141 Prince Edward Road Branch"
@@ -3823,8 +3924,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_78",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 旺角優越及優進理財中心",
             "en": "Hang Seng Bank Mongkok Prestige & Preferred Banking Centre"
@@ -3866,8 +3968,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_77",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵旺角站",
             "en": "Hang Seng Bank Mongkok Station"
@@ -3901,8 +4004,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_210",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 大埔超級城",
             "en": "Hang Seng Bank Tai Po Mega Mall"
@@ -3936,8 +4040,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_73",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 九龍總行",
             "en": "Hang Seng Bank Kowloon Main Branch"
@@ -3979,8 +4084,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_207",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵大埔墟站",
             "en": "Hang Seng Bank Tai Po Market Station"
@@ -4014,8 +4120,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_71",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵油麻地站",
             "en": "Hang Seng Bank Yaumati Station"
@@ -4049,8 +4156,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_70",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 油麻地分行",
             "en": "Hang Seng Bank Yaumati Branch"
@@ -4092,8 +4200,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_211",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 富亨商場",
             "en": "Hang Seng Bank Fu Heng Shopping Centre"
@@ -4127,8 +4236,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_79",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 旺角個人理財中心",
             "en": "Hang Seng Bank Mongkok Sales & Service Centre"
@@ -4170,8 +4280,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_66",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 漢口道分行",
             "en": "Hang Seng Bank Hankow Road Branch"
@@ -4213,8 +4324,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_69",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵佐敦站 (港鐵站辦事處)",
             "en": "Hang Seng Bank Jordan Station (MTR Station Office)"
@@ -4256,8 +4368,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_102",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 香港城巿大學",
             "en": "Hang Seng Bank City University"
@@ -4291,8 +4404,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_65",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵尖沙咀站",
             "en": "Hang Seng Bank Tsimshatsui Station"
@@ -4326,8 +4440,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_75",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵旺角東站",
             "en": "Hang Seng Bank Mongkok East Station"
@@ -4361,8 +4476,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_25",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵灣仔站",
             "en": "Hang Seng Bank Wanchai Station"
@@ -4396,8 +4512,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_76",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 亞皆老街",
             "en": "Hang Seng Bank Argyle Street"
@@ -4431,8 +4548,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_101",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 城巿大學分行",
             "en": "Hang Seng Bank City University Branch"
@@ -4474,8 +4592,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_67",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 尖沙咀分行",
             "en": "Hang Seng Bank Tsimshatsui Branch"
@@ -4517,8 +4636,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_26",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 莊士敦道分行",
             "en": "Hang Seng Bank Johnston Road Branch"
@@ -4560,8 +4680,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_64",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵尖東站",
             "en": "Hang Seng Bank East Tsimshatsui Station"
@@ -4595,8 +4716,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_27",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 灣仔分行",
             "en": "Hang Seng Bank Wanchai Branch"
@@ -4638,8 +4760,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_230",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 仁安醫院",
             "en": "Hang Seng Bank Union Hospital"
@@ -4673,8 +4796,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_100",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵九龍塘站",
             "en": "Hang Seng Bank Kowloon Tong Station"
@@ -4708,8 +4832,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_74",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 窩打老道優越及優進理財中心",
             "en": "Hang Seng Bank Waterloo Road Prestige & Preferred Banking Centre"
@@ -4751,8 +4876,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_229",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 大圍分行",
             "en": "Hang Seng Bank Tai Wai Branch"
@@ -4794,8 +4920,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_228",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵大圍站",
             "en": "Hang Seng Bank Tai Wai Station"
@@ -4829,8 +4956,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_112",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 理工大學分行",
             "en": "Hang Seng Bank Polytechnic University Branch"
@@ -4872,8 +5000,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_103",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 浸會大學分行",
             "en": "Hang Seng Bank Baptist University Branch"
@@ -4915,8 +5044,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_105",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 香港浸信會醫院",
             "en": "Hang Seng Bank Baptist Hospital"
@@ -4950,8 +5080,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_28",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 軒尼詩道分行",
             "en": "Hang Seng Bank Hennessy Road Branch"
@@ -4993,8 +5124,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_111",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵紅磡站",
             "en": "Hang Seng Bank Hung Hom Station"
@@ -5028,8 +5160,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_35",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 跑馬地馬場",
             "en": "Hang Seng Bank Happy Valley Racecourse"
@@ -5063,8 +5196,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_104",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 香港浸會大學",
             "en": "Hang Seng Bank Baptist University"
@@ -5098,8 +5232,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_106",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 醫院管理局大樓",
             "en": "Hang Seng Bank Hospital Authority Building"
@@ -5133,8 +5268,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_29",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵銅鑼灣(西)站",
             "en": "Hang Seng Bank Causeway Bay Station (West)"
@@ -5168,8 +5304,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_30",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵銅鑼灣(東)站個人理財中心",
             "en": "Hang Seng Bank MTR Causeway Bay (East) Sales & Service Centre"
@@ -5211,8 +5348,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_107",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 聖德肋撒醫院",
             "en": "Hang Seng Bank St. Teresa's Hospital"
@@ -5246,8 +5384,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_31",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 恩平道分行",
             "en": "Hang Seng Bank Yun Ping Road Branch"
@@ -5289,8 +5428,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_32",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 銅鑼灣優越及優進理財中心",
             "en": "Hang Seng Bank Causeway Bay Prestige & Preferred Banking Centre"
@@ -5332,8 +5472,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_36",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 跑馬地優越及優進理財中心",
             "en": "Hang Seng Bank Happy Valley Prestige & Preferred Banking Centre"
@@ -5375,8 +5516,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_34",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 南華體育會",
             "en": "Hang Seng Bank South China Athletic Association"
@@ -5410,8 +5552,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_126",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵樂富站",
             "en": "Hang Seng Bank Lok Fu Station"
@@ -5445,8 +5588,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_108",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 九龍城分行",
             "en": "Hang Seng Bank Kowloon City Branch"
@@ -5488,8 +5632,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_224",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 一田百貨",
             "en": "Hang Seng Bank Yata Department Store"
@@ -5523,8 +5668,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_115",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 紅磡分行",
             "en": "Hang Seng Bank Hung Hom Branch"
@@ -5566,8 +5712,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_127",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 樂富廣場分行",
             "en": "Hang Seng Bank Lok Fu Plaza Branch"
@@ -5609,8 +5756,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_113",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 德民街",
             "en": "Hang Seng Bank Tak Man Street"
@@ -5644,8 +5792,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_109",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 譚公道分行",
             "en": "Hang Seng Bank Tam Kung Road Branch"
@@ -5687,8 +5836,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_33",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 聖保祿醫院",
             "en": "Hang Seng Bank St. Paul's Hospital"
@@ -5722,8 +5872,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_110",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 土瓜灣分行",
             "en": "Hang Seng Bank To Kwa Wan Branch"
@@ -5765,8 +5916,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_221",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 沙田分行",
             "en": "Hang Seng Bank Shatin Branch"
@@ -5808,8 +5960,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_116",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 漁人碼頭",
             "en": "Hang Seng Bank Fisherman's Wharf"
@@ -5843,8 +5996,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_226",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 乙明邨OK便利店",
             "en": "Hang Seng Bank Jat Min Chuen (Circle-K)"
@@ -5878,8 +6032,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_37",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵天后站 (港鐵站辦事處)",
             "en": "Hang Seng Bank Tin Hau Station (MTR Station Office)"
@@ -5921,8 +6076,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_216",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 火炭",
             "en": "Hang Seng Bank Fo Tan"
@@ -5956,8 +6112,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_38",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵炮台山站",
             "en": "Hang Seng Bank Fortress Hill Station"
@@ -5991,8 +6148,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_124",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵黃大仙站 (港鐵站辦事處)",
             "en": "Hang Seng Bank Wong Tai Sin Station (MTR Station Office)"
@@ -6034,8 +6192,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_125",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 黃大仙分行",
             "en": "Hang Seng Bank Wong Tai Sin Branch"
@@ -6077,8 +6236,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_212",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 香港教育學院",
             "en": "Hang Seng Bank The Hong Kong Institute of Education"
@@ -6112,8 +6272,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_39",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 城市花園優越及優進理財中心",
             "en": "Hang Seng Bank City Garden Prestige & Preferred Banking Centre"
@@ -6150,13 +6311,14 @@
         },
         "tel": null,
         "loc": [
-            114.195015,
-            22.291118
+            114.194482,
+            22.290648
         ]
     },
     {
+        "_id": "HANGSENG_121",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 新蒲崗分行",
             "en": "Hang Seng Bank San Po Kong Branch"
@@ -6198,8 +6360,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_40",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 北角分行",
             "en": "Hang Seng Bank North Point Branch"
@@ -6241,8 +6404,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_122",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 慈雲山分行",
             "en": "Hang Seng Bank Tsz Wan Shan Branch"
@@ -6284,8 +6448,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_215",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵火炭站",
             "en": "Hang Seng Bank Fo Tan Station"
@@ -6319,8 +6484,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_120",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 龍蟠苑OK便利店",
             "en": "Hang Seng Bank Lung Poon Court (Circle-K)"
@@ -6354,8 +6520,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_41",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵北角站",
             "en": "Hang Seng Bank North Point Station"
@@ -6389,8 +6556,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_123",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 慈雲山中心",
             "en": "Hang Seng Bank Tsz Wan Shan Shopping Centre"
@@ -6424,8 +6592,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_42",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 北角(樂嘉中心)分行",
             "en": "Hang Seng Bank North Point (Roca Centre) Branch"
@@ -6467,8 +6636,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_118",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵鑽石山站",
             "en": "Hang Seng Bank Diamond Hill Station"
@@ -6502,8 +6672,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_119",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 荷里活廣場",
             "en": "Hang Seng Bank Plaza Hollywood"
@@ -6537,8 +6708,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_223",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 沙田第一城分行",
             "en": "Hang Seng Bank Shatin City One Branch"
@@ -6580,8 +6752,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_213",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 中文大學分行",
             "en": "Hang Seng Bank Chinese University Branch"
@@ -6623,8 +6796,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_225",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 愉翠商場",
             "en": "Hang Seng Bank Yu Chui Shopping Centre"
@@ -6658,8 +6832,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_217",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 沙田馬場",
             "en": "Hang Seng Bank Shatin Racecourse"
@@ -6693,8 +6868,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_214",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 香港中文大學",
             "en": "Hang Seng Bank Chinese University of Hong Kong"
@@ -6728,8 +6904,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_132",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 MegaBox",
             "en": "Hang Seng Bank MegaBox"
@@ -6763,8 +6940,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_43",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵鰂魚涌(西)站",
             "en": "Hang Seng Bank Quarry Bay Station (West)"
@@ -6798,8 +6976,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_117",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵彩虹站 (港鐵站辦事處)",
             "en": "Hang Seng Bank Choi Hung Station (MTR Station Office)"
@@ -6841,8 +7020,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_44",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵鰂魚涌(東)站",
             "en": "Hang Seng Bank Quarry Bay Station (East)"
@@ -6876,8 +7056,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_220",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵沙田站",
             "en": "Hang Seng Bank Shatin Station"
@@ -6911,8 +7092,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_130",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 德福大廈分行",
             "en": "Hang Seng Bank Telford House Branch"
@@ -6954,8 +7136,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_227",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 恒生管理學院",
             "en": "Hang Seng Bank Hang Seng Management College"
@@ -6989,8 +7172,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_45",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 鰂魚涌分行",
             "en": "Hang Seng Bank Quarry Bay Branch"
@@ -7032,8 +7216,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_235",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 沙田醫院",
             "en": "Hang Seng Bank Shatin Hospital"
@@ -7067,8 +7252,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_131",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 德福商場第二期",
             "en": "Hang Seng Bank New Telford Plaza II"
@@ -7102,8 +7288,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_129",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 九龍灣優越及優進理財中心",
             "en": "Hang Seng Bank Kowloon Bay Prestige & Preferred Banking Centre"
@@ -7145,8 +7332,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_128",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵九龍灣站",
             "en": "Hang Seng Bank Kowloon Bay Station"
@@ -7180,8 +7368,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_47",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 太古城優越理財中心",
             "en": "Hang Seng Bank Taikoo Shing Prestige Banking Centre"
@@ -7223,8 +7412,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_46",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵太古站",
             "en": "Hang Seng Bank Taikoo Station"
@@ -7258,8 +7448,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_134",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 牛頭角分行",
             "en": "Hang Seng Bank Ngau Tau Kok Branch"
@@ -7301,8 +7492,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_48",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 太古城分行",
             "en": "Hang Seng Bank Taikoo Shing Branch"
@@ -7344,8 +7536,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_133",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵牛頭角站",
             "en": "Hang Seng Bank Ngau Tau Kok Station"
@@ -7379,8 +7572,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_50",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵西灣河站",
             "en": "Hang Seng Bank Sai Wan Ho Station"
@@ -7414,8 +7608,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_49",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 鯉景灣",
             "en": "Hang Seng Bank Lei King Wan"
@@ -7449,8 +7644,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_234",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 富安花園",
             "en": "Hang Seng Bank Chevalier Garden"
@@ -7484,8 +7680,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_136",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 APM",
             "en": "Hang Seng Bank APM"
@@ -7519,8 +7716,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_139",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 觀塘個人理財中心",
             "en": "Hang Seng Bank Kwun Tong Sales & Service Centre"
@@ -7562,8 +7760,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_138",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 觀塘廣場",
             "en": "Hang Seng Bank Kwun Tong Plaza"
@@ -7597,8 +7796,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_51",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 筲箕灣道",
             "en": "Hang Seng Bank Shau Kei Wan Road"
@@ -7632,8 +7832,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_135",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵觀塘站 (港鐵站辦事處)",
             "en": "Hang Seng Bank Kwun Tong Station (MTR Station Office)"
@@ -7675,8 +7876,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_52",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 筲箕灣分行",
             "en": "Hang Seng Bank Shau Kei Wan Branch"
@@ -7718,8 +7920,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_143",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 聯合醫院",
             "en": "Hang Seng Bank United Christian Hospital"
@@ -7753,8 +7956,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_145",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 麗港城商場",
             "en": "Hang Seng Bank Laguna Plaza"
@@ -7788,8 +7992,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_53",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵筲箕灣站",
             "en": "Hang Seng Bank Shaukiwan Station"
@@ -7823,8 +8028,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_142",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 曉麗商場",
             "en": "Hang Seng Bank Hiu Lai Shopping Centre"
@@ -7858,8 +8064,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_233",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 新港城中心優越及優進理財中心",
             "en": "Hang Seng Bank Sunshine City Plaza Prestige & Preferred Banking Centre"
@@ -7901,8 +8108,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_232",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 馬鞍山分行",
             "en": "Hang Seng Bank Ma On Shan Branch"
@@ -7944,8 +8152,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_231",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵馬鞍山站",
             "en": "Hang Seng Bank Ma On Shan Station"
@@ -7979,8 +8188,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_144",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵藍田站 (港鐵站辦事處)",
             "en": "Hang Seng Bank Lam Tin Station (MTR Station Office)"
@@ -8022,8 +8232,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_56",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 柴灣分行",
             "en": "Hang Seng Bank Chai Wan Branch"
@@ -8065,8 +8276,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_146",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵油塘站",
             "en": "Hang Seng Bank Yau Tong Station"
@@ -8100,8 +8312,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_55",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵柴灣站",
             "en": "Hang Seng Bank Chai Wan Station"
@@ -8135,8 +8348,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_54",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵杏花邨站",
             "en": "Hang Seng Bank Heng Fa Chuen Station"
@@ -8170,8 +8384,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_57",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 富怡花園",
             "en": "Hang Seng Bank Cheerful Garden"
@@ -8205,8 +8420,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_58",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 藍灣廣場",
             "en": "Hang Seng Bank Island Resort Mall"
@@ -8240,8 +8456,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_236",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵調景嶺站",
             "en": "Hang Seng Bank Tiu Keng Leng Station"
@@ -8275,8 +8492,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_240",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 將軍澳中心分行",
             "en": "Hang Seng Bank Park Central Branch"
@@ -8318,8 +8536,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_246",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 新都城分行",
             "en": "Hang Seng Bank Metro City Branch"
@@ -8361,8 +8580,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_247",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 新都城",
             "en": "Hang Seng Bank Metro City"
@@ -8396,8 +8616,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_245",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵寶琳站",
             "en": "Hang Seng Bank Po Lam Station"
@@ -8431,8 +8652,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_238",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 Popcorn",
             "en": "Hang Seng Bank Popcorn"
@@ -8466,8 +8688,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_237",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵將軍澳站",
             "en": "Hang Seng Bank Tseung Kwan O Station"
@@ -8501,8 +8724,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_248",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 科技大學分行",
             "en": "Hang Seng Bank The University of Science & Technology Branch"
@@ -8544,8 +8768,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_249",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 香港科技大學",
             "en": "Hang Seng Bank The University of Science & Technology"
@@ -8579,8 +8804,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_242",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵坑口站",
             "en": "Hang Seng Bank Hang Hau Station"
@@ -8614,8 +8840,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_250",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 香港科技大學",
             "en": "Hang Seng Bank The University of Science & Technology"
@@ -8649,8 +8876,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_243",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 東港城分行",
             "en": "Hang Seng Bank East Point City Branch"
@@ -8692,8 +8920,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_244",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 將軍澳醫院",
             "en": "Hang Seng Bank Tseung Kwan O Hospital"
@@ -8727,8 +8956,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_241",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵康城站",
             "en": "Hang Seng Bank Lohas Park Station"
@@ -8762,8 +8992,9 @@
         ]
     },
     {
+        "_id": "HANGSENG_82",
         "atm_type": "hsbc",
-        "bank_type": "hangseng",
+        "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵太子站",
             "en": "Hang Seng Bank Prince Edward Station"

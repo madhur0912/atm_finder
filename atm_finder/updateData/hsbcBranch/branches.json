@@ -1,5 +1,6 @@
 [
     {
+        "_id": "HSBC_066-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -31,9 +32,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_646-04505",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -65,9 +68,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_556-04511",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -99,9 +104,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_646-04516",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -133,9 +140,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_646-04515",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -167,9 +176,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_646-04506",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -201,9 +212,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_646-04507",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -235,9 +248,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_648.0",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -277,9 +292,11 @@
         "service": {
             "zh": "現金提款\n外幣兌換服務\n匯豐卓越理財服務櫃檯\n現金存款\n網上理財服務\n輪椅通道 (分行)\n更新存摺簿交易資料",
             "en": "Cash Withdrawal\nForeign Currency Exchange\nHSBC Premier Counter\nCash Deposit\nOnline Financial Services \nWheel Chair Access (Branch)\nPassbook Update"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_646-04517",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -311,9 +328,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_646-04509",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -353,9 +372,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_646-04510",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -387,9 +408,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_646-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -421,9 +444,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_646-045-14",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -455,9 +480,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_646-04511",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -489,9 +516,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_646-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -523,9 +552,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_646-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -557,9 +588,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_646-04512",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -599,9 +632,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_646-04513",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -633,9 +668,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_646-04508",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -667,9 +704,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_556-04509",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -709,9 +748,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_556-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -743,9 +784,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_556-04510",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -777,9 +820,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_556-04505",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -811,9 +856,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_821-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -845,9 +892,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_556-04514",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -879,9 +928,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_556-04513",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -921,9 +972,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_556-04512",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -955,9 +1008,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_556-04507",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -997,9 +1052,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n更新存摺簿交易資料",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nPassbook Update"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_556-04519",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -1031,9 +1088,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_556-04518",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -1073,9 +1132,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_556-04522",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -1115,9 +1176,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_556-04508",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -1157,9 +1220,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_556-04506",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -1191,9 +1256,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_556-04523",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -1233,9 +1300,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_556-04516",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -1267,9 +1336,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_556-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -1301,9 +1372,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_556-04515",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -1335,9 +1408,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_556-04520",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -1377,9 +1452,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n更新存摺簿交易資料",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nPassbook Update"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_556-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -1411,9 +1488,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_556-04517",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -1445,9 +1524,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_556-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -1479,9 +1560,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_034-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -1513,9 +1596,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_507-045-05",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -1555,9 +1640,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_507-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -1589,9 +1676,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_507-04507",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -1623,9 +1712,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_507-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -1657,9 +1748,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_066",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -1699,9 +1792,11 @@
         "service": {
             "zh": "現金提款\n外幣兌換服務\n匯豐卓越理財服務櫃檯\n網上理財服務\n保險箱服務\n更新存摺簿交易資料",
             "en": "Cash Withdrawal\nForeign Currency Exchange\nHSBC Premier Counter\nOnline Financial Services \nSafe Deposit Box\nPassbook Update"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_507-04508",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -1717,12 +1812,12 @@
             "en": "Yuen Long"
         },
         "address": {
-            "zh": "新界天水圍天晴邨天晴商場地下 7 號舖位",
+            "zh": "新界天水圍天晴邨天晴商場地下7號舖位",
             "en": "Shop 7, G/F., Tin Ching Shopping Centre, Tin Ching Estate, Tin Shui Wai, New Territories"
         },
         "detail": {
-            "zh": "自動櫃員機將於2015年8月12日至15日起暫停服務",
-            "en": "ATM service will be temporarily suspended from 12-15Aug 2015"
+            "zh": null,
+            "en": null
         },
         "loc": [
             114.002917,
@@ -1733,9 +1828,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_507-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -1767,9 +1864,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_507-045-09",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -1801,9 +1900,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_507-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -1843,9 +1944,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_507-04506",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -1877,9 +1980,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_571.0",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -1919,9 +2024,11 @@
         "service": {
             "zh": "現金提款\n外幣兌換服務\n匯豐卓越理財服務櫃檯\n網上理財服務\n輪椅通道 (分行)\n更新存摺簿交易資料",
             "en": "Cash Withdrawal\nForeign Currency Exchange\nHSBC Premier Counter\nOnline Financial Services \nWheel Chair Access (Branch)\nPassbook Update"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_034-04512",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -1953,9 +2060,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_034-04511",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -1987,9 +2096,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_034-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -2029,9 +2140,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_034-04510",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -2063,9 +2176,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_034-04508",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -2097,9 +2212,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_063-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -2131,9 +2248,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_063",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -2173,9 +2292,11 @@
         "service": {
             "zh": "現金提款\n外幣兌換服務\n匯豐卓越理財服務櫃檯\n網上理財服務\n保險箱服務\n更新存摺簿交易資料",
             "en": "Cash Withdrawal\nForeign Currency Exchange\nHSBC Premier Counter\nOnline Financial Services \nSafe Deposit Box\nPassbook Update"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_034-04509",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -2207,9 +2328,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_034-045-14",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -2241,9 +2364,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_034-04513",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -2275,9 +2400,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_117.0",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -2317,9 +2444,11 @@
         "service": {
             "zh": "現金提款\n外幣兌換服務\n匯豐卓越理財服務櫃檯\n網上理財服務\n更新存摺簿交易資料",
             "en": "Cash Withdrawal\nForeign Currency Exchange\nHSBC Premier Counter\nOnline Financial Services \nPassbook Update"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_034-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -2351,9 +2480,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_034-04506",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -2385,9 +2516,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_032-04514",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -2419,9 +2552,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_034-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -2453,9 +2588,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_509-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -2495,9 +2632,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_034-04505",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -2529,9 +2668,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_109-04506",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -2563,9 +2704,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_109-04507",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -2597,9 +2740,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_109-04505",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -2631,9 +2776,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_109-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -2665,9 +2812,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_032-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -2699,9 +2848,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_109-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -2733,9 +2884,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_109-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -2767,9 +2920,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_109-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -2801,9 +2956,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_831-045-02",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -2843,9 +3000,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_161.0",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -2885,9 +3044,11 @@
         "service": {
             "zh": "現金提款\n外幣兌換服務\n匯豐卓越理財服務櫃檯\n網上理財服務\n更新存摺簿交易資料",
             "en": "Cash Withdrawal\nForeign Currency Exchange\nHSBC Premier Counter\nOnline Financial Services \nPassbook Update"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_032-04513",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -2927,9 +3088,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_036-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -2969,9 +3132,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_032-04515",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -3003,9 +3168,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_831-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -3037,9 +3204,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_032-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -3071,9 +3240,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_032-04509",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -3105,9 +3276,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_032-045-12",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -3139,9 +3312,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_032-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -3173,9 +3348,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_032-04507",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -3207,9 +3384,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_094-04510",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -3241,9 +3420,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_094-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -3275,9 +3456,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_032-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -3293,12 +3476,12 @@
             "en": "Kwai Tsing"
         },
         "address": {
-            "zh": "荃灣大窩口大廈街15-17 號 仁 雅大廈地下 A 舖 7-Eleven便利店",
+            "zh": "荃灣大窩口大廈街15-17號仁雅大廈地下A舖7-Eleven便利店",
             "en": "7-Eleven, Shop A, G/F, Yen Ya Building, 15-17 Tai Ha Street, Tai Wo Hou, New Territories"
         },
         "detail": {
-            "zh": "自動櫃員機將於2015年8月10日至13日起暫停服務",
-            "en": "ATM service will be temporarily suspended from 10-13Aug 2015"
+            "zh": null,
+            "en": null
         },
         "loc": [
             114.12299,
@@ -3309,9 +3492,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_032-04516",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -3343,9 +3528,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_541-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -3377,9 +3564,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_032-04510",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -3411,9 +3600,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_036-04505",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -3445,9 +3636,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_094",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -3487,9 +3680,11 @@
         "service": {
             "zh": "現金提款\n外幣兌換服務\n輪椅通道 (自動櫃員機)\n網上理財服務\n輪椅通道 (分行)\n匯豐運籌理財服務櫃檯",
             "en": "Cash Withdrawal\nForeign Currency Exchange\nWheel Chair Access (ATM)\nOnline Financial Services \nWheel Chair Access (Branch)\nHSBC Advance Counter"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_094-04505",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -3529,9 +3724,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_119-04505",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -3563,9 +3760,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_039-04505",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -3597,9 +3796,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_008-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -3631,9 +3832,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_036-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -3665,9 +3868,11 @@
         "service": {
             "zh": "現金存款\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Cash Deposit\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_094-04508",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -3707,9 +3912,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_036-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -3741,9 +3948,11 @@
         "service": {
             "zh": "現金提款 (港幣及人民幣)",
             "en": "Cash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_094-04506",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -3775,9 +3984,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_068-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -3817,9 +4028,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_094-04509",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -3859,9 +4072,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_509-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -3893,9 +4108,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_032-04511",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -3927,9 +4144,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_068-04506",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -3961,9 +4180,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_119-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -3995,9 +4216,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_541-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -4037,9 +4260,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_008-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -4071,9 +4296,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_509-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -4105,9 +4332,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_119-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -4139,9 +4368,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_039-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -4173,9 +4404,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_008-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -4215,9 +4448,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_068-04509",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -4249,9 +4484,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_119-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -4267,12 +4504,12 @@
             "en": "Sham Shui Po"
         },
         "address": {
-            "zh": "九龍港鐵美孚站收費區外 MEF ATM 23 號自動櫃員機機位",
+            "zh": "九龍港鐵美孚站收費區外MEF ATM 23號自動櫃員機機位",
             "en": "ATM site no. MEF ATM 23, Unpaid Concourse, MTR Mei Foo Station, Kowloon"
         },
         "detail": {
-            "zh": "此自動櫃員機將於2015年9月10日至25日暫停服務",
-            "en": "Service will be temporarily suspended from 10-25Sep2015"
+            "zh": "此自動櫃員機將於2015年9月17日至30日暫停服務",
+            "en": "Service will be temporarily suspended from 17-30Sep2015"
         },
         "loc": [
             114.13643,
@@ -4291,9 +4528,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_541-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -4325,9 +4564,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_094-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -4367,9 +4608,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_119-04506",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -4409,9 +4652,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_039-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -4451,9 +4696,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_094-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -4493,9 +4740,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_405.0",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -4535,9 +4784,11 @@
         "service": {
             "zh": "現金提款\n外幣兌換服務\n輪椅通道 (自動櫃員機)\n匯豐卓越理財服務櫃檯\n網上理財服務\n輪椅通道 (分行)\n更新存摺簿交易資料",
             "en": "Cash Withdrawal\nForeign Currency Exchange\nWheel Chair Access (ATM)\nHSBC Premier Counter\nOnline Financial Services \nWheel Chair Access (Branch)\nPassbook Update"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_039-045-01",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -4569,9 +4820,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_068-04510",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -4611,9 +4864,11 @@
         "service": {
             "zh": "現金提款\n現金存款\n更新存摺簿交易資料",
             "en": "Cash Withdrawal\nCash Deposit\nPassbook Update"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_541-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -4653,9 +4908,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_039-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -4695,9 +4952,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_039-04506",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -4729,9 +4988,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_039-04507",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -4763,9 +5024,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_094-04507",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -4797,9 +5060,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_039",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -4839,9 +5104,11 @@
         "service": {
             "zh": "現金提款\n外幣兌換服務\n匯豐卓越理財服務櫃檯\n現金存款\n網上理財服務\n更新存摺簿交易資料\n匯豐運籌理財服務櫃檯\n支票存款",
             "en": "Cash Withdrawal\nForeign Currency Exchange\nHSBC Premier Counter\nCash Deposit\nOnline Financial Services \nPassbook Update\nHSBC Advance Counter\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_119-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -4873,9 +5140,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_026-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -4907,9 +5176,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_082-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -4941,9 +5212,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_599-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -4975,9 +5248,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_119-04510",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -5009,9 +5284,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_026",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -5051,9 +5328,11 @@
         "service": {
             "zh": "現金提款\n外幣兌換服務\n網上理財服務\n保險箱服務\n更新存摺簿交易資料\n匯豐運籌理財服務櫃檯\n支票存款",
             "en": "Cash Withdrawal\nForeign Currency Exchange\nOnline Financial Services \nSafe Deposit Box\nPassbook Update\nHSBC Advance Counter\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_599.0",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -5093,9 +5372,11 @@
         "service": {
             "zh": "現金提款\n外幣兌換服務\n輪椅通道 (自動櫃員機)\n匯豐卓越理財服務櫃檯\n現金存款\n網上理財服務\n輪椅通道 (分行)\n更新存摺簿交易資料\n匯豐運籌理財服務櫃檯\n支票存款",
             "en": "Cash Withdrawal\nForeign Currency Exchange\nWheel Chair Access (ATM)\nHSBC Premier Counter\nCash Deposit\nOnline Financial Services \nWheel Chair Access (Branch)\nPassbook Update\nHSBC Advance Counter\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_747.0",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -5135,9 +5416,11 @@
         "service": {
             "zh": "現金提款\n外幣兌換服務\n輪椅通道 (自動櫃員機)\n現金存款\n輪椅通道 (分行)\n工商金融服務櫃檯\n支票存款",
             "en": "Cash Withdrawal\nForeign Currency Exchange\nWheel Chair Access (ATM)\nCash Deposit\nWheel Chair Access (Branch)\nCommercial Counter\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_026-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -5169,9 +5452,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_747-02701",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -5211,9 +5496,11 @@
         "service": {
             "zh": "支票存款",
             "en": "Cheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_119-04511",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -5253,9 +5540,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_119-04507",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -5295,9 +5584,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_068-04508",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -5329,9 +5620,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_593-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -5371,9 +5664,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_119-04512",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -5405,9 +5700,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_474-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -5439,9 +5736,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_172-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -5473,9 +5772,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_173-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -5507,9 +5808,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_478-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -5541,9 +5844,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_641.0",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -5583,9 +5888,11 @@
         "service": {
             "zh": "現金提款\n外幣兌換服務\n現金存款\n網上理財服務\n工商金融服務櫃檯\n支票存款",
             "en": "Cash Withdrawal\nForeign Currency Exchange\nCash Deposit\nOnline Financial Services \nCommercial Counter\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_007-04506",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -5625,9 +5932,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n更新存摺簿交易資料",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nPassbook Update"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_068-04514",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -5659,9 +5968,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_043-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -5693,9 +6004,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_043-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -5715,8 +6028,8 @@
             "en": "7-Eleven, G/F, 27 Caine Road, Hong Kong"
         },
         "detail": {
-            "zh": "自動櫃員機將於2015年8月17日至20日起暫停服務",
-            "en": "ATM service will be temporarily suspended from 17-20Aug 2015"
+            "zh": null,
+            "en": null
         },
         "loc": [
             114.15384,
@@ -5727,9 +6040,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_474.0",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -5769,9 +6084,11 @@
         "service": {
             "zh": "現金提款\n外幣兌換服務\n輪椅通道 (自動櫃員機)\n現金存款\n網上理財服務\n輪椅通道 (分行)\n保險箱服務\n更新存摺簿交易資料\n匯豐運籌理財服務櫃檯\n支票存款",
             "en": "Cash Withdrawal\nForeign Currency Exchange\nWheel Chair Access (ATM)\nCash Deposit\nOnline Financial Services \nWheel Chair Access (Branch)\nSafe Deposit Box\nPassbook Update\nHSBC Advance Counter\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_119-04509",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -5811,9 +6128,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_007-04508",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -5853,9 +6172,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_068-04512",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -5887,9 +6208,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_172.0",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -5929,9 +6252,11 @@
         "service": {
             "zh": "現金提款\n外幣兌換服務\n現金存款\n網上理財服務\n更新存摺簿交易資料\n匯豐運籌理財服務櫃檯",
             "en": "Cash Withdrawal\nForeign Currency Exchange\nCash Deposit\nOnline Financial Services \nPassbook Update\nHSBC Advance Counter"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_828-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -5963,9 +6288,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_068-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -5997,9 +6324,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_005-045-05",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -6031,9 +6360,11 @@
         "service": {
             "zh": "現金提款\n更新存摺簿交易資料",
             "en": "Cash Withdrawal\nPassbook Update"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_005-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -6073,9 +6404,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_599-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -6107,9 +6440,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_007-04505",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -6141,9 +6476,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_608-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -6175,9 +6512,11 @@
         "service": {
             "zh": "現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Cash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_068-04511",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -6209,9 +6548,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_083-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -6243,9 +6584,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n外幣現金提款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nForeign Currency Cash Withdrawal\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_005-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -6277,9 +6620,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_808.0",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -6319,9 +6664,11 @@
         "service": {
             "zh": "現金提款\n外幣兌換服務\n現金存款\n更新存摺簿交易資料\n工商金融服務櫃檯\n支票存款",
             "en": "Cash Withdrawal\nForeign Currency Exchange\nCash Deposit\nPassbook Update\nCommercial Counter\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_083-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -6353,9 +6700,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_005-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -6387,9 +6736,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_002",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -6429,9 +6780,11 @@
         "service": {
             "zh": "現金提款\n外幣兌換服務\n輪椅通道 (自動櫃員機)\n現金存款\n網上理財服務\n輪椅通道 (分行)\n禮券銷售\n保險箱服務\n更新存摺簿交易資料\n匯豐運籌理財服務櫃檯\n工商金融服務櫃檯\n支票存款",
             "en": "Cash Withdrawal\nForeign Currency Exchange\nWheel Chair Access (ATM)\nCash Deposit\nOnline Financial Services \nWheel Chair Access (Branch)\nSale of Gift Cheque\nSafe Deposit Box\nPassbook Update\nHSBC Advance Counter\nCommercial Counter\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_002-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -6463,9 +6816,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n外幣現金提款\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nForeign Currency Cash Withdrawal\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_005-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -6505,9 +6860,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_127-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -6539,9 +6896,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_127-04505",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -6573,9 +6932,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_001-04507",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -6615,9 +6976,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_037-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -6649,9 +7012,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_491-04507",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -6683,9 +7048,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_835-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -6717,9 +7084,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n外幣現金提款\n禮券銷售\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nForeign Currency Cash Withdrawal\nSale of Gift Cheque\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_083-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -6751,9 +7120,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_037-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -6793,9 +7164,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_007-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -6827,9 +7200,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_037-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -6861,9 +7236,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_007",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -6903,9 +7280,11 @@
         "service": {
             "zh": "現金提款\n外幣兌換服務\n匯豐卓越理財服務櫃檯\n現金存款\n網上理財服務\n更新存摺簿交易資料\n匯豐運籌理財服務櫃檯\n支票存款",
             "en": "Cash Withdrawal\nForeign Currency Exchange\nHSBC Premier Counter\nCash Deposit\nOnline Financial Services \nPassbook Update\nHSBC Advance Counter\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_102-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -6937,9 +7316,11 @@
         "service": {
             "zh": "現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Cash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_007-04507",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -6971,9 +7352,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_007-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -7005,9 +7388,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_001-04508",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -7039,9 +7424,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_469-04506",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -7073,9 +7460,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_593-04505",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -7107,9 +7496,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_593-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -7141,9 +7532,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_127-04506",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -7183,9 +7576,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_037-04507",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -7217,9 +7612,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_469-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -7251,9 +7648,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_037-04505",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -7285,9 +7684,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_603-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -7319,9 +7720,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_110-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -7353,9 +7756,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_491-04505",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -7395,9 +7800,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_478-04506",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -7429,9 +7836,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_478-04508",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -7463,9 +7872,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_491-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -7497,9 +7908,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_127-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -7531,9 +7944,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_472-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -7573,9 +7988,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_491-04506",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -7615,9 +8032,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_068-04513",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -7649,9 +8068,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_537.0",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -7691,9 +8112,11 @@
         "service": {
             "zh": "現金提款\n外幣兌換服務\n現金存款\n輪椅通道 (分行)\n工商金融服務櫃檯\n支票存款\n延長服務時間",
             "en": "Cash Withdrawal\nForeign Currency Exchange\nCash Deposit\nWheel Chair Access (Branch)\nCommercial Counter\nCheque Deposit\nExtended Hours"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_001-04506",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -7733,9 +8156,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n外幣現金提款\n禮券銷售\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nForeign Currency Cash Withdrawal\nSale of Gift Cheque\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_472-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -7767,9 +8192,11 @@
         "service": {
             "zh": "現金提款 (港幣及人民幣)",
             "en": "Cash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_478-04507",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -7809,9 +8236,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_001-04505",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -7843,9 +8272,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_037-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -7885,9 +8316,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_001-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -7919,9 +8352,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_827.0",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -7961,9 +8396,11 @@
         "service": {
             "zh": "現金提款\n外幣兌換服務\n現金存款\n網上理財服務\n輪椅通道 (分行)\n更新存摺簿交易資料\n工商金融服務櫃檯\n支票存款",
             "en": "Cash Withdrawal\nForeign Currency Exchange\nCash Deposit\nOnline Financial Services \nWheel Chair Access (Branch)\nPassbook Update\nCommercial Counter\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_001-04509",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -7995,9 +8432,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_106-04506",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -8029,9 +8468,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_106-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -8063,9 +8504,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_001-04511",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -8097,9 +8540,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_110-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -8131,9 +8576,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_478-04505",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -8165,9 +8612,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_469-04505",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -8199,9 +8648,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_048-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -8233,9 +8684,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_001-04510",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -8267,9 +8720,11 @@
         "service": {
             "zh": "現金提款 (港幣及人民幣)",
             "en": "Cash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_127-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -8309,9 +8764,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_491-04508",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -8351,9 +8808,11 @@
         "service": {
             "zh": "現金提款 (港幣及人民幣)",
             "en": "Cash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_817.0",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -8393,9 +8852,11 @@
         "service": {
             "zh": "外幣兌換服務\n輪椅通道 (分行)\n工商金融服務櫃檯",
             "en": "Foreign Currency Exchange\nWheel Chair Access (Branch)\nCommercial Counter"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_181-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -8427,9 +8888,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_472-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -8469,9 +8932,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_068-04505",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -8503,9 +8968,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_478-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -8537,9 +9004,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_198-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -8579,9 +9048,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_499-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -8613,9 +9084,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_478-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -8647,9 +9120,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_469-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -8681,9 +9156,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_478-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -8715,9 +9192,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_127-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -8749,9 +9228,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_469-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -8791,9 +9272,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_017",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -8833,9 +9316,11 @@
         "service": {
             "zh": "現金提款\n外幣兌換服務\n輪椅通道 (自動櫃員機)\n現金存款\n網上理財服務\n輪椅通道 (分行)\n更新存摺簿交易資料\n匯豐運籌理財服務櫃檯\n支票存款",
             "en": "Cash Withdrawal\nForeign Currency Exchange\nWheel Chair Access (ATM)\nCash Deposit\nOnline Financial Services \nWheel Chair Access (Branch)\nPassbook Update\nHSBC Advance Counter\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_469-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -8875,9 +9360,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_106-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -8909,9 +9396,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_110-04505",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -8943,9 +9432,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n禮券銷售\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nSale of Gift Cheque\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_068-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -8985,9 +9476,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_640.0",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -9027,9 +9520,11 @@
         "service": {
             "zh": "現金提款\n外幣兌換服務\n輪椅通道 (自動櫃員機)\n現金存款\n網上理財服務\n輪椅通道 (分行)\n更新存摺簿交易資料\n工商金融服務櫃檯\n支票存款",
             "en": "Cash Withdrawal\nForeign Currency Exchange\nWheel Chair Access (ATM)\nCash Deposit\nOnline Financial Services \nWheel Chair Access (Branch)\nPassbook Update\nCommercial Counter\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_198.0",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -9069,9 +9564,11 @@
         "service": {
             "zh": "外幣兌換服務\n匯豐卓越理財服務櫃檯\n網上理財服務\n匯豐運籌理財服務櫃檯\n工商金融服務櫃檯",
             "en": "Foreign Currency Exchange\nHSBC Premier Counter\nOnline Financial Services \nHSBC Advance Counter\nCommercial Counter"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_499-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -9103,9 +9600,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_198-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -9137,9 +9636,11 @@
         "service": {
             "zh": "現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Cash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_559-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -9179,9 +9680,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_106-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -9221,9 +9724,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_017-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -9263,9 +9768,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_106-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -9305,9 +9812,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_106-04507",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -9339,9 +9848,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_110-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -9373,9 +9884,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_110-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -9407,9 +9920,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_017-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -9441,9 +9956,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_047-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -9475,9 +9992,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_106-04505",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -9509,9 +10028,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_017-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -9543,9 +10064,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_017-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -9585,9 +10108,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_047-04511",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -9619,9 +10144,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_198-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -9661,9 +10188,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_047-04510",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -9703,9 +10232,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_047-04505",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -9745,9 +10276,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_014-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -9779,9 +10312,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_047-04515",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -9813,9 +10348,11 @@
         "service": {
             "zh": "現金提款 (港幣及人民幣)",
             "en": "Cash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_047-04513",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -9855,9 +10392,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_041-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -9889,9 +10428,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_047-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -9923,9 +10464,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_557-04506",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -9957,9 +10500,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_841-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -9991,9 +10536,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_041-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -10025,9 +10572,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_457-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -10059,9 +10608,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_080-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -10101,9 +10652,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_106-04508",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -10143,9 +10696,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_012-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -10177,9 +10732,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_050-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -10211,9 +10768,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_080-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -10245,9 +10804,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_557-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -10279,9 +10840,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_014-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -10313,9 +10876,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_012-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -10347,9 +10912,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_457-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -10381,9 +10948,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_050-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -10415,9 +10984,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_047-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -10449,9 +11020,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_591.0",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -10491,9 +11064,11 @@
         "service": {
             "zh": "現金提款\n外幣兌換服務\n現金存款\n網上理財服務\n輪椅通道 (分行)\n更新存摺簿交易資料\n匯豐運籌理財服務櫃檯\n支票存款",
             "en": "Cash Withdrawal\nForeign Currency Exchange\nCash Deposit\nOnline Financial Services \nWheel Chair Access (Branch)\nPassbook Update\nHSBC Advance Counter\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_557-04507",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -10525,9 +11100,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_050-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -10559,9 +11136,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_804-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -10593,9 +11172,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_012-04505",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -10635,9 +11216,11 @@
         "service": {
             "zh": "現金提款\n現金存款",
             "en": "Cash Withdrawal\nCash Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_047-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -10669,9 +11252,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_028-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -10703,9 +11288,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_804-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -10745,9 +11332,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_052-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -10779,9 +11368,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_804-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -10813,9 +11404,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_050-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -10847,9 +11440,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_557-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -10881,9 +11476,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_557-04505",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -10915,9 +11512,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_052-04507",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -10957,9 +11556,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_558-04507",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -10999,9 +11600,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_557-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -11033,9 +11636,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n更新存摺簿交易資料",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nPassbook Update"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_068-04507",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -11067,9 +11672,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_558-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -11101,9 +11708,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_004-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -11135,9 +11744,11 @@
         "service": {
             "zh": "現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Cash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_004-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -11169,9 +11780,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_052-04505",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -11211,9 +11824,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_191-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -11245,9 +11860,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_191-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -11279,9 +11896,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_191.0",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -11321,9 +11940,11 @@
         "service": {
             "zh": "現金提款\n外幣兌換服務\n匯豐卓越理財服務櫃檯\n現金存款\n網上理財服務\n輪椅通道 (分行)\n更新存摺簿交易資料\n匯豐運籌理財服務櫃檯\n工商金融服務櫃檯\n支票存款",
             "en": "Cash Withdrawal\nForeign Currency Exchange\nHSBC Premier Counter\nCash Deposit\nOnline Financial Services \nWheel Chair Access (Branch)\nPassbook Update\nHSBC Advance Counter\nCommercial Counter\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_557-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -11355,9 +11976,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_041-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -11389,9 +12012,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_052-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -11423,9 +12048,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_052-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -11457,9 +12084,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_558-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -11491,9 +12120,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_122-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -11525,9 +12156,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_052-04508",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -11559,9 +12192,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_126-04509",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -11593,9 +12228,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_558-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -11627,9 +12264,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_558-04505",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -11669,9 +12308,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_126-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -11711,9 +12352,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_191-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -11745,9 +12388,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_126-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -11779,9 +12424,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_558-04506",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -11821,9 +12468,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_126-04505",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -11855,9 +12504,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_052-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -11889,9 +12540,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_558-045-08",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -11923,9 +12576,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_126-04510",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -11957,9 +12612,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_555-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -11991,9 +12648,11 @@
         "service": {
             "zh": "現金提款\n現金存款",
             "en": "Cash Withdrawal\nCash Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_126-04506",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -12025,9 +12684,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_512-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -12059,9 +12720,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_614.0",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -12101,9 +12764,11 @@
         "service": {
             "zh": "現金提款\n外幣兌換服務\n輪椅通道 (自動櫃員機)\n現金存款\n網上理財服務\n輪椅通道 (分行)\n更新存摺簿交易資料\n工商金融服務櫃檯\n支票存款",
             "en": "Cash Withdrawal\nForeign Currency Exchange\nWheel Chair Access (ATM)\nCash Deposit\nOnline Financial Services \nWheel Chair Access (Branch)\nPassbook Update\nCommercial Counter\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_615-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -12135,9 +12800,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_126-04507",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -12177,9 +12844,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_126-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -12211,9 +12880,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_037-04506",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -12245,9 +12916,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_067-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -12279,9 +12952,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_126-04508",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -12313,9 +12988,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_191-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -12347,9 +13024,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_558-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -12381,9 +13060,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_118.0",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -12423,9 +13104,11 @@
         "service": {
             "zh": "現金提款\n外幣兌換服務\n輪椅通道 (自動櫃員機)\n匯豐卓越理財服務櫃檯\n網上理財服務\n輪椅通道 (分行)\n匯豐運籌理財服務櫃檯",
             "en": "Cash Withdrawal\nForeign Currency Exchange\nWheel Chair Access (ATM)\nHSBC Premier Counter\nOnline Financial Services \nWheel Chair Access (Branch)\nHSBC Advance Counter"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_118-04505",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -12457,9 +13140,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_118-04511",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -12491,9 +13176,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_450-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -12525,9 +13212,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_118-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -12559,9 +13248,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_021-04505",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -12593,9 +13284,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_116-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -12627,9 +13320,11 @@
         "service": {
             "zh": "現金提款\n現金存款",
             "en": "Cash Withdrawal\nCash Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_021-04506",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -12661,9 +13356,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_512-04506",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -12703,9 +13400,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_021-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -12737,9 +13436,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_116-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -12771,9 +13472,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_642.0",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -12813,9 +13516,11 @@
         "service": {
             "zh": "外幣兌換服務\n現金存款\n網上理財服務\n輪椅通道 (分行)\n工商金融服務櫃檯\n支票存款",
             "en": "Foreign Currency Exchange\nCash Deposit\nOnline Financial Services \nWheel Chair Access (Branch)\nCommercial Counter\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_116-04514",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -12847,9 +13552,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_512-045-11",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -12881,9 +13588,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_021-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -12915,9 +13624,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_118-04507",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -12949,9 +13660,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_118-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -12983,9 +13696,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_512-04507",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -13017,9 +13732,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_021-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -13059,9 +13776,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_512-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -13093,9 +13812,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_021-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -13127,9 +13848,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_512-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -13161,9 +13884,11 @@
         "service": {
             "zh": "現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_116-04507",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -13195,9 +13920,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_512-04509",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -13229,9 +13956,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_512-04505",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -13263,9 +13992,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_116-04506",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -13305,9 +14036,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_116-04508",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -13347,9 +14080,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_555-04509",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -13381,9 +14116,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_116-04510",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -13423,9 +14160,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_555-04506",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -13465,9 +14204,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_512-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -13499,9 +14240,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_116-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -13533,9 +14276,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_116-04509",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -13575,9 +14320,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_555-04505",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -13609,9 +14356,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_116-04516",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -13651,9 +14400,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_116-04515",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -13685,9 +14436,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_555-04508",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -13719,9 +14472,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_116-04512",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -13761,9 +14516,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_116-04505",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -13795,9 +14552,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_116-04513",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -13837,9 +14596,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_116-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -13871,9 +14632,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_116-04511",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -13905,9 +14668,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_555-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -13939,9 +14704,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_555-04507",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -13973,9 +14740,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_579-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -14015,9 +14784,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_512-04508",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -14049,9 +14820,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_555-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -14083,9 +14856,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_512-04510",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -14125,9 +14900,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_555-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -14159,9 +14936,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_585-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -14193,9 +14972,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_829-045-05",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -14227,9 +15008,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_585-04508",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -14261,9 +15044,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_829-04504",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -14295,9 +15080,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_585-04509",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -14329,9 +15116,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_829-04506",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -14371,9 +15160,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_055-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -14405,9 +15196,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_585-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -14439,9 +15232,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)\n更新存摺簿交易資料",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nPassbook Update"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_829-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -14481,9 +15276,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_829-04507",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -14523,9 +15320,11 @@
         "service": {
             "zh": "現金存款\n更新存摺簿交易資料\n支票存款",
             "en": "Cash Deposit\nPassbook Update\nCheque Deposit"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_829-04501",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -14565,9 +15364,11 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_829-04503",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -14599,9 +15400,11 @@
         "service": {
             "zh": "現金提款\n輪椅通道 (自動櫃員機)",
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_055-04502",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -14633,9 +15436,11 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
-        }
+        },
+        "tel": null
     },
     {
+        "_id": "HSBC_055",
         "atm_type": "hsbc",
         "bank_type": "hsbc",
         "name": {
@@ -14675,6 +15480,7 @@
         "service": {
             "zh": "現金提款\n外幣兌換服務\n匯豐卓越理財服務櫃檯\n現金存款\n網上理財服務\n更新存摺簿交易資料\n匯豐運籌理財服務櫃檯",
             "en": "Cash Withdrawal\nForeign Currency Exchange\nHSBC Premier Counter\nCash Deposit\nOnline Financial Services \nPassbook Update\nHSBC Advance Counter"
-        }
+        },
+        "tel": null
     }
 ]

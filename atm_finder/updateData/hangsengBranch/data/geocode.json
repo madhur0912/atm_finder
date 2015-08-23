@@ -1,8 +1,8 @@
 //卑路乍街77號
 {
     "formattedAddress": "香港西環卑路乍街77號",
-    "latitude": 22.2827854,
-    "longitude": 114.1291956,
+    "latitude": 22.2827843,
+    "longitude": 114.1291905,
     "extra": {
         "googlePlaceId": "Eh3pppnmuK_opb_nkrDljZHot6_kuY3ooZc3N-iZnw",
         "confidence": 0.9,
@@ -11,10 +11,12 @@
         "neighborhood": "西環",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "香港島",
+        "level1short": "香港島"
+    },
     "streetNumber": "77",
     "streetName": "卑路乍街",
-    "state": "香港島",
-    "stateCode": "香港島",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -32,8 +34,10 @@
         "neighborhood": "清水灣",
         "establishment": null
     },
-    "state": "新界",
-    "stateCode": "新界",
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "country": "香港",
     "countryCode": "HK"
 },
@@ -51,8 +55,10 @@
         "neighborhood": "魷魚灣",
         "establishment": null
     },
-    "state": "新界",
-    "stateCode": "新界",
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "country": "香港",
     "countryCode": "HK"
 },
@@ -70,17 +76,19 @@
         "neighborhood": "將軍澳",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "streetNumber": "2",
     "streetName": "寶寧里",
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
 
 //唐俊街8號
 {
-    "formattedAddress": "8 Tong Chun Street, Tseung Kwan O, 香���",
+    "formattedAddress": "香港將軍澳唐俊街8號",
     "latitude": 22.309394,
     "longitude": 114.25981,
     "extra": {
@@ -91,10 +99,12 @@
         "neighborhood": "將軍澳",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "streetNumber": "8",
     "streetName": "唐俊街",
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -112,6 +122,7 @@
         "neighborhood": null,
         "establishment": null
     },
+    "administrativeLevels": {},
     "country": "香港",
     "countryCode": "HK"
 },
@@ -129,8 +140,10 @@
         "neighborhood": "照鏡環",
         "establishment": null
     },
-    "state": "新界",
-    "stateCode": "新界",
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "country": "香港",
     "countryCode": "HK"
 },
@@ -148,10 +161,12 @@
         "neighborhood": "沙田",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "streetNumber": "33",
     "streetName": "亞公角街",
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -169,10 +184,12 @@
         "neighborhood": "馬鞍山",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "streetNumber": "2",
     "streetName": "恆信街",
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -190,11 +207,15 @@
         "neighborhood": "馬鞍山",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level2long": "沙田區",
+        "level2short": "���田區",
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "streetNumber": "608",
     "streetName": "西沙路",
     "city": "香港",
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -212,10 +233,12 @@
         "neighborhood": "大圍",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "streetNumber": "18",
     "streetName": "富健街",
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -233,10 +256,12 @@
         "neighborhood": "大圍",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "streetNumber": "33",
     "streetName": "大圍道",
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -254,8 +279,10 @@
         "neighborhood": "大圍",
         "establishment": null
     },
-    "state": "新界",
-    "stateCode": "新界",
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "country": "香港",
     "countryCode": "HK"
 },
@@ -273,10 +300,12 @@
         "neighborhood": "沙田",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "streetNumber": "11",
     "streetName": "乙明邨街",
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -294,8 +323,10 @@
         "neighborhood": "沙田",
         "establishment": null
     },
-    "state": "新界",
-    "stateCode": "新界",
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "country": "香港",
     "countryCode": "HK"
 },
@@ -313,10 +344,12 @@
         "neighborhood": "沙田",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "streetNumber": "1-15",
     "streetName": "橫壆街",
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -334,10 +367,14 @@
         "neighborhood": "馬料水",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level2long": "沙田區",
+        "level2short": "沙田區",
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "streetName": "車站路",
     "city": "沙田",
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -355,10 +392,12 @@
         "neighborhood": "火炭",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "streetNumber": "18-24",
     "streetName": "山尾街",
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -376,6 +415,7 @@
         "neighborhood": null,
         "establishment": null
     },
+    "administrativeLevels": {},
     "country": "香港",
     "countryCode": "HK"
 },
@@ -393,8 +433,10 @@
         "neighborhood": "馬料水",
         "establishment": null
     },
-    "state": "新界",
-    "stateCode": "新界",
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "country": "香港",
     "countryCode": "HK"
 },
@@ -412,10 +454,12 @@
         "neighborhood": "���角",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "streetNumber": "10",
     "streetName": "露屏路",
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香���",
     "countryCode": "HK"
 },
@@ -423,8 +467,8 @@
 //廣福道35號
 {
     "formattedAddress": "香港大埔廣福道35號",
-    "latitude": 22.4491134,
-    "longitude": 114.1659601,
+    "latitude": 22.4491178,
+    "longitude": 114.1659614,
     "extra": {
         "googlePlaceId": "EhrpppnmuK_lpKfln5Tlu6Pnpo_pgZMzNeiZnw",
         "confidence": 0.9,
@@ -433,10 +477,12 @@
         "neighborhood": "大埔",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "streetNumber": "35",
     "streetName": "廣福道",
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -454,6 +500,7 @@
         "neighborhood": null,
         "establishment": null
     },
+    "administrativeLevels": {},
     "country": "香港",
     "countryCode": "HK"
 },
@@ -471,10 +518,12 @@
         "neighborhood": "粉嶺",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "streetNumber": "9",
     "streetName": "聯興街",
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -492,10 +541,12 @@
         "neighborhood": "上水",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "streetNumber": "5",
     "streetName": "新康街",
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -513,10 +564,12 @@
         "neighborhood": "上水",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "streetNumber": "3",
     "streetName": "智昌路",
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -534,8 +587,10 @@
         "neighborhood": "米埔",
         "establishment": null
     },
-    "state": "新界",
-    "stateCode": "新界",
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "country": "香港",
     "countryCode": "HK"
 },
@@ -553,6 +608,7 @@
         "neighborhood": null,
         "establishment": null
     },
+    "administrativeLevels": {},
     "country": "香港",
     "countryCode": "HK"
 },
@@ -570,8 +626,10 @@
         "neighborhood": "大嶼山",
         "establishment": null
     },
-    "state": "新界",
-    "stateCode": "新界",
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "country": "香港",
     "countryCode": "HK"
 },
@@ -589,10 +647,12 @@
         "neighborhood": "東涌",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "streetNumber": "1",
     "streetName": "健東路",
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -610,11 +670,15 @@
         "neighborhood": "���涌",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level2long": "離島區",
+        "level2short": "離島區",
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "streetNumber": "8",
     "streetName": "松仁路",
     "city": "香港",
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -632,6 +696,7 @@
         "neighborhood": null,
         "establishment": null
     },
+    "administrativeLevels": {},
     "country": "香港",
     "countryCode": "HK"
 },
@@ -649,10 +714,12 @@
         "neighborhood": "葵芳",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "streetNumber": "223",
     "streetName": "興芳路",
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -670,10 +737,12 @@
         "neighborhood": "石蔭",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "streetNumber": "50",
     "streetName": "石蔭路",
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -691,8 +760,10 @@
         "neighborhood": "葵涌",
         "establishment": null
     },
-    "state": "新界",
-    "stateCode": "新界",
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "country": "香港",
     "countryCode": "HK"
 },
@@ -710,10 +781,12 @@
         "neighborhood": "葵涌",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "streetNumber": "166-174",
     "streetName": "興芳路",
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -731,6 +804,7 @@
         "neighborhood": null,
         "establishment": null
     },
+    "administrativeLevels": {},
     "country": "香港",
     "countryCode": "HK"
 },
@@ -748,11 +822,15 @@
         "neighborhood": "華景山���",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level2long": "葵青區",
+        "level2short": "葵青區",
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "streetNumber": "9",
     "streetName": "華景山路",
     "city": "香港",
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -770,6 +848,7 @@
         "neighborhood": null,
         "establishment": null
     },
+    "administrativeLevels": {},
     "country": "香港",
     "countryCode": "HK"
 },
@@ -787,10 +866,12 @@
         "neighborhood": "元朗",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "streetNumber": "3-7",
     "streetName": "教育路",
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -808,10 +889,12 @@
         "neighborhood": null,
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "九龍",
+        "level1short": "九龍"
+    },
     "streetNumber": "93",
     "streetName": "青山道",
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -829,10 +912,12 @@
         "neighborhood": "元朗",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "streetNumber": "2",
     "streetName": "谷亭街",
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -850,8 +935,10 @@
         "neighborhood": "元朗",
         "establishment": null
     },
-    "state": "新界",
-    "stateCode": "新界",
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "country": "香港",
     "countryCode": "HK"
 },
@@ -869,17 +956,19 @@
         "neighborhood": "元朗",
         "establishment": null
     },
-    "state": "新界",
-    "stateCode": "新界",
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "country": "香港",
     "countryCode": "HK"
 },
 
 //天水圍頌富廣場一期2樓L221號舖
 {
-    "formattedAddress": "香港天水圍天華路30號頌富廣場一期",
-    "latitude": 22.4613865,
-    "longitude": 113.9977809,
+    "formattedAddress": "香港天水圍天華路頌富廣場一期",
+    "latitude": 22.4614291,
+    "longitude": 113.9977793,
     "extra": {
         "googlePlaceId": "ChIJZzeVBmPwAzQRbOw-gIwIrm8",
         "confidence": 1,
@@ -888,10 +977,11 @@
         "neighborhood": "天水圍",
         "establishment": null
     },
-    "streetNumber": "30",
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "streetName": "天華路",
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -909,6 +999,7 @@
         "neighborhood": null,
         "establishment": null
     },
+    "administrativeLevels": {},
     "country": "香港",
     "countryCode": "HK"
 },
@@ -926,10 +1017,12 @@
         "neighborhood": "新墟",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "streetNumber": "26",
     "streetName": "屯門鄉事會路",
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -947,10 +1040,14 @@
         "neighborhood": "屯門",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level2long": "屯門區",
+        "level2short": "屯門區",
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "streetNumber": "1",
     "streetName": "大興街",
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -968,6 +1065,7 @@
         "neighborhood": null,
         "establishment": null
     },
+    "administrativeLevels": {},
     "country": "香港",
     "countryCode": "HK"
 },
@@ -985,8 +1083,10 @@
         "neighborhood": "屯門",
         "establishment": null
     },
-    "state": "新界",
-    "stateCode": "新界",
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1004,10 +1104,12 @@
         "neighborhood": "柴灣角",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "streetNumber": "9",
     "streetName": "海盛路",
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1025,10 +1127,12 @@
         "neighborhood": "荃灣",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "streetNumber": "3",
     "streetName": "荃華街",
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1046,10 +1150,12 @@
         "neighborhood": "荃灣",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "streetNumber": "289",
     "streetName": "沙咀道",
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1057,8 +1163,8 @@
 //眾安街38號
 {
     "formattedAddress": "香港荃灣眾安街38號",
-    "latitude": 22.3709907,
-    "longitude": 114.1175648,
+    "latitude": 22.370986,
+    "longitude": 114.1175618,
     "extra": {
         "googlePlaceId": "EhrpppnmuK_ojYPngaPnnL7lronooZczOOiZnw",
         "confidence": 0.9,
@@ -1067,10 +1173,12 @@
         "neighborhood": "荃灣",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "streetNumber": "38",
     "streetName": "眾安街",
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1088,10 +1196,12 @@
         "neighborhood": "荃灣",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "streetNumber": "30",
     "streetName": "大河道",
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1109,8 +1219,10 @@
         "neighborhood": "荃灣",
         "establishment": null
     },
-    "state": "新界",
-    "stateCode": "新界",
+    "administrativeLevels": {
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1128,6 +1240,7 @@
         "neighborhood": null,
         "establishment": null
     },
+    "administrativeLevels": {},
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1145,6 +1258,7 @@
         "neighborhood": null,
         "establishment": null
     },
+    "administrativeLevels": {},
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1162,8 +1276,10 @@
         "neighborhood": "油塘",
         "establishment": null
     },
-    "state": "九龍",
-    "stateCode": "九龍",
+    "administrativeLevels": {
+        "level1long": "九龍",
+        "level1short": "九龍"
+    },
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1181,10 +1297,12 @@
         "neighborhood": "麗港城",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "九龍",
+        "level1short": "九龍"
+    },
     "streetNumber": "88",
     "streetName": "茶果嶺道",
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1202,10 +1320,12 @@
         "neighborhood": "秀茂坪",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "九龍",
+        "level1short": "九龍"
+    },
     "streetNumber": "21",
     "streetName": "曉光街",
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1223,10 +1343,12 @@
         "neighborhood": "觀塘",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "九龍",
+        "level1short": "九龍"
+    },
     "streetNumber": "64",
     "streetName": "開源道",
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1244,10 +1366,12 @@
         "neighborhood": "觀塘",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "九龍",
+        "level1short": "九龍"
+    },
     "streetNumber": "68",
     "streetName": "開源道",
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1265,10 +1389,12 @@
         "neighborhood": "牛頭角",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "九龍",
+        "level1short": "九龍"
+    },
     "streetNumber": "5",
     "streetName": "佐敦谷北道",
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1286,6 +1412,7 @@
         "neighborhood": null,
         "establishment": null
     },
+    "administrativeLevels": {},
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1303,11 +1430,15 @@
         "neighborhood": "九龍灣",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level2long": "觀塘區",
+        "level2short": "觀塘區",
+        "level1long": "九龍",
+        "level1short": "九龍"
+    },
     "streetNumber": "38",
     "streetName": "宏照道",
     "city": "香港",
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1325,10 +1456,12 @@
         "neighborhood": "九龍灣",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "九龍",
+        "level1short": "九龍"
+    },
     "streetNumber": "16",
     "streetName": "宏開道",
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1346,6 +1479,7 @@
         "neighborhood": null,
         "establishment": null
     },
+    "administrativeLevels": {},
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1363,10 +1497,12 @@
         "neighborhood": "慈雲山",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "九龍",
+        "level1short": "九龍"
+    },
     "streetNumber": "63",
     "streetName": "鳳德道",
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1384,10 +1520,12 @@
         "neighborhood": null,
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "九龍",
+        "level1short": "九龍"
+    },
     "streetNumber": "56",
     "streetName": "爵祿街",
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1405,6 +1543,7 @@
         "neighborhood": null,
         "establishment": null
     },
+    "administrativeLevels": {},
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1422,10 +1561,12 @@
         "neighborhood": "紅磡",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "九龍",
+        "level1short": "九龍"
+    },
     "streetNumber": "21",
     "streetName": "馬頭圍道",
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1443,10 +1584,12 @@
         "neighborhood": "紅磡",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "九龍",
+        "level1short": "九龍"
+    },
     "streetNumber": "36",
     "streetName": "德民街",
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1464,6 +1607,7 @@
         "neighborhood": null,
         "establishment": null
     },
+    "administrativeLevels": {},
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1481,10 +1625,12 @@
         "neighborhood": "土瓜灣",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "九龍",
+        "level1short": "九龍"
+    },
     "streetNumber": "33",
     "streetName": "土瓜灣道",
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1502,10 +1648,12 @@
         "neighborhood": "馬頭涌",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "九龍",
+        "level1short": "九龍"
+    },
     "streetNumber": "38",
     "streetName": "譚公道",
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1523,11 +1671,13 @@
         "neighborhood": "九龍���",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "九龍",
+        "level1short": "九龍"
+    },
     "streetNumber": "83",
     "streetName": "達之路",
     "city": "香港",
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1545,10 +1695,12 @@
         "neighborhood": "美孚新邨",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "九龍",
+        "level1short": "九龍"
+    },
     "streetNumber": "10",
     "streetName": "蘭秀道",
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1566,8 +1718,10 @@
         "neighborhood": "荔枝角",
         "establishment": null
     },
-    "state": "九龍",
-    "stateCode": "九龍",
+    "administrativeLevels": {
+        "level1long": "九龍",
+        "level1short": "九龍"
+    },
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1585,10 +1739,12 @@
         "neighborhood": "長沙灣",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "九龍",
+        "level1short": "九龍"
+    },
     "streetNumber": "800",
     "streetName": "青山道",
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1606,10 +1762,12 @@
         "neighborhood": "李鄭屋",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "九龍",
+        "level1short": "九龍"
+    },
     "streetNumber": "322",
     "streetName": "青山道",
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1627,10 +1785,12 @@
         "neighborhood": "元洲",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "九龍",
+        "level1short": "九龍"
+    },
     "streetNumber": "151",
     "streetName": "北河街",
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1648,6 +1808,7 @@
         "neighborhood": null,
         "establishment": null
     },
+    "administrativeLevels": {},
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1665,6 +1826,7 @@
         "neighborhood": null,
         "establishment": null
     },
+    "administrativeLevels": {},
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1682,6 +1844,7 @@
         "neighborhood": null,
         "establishment": null
     },
+    "administrativeLevels": {},
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1699,9 +1862,11 @@
         "neighborhood": null,
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "Osaka Prefecture",
+        "level1short": "Osaka Prefecture"
+    },
     "city": "Habikino",
-    "state": "Osaka Prefecture",
-    "stateCode": "Osaka Prefecture",
     "country": "日本",
     "countryCode": "JP",
     "zipcode": "583-0842"
@@ -1720,10 +1885,12 @@
         "neighborhood": "大角咀",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "九龍",
+        "level1short": "九龍"
+    },
     "streetNumber": "70-86",
     "streetName": "埃華街",
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1741,10 +1908,12 @@
         "neighborhood": "大角咀",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "九龍",
+        "level1short": "九龍"
+    },
     "streetNumber": "1",
     "streetName": "埃華街",
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1762,10 +1931,12 @@
         "neighborhood": "旺角",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "九龍",
+        "level1short": "九龍"
+    },
     "streetNumber": "50",
     "streetName": "豉油街",
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1783,10 +1954,12 @@
         "neighborhood": "旺角",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "九龍",
+        "level1short": "九龍"
+    },
     "streetNumber": "677",
     "streetName": "彌敦道",
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1804,6 +1977,7 @@
         "neighborhood": null,
         "establishment": null
     },
+    "administrativeLevels": {},
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1821,10 +1995,12 @@
         "neighborhood": "加多利山",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "九龍",
+        "level1short": "九龍"
+    },
     "streetNumber": "113",
     "streetName": "亞皆老街",
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1842,6 +2018,7 @@
         "neighborhood": null,
         "establishment": null
     },
+    "administrativeLevels": {},
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1859,10 +2036,12 @@
         "neighborhood": "何文田",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "九龍",
+        "level1short": "九龍"
+    },
     "streetNumber": "86",
     "streetName": "窩打老道",
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1880,10 +2059,12 @@
         "neighborhood": "旺角",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "九龍",
+        "level1short": "九龍"
+    },
     "streetNumber": "618",
     "streetName": "彌敦道",
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1901,10 +2082,12 @@
         "neighborhood": "油麻地",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "九龍",
+        "level1short": "九龍"
+    },
     "streetNumber": "363",
     "streetName": "彌敦道",
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1922,10 +2105,12 @@
         "neighborhood": "尖沙咀",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "九龍",
+        "level1short": "九龍"
+    },
     "streetNumber": "4",
     "streetName": "漢口道",
-    "state": "九龍",
-    "stateCode": "九龍",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1943,6 +2128,7 @@
         "neighborhood": null,
         "establishment": null
     },
+    "administrativeLevels": {},
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1960,6 +2146,7 @@
         "neighborhood": null,
         "establishment": null
     },
+    "administrativeLevels": {},
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1977,11 +2164,15 @@
         "neighborhood": "香港仔水塘",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level2long": "Hong Kong",
+        "level2short": "Hong Kong",
+        "level1long": "新界",
+        "level1short": "新界"
+    },
     "streetNumber": "8",
     "streetName": "深灣道",
     "city": "香港島",
-    "state": "新界",
-    "stateCode": "新界",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -1999,10 +2190,12 @@
         "neighborhood": "柴灣",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "香港島",
+        "level1short": "香港島"
+    },
     "streetNumber": "7",
     "streetName": "祥利街",
-    "state": "香港島",
-    "stateCode": "香港島",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -2020,8 +2213,10 @@
         "neighborhood": "柴灣",
         "establishment": null
     },
-    "state": "香港島",
-    "stateCode": "香港島",
+    "administrativeLevels": {
+        "level1long": "香港島",
+        "level1short": "香港島"
+    },
     "country": "香港",
     "countryCode": "HK"
 },
@@ -2039,6 +2234,7 @@
         "neighborhood": null,
         "establishment": null
     },
+    "administrativeLevels": {},
     "country": "香港",
     "countryCode": "HK"
 },
@@ -2056,10 +2252,12 @@
         "neighborhood": "筲箕灣",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "香港島",
+        "level1short": "香港島"
+    },
     "streetNumber": "305",
     "streetName": "筲箕灣道",
-    "state": "香港島",
-    "stateCode": "香港島",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -2077,10 +2275,12 @@
         "neighborhood": "筲箕灣",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "香港島",
+        "level1short": "香港島"
+    },
     "streetNumber": "251-261",
     "streetName": "筲箕灣道",
-    "state": "香港島",
-    "stateCode": "香港島",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -2098,10 +2298,12 @@
         "neighborhood": "���魚涌",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "香港島",
+        "level1short": "香港島"
+    },
     "streetNumber": "25",
     "streetName": "太古城道",
-    "state": "香港島",
-    "stateCode": "香港島",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -2119,10 +2321,12 @@
         "neighborhood": "���魚涌",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "香港島",
+        "level1short": "香港島"
+    },
     "streetNumber": "24",
     "streetName": "太古城道",
-    "state": "香港島",
-    "stateCode": "香港島",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -2140,10 +2344,12 @@
         "neighborhood": "鰂魚涌",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "香港島",
+        "level1short": "香港島"
+    },
     "streetNumber": "989",
     "streetName": "英皇道",
-    "state": "香港島",
-    "stateCode": "香港島",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -2161,10 +2367,12 @@
         "neighborhood": "北角",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "香港島",
+        "level1short": "香港島"
+    },
     "streetNumber": "468",
     "streetName": "英皇道",
-    "state": "香港島",
-    "stateCode": "香港島",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -2182,10 +2390,12 @@
         "neighborhood": "北角",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "香港島",
+        "level1short": "香港島"
+    },
     "streetNumber": "335",
     "streetName": "英皇道",
-    "state": "香港島",
-    "stateCode": "香港島",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -2193,20 +2403,22 @@
 //電氣道233號
 {
     "formattedAddress": "香港北角電氣道233號",
-    "latitude": 22.291118,
-    "longitude": 114.195015,
+    "latitude": 22.290648,
+    "longitude": 114.194482,
     "extra": {
-        "googlePlaceId": "ChIJi9sKBwMBBDQRFi15TdSHsAw",
+        "googlePlaceId": "ChIJdWjMrAMBBDQRRkIcVrBiKCs",
         "confidence": 1,
         "premise": null,
         "subpremise": null,
         "neighborhood": "北角",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "香港島",
+        "level1short": "香港島"
+    },
     "streetNumber": "233",
     "streetName": "電氣道",
-    "state": "香港島",
-    "stateCode": "香港島",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -2224,10 +2436,12 @@
         "neighborhood": "跑馬地",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "香港島",
+        "level1short": "香港島"
+    },
     "streetNumber": "76",
     "streetName": "山村道",
-    "state": "香港島",
-    "stateCode": "香港島",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -2245,10 +2459,12 @@
         "neighborhood": "加路連山",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "香港���",
+        "level1short": "香港島"
+    },
     "streetNumber": "88",
     "streetName": "加路連山道",
-    "state": "香港���",
-    "stateCode": "香港島",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -2266,10 +2482,12 @@
         "neighborhood": "東角",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "香港島",
+        "level1short": "香港島"
+    },
     "streetNumber": "28",
     "streetName": "怡和街",
-    "state": "香港島",
-    "stateCode": "香港島",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -2287,10 +2505,12 @@
         "neighborhood": "鵝頸",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "香港島",
+        "level1short": "香港島"
+    },
     "streetNumber": "417",
     "streetName": "軒尼詩道",
-    "state": "香港島",
-    "stateCode": "香港島",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -2308,10 +2528,12 @@
         "neighborhood": "灣仔",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "香港島",
+        "level1short": "香港島"
+    },
     "streetNumber": "200",
     "streetName": "軒尼詩道",
-    "state": "香港島",
-    "stateCode": "香港島",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -2329,10 +2551,12 @@
         "neighborhood": "灣仔",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "香港島",
+        "level1short": "香港島"
+    },
     "streetNumber": "132",
     "streetName": "莊士敦道",
-    "state": "香港島",
-    "stateCode": "香港島",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -2350,6 +2574,7 @@
         "neighborhood": null,
         "establishment": null
     },
+    "administrativeLevels": {},
     "country": "香港",
     "countryCode": "HK"
 },
@@ -2367,8 +2592,10 @@
         "neighborhood": "中環",
         "establishment": null
     },
-    "state": "香港島",
-    "stateCode": "香港島",
+    "administrativeLevels": {
+        "level1long": "香港島",
+        "level1short": "香港島"
+    },
     "country": "香港",
     "countryCode": "HK"
 },
@@ -2386,10 +2613,12 @@
         "neighborhood": "中環",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "香港島",
+        "level1short": "香港島"
+    },
     "streetNumber": "8",
     "streetName": "金融街",
-    "state": "香港島",
-    "stateCode": "香港島",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -2407,10 +2636,12 @@
         "neighborhood": "中環",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "香港島",
+        "level1short": "香港島"
+    },
     "streetNumber": "83",
     "streetName": "德輔道中",
-    "state": "香港島",
-    "stateCode": "香港島",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -2428,10 +2659,12 @@
         "neighborhood": "上環",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "香港島",
+        "level1short": "香港島"
+    },
     "streetNumber": "52",
     "streetName": "德輔道西",
-    "state": "香港島",
-    "stateCode": "香港島",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -2449,10 +2682,12 @@
         "neighborhood": "石塘咀",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "香港島",
+        "level1short": "香港島"
+    },
     "streetNumber": "484-496",
     "streetName": "皇后大道西",
-    "state": "香港島",
-    "stateCode": "香港島",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -2470,10 +2705,12 @@
         "neighborhood": "石塘咀",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "香港島",
+        "level1short": "香港島"
+    },
     "streetNumber": "363",
     "streetName": "德輔道西",
-    "state": "香港島",
-    "stateCode": "香港島",
     "country": "香港",
     "countryCode": "HK"
 },
@@ -2491,10 +2728,12 @@
         "neighborhood": "西環",
         "establishment": null
     },
+    "administrativeLevels": {
+        "level1long": "香港島",
+        "level1short": "香港島"
+    },
     "streetNumber": "45",
     "streetName": "士美菲路",
-    "state": "香港島",
-    "stateCode": "香港島",
     "country": "香港",
     "countryCode": "HK"
 }
