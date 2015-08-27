@@ -2,7 +2,7 @@
     {
         "_id": "HSBC_066-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 大澳理財易中心",
             "en": "HSBC Tai O Express Banking"
@@ -38,7 +38,7 @@
     {
         "_id": "HSBC_646-04505",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 香港飛機工程理財易中心",
             "en": "HSBC HAECO Express Banking"
@@ -74,7 +74,7 @@
     {
         "_id": "HSBC_556-04511",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 踏石角理財易中心",
             "en": "HSBC Tap Shek Kok Express Banking"
@@ -110,7 +110,7 @@
     {
         "_id": "HSBC_646-04516",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 國泰航空貨運站自動櫃員機",
             "en": "HSBC Cathay Pacific Cargo Terminal ATM"
@@ -146,7 +146,7 @@
     {
         "_id": "HSBC_646-04515",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 香港國際機場 - 離港登機層西翼(禁區)自動櫃員機",
             "en": "HSBC Hong Kong International Airport Departures Boarding Level - West Hall (Restricted Area) ATM"
@@ -182,7 +182,7 @@
     {
         "_id": "HSBC_646-04506",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 超級貨站理財易中心",
             "en": "HSBC SuperTerminal 1 Express Banking"
@@ -218,7 +218,7 @@
     {
         "_id": "HSBC_646-04507",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 香港國際機場 - 離港登機層東翼(禁區) 理財易中心",
             "en": "HSBC Hong Kong International Airport Departures Boarding Level - East Hall (Restricted Area) Express Banking"
@@ -254,7 +254,7 @@
     {
         "_id": "HSBC_648.0",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 國泰城分行",
             "en": "HSBC Cathay Pacific City Branch"
@@ -298,7 +298,7 @@
     {
         "_id": "HSBC_646-04517",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 香港國際機場理財易中心(5T002)",
             "en": "HSBC Hong Kong International Airport Express Banking (5T002)"
@@ -334,7 +334,7 @@
     {
         "_id": "HSBC_646-04509",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 逸東邨自動櫃員機",
             "en": "HSBC Yat Tung Estate ATM"
@@ -378,7 +378,7 @@
     {
         "_id": "HSBC_646-04510",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 香港國際機場理財易中心",
             "en": "HSBC Hong Kong International Airport Express Banking"
@@ -414,7 +414,7 @@
     {
         "_id": "HSBC_646-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 香港國際機場 - 離港登機大堂理財易中心",
             "en": "HSBC Hong Kong International Airport Departures Check-in Hall Express Banking"
@@ -450,7 +450,7 @@
     {
         "_id": "HSBC_646-045-14",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 香港國際機場 - 地面運輸中心自動櫃員機",
             "en": "HSBC Hong Kong International Airport - Ground Transportation Centre ATM"
@@ -486,7 +486,7 @@
     {
         "_id": "HSBC_646-04511",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 翔天廊理財易中心",
             "en": "HSBC SkyPlaza Express Banking"
@@ -522,7 +522,7 @@
     {
         "_id": "HSBC_646-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 港龍大廈理財易中心",
             "en": "HSBC Dragonair House Express Banking"
@@ -558,7 +558,7 @@
     {
         "_id": "HSBC_646-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 東薈城名店倉理財易中心",
             "en": "HSBC Citygate Outlets Express Banking"
@@ -594,7 +594,7 @@
     {
         "_id": "HSBC_646-04512",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 富東邨自動櫃員機",
             "en": "HSBC Fu Tung Estate ATM"
@@ -638,7 +638,7 @@
     {
         "_id": "HSBC_646-04513",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 香港天際萬豪酒店自動櫃員機",
             "en": "HSBC Hong Kong SkyCity Marriott Hotel ATM"
@@ -674,7 +674,7 @@
     {
         "_id": "HSBC_646-04508",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 亞洲國際博覽館理財易中心",
             "en": "HSBC AsiaWorld-Expo Express Banking"
@@ -710,7 +710,7 @@
     {
         "_id": "HSBC_556-04509",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 蝴蝶邨自動櫃員機",
             "en": "HSBC Butterfly Estate ATM"
@@ -754,7 +754,7 @@
     {
         "_id": "HSBC_556-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 良景邨理財易中心",
             "en": "HSBC Leung King Estate Express Banking"
@@ -790,7 +790,7 @@
     {
         "_id": "HSBC_556-04510",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 新屯門中心自動櫃員機",
             "en": "HSBC Sun Tuen Mun Centre ATM"
@@ -826,7 +826,7 @@
     {
         "_id": "HSBC_556-04505",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 山景邨理財易中心",
             "en": "HSBC Shan King Estate Express Banking"
@@ -862,7 +862,7 @@
     {
         "_id": "HSBC_821-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 海趣坊理財易中心",
             "en": "HSBC Ocean Walk Express Banking"
@@ -898,7 +898,7 @@
     {
         "_id": "HSBC_556-04514",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 龍門居 (7-Eleven) 自動櫃員機",
             "en": "HSBC Lung Mun Oasis (7-Eleven) ATM"
@@ -934,7 +934,7 @@
     {
         "_id": "HSBC_556-04513",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 寶田邨自動櫃員機",
             "en": "HSBC Po Tin Estate ATM"
@@ -978,7 +978,7 @@
     {
         "_id": "HSBC_556-04512",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 建生邨自動櫃員機",
             "en": "HSBC Kin Sang Estate ATM"
@@ -1014,7 +1014,7 @@
     {
         "_id": "HSBC_556-04507",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 港鐵屯門站理財易中心",
             "en": "HSBC MTR Tuen Mun Station Express Banking"
@@ -1058,7 +1058,7 @@
     {
         "_id": "HSBC_556-04519",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 翠寧花園(Circle K)自動櫃員機",
             "en": "HSBC Tsui Ning Garden (Circle-K) ATM"
@@ -1094,7 +1094,7 @@
     {
         "_id": "HSBC_556-04518",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 卓爾廣場理財易中心",
             "en": "HSBC Chelsea Heights Express Banking"
@@ -1138,7 +1138,7 @@
     {
         "_id": "HSBC_556-04522",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 屯門時代廣場理財易中心",
             "en": "HSBC Tuen Mun Trend Plaza Express Banking"
@@ -1182,7 +1182,7 @@
     {
         "_id": "HSBC_556-04508",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 安定邨理財易中心",
             "en": "HSBC On Ting Estate Express Banking"
@@ -1226,7 +1226,7 @@
     {
         "_id": "HSBC_556-04506",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 屯門市廣場理財易中心",
             "en": "HSBC Tuen Mun Town Plaza Express Banking"
@@ -1262,7 +1262,7 @@
     {
         "_id": "HSBC_556-04523",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 屯門理財易中心",
             "en": "HSBC Tuen Mun Express Banking"
@@ -1306,7 +1306,7 @@
     {
         "_id": "HSBC_556-04516",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 屯門醫院自動櫃員機",
             "en": "HSBC Tuen Mun Hospital ATM"
@@ -1342,7 +1342,7 @@
     {
         "_id": "HSBC_556-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 恆福商場理財易中心",
             "en": "HSBC Hanford Plaza Express Banking"
@@ -1378,7 +1378,7 @@
     {
         "_id": "HSBC_556-04515",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 錦發大廈理財易中心",
             "en": "HSBC Kam Fat Building Express Banking"
@@ -1414,7 +1414,7 @@
     {
         "_id": "HSBC_556-04520",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 港鐵兆康站理財易中心",
             "en": "HSBC MTR Siu Hong Station Express Banking"
@@ -1458,7 +1458,7 @@
     {
         "_id": "HSBC_556-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 置樂花園理財易中心",
             "en": "HSBC Chi Lok Fa Yuen Express Banking"
@@ -1494,7 +1494,7 @@
     {
         "_id": "HSBC_556-04517",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 富泰邨理財易中心",
             "en": "HSBC Fu Tai Estate Express Banking"
@@ -1530,7 +1530,7 @@
     {
         "_id": "HSBC_556-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 香港黃金海岸理財易中心",
             "en": "HSBC HK Gold Coast Express Banking"
@@ -1566,7 +1566,7 @@
     {
         "_id": "HSBC_034-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 洪水橋理財易中心",
             "en": "HSBC Hung Shui Kiu Express Banking"
@@ -1602,7 +1602,7 @@
     {
         "_id": "HSBC_507-045-05",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 天恩邨自動櫃員機",
             "en": "HSBC Tin Yan Estate ATM"
@@ -1646,7 +1646,7 @@
     {
         "_id": "HSBC_507-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 頌富理財易中心",
             "en": "HSBC Chung Fu Express Banking"
@@ -1682,7 +1682,7 @@
     {
         "_id": "HSBC_507-04507",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 天澤邨自動櫃員機",
             "en": "HSBC Tin Chak Estate ATM"
@@ -1718,7 +1718,7 @@
     {
         "_id": "HSBC_507-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 嘉湖新北江商場(7-Eleven) 自動櫃員機",
             "en": "HSBC Kingswood Richly Plaza (7-Eleven) ATM"
@@ -1754,7 +1754,7 @@
     {
         "_id": "HSBC_066",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 梅窩分行",
             "en": "HSBC Silvermine Bay Branch"
@@ -1798,7 +1798,7 @@
     {
         "_id": "HSBC_507-04508",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 天晴邨 (7-Eleven) 自動櫃員機",
             "en": "HSBC Tin Ching Estate (7-Eleven) ATM"
@@ -1834,7 +1834,7 @@
     {
         "_id": "HSBC_507-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 天水圍理財易中心",
             "en": "HSBC Tin Shui Wai Express Banking"
@@ -1870,7 +1870,7 @@
     {
         "_id": "HSBC_507-045-09",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 天耀邨理財易中心",
             "en": "HSBC Tin Yiu Estate Express Banking"
@@ -1906,7 +1906,7 @@
     {
         "_id": "HSBC_507-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 港鐵天水圍站理財易中心",
             "en": "HSBC MTR Tin Shui Wai Station Express Banking"
@@ -1950,7 +1950,7 @@
     {
         "_id": "HSBC_507-04506",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 天慈邨自動櫃員機",
             "en": "HSBC Tin Tsz Estate ATM"
@@ -1986,7 +1986,7 @@
     {
         "_id": "HSBC_571.0",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 愉景灣分行",
             "en": "HSBC Discovery Bay Branch"
@@ -2030,7 +2030,7 @@
     {
         "_id": "HSBC_034-04512",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 水邊圍邨(Circle-K)自動櫃員機",
             "en": "HSBC Shui Pin Wai Estate (Circle-K) ATM"
@@ -2066,7 +2066,7 @@
     {
         "_id": "HSBC_034-04511",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 朗屏邨理財易中心",
             "en": "HSBC Long Ping Estate Express Banking"
@@ -2102,7 +2102,7 @@
     {
         "_id": "HSBC_034-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 港鐵朗屏站理財易中心",
             "en": "HSBC MTR Long Ping Station EasiService Banking Centre"
@@ -2146,7 +2146,7 @@
     {
         "_id": "HSBC_034-04510",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 富興大廈(Circle-K) 自動櫃員機",
             "en": "HSBC Fu Hing Building (Circle-K) ATM"
@@ -2182,7 +2182,7 @@
     {
         "_id": "HSBC_034-04508",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 元朗理財易中心",
             "en": "HSBC Yuen Long Express Banking"
@@ -2218,7 +2218,7 @@
     {
         "_id": "HSBC_063-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 長洲理財易中心",
             "en": "HSBC Cheung Chau Express Banking"
@@ -2254,7 +2254,7 @@
     {
         "_id": "HSBC_063",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 長洲分行",
             "en": "HSBC Cheung Chau Branch"
@@ -2298,7 +2298,7 @@
     {
         "_id": "HSBC_034-04509",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 合益廣場(7-Eleven)自動櫃員機",
             "en": "HSBC Hop Yick Plaza (7-Eleven) ATM"
@@ -2334,7 +2334,7 @@
     {
         "_id": "HSBC_034-045-14",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 安寧路(7-Eleven)自動櫃員機",
             "en": "HSBC On Ning Road (7-Eleven) ATM"
@@ -2370,7 +2370,7 @@
     {
         "_id": "HSBC_034-04513",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 港鐵元朗站理財易中心",
             "en": "HSBC MTR Yuen Long Station Express Banking"
@@ -2406,7 +2406,7 @@
     {
         "_id": "HSBC_117.0",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 坪洲分行",
             "en": "HSBC Peng Chau Branch"
@@ -2450,7 +2450,7 @@
     {
         "_id": "HSBC_034-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 錦綉花園理財易中心",
             "en": "HSBC Fairview Park Express Banking"
@@ -2486,7 +2486,7 @@
     {
         "_id": "HSBC_034-04506",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 加州花園理財易中心",
             "en": "HSBC Palm Spring Express Banking"
@@ -2522,7 +2522,7 @@
     {
         "_id": "HSBC_032-04514",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 深井理財易中心",
             "en": "HSBC Sham Tseng Express Banking"
@@ -2558,7 +2558,7 @@
     {
         "_id": "HSBC_034-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 港鐵錦上路站理財易中心",
             "en": "HSBC MTR Kam Sheung Road Station Express Banking"
@@ -2594,7 +2594,7 @@
     {
         "_id": "HSBC_509-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 港鐵落馬洲站 (離境大堂) 理財易中心",
             "en": "HSBC MTR Lok Ma Chau Station (Departures Concourse) Express Banking"
@@ -2638,7 +2638,7 @@
     {
         "_id": "HSBC_034-04505",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 錦田理財易中心",
             "en": "HSBC Kam Tin Express Banking"
@@ -2674,7 +2674,7 @@
     {
         "_id": "HSBC_109-04506",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 長宏邨自動櫃員機",
             "en": "HSBC Cheung Wang Estate ATM"
@@ -2710,7 +2710,7 @@
     {
         "_id": "HSBC_109-04507",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 長亨邨自動櫃員機",
             "en": "HSBC Cheung Hang Estate ATM"
@@ -2746,7 +2746,7 @@
     {
         "_id": "HSBC_109-04505",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 長康邨自動櫃員機",
             "en": "HSBC Cheung Hong Estate ATM"
@@ -2782,7 +2782,7 @@
     {
         "_id": "HSBC_109-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 長發邨理財易中心",
             "en": "HSBC Cheung Fat Estate EasiService Banking Centre"
@@ -2818,7 +2818,7 @@
     {
         "_id": "HSBC_032-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 荃灣中心理財易中心",
             "en": "HSBC Tsuen Wan Centre Express Banking"
@@ -2854,7 +2854,7 @@
     {
         "_id": "HSBC_109-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 翠怡花園理財易中心",
             "en": "HSBC Greenfield Garden EasiService Banking Centre"
@@ -2890,7 +2890,7 @@
     {
         "_id": "HSBC_109-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 青衣城理財易中心",
             "en": "HSBC Maritime Square Express Banking"
@@ -2926,7 +2926,7 @@
     {
         "_id": "HSBC_109-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 長青邨自動櫃員機",
             "en": "HSBC Cheung Ching Estate ATM"
@@ -2962,7 +2962,7 @@
     {
         "_id": "HSBC_831-045-02",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 港鐵荃灣西站理財易中心",
             "en": "HSBC MTR Tsuen Wan West Station Express Banking"
@@ -3006,7 +3006,7 @@
     {
         "_id": "HSBC_161.0",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 榕樹灣分行",
             "en": "HSBC Yung Shue Wan Branch"
@@ -3050,7 +3050,7 @@
     {
         "_id": "HSBC_032-04513",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 愉景新城理財易中心",
             "en": "HSBC Discovery Park Express Banking"
@@ -3094,7 +3094,7 @@
     {
         "_id": "HSBC_036-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 港鐵羅湖站理財易中心",
             "en": "HSBC MTR Lo Wu Station EasiService Banking Centre"
@@ -3138,7 +3138,7 @@
     {
         "_id": "HSBC_032-04515",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 中染新城理財易中心 - 將於2015年8月27日（星期四）早上9時起停止服務",
             "en": "HSBC CDW Place Express Banking - will be discontinued after 9:00am on 27Aug2015"
@@ -3174,7 +3174,7 @@
     {
         "_id": "HSBC_831-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 荃新天地理財易中心",
             "en": "HSBC Citywalk Express Banking"
@@ -3210,7 +3210,7 @@
     {
         "_id": "HSBC_032-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 海濱廣場 (7-Eleven) 自動櫃員機",
             "en": "HSBC Riviera Gardens (7-Eleven) ATM"
@@ -3246,7 +3246,7 @@
     {
         "_id": "HSBC_032-04509",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 眾安街(7-Eleven) 自動櫃員機",
             "en": "HSBC Chung On Street (7-Eleven) ATM"
@@ -3282,7 +3282,7 @@
     {
         "_id": "HSBC_032-045-12",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 荃灣荃勝大廈 (Circle K) 自動櫃員機",
             "en": "HSBC Victory Court Tsuen Wan (Circle K) ATM"
@@ -3318,7 +3318,7 @@
     {
         "_id": "HSBC_032-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 荃灣千色匯II理財易中心",
             "en": "HSBC KOLOUR • Tsuen Wan II Express Banking"
@@ -3354,7 +3354,7 @@
     {
         "_id": "HSBC_032-04507",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 荃灣理財易中心",
             "en": "HSBC Tsuen Wan Express Banking"
@@ -3390,7 +3390,7 @@
     {
         "_id": "HSBC_094-04510",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 嘉里貨運中心自動櫃員機",
             "en": "HSBC Kerry Cargo Centre ATM"
@@ -3426,7 +3426,7 @@
     {
         "_id": "HSBC_094-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 葵盛西理財易中心",
             "en": "HSBC Kwai Shing West Express Banking"
@@ -3462,7 +3462,7 @@
     {
         "_id": "HSBC_032-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 大廈街 (7-Eleven) 自動櫃員機",
             "en": "HSBC Tai Ha Street (7-Eleven) ATM"
@@ -3498,7 +3498,7 @@
     {
         "_id": "HSBC_032-04516",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 大窩口邨自動櫃員機",
             "en": "HSBC Tai Wo Hau Estate ATM"
@@ -3534,7 +3534,7 @@
     {
         "_id": "HSBC_541-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 現代貨櫃碼頭理財易中心",
             "en": "HSBC Modern Terminals Express Banking"
@@ -3570,7 +3570,7 @@
     {
         "_id": "HSBC_032-04510",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 石圍角邨自動櫃員機",
             "en": "HSBC Shek Wai Kok Estate ATM"
@@ -3606,7 +3606,7 @@
     {
         "_id": "HSBC_036-04505",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 彩園邨自動櫃員機",
             "en": "HSBC Choi Yuen Estate ATM"
@@ -3642,7 +3642,7 @@
     {
         "_id": "HSBC_094",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 葵芳分行",
             "en": "HSBC Kwai Fong Branch"
@@ -3686,7 +3686,7 @@
     {
         "_id": "HSBC_094-04505",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 葵芳理財易中心",
             "en": "HSBC Kwai Fong Express Banking"
@@ -3730,7 +3730,7 @@
     {
         "_id": "HSBC_119-04505",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 荔景邨自動櫃員機",
             "en": "HSBC Lai King Estate ATM"
@@ -3766,7 +3766,7 @@
     {
         "_id": "HSBC_039-04505",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 清河邨(Circle-K)自動櫃員機",
             "en": "HSBC Ching Ho Estate (Circle K) ATM"
@@ -3802,7 +3802,7 @@
     {
         "_id": "HSBC_008-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 堅尼地城理財易中心",
             "en": "HSBC Kennedy Town Express Banking"
@@ -3838,7 +3838,7 @@
     {
         "_id": "HSBC_036-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 上水理財易中心",
             "en": "HSBC Sheung Shui Express Banking"
@@ -3874,7 +3874,7 @@
     {
         "_id": "HSBC_094-04508",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 葵盛東邨自動櫃員機",
             "en": "HSBC Kwai Shing East Estate ATM"
@@ -3918,7 +3918,7 @@
     {
         "_id": "HSBC_036-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 港鐵上水站理財易中心",
             "en": "HSBC MTR Sheung Shui Station Express Banking"
@@ -3954,7 +3954,7 @@
     {
         "_id": "HSBC_094-04506",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 葵涌邨自動櫃員機",
             "en": "HSBC Kwai Chung Estate ATM"
@@ -3990,7 +3990,7 @@
     {
         "_id": "HSBC_068-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 數碼港理財易中心",
             "en": "HSBC Cyberport Express Banking"
@@ -4034,7 +4034,7 @@
     {
         "_id": "HSBC_094-04509",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 葵芳邨自動櫃員機",
             "en": "HSBC Kwai Fong Estate ATM"
@@ -4078,7 +4078,7 @@
     {
         "_id": "HSBC_509-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 上水中心理財易中心",
             "en": "HSBC Sheung Shui Centre Express Banking"
@@ -4114,7 +4114,7 @@
     {
         "_id": "HSBC_032-04511",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 象山邨自動櫃員機",
             "en": "HSBC Cheung Shan Estate ATM"
@@ -4150,7 +4150,7 @@
     {
         "_id": "HSBC_068-04506",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 瑪麗醫院理財易中心",
             "en": "HSBC Queen Mary Hospital Express Banking"
@@ -4186,7 +4186,7 @@
     {
         "_id": "HSBC_119-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 麗瑤邨理財易中心",
             "en": "HSBC Lai Yiu Estate Express Banking"
@@ -4222,7 +4222,7 @@
     {
         "_id": "HSBC_541-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 葵興理財易中心",
             "en": "HSBC Kwai Hing EasiService Banking Centre"
@@ -4266,7 +4266,7 @@
     {
         "_id": "HSBC_008-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 西寶城理財易中心",
             "en": "HSBC The Westwood Express Banking"
@@ -4302,7 +4302,7 @@
     {
         "_id": "HSBC_509-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 天平邨自動櫃員機",
             "en": "HSBC Tin Ping Estate ATM"
@@ -4338,7 +4338,7 @@
     {
         "_id": "HSBC_119-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 瑪嘉烈醫院理財易中心",
             "en": "HSBC Princess Margaret Hospital Express Banking"
@@ -4374,7 +4374,7 @@
     {
         "_id": "HSBC_039-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 嘉福邨自動櫃員機",
             "en": "HSBC Ka Fuk Estate ATM"
@@ -4410,7 +4410,7 @@
     {
         "_id": "HSBC_008-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 港鐵香港大學站理財易中心",
             "en": "HSBC MTR HKU Station Express Banking"
@@ -4454,7 +4454,7 @@
     {
         "_id": "HSBC_068-04509",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 華富邨理財易中心",
             "en": "HSBC Wah Fu Estate Express Banking"
@@ -4490,7 +4490,7 @@
     {
         "_id": "HSBC_119-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 港鐵美孚站自動櫃員機",
             "en": "HSBC MTR Mei Foo Station ATM"
@@ -4534,7 +4534,7 @@
     {
         "_id": "HSBC_541-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 和宜合道理財易中心",
             "en": "HSBC Wo Yi Hop Road Express Banking"
@@ -4570,7 +4570,7 @@
     {
         "_id": "HSBC_094-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 梨木樹邨理財易中心",
             "en": "HSBC Lei Muk Shue Estate Express Banking"
@@ -4614,7 +4614,7 @@
     {
         "_id": "HSBC_119-04506",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 家居城自動櫃員機",
             "en": "HSBC Household Centre ATM"
@@ -4658,7 +4658,7 @@
     {
         "_id": "HSBC_039-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 雍盛苑理財易中心",
             "en": "HSBC Yung Shing Court Express Banking"
@@ -4702,7 +4702,7 @@
     {
         "_id": "HSBC_094-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 石蔭理財易中心",
             "en": "HSBC Shek Yam Express Banking"
@@ -4746,7 +4746,7 @@
     {
         "_id": "HSBC_405.0",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 香港大學分行",
             "en": "HSBC University of Hong Kong Branch"
@@ -4790,7 +4790,7 @@
     {
         "_id": "HSBC_039-045-01",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 港鐵粉嶺站理財易中心",
             "en": "HSBC MTR Fanling Station Express Banking"
@@ -4826,7 +4826,7 @@
     {
         "_id": "HSBC_068-04510",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 置富花園理財易中心",
             "en": "HSBC Chi Fu Fa Yuen EasiService Banking Centre"
@@ -4870,7 +4870,7 @@
     {
         "_id": "HSBC_541-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 石籬邨理財易中心",
             "en": "HSBC Shek Lei Estate Express Banking"
@@ -4914,7 +4914,7 @@
     {
         "_id": "HSBC_039-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 粉嶺名都理財易中心",
             "en": "HSBC Fanling Town Centre Express Banking"
@@ -4958,7 +4958,7 @@
     {
         "_id": "HSBC_039-04506",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 祥華邨自動櫃員機",
             "en": "HSBC Cheung Wah Estate ATM"
@@ -4994,7 +4994,7 @@
     {
         "_id": "HSBC_039-04507",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 華明邨自動櫃員機",
             "en": "HSBC Wah Ming Estate ATM"
@@ -5030,7 +5030,7 @@
     {
         "_id": "HSBC_094-04507",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 安蔭邨自動櫃員機",
             "en": "HSBC On Yam Estate ATM"
@@ -5066,7 +5066,7 @@
     {
         "_id": "HSBC_039",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 粉嶺分行",
             "en": "HSBC Fanling Branch"
@@ -5110,7 +5110,7 @@
     {
         "_id": "HSBC_119-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 曼坊理財易中心",
             "en": "HSBC Manhattan Mid-Town Express Banking"
@@ -5146,7 +5146,7 @@
     {
         "_id": "HSBC_026-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 288皇后大道西理財易中心",
             "en": "HSBC 288 Queen's Road West EasiService Banking Centre"
@@ -5182,7 +5182,7 @@
     {
         "_id": "HSBC_082-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 般含道理財易中心",
             "en": "HSBC Bonham Road Express Banking"
@@ -5218,7 +5218,7 @@
     {
         "_id": "HSBC_599-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 海怡半島理財易中心",
             "en": "HSBC South Horizons Express Banking"
@@ -5254,7 +5254,7 @@
     {
         "_id": "HSBC_119-04510",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 海麗邨理財易中心",
             "en": "HSBC Hoi Lai Estate EasiService Banking Centre"
@@ -5290,7 +5290,7 @@
     {
         "_id": "HSBC_026",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 德輔道西分行",
             "en": "HSBC Des Voeux Road West Branch"
@@ -5334,7 +5334,7 @@
     {
         "_id": "HSBC_599.0",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 海怡半島分行",
             "en": "HSBC South Horizons Branch"
@@ -5378,7 +5378,7 @@
     {
         "_id": "HSBC_747.0",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 長沙灣商業客戶服務中心",
             "en": "HSBC Cheung Sha Wan Commercial Service Centre"
@@ -5422,7 +5422,7 @@
     {
         "_id": "HSBC_026-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 皇后大道西2號理財易中心",
             "en": "HSBC 2 Queen's Road West Express Banking"
@@ -5458,7 +5458,7 @@
     {
         "_id": "HSBC_747-02701",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 長沙灣廣場入票易",
             "en": "HSBC Cheung Sha Wan Plaza Cheque Deposit Machine"
@@ -5502,7 +5502,7 @@
     {
         "_id": "HSBC_119-04511",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 昇悅居理財易中心",
             "en": "HSBC Liberte EasiService Banking Centre"
@@ -5546,7 +5546,7 @@
     {
         "_id": "HSBC_119-04507",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 長沙灣廣場理財易中心",
             "en": "HSBC Cheung Sha Wan Plaza Express Banking"
@@ -5590,7 +5590,7 @@
     {
         "_id": "HSBC_068-04508",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 田灣邨理財易中心",
             "en": "HSBC Tin Wan Estate Express Banking"
@@ -5626,7 +5626,7 @@
     {
         "_id": "HSBC_593-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 山頂廣場自動櫃員機",
             "en": "HSBC Peak Galleria ATM"
@@ -5670,7 +5670,7 @@
     {
         "_id": "HSBC_119-04512",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 長沙灣理財易中心",
             "en": "HSBC Cheung Sha Wan Express Banking"
@@ -5706,7 +5706,7 @@
     {
         "_id": "HSBC_474-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 西摩道 (7-Eleven) 自動櫃員機",
             "en": "HSBC Seymour Road (7-Eleven) ATM"
@@ -5742,7 +5742,7 @@
     {
         "_id": "HSBC_172-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 信德理財易中心",
             "en": "HSBC Shun Tak Express Banking"
@@ -5778,7 +5778,7 @@
     {
         "_id": "HSBC_173-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 上環理財易中心",
             "en": "HSBC Sheung Wan EasiService Banking Centre"
@@ -5814,7 +5814,7 @@
     {
         "_id": "HSBC_478-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 康樂園理財易中心",
             "en": "HSBC Hong Lok Yuen Express Banking"
@@ -5850,7 +5850,7 @@
     {
         "_id": "HSBC_641.0",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 文咸東街商業客戶服務中心",
             "en": "HSBC Bonham Strand Commercial Service Centre"
@@ -5894,7 +5894,7 @@
     {
         "_id": "HSBC_007-04506",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 港鐵南昌站理財易中心",
             "en": "HSBC MTR Nam Cheong Station Express Banking"
@@ -5938,7 +5938,7 @@
     {
         "_id": "HSBC_068-04514",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 香港仔中心理財易中心",
             "en": "HSBC Aberdeen Centre Express Banking"
@@ -5974,7 +5974,7 @@
     {
         "_id": "HSBC_043-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 擺花街理財易中心",
             "en": "HSBC Lyndhurst Terrace Express Banking"
@@ -6010,7 +6010,7 @@
     {
         "_id": "HSBC_043-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 堅道27號(7-Eleven) 自動櫃員機",
             "en": "HSBC 27 Caine Road (7-Eleven) ATM"
@@ -6046,7 +6046,7 @@
     {
         "_id": "HSBC_474.0",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 128 皇后大道中分行",
             "en": "HSBC 128 Queen's Road Central Branch"
@@ -6090,7 +6090,7 @@
     {
         "_id": "HSBC_119-04509",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 幸福邨自動櫃員機",
             "en": "HSBC Fortune Estate ATM"
@@ -6134,7 +6134,7 @@
     {
         "_id": "HSBC_007-04508",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 富昌邨理財易中心",
             "en": "HSBC Fu Cheong Estate Express Banking"
@@ -6178,7 +6178,7 @@
     {
         "_id": "HSBC_068-04512",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 香港仔理財易中心",
             "en": "HSBC Aberdeen Express Banking"
@@ -6214,7 +6214,7 @@
     {
         "_id": "HSBC_172.0",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 德輔道中分行",
             "en": "HSBC Des Voeux Road Central Branch"
@@ -6258,7 +6258,7 @@
     {
         "_id": "HSBC_828-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 德己立街 (7-Eleven) 自動櫃員機",
             "en": "HSBC D'Aguilar Street (7-Eleven) ATM"
@@ -6294,7 +6294,7 @@
     {
         "_id": "HSBC_068-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 利東邨理財易中心",
             "en": "HSBC Lei Tung Estate Express Banking"
@@ -6330,7 +6330,7 @@
     {
         "_id": "HSBC_005-045-05",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 青山道332號 (7-Eleven) 自動櫃員機",
             "en": "HSBC 332 Castle Peak Road (7-11) ATM"
@@ -6366,7 +6366,7 @@
     {
         "_id": "HSBC_005-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 元州邨理財易中心",
             "en": "HSBC Un Chau Estate Express Banking"
@@ -6410,7 +6410,7 @@
     {
         "_id": "HSBC_599-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 鴨脷洲大街理財易中心",
             "en": "HSBC Apleichau Main Street Express Banking"
@@ -6446,7 +6446,7 @@
     {
         "_id": "HSBC_007-04505",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 麗閣邨理財易中心",
             "en": "HSBC Lai Kok Estate Express Banking"
@@ -6482,7 +6482,7 @@
     {
         "_id": "HSBC_608-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 中環理財易中心",
             "en": "HSBC Central Express Banking"
@@ -6518,7 +6518,7 @@
     {
         "_id": "HSBC_068-04511",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 石排灣邨自動櫃員機",
             "en": "HSBC Shek Pai Wan Estate ATM"
@@ -6554,7 +6554,7 @@
     {
         "_id": "HSBC_083-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 交易廣場理財易中心",
             "en": "HSBC Exchange Square Express Banking"
@@ -6590,7 +6590,7 @@
     {
         "_id": "HSBC_005-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 李鄭屋邨自動櫃員機",
             "en": "HSBC Lei Cheng Uk Estate ATM"
@@ -6626,7 +6626,7 @@
     {
         "_id": "HSBC_808.0",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 香港總行商業客戶服務中心",
             "en": "HSBC Hong Kong Office Commercial Service Centre"
@@ -6670,7 +6670,7 @@
     {
         "_id": "HSBC_083-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 國際金融中心商場自動櫃員機",
             "en": "HSBC ifc Mall ATM"
@@ -6706,7 +6706,7 @@
     {
         "_id": "HSBC_005-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 西九龍中心理財易中心",
             "en": "HSBC Dragon Centre Express Banking"
@@ -6742,7 +6742,7 @@
     {
         "_id": "HSBC_002",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 香港總行",
             "en": "HSBC Hong Kong Office"
@@ -6786,7 +6786,7 @@
     {
         "_id": "HSBC_002-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 滙豐總行大廈理財易中心",
             "en": "HSBC HSBC Main Building Express Banking"
@@ -6822,7 +6822,7 @@
     {
         "_id": "HSBC_005-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 西九龍中心(3/F)理財易中心",
             "en": "HSBC Dragon Centre (3/F) Express Banking"
@@ -6866,7 +6866,7 @@
     {
         "_id": "HSBC_127-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 摩根士丹利亞洲有限公司自動櫃員機",
             "en": "HSBC Morgan Stanley Asia Limited ATM"
@@ -6902,7 +6902,7 @@
     {
         "_id": "HSBC_127-04505",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 德意志銀行(香港分行)自動櫃員機",
             "en": "HSBC Deutsche Bank AG (HK Branch) ATM"
@@ -6938,7 +6938,7 @@
     {
         "_id": "HSBC_001-04507",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 港灣豪庭廣場自動櫃員機",
             "en": "HSBC Metro Harbour Plaza ATM"
@@ -6982,7 +6982,7 @@
     {
         "_id": "HSBC_037-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 太和廣場理財易中心",
             "en": "HSBC Tai Wo Plaza EasiService Banking Centre"
@@ -7018,7 +7018,7 @@
     {
         "_id": "HSBC_491-04507",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 圓方理財易中心",
             "en": "HSBC Elements EasiService Banking Centre"
@@ -7054,7 +7054,7 @@
     {
         "_id": "HSBC_835-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 滙豐中心理財易中心",
             "en": "HSBC HSBC Centre Express Banking"
@@ -7090,7 +7090,7 @@
     {
         "_id": "HSBC_083-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 中環天星碼頭自動櫃員機",
             "en": "HSBC Star Ferry Pier - Central ATM"
@@ -7126,7 +7126,7 @@
     {
         "_id": "HSBC_037-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 港鐵太和站自動櫃員機",
             "en": "HSBC MTR Tai Wo Station ATM"
@@ -7170,7 +7170,7 @@
     {
         "_id": "HSBC_007-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 桂林街 (7-Eleven) 自動櫃員機",
             "en": "HSBC Kweilin Street (7-Eleven) ATM"
@@ -7206,7 +7206,7 @@
     {
         "_id": "HSBC_037-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 太和邨理財易中心",
             "en": "HSBC Tai Wo Estate Express Banking"
@@ -7242,7 +7242,7 @@
     {
         "_id": "HSBC_007",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 荔枝角道分行",
             "en": "HSBC Lai Chi Kok Road Branch"
@@ -7286,7 +7286,7 @@
     {
         "_id": "HSBC_102-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 夏慤道理財易中心",
             "en": "HSBC Harcourt Road Express Banking"
@@ -7322,7 +7322,7 @@
     {
         "_id": "HSBC_007-04507",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 深水埗理財易中心",
             "en": "HSBC Sham Shui Po Express Banking"
@@ -7358,7 +7358,7 @@
     {
         "_id": "HSBC_007-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 福榮街 (7-Eleven) 自動櫃員機",
             "en": "HSBC Fuk Wing Street (7-Eleven) ATM"
@@ -7394,7 +7394,7 @@
     {
         "_id": "HSBC_001-04508",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 富榮花園(Circle-K) 自動櫃員機",
             "en": "HSBC Charming Garden (Circle-K) ATM"
@@ -7430,7 +7430,7 @@
     {
         "_id": "HSBC_469-04506",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 澤安邨理財易中心",
             "en": "HSBC Chak On Estate Express Banking"
@@ -7466,7 +7466,7 @@
     {
         "_id": "HSBC_593-04505",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 太古廣場 L4 理財易中心",
             "en": "HSBC Pacific Place L4 Express Banking"
@@ -7502,7 +7502,7 @@
     {
         "_id": "HSBC_593-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 太古廣場理財易中心",
             "en": "HSBC Pacific Place Express Banking"
@@ -7538,7 +7538,7 @@
     {
         "_id": "HSBC_127-04506",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 港鐵柯士甸站理財易中心",
             "en": "HSBC MTR Austin Station Express Banking"
@@ -7582,7 +7582,7 @@
     {
         "_id": "HSBC_037-04507",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 大埔理財易中心",
             "en": "HSBC Tai Po Express Banking"
@@ -7618,7 +7618,7 @@
     {
         "_id": "HSBC_469-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 白田邨自動櫃員機",
             "en": "HSBC Pak Tin Estate ATM"
@@ -7654,7 +7654,7 @@
     {
         "_id": "HSBC_037-04505",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 運頭塘邨理財易中心",
             "en": "HSBC Wan Tau Tong Estate EasiService Banking Centre"
@@ -7690,7 +7690,7 @@
     {
         "_id": "HSBC_603-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 中港城理財易中心",
             "en": "HSBC China Hong Kong City Express Banking"
@@ -7726,7 +7726,7 @@
     {
         "_id": "HSBC_110-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 警察總部自動櫃員機",
             "en": "HSBC Police Headquarters ATM"
@@ -7762,7 +7762,7 @@
     {
         "_id": "HSBC_491-04505",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 港威大廈理財易中心",
             "en": "HSBC The Gateway Express Banking"
@@ -7806,7 +7806,7 @@
     {
         "_id": "HSBC_478-04506",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 大元邨自動櫃員機",
             "en": "HSBC Tai Yuen Estate ATM"
@@ -7842,7 +7842,7 @@
     {
         "_id": "HSBC_478-04508",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 翠屏花園理財易中心",
             "en": "HSBC Jade Plaza Express Banking"
@@ -7878,7 +7878,7 @@
     {
         "_id": "HSBC_491-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 九龍天星碼頭理財易中心",
             "en": "HSBC Star Ferry Pier - Kowloon Express Banking"
@@ -7914,7 +7914,7 @@
     {
         "_id": "HSBC_127-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 寶靈街 (7-Eleven) 自動櫃員機",
             "en": "HSBC Bowring Street (7-Eleven) ATM"
@@ -7950,7 +7950,7 @@
     {
         "_id": "HSBC_472-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 始創中心理財易中心",
             "en": "HSBC Pioneer Centre Express Banking"
@@ -7994,7 +7994,7 @@
     {
         "_id": "HSBC_491-04506",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 海洋中心理財易中心",
             "en": "HSBC Ocean Centre Express Banking"
@@ -8038,7 +8038,7 @@
     {
         "_id": "HSBC_068-04513",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 One Island South 自動櫃員機",
             "en": "HSBC One Island South ATM"
@@ -8074,7 +8074,7 @@
     {
         "_id": "HSBC_537.0",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 旺角商業客戶服務中心",
             "en": "HSBC Mong Kok Commercial Service Centre"
@@ -8118,7 +8118,7 @@
     {
         "_id": "HSBC_001-04506",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 旺角理財易中心",
             "en": "HSBC Mong Kok Express Banking"
@@ -8162,7 +8162,7 @@
     {
         "_id": "HSBC_472-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 水渠道(7-Eleven)自動櫃員機",
             "en": "HSBC Nullah Road (7-Eleven) ATM"
@@ -8198,7 +8198,7 @@
     {
         "_id": "HSBC_478-04507",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 一田百貨 (大埔) 自動櫃員機",
             "en": "HSBC YATA Department Store (Tai Po) ATM"
@@ -8242,7 +8242,7 @@
     {
         "_id": "HSBC_001-04505",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 通菜街126A號 (7-Eleven) 自動櫃員機",
             "en": "HSBC 126A Tung Choi Street (7-Eleven) ATM"
@@ -8278,7 +8278,7 @@
     {
         "_id": "HSBC_037-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 港鐵大埔墟站理財易中心",
             "en": "HSBC MTR Tai Po Market Station EasiService Banking Centre"
@@ -8322,7 +8322,7 @@
     {
         "_id": "HSBC_001-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 通菜街(7-Eleven) 自動櫃員機",
             "en": "HSBC Tung Choi Street (7-Eleven) ATM"
@@ -8358,7 +8358,7 @@
     {
         "_id": "HSBC_827.0",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 海防道商業客戶服務中心",
             "en": "HSBC Haiphong Road Commercial Service Centre"
@@ -8402,7 +8402,7 @@
     {
         "_id": "HSBC_001-04509",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 康祐大廈理財易中心",
             "en": "HSBC Onward Building Express Banking"
@@ -8438,7 +8438,7 @@
     {
         "_id": "HSBC_106-04506",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 美田邨自動櫃員機",
             "en": "HSBC Mei Tin Estate ATM"
@@ -8474,7 +8474,7 @@
     {
         "_id": "HSBC_106-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 顯徑邨理財易中心",
             "en": "HSBC Hin Keng Estate Express Banking"
@@ -8510,7 +8510,7 @@
     {
         "_id": "HSBC_001-04511",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 山東街50號理財易中心",
             "en": "HSBC 50 Shantung Street Express Banking"
@@ -8546,7 +8546,7 @@
     {
         "_id": "HSBC_110-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 熙華大廈理財易中心",
             "en": "HSBC Hay Wah Building Express Banking"
@@ -8582,7 +8582,7 @@
     {
         "_id": "HSBC_478-04505",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 富亨邨自動櫃員機",
             "en": "HSBC Fu Heng Estate ATM"
@@ -8618,7 +8618,7 @@
     {
         "_id": "HSBC_469-04505",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 南山邨自動櫃員機",
             "en": "HSBC Nam Shan Estate ATM"
@@ -8654,7 +8654,7 @@
     {
         "_id": "HSBC_048-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 合和中心理財易中心",
             "en": "HSBC Hopewell Centre Express Banking"
@@ -8690,7 +8690,7 @@
     {
         "_id": "HSBC_001-04510",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 豉油街(7-Eleven)自動櫃員機",
             "en": "HSBC Soy Street (7-Eleven) ATM"
@@ -8726,7 +8726,7 @@
     {
         "_id": "HSBC_127-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 彌敦道238號理財易中心",
             "en": "HSBC 238 Nathan Road Express Banking"
@@ -8770,7 +8770,7 @@
     {
         "_id": "HSBC_491-04508",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 九龍理財易中心",
             "en": "HSBC Kowloon Express Banking"
@@ -8814,7 +8814,7 @@
     {
         "_id": "HSBC_817.0",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 尖沙咀商業客戶服務中心",
             "en": "HSBC Tsim Sha Tsui Commercial Service Centre"
@@ -8858,7 +8858,7 @@
     {
         "_id": "HSBC_181-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 尖沙咀理財易中心",
             "en": "HSBC Tsim Sha Tsui Express Banking"
@@ -8894,7 +8894,7 @@
     {
         "_id": "HSBC_472-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 港鐵旺角東站理財易中心",
             "en": "HSBC MTR Mong Kok East Station Express Banking"
@@ -8938,7 +8938,7 @@
     {
         "_id": "HSBC_068-04505",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 警察訓練學校自動櫃員機",
             "en": "HSBC Police Training School ATM"
@@ -8974,7 +8974,7 @@
     {
         "_id": "HSBC_478-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 新界北警察總部自動櫃員機",
             "en": "HSBC New Territories North Police Headquarters ATM"
@@ -9010,7 +9010,7 @@
     {
         "_id": "HSBC_198-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 港鐵尖東站(S14)理財易中心",
             "en": "HSBC MTR East Tsim Sha Tsui Station (S14) Express Banking"
@@ -9054,7 +9054,7 @@
     {
         "_id": "HSBC_499-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 會展廣場理財易中心",
             "en": "HSBC Convention Plaza Express Banking"
@@ -9090,7 +9090,7 @@
     {
         "_id": "HSBC_478-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 廣福邨理財易中心",
             "en": "HSBC Kwong Fuk Estate EasiService Banking Centre"
@@ -9126,7 +9126,7 @@
     {
         "_id": "HSBC_469-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 又一城理財易中心",
             "en": "HSBC Festival Walk Express Banking"
@@ -9162,7 +9162,7 @@
     {
         "_id": "HSBC_478-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 富善邨理財易中心",
             "en": "HSBC Fu Shin Estate EasiService Banking Centre"
@@ -9198,7 +9198,7 @@
     {
         "_id": "HSBC_127-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 伊利沙伯醫院理財易中心",
             "en": "HSBC Queen Elizabeth Hospital Express Banking"
@@ -9234,7 +9234,7 @@
     {
         "_id": "HSBC_469-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 又一城港鐵接駁通道理財易中心",
             "en": "HSBC Festival Walk MTR Integrated Entrance EasiService Banking Centre"
@@ -9278,7 +9278,7 @@
     {
         "_id": "HSBC_017",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 窩打老道分行",
             "en": "HSBC Waterloo Road Branch"
@@ -9322,7 +9322,7 @@
     {
         "_id": "HSBC_469-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 港鐵九龍塘車站理財易中心",
             "en": "HSBC MTR Kowloon Tong Station Express Banking"
@@ -9366,7 +9366,7 @@
     {
         "_id": "HSBC_106-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 美林邨自動櫃員機",
             "en": "HSBC Mei Lam Estate ATM"
@@ -9402,7 +9402,7 @@
     {
         "_id": "HSBC_110-04505",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 256 軒尼詩道理財易中心",
             "en": "HSBC 256 Hennessy Road Express Banking"
@@ -9438,7 +9438,7 @@
     {
         "_id": "HSBC_068-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 海洋公園理財易中心",
             "en": "HSBC Ocean Park Express Banking"
@@ -9482,7 +9482,7 @@
     {
         "_id": "HSBC_640.0",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 灣仔商業客戶服務中心",
             "en": "HSBC Wan Chai Commercial Service Centre"
@@ -9526,7 +9526,7 @@
     {
         "_id": "HSBC_198.0",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 半島中心分行",
             "en": "HSBC Peninsula Centre Branch"
@@ -9570,7 +9570,7 @@
     {
         "_id": "HSBC_499-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 新鴻基中心理財易中心",
             "en": "HSBC Sun Hung Kai Centre EasiService Banking Centre"
@@ -9606,7 +9606,7 @@
     {
         "_id": "HSBC_198-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 半島中心理財易中心",
             "en": "HSBC Peninsula Centre Express Banking"
@@ -9642,7 +9642,7 @@
     {
         "_id": "HSBC_559-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 東海中心理財易中心",
             "en": "HSBC East Ocean Centre Express Banking"
@@ -9686,7 +9686,7 @@
     {
         "_id": "HSBC_106-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 大圍理財易中心",
             "en": "HSBC Tai Wai EasiService Banking Centre"
@@ -9730,7 +9730,7 @@
     {
         "_id": "HSBC_017-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 愛民理財易中心",
             "en": "HSBC Oi Man Express Banking"
@@ -9774,7 +9774,7 @@
     {
         "_id": "HSBC_106-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 港鐵大圍站理財易中心",
             "en": "HSBC MTR Tai Wai Station Express Banking"
@@ -9818,7 +9818,7 @@
     {
         "_id": "HSBC_106-04507",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 隆亨邨自動櫃員機",
             "en": "HSBC Lung Hang Estate ATM"
@@ -9854,7 +9854,7 @@
     {
         "_id": "HSBC_110-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 駱克道382號(7-Eleven) 自動櫃員機",
             "en": "HSBC 382 Lockhart Road (7-Eleven) ATM"
@@ -9890,7 +9890,7 @@
     {
         "_id": "HSBC_110-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 天樂里9號(7-Eleven) 自動櫃員機",
             "en": "HSBC 9 Tin Lok Lane (7-Eleven) ATM"
@@ -9926,7 +9926,7 @@
     {
         "_id": "HSBC_017-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 九龍醫院理財易中心",
             "en": "HSBC Kowloon Hospital Express Banking"
@@ -9962,7 +9962,7 @@
     {
         "_id": "HSBC_047-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 跑馬地賽馬會理財易中心",
             "en": "HSBC Happy Valley Racecourse Express Banking"
@@ -9998,7 +9998,7 @@
     {
         "_id": "HSBC_106-04505",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 新翠邨(Circle-K) 自動櫃員機",
             "en": "HSBC Sun Chui Estate (Circle-K) ATM"
@@ -10034,7 +10034,7 @@
     {
         "_id": "HSBC_017-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 房屋委員會理財易中心",
             "en": "HSBC HK Housing Authority Headquarters Express Banking"
@@ -10070,7 +10070,7 @@
     {
         "_id": "HSBC_017-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 何文田理財易中心",
             "en": "HSBC Ho Man Tin Express Banking"
@@ -10114,7 +10114,7 @@
     {
         "_id": "HSBC_047-04511",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 銅鑼灣理財易中心",
             "en": "HSBC Causeway Bay Express Banking"
@@ -10150,7 +10150,7 @@
     {
         "_id": "HSBC_198-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 港鐵紅磡站自動櫃員機",
             "en": "HSBC MTR Hung Hom Station ATM"
@@ -10194,7 +10194,7 @@
     {
         "_id": "HSBC_047-04510",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 時代廣場(L3)自動櫃員機",
             "en": "HSBC Times Square (L3) ATM"
@@ -10238,7 +10238,7 @@
     {
         "_id": "HSBC_047-04505",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 時代廣場理財易中心",
             "en": "HSBC Times Square Express Banking"
@@ -10282,7 +10282,7 @@
     {
         "_id": "HSBC_014-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 九龍警察總部自動櫃員機",
             "en": "HSBC Kowloon Police Headquarters ATM"
@@ -10318,7 +10318,7 @@
     {
         "_id": "HSBC_047-04515",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 禮頓道理財易中心",
             "en": "HSBC Leighton Road Express Banking"
@@ -10354,7 +10354,7 @@
     {
         "_id": "HSBC_047-04513",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 希慎廣場理財易中心",
             "en": "HSBC Hysan Place Express Banking"
@@ -10398,7 +10398,7 @@
     {
         "_id": "HSBC_041-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 黃泥涌道 (7-Eleven) 自動櫃員機",
             "en": "HSBC Wong Nei Chung Road (7-Eleven) ATM"
@@ -10434,7 +10434,7 @@
     {
         "_id": "HSBC_047-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 世貿中心理財易中心",
             "en": "HSBC World Trade Centre Express Banking"
@@ -10470,7 +10470,7 @@
     {
         "_id": "HSBC_557-04506",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 新田圍邨理財易中心",
             "en": "HSBC Sun Tin Wai Estate Express Banking"
@@ -10506,7 +10506,7 @@
     {
         "_id": "HSBC_841-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 百德新街理財易中心",
             "en": "HSBC Paterson Street Express Banking"
@@ -10542,7 +10542,7 @@
     {
         "_id": "HSBC_041-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 跑馬地理財易中心",
             "en": "HSBC Happy Valley Express Banking"
@@ -10578,7 +10578,7 @@
     {
         "_id": "HSBC_457-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 紅磡灣中心理財易中心",
             "en": "HSBC Hung Hom Bay Centre EasiService Banking Centre"
@@ -10614,7 +10614,7 @@
     {
         "_id": "HSBC_080-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 天馬苑自動櫃員機",
             "en": "HSBC Tin Ma Court ATM"
@@ -10658,7 +10658,7 @@
     {
         "_id": "HSBC_106-04508",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 秦石邨自動櫃員機",
             "en": "HSBC Chun Shek Estate ATM"
@@ -10702,7 +10702,7 @@
     {
         "_id": "HSBC_012-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 272馬頭圍道理財易中心",
             "en": "HSBC 272 Ma Tau Wai Road Express Banking"
@@ -10738,7 +10738,7 @@
     {
         "_id": "HSBC_050-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 馬頭圍邨(Circle K) 自動櫃員機",
             "en": "HSBC Ma Tau Wai Estate (Circle-K) ATM"
@@ -10774,7 +10774,7 @@
     {
         "_id": "HSBC_080-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 樂富理財易中心",
             "en": "HSBC Lok Fu Express Banking"
@@ -10810,7 +10810,7 @@
     {
         "_id": "HSBC_557-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 港鐵沙田站理財易中心",
             "en": "HSBC MTR Sha Tin Station Express Banking"
@@ -10846,7 +10846,7 @@
     {
         "_id": "HSBC_014-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 九龍城理財易中心",
             "en": "HSBC Kowloon City Express Banking"
@@ -10882,7 +10882,7 @@
     {
         "_id": "HSBC_012-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 紅磡理財易中心",
             "en": "HSBC Hung Hom Express Banking"
@@ -10918,7 +10918,7 @@
     {
         "_id": "HSBC_457-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 黃埔新村 (7-Eleven) 自動櫃員機",
             "en": "HSBC Whampoa Estate (7-Eleven) ATM"
@@ -10954,7 +10954,7 @@
     {
         "_id": "HSBC_050-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 北帝街(7-Eleven) 自動櫃員機",
             "en": "HSBC Pak Tai Street (7-Eleven) ATM"
@@ -10990,7 +10990,7 @@
     {
         "_id": "HSBC_047-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 政府大球場理財易中心",
             "en": "HSBC HK Stadium - Box Office Express Banking"
@@ -11026,7 +11026,7 @@
     {
         "_id": "HSBC_591.0",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 黃埔花園分行",
             "en": "HSBC Whampoa Garden Branch"
@@ -11070,7 +11070,7 @@
     {
         "_id": "HSBC_557-04507",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 沙田廣場理財易中心",
             "en": "HSBC Shatin Plaza Express Banking"
@@ -11106,7 +11106,7 @@
     {
         "_id": "HSBC_050-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 土瓜灣理財易中心",
             "en": "HSBC To Kwa Wan Express Banking"
@@ -11142,7 +11142,7 @@
     {
         "_id": "HSBC_804-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 好運中心理財易中心",
             "en": "HSBC Lucky Plaza Express Banking"
@@ -11178,7 +11178,7 @@
     {
         "_id": "HSBC_012-04505",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 中電控股有限公司自動櫃員機",
             "en": "HSBC CLP Holdings Ltd ATM"
@@ -11222,7 +11222,7 @@
     {
         "_id": "HSBC_047-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 白建時道理財易中心",
             "en": "HSBC Perkins Road Express Banking"
@@ -11258,7 +11258,7 @@
     {
         "_id": "HSBC_028-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 電氣道理財易中心",
             "en": "HSBC Electric Road Express Banking"
@@ -11294,7 +11294,7 @@
     {
         "_id": "HSBC_804-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 瀝源邨自動櫃員機",
             "en": "HSBC Lek Yuen Estate ATM"
@@ -11338,7 +11338,7 @@
     {
         "_id": "HSBC_052-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 竹園南邨自動櫃員機",
             "en": "HSBC Chuk Yuen South Estate ATM"
@@ -11374,7 +11374,7 @@
     {
         "_id": "HSBC_804-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 博康邨(7-Eleven)自動櫃員機",
             "en": "HSBC Pok Hong Estate (7-Eleven) ATM"
@@ -11410,7 +11410,7 @@
     {
         "_id": "HSBC_050-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 翔龍灣廣場自動櫃員機",
             "en": "HSBC Grand Waterfront Plaza ATM"
@@ -11446,7 +11446,7 @@
     {
         "_id": "HSBC_557-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 沙角邨理財易中心",
             "en": "HSBC Sha Kok Estate Express Banking"
@@ -11482,7 +11482,7 @@
     {
         "_id": "HSBC_557-04505",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 穗禾苑理財易中心",
             "en": "HSBC Sui Wo Court Express Banking"
@@ -11518,7 +11518,7 @@
     {
         "_id": "HSBC_052-04507",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 黃大仙中心理財易中心",
             "en": "HSBC Wong Tai Sin Plaza Express Banking"
@@ -11562,7 +11562,7 @@
     {
         "_id": "HSBC_558-04507",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 港鐵沙田圍站自動櫃員機",
             "en": "HSBC MTR Sha Tin Wai Station ATM"
@@ -11606,7 +11606,7 @@
     {
         "_id": "HSBC_557-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 禾輋邨理財易中心",
             "en": "HSBC Wo Che Estate Express Banking"
@@ -11642,7 +11642,7 @@
     {
         "_id": "HSBC_068-04507",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 淺水灣自動櫃員機",
             "en": "HSBC Repulse Bay ATM"
@@ -11678,7 +11678,7 @@
     {
         "_id": "HSBC_558-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 河畔花園 (7-Eleven) 自動櫃員機",
             "en": "HSBC Garden Rivera (7-Eleven) ATM"
@@ -11714,7 +11714,7 @@
     {
         "_id": "HSBC_004-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 北角理財易中心",
             "en": "HSBC North Point Express Banking"
@@ -11750,7 +11750,7 @@
     {
         "_id": "HSBC_004-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 雲景道理財易中心",
             "en": "HSBC Cloudview Road Express Banking"
@@ -11786,7 +11786,7 @@
     {
         "_id": "HSBC_052-04505",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 黃大仙理財易中心",
             "en": "HSBC Wong Tai Sin Express Banking"
@@ -11830,7 +11830,7 @@
     {
         "_id": "HSBC_191-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 Mikiki自動櫃員機",
             "en": "HSBC Mikiki ATM"
@@ -11866,7 +11866,7 @@
     {
         "_id": "HSBC_191-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 新蒲崗理財易中心",
             "en": "HSBC San Po Kong Express Banking"
@@ -11902,7 +11902,7 @@
     {
         "_id": "HSBC_191.0",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 大有街分行",
             "en": "HSBC Tai Yau Street Branch"
@@ -11946,7 +11946,7 @@
     {
         "_id": "HSBC_557-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 港鐵火炭站自動櫃員機",
             "en": "HSBC MTR Fo Tan Station ATM"
@@ -11982,7 +11982,7 @@
     {
         "_id": "HSBC_041-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 陽明山莊理財易中心",
             "en": "HSBC Parkview Express Banking"
@@ -12018,7 +12018,7 @@
     {
         "_id": "HSBC_052-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 鳳德邨理財易中心",
             "en": "HSBC Fung Tak Estate Express Banking"
@@ -12054,7 +12054,7 @@
     {
         "_id": "HSBC_052-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 慈雲山中心理財易中心",
             "en": "HSBC Tsz Wan Shan Shopping Centre Express Banking"
@@ -12090,7 +12090,7 @@
     {
         "_id": "HSBC_558-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 威爾斯親王醫院理財易中心",
             "en": "HSBC Prince of Wales Hospital Express Banking"
@@ -12126,7 +12126,7 @@
     {
         "_id": "HSBC_122-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 港運城理財易中心",
             "en": "HSBC Island Place Express Banking"
@@ -12162,7 +12162,7 @@
     {
         "_id": "HSBC_052-04508",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 慈正邨自動櫃員機",
             "en": "HSBC Tsz Ching Estate ATM"
@@ -12198,7 +12198,7 @@
     {
         "_id": "HSBC_126-04509",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 晴朗商場理財易中心",
             "en": "HSBC Ching Long Shopping Centre Express Banking"
@@ -12234,7 +12234,7 @@
     {
         "_id": "HSBC_558-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 沙田第一城理財易中心",
             "en": "HSBC Shatin City One Express Banking"
@@ -12270,7 +12270,7 @@
     {
         "_id": "HSBC_558-04505",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 港鐵第一城站自動櫃員機",
             "en": "HSBC MTR City One Station ATM"
@@ -12314,7 +12314,7 @@
     {
         "_id": "HSBC_126-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 國際展貿中心理財易中心",
             "en": "HSBC Trade Centre EasiService Banking Centre"
@@ -12358,7 +12358,7 @@
     {
         "_id": "HSBC_191-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 彩虹邨理財易中心",
             "en": "HSBC Choi Hung Estate Express Banking"
@@ -12394,7 +12394,7 @@
     {
         "_id": "HSBC_126-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 麗晶花園理財易中心",
             "en": "HSBC Richland Gardens Express Banking"
@@ -12430,7 +12430,7 @@
     {
         "_id": "HSBC_558-04506",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 港鐵石門站自動櫃員機",
             "en": "HSBC MTR Shek Mun Station ATM"
@@ -12474,7 +12474,7 @@
     {
         "_id": "HSBC_126-04505",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 啓業邨自動櫃員機",
             "en": "HSBC Kai Yip Estate ATM"
@@ -12510,7 +12510,7 @@
     {
         "_id": "HSBC_052-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 富山邨理財易中心",
             "en": "HSBC Fu Shan Estate Express Banking"
@@ -12546,7 +12546,7 @@
     {
         "_id": "HSBC_558-045-08",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 石門邨自動櫃員機",
             "en": "HSBC Shek Mun Estate ATM"
@@ -12582,7 +12582,7 @@
     {
         "_id": "HSBC_126-04510",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 坪石邨自動櫃員機",
             "en": "HSBC Ping Shek Estate ATM"
@@ -12618,7 +12618,7 @@
     {
         "_id": "HSBC_555-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 赤柱廣場自動櫃員機",
             "en": "HSBC Stanley Plaza ATM"
@@ -12654,7 +12654,7 @@
     {
         "_id": "HSBC_126-04506",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 清水灣道8號理財易中心",
             "en": "HSBC 8 Clear Water Bay Road EasiService Banking Centre"
@@ -12690,7 +12690,7 @@
     {
         "_id": "HSBC_512-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 港鐵大學站理財易中心",
             "en": "HSBC MTR University Station Express Banking"
@@ -12726,7 +12726,7 @@
     {
         "_id": "HSBC_614.0",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 九龍灣商業客戶服務中心",
             "en": "HSBC Kowloon Bay Commercial  Service Centre"
@@ -12770,7 +12770,7 @@
     {
         "_id": "HSBC_615-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 鰂魚涌理財易中心",
             "en": "HSBC Quarry Bay Express Banking"
@@ -12806,7 +12806,7 @@
     {
         "_id": "HSBC_126-04507",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 彩德邨自動櫃員機",
             "en": "HSBC Choi Tak Estate ATM"
@@ -12850,7 +12850,7 @@
     {
         "_id": "HSBC_126-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 德福花園理財易中心",
             "en": "HSBC Telford Gardens Express Banking"
@@ -12886,7 +12886,7 @@
     {
         "_id": "HSBC_037-04506",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 香港科學園理財易中心",
             "en": "HSBC Hong Kong Science Park Express Banking"
@@ -12922,7 +12922,7 @@
     {
         "_id": "HSBC_067-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 惠安苑理財易中心",
             "en": "HSBC Westlands Gardens Express Banking"
@@ -12958,7 +12958,7 @@
     {
         "_id": "HSBC_126-04508",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 彩盈邨(Circle-K) 自動櫃員機",
             "en": "HSBC Choi Ying Estate (Circle-K) ATM"
@@ -12994,7 +12994,7 @@
     {
         "_id": "HSBC_191-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 彩雲邨自動櫃員機",
             "en": "HSBC Choi Wan Estate ATM"
@@ -13030,7 +13030,7 @@
     {
         "_id": "HSBC_558-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 廣源邨理財易中心",
             "en": "HSBC Kwong Yuen Estate Express Banking"
@@ -13066,7 +13066,7 @@
     {
         "_id": "HSBC_118.0",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 淘大花園分行",
             "en": "HSBC Amoy Plaza Branch"
@@ -13110,7 +13110,7 @@
     {
         "_id": "HSBC_118-04505",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 淘大花園理財易中心",
             "en": "HSBC Amoy Plaza Express Banking"
@@ -13146,7 +13146,7 @@
     {
         "_id": "HSBC_118-04511",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 牛頭角上邨自動櫃員機",
             "en": "HSBC Upper Ngau Tau Kok Estate ATM"
@@ -13182,7 +13182,7 @@
     {
         "_id": "HSBC_450-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 太古城中心理財易中心",
             "en": "HSBC Cityplaza Express Banking"
@@ -13218,7 +13218,7 @@
     {
         "_id": "HSBC_118-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 樂華邨理財易中心",
             "en": "HSBC Lok Wah Estate Express Banking"
@@ -13254,7 +13254,7 @@
     {
         "_id": "HSBC_021-04505",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 興東邨自動櫃員機",
             "en": "HSBC Hing Tung Estate ATM"
@@ -13290,7 +13290,7 @@
     {
         "_id": "HSBC_116-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 創紀之城自動櫃員機",
             "en": "HSBC Millennium City ATM"
@@ -13326,7 +13326,7 @@
     {
         "_id": "HSBC_021-04506",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 西灣河理財易中心",
             "en": "HSBC Sai Wan Ho Express Banking"
@@ -13362,7 +13362,7 @@
     {
         "_id": "HSBC_512-04506",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 港鐵大水坑站自動櫃員機",
             "en": "HSBC MTR Tai Shui Hang Station ATM"
@@ -13406,7 +13406,7 @@
     {
         "_id": "HSBC_021-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 耀東邨理財易中心",
             "en": "HSBC Yiu Tung Estate Express Banking"
@@ -13442,7 +13442,7 @@
     {
         "_id": "HSBC_116-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 觀塘理財易中心",
             "en": "HSBC Kwun Tong Express Banking"
@@ -13478,7 +13478,7 @@
     {
         "_id": "HSBC_642.0",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 觀塘商業客戶服務中心",
             "en": "HSBC Kwun Tong Commercial Service Centre"
@@ -13522,7 +13522,7 @@
     {
         "_id": "HSBC_116-04514",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 物華街理財易中心",
             "en": "HSBC Mut Wah Street Express Banking"
@@ -13558,7 +13558,7 @@
     {
         "_id": "HSBC_512-045-11",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 欣安邨自動櫃員機",
             "en": "HSBC Yan On Estate ATM"
@@ -13594,7 +13594,7 @@
     {
         "_id": "HSBC_021-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 筲箕灣理財易中心",
             "en": "HSBC Shau Kei Wan Express Banking"
@@ -13630,7 +13630,7 @@
     {
         "_id": "HSBC_118-04507",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 順天邨理財易中心",
             "en": "HSBC Shun Tin Estate Express Banking"
@@ -13666,7 +13666,7 @@
     {
         "_id": "HSBC_118-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 順利邨理財易中心",
             "en": "HSBC Shun Lee Estate Express Banking"
@@ -13702,7 +13702,7 @@
     {
         "_id": "HSBC_512-04507",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 頌安邨自動櫃員機",
             "en": "HSBC Chung On Estate ATM"
@@ -13738,7 +13738,7 @@
     {
         "_id": "HSBC_021-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 愛東邨自動櫃員機",
             "en": "HSBC Oi Tung Estate ATM"
@@ -13782,7 +13782,7 @@
     {
         "_id": "HSBC_512-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 恆安邨理財易中心",
             "en": "HSBC Heng On Estate Express Banking"
@@ -13818,7 +13818,7 @@
     {
         "_id": "HSBC_021-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 愛蝶灣理財易中心",
             "en": "HSBC Aldrich Garden Express Banking"
@@ -13854,7 +13854,7 @@
     {
         "_id": "HSBC_512-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 馬鞍山理財易中心",
             "en": "HSBC Ma On Shan Express Banking"
@@ -13890,7 +13890,7 @@
     {
         "_id": "HSBC_116-04507",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 翠屏邨理財易中心",
             "en": "HSBC Tsui Ping Estate Express Banking"
@@ -13926,7 +13926,7 @@
     {
         "_id": "HSBC_512-04509",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 馬鞍山理財易中心",
             "en": "HSBC Ma On Shan Express Banking"
@@ -13962,7 +13962,7 @@
     {
         "_id": "HSBC_512-04505",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 耀安邨理財易中心",
             "en": "HSBC Yiu On Estate Express Banking"
@@ -13998,7 +13998,7 @@
     {
         "_id": "HSBC_116-04506",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 秀茂坪自動櫃員機",
             "en": "HSBC Sau Mau Ping ATM"
@@ -14042,7 +14042,7 @@
     {
         "_id": "HSBC_116-04508",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 藍田理財易中心",
             "en": "HSBC Lam Tin Express Banking"
@@ -14086,7 +14086,7 @@
     {
         "_id": "HSBC_555-04509",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 興民邨自動櫃員機",
             "en": "HSBC Hing Man Estate ATM"
@@ -14122,7 +14122,7 @@
     {
         "_id": "HSBC_116-04510",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 啟田邨自動櫃員機",
             "en": "HSBC Kai Tin Estate ATM"
@@ -14166,7 +14166,7 @@
     {
         "_id": "HSBC_555-04506",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 興華(一)邨自動櫃員機",
             "en": "HSBC Hing Wah (I) Estate ATM"
@@ -14210,7 +14210,7 @@
     {
         "_id": "HSBC_512-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 錦英苑理財易中心",
             "en": "HSBC Kam Ying Court Express Banking"
@@ -14246,7 +14246,7 @@
     {
         "_id": "HSBC_116-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 油麗邨自動櫃員機",
             "en": "HSBC Yau Lai Estate ATM"
@@ -14282,7 +14282,7 @@
     {
         "_id": "HSBC_116-04509",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 寶達邨自動櫃員機",
             "en": "HSBC Po Tat Estate ATM"
@@ -14326,7 +14326,7 @@
     {
         "_id": "HSBC_555-04505",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 東區醫院理財易中心",
             "en": "HSBC Eastern Hospital Express Banking"
@@ -14362,7 +14362,7 @@
     {
         "_id": "HSBC_116-04516",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 港鐵油塘站理財易中心",
             "en": "HSBC MTR Yau Tong Station Express Banking"
@@ -14406,7 +14406,7 @@
     {
         "_id": "HSBC_116-04515",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 平田邨自動櫃員機",
             "en": "HSBC Ping Tin Estate ATM"
@@ -14442,7 +14442,7 @@
     {
         "_id": "HSBC_555-04508",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 環翠邨自動櫃員機",
             "en": "HSBC Wan Tsui Estate ATM"
@@ -14478,7 +14478,7 @@
     {
         "_id": "HSBC_116-04512",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 德田邨自動櫃員機",
             "en": "HSBC Tak Tin Estate ATM"
@@ -14522,7 +14522,7 @@
     {
         "_id": "HSBC_116-04505",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 大本型自動櫃員機",
             "en": "HSBC Domain ATM"
@@ -14558,7 +14558,7 @@
     {
         "_id": "HSBC_116-04513",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 興田邨自動櫃員機",
             "en": "HSBC Hing Tin Estate ATM"
@@ -14602,7 +14602,7 @@
     {
         "_id": "HSBC_116-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 鯉魚門廣場自動櫃員機",
             "en": "HSBC Lei Yue Mun Plaza ATM"
@@ -14638,7 +14638,7 @@
     {
         "_id": "HSBC_116-04511",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 廣田邨自動櫃員機",
             "en": "HSBC Kwong Tin Estate ATM"
@@ -14674,7 +14674,7 @@
     {
         "_id": "HSBC_555-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 柴灣理財易中心",
             "en": "HSBC Chai Wan Express Banking"
@@ -14710,7 +14710,7 @@
     {
         "_id": "HSBC_555-04507",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 翠灣邨自動櫃員機",
             "en": "HSBC Tsui Wan Estate ATM"
@@ -14746,7 +14746,7 @@
     {
         "_id": "HSBC_579-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 杏花邨理財易中心",
             "en": "HSBC Heng Fa Chuen Express Banking"
@@ -14790,7 +14790,7 @@
     {
         "_id": "HSBC_512-04508",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 利安邨自動櫃員機",
             "en": "HSBC Lee On Estate ATM"
@@ -14826,7 +14826,7 @@
     {
         "_id": "HSBC_555-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 柴灣投注站理財易中心",
             "en": "HSBC HKJC Betting Centre Chai Wan Express Banking"
@@ -14862,7 +14862,7 @@
     {
         "_id": "HSBC_512-04510",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 港鐵烏溪沙站自動櫃員機",
             "en": "HSBC MTR Wu Kai Sha Station ATM"
@@ -14906,7 +14906,7 @@
     {
         "_id": "HSBC_555-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 小西灣理財易中心",
             "en": "HSBC Siu Sai Wan Estate Express Banking"
@@ -14942,7 +14942,7 @@
     {
         "_id": "HSBC_585-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 翠林邨理財易中心",
             "en": "HSBC Tsui Lam Estate EasiService Banking Centre"
@@ -14978,7 +14978,7 @@
     {
         "_id": "HSBC_829-045-05",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 彩明苑理財易中心",
             "en": "HSBC Choi Ming Court EasiService Banking Centre"
@@ -15014,7 +15014,7 @@
     {
         "_id": "HSBC_585-04508",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 寶林邨自動櫃員機",
             "en": "HSBC Po Lam Estate ATM"
@@ -15050,7 +15050,7 @@
     {
         "_id": "HSBC_829-04504",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 將軍澳中心理財易中心",
             "en": "HSBC Park Central Express Banking"
@@ -15086,7 +15086,7 @@
     {
         "_id": "HSBC_585-04509",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 新都城中心理財易中心",
             "en": "HSBC Metro City Plaza Express Banking"
@@ -15122,7 +15122,7 @@
     {
         "_id": "HSBC_829-04506",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 尚德中心理財易中心",
             "en": "HSBC Sheung Tak Shopping Centre Express Banking"
@@ -15166,7 +15166,7 @@
     {
         "_id": "HSBC_055-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 大埔仔邨理財易中心",
             "en": "HSBC Tai Po Tsai Village Express Banking"
@@ -15202,7 +15202,7 @@
     {
         "_id": "HSBC_585-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 景林邨理財易中心",
             "en": "HSBC King Lam Estate Express Banking"
@@ -15238,7 +15238,7 @@
     {
         "_id": "HSBC_829-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 厚德邨自動櫃員機",
             "en": "HSBC Hau Tak Estate ATM"
@@ -15282,7 +15282,7 @@
     {
         "_id": "HSBC_829-04507",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 東港城(L2)理財易中心",
             "en": "HSBC East Point City (L2) Express Banking"
@@ -15326,7 +15326,7 @@
     {
         "_id": "HSBC_829-04501",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 東港城理財易中心",
             "en": "HSBC East Point City Express Banking"
@@ -15370,7 +15370,7 @@
     {
         "_id": "HSBC_829-04503",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 明德邨自動櫃員機",
             "en": "HSBC Ming Tak Estate ATM"
@@ -15406,7 +15406,7 @@
     {
         "_id": "HSBC_055-04502",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 普通道(7-Eleven) 自動櫃員機",
             "en": "HSBC Po Tung Road (7-Eleven) ATM"
@@ -15442,7 +15442,7 @@
     {
         "_id": "HSBC_055",
         "atm_type": "hsbc",
-        "bank_type": "hsbc",
+        "shop_type": "hsbc",
         "name": {
             "zh": "匯豐銀行 西貢分行",
             "en": "HSBC Sai Kung Branch"

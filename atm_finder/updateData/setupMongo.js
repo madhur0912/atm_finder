@@ -1,5 +1,6 @@
 'use strict';
 
+// Setup mongodb
 var Promise = require('bluebird');
 var Db = require('mongodb').Db;
 var Server = require('mongodb').Server;
@@ -7,9 +8,13 @@ var assert = require('assert');
 var dbName = 'atm';
 var dbPath = 'localhost';
 
-var jetco = require('./jetcoBranch/app');
-var hsbc = require('./hsbcBranch/app');
+var circleK = require('./circleKBranch/app');
 var hangseng = require('./hangsengBranch/app');
+var hsbc = require('./hsbcBranch/app');
+var jetco = require('./jetcoBranch/app');
+var manning = require('./manningBranch/app');
+var seven = require('./sevenBranch/app');
+var watsons = require('./watsonsBranch/app');
 
 if (process.argv.length >= 3) {
 	dbPath = process.argv[2];
@@ -39,7 +44,15 @@ var createAtmCollection = function() {
 // Function to insert all branches to collection
 var insertAtmToCollection = function(collection) {
 	return new Promise(function(resolve, reject) {
-		var allBranches = [jetco, hsbc, hangseng];
+		var allBranches = [
+			circleK,
+			hangseng,
+			hsbc,
+			jetco,
+			manning,
+			seven,
+			watsons
+		];
 
 		Promise
 			.all(allBranches)
