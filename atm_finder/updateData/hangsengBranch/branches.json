@@ -147,8 +147,8 @@
         "workHrs": null,
         "tel": null,
         "loc": [
-            113.949882,
-            22.29212
+            113.948566,
+            22.292836
         ]
     },
     {
@@ -343,8 +343,8 @@
         "workHrs": null,
         "tel": null,
         "loc": [
-            113.9787379,
-            22.4113971
+            113.978772,
+            22.411341
         ]
     },
     {
@@ -379,8 +379,8 @@
         "workHrs": null,
         "tel": null,
         "loc": [
-            113.9977793,
-            22.4614291
+            113.9977878,
+            22.4615626
         ]
     },
     {
@@ -567,8 +567,8 @@
         "workHrs": null,
         "tel": null,
         "loc": [
-            114.0250604,
-            22.4475432
+            114.02485,
+            22.44766
         ]
     },
     {
@@ -719,8 +719,8 @@
         "workHrs": null,
         "tel": null,
         "loc": [
-            114.0351893,
-            22.4460516
+            114.034706,
+            22.446113
         ]
     },
     {
@@ -863,8 +863,8 @@
         "workHrs": null,
         "tel": null,
         "loc": [
-            114.065525,
-            22.5148515
+            114.065647,
+            22.514464
         ]
     },
     {
@@ -1195,8 +1195,8 @@
         "workHrs": null,
         "tel": null,
         "loc": [
-            114.10978,
-            22.368313
+            114.109695,
+            22.368758
         ]
     },
     {
@@ -2247,44 +2247,8 @@
         "workHrs": null,
         "tel": null,
         "loc": [
-            114.136324,
-            22.352307
-        ]
-    },
-    {
-        "_id": "HANGSENG_96",
-        "atm_type": "hsbc",
-        "shop_type": "hangseng",
-        "name": {
-            "zh": "恒生銀行 港鐵美孚站",
-            "en": "Hang Seng Bank Mei Foo Station"
-        },
-        "area": {
-            "zh": "九龍西",
-            "en": "Kowloon West"
-        },
-        "district": {
-            "zh": "深水埗",
-            "en": "Sham Shui Po"
-        },
-        "address": {
-            "zh": "港鐵美孚站",
-            "en": "MTR Mei Foo Station"
-        },
-        "service": {
-            "zh": "輪椅通道\n自動櫃員機\n存款快入數機",
-            "en": "Wheel Chair Access\nAutomated Teller Machine\nCash Deposit Machine"
-        },
-        "detail": {
-            "zh": "自動櫃員機服務時間\n約06:00 - 凌晨01:00 (根據該站首/尾班車服務時間)",
-            "en": "ATM Service Hours\nAround 06:00 - midnight 01:00 (Follows Station First/Last Trains Service Hours)"
-        },
-        "atm24": false,
-        "workHrs": null,
-        "tel": null,
-        "loc": [
-            114.1366895,
-            22.3384127
+            114.137429,
+            22.354917
         ]
     },
     {
@@ -2373,6 +2337,42 @@
         "loc": [
             114.1398886,
             22.3683947
+        ]
+    },
+    {
+        "_id": "HANGSENG_96",
+        "atm_type": "hsbc",
+        "shop_type": "hangseng",
+        "name": {
+            "zh": "恒生銀行 港鐵美孚站",
+            "en": "Hang Seng Bank Mei Foo Station"
+        },
+        "area": {
+            "zh": "九龍西",
+            "en": "Kowloon West"
+        },
+        "district": {
+            "zh": "深水埗",
+            "en": "Sham Shui Po"
+        },
+        "address": {
+            "zh": "港鐵美孚站",
+            "en": "MTR Mei Foo Station"
+        },
+        "service": {
+            "zh": "輪椅通道\n自動櫃員機\n存款快入數機",
+            "en": "Wheel Chair Access\nAutomated Teller Machine\nCash Deposit Machine"
+        },
+        "detail": {
+            "zh": "自動櫃員機服務時間\n約06:00 - 凌晨01:00 (根據該站首/尾班車服務時間)",
+            "en": "ATM Service Hours\nAround 06:00 - midnight 01:00 (Follows Station First/Last Trains Service Hours)"
+        },
+        "atm24": false,
+        "workHrs": null,
+        "tel": null,
+        "loc": [
+            114.140588,
+            22.336573
         ]
     },
     {
@@ -2983,8 +2983,8 @@
         },
         "tel": null,
         "loc": [
-            114.156191,
-            22.284561
+            114.1562415,
+            22.284617
         ]
     },
     {
@@ -3963,8 +3963,8 @@
         },
         "tel": null,
         "loc": [
-            114.169065,
-            22.319519
+            114.1690636,
+            22.3195234
         ]
     },
     {
@@ -4711,8 +4711,8 @@
         "workHrs": null,
         "tel": null,
         "loc": [
-            114.174586,
-            22.295263
+            114.174425,
+            22.295236
         ]
     },
     {
@@ -4755,8 +4755,8 @@
         },
         "tel": null,
         "loc": [
-            114.1745881,
-            22.2774721
+            114.1745811,
+            22.2775856
         ]
     },
     {
@@ -5511,8 +5511,8 @@
         },
         "tel": null,
         "loc": [
-            114.186358,
-            22.268162
+            114.1863615,
+            22.2681615
         ]
     },
     {
@@ -5547,8 +5547,8 @@
         "workHrs": null,
         "tel": null,
         "loc": [
-            114.186892,
-            22.275296
+            114.1868884,
+            22.275293
         ]
     },
     {
@@ -5707,8 +5707,8 @@
         },
         "tel": null,
         "loc": [
-            114.187884,
-            22.308358
+            114.1878854,
+            22.308354
         ]
     },
     {
@@ -5911,8 +5911,8 @@
         },
         "tel": null,
         "loc": [
-            114.188642,
-            22.31486
+            114.188637,
+            22.3148631
         ]
     },
     {
@@ -6073,6 +6073,50 @@
         "loc": [
             114.191802,
             22.282094
+        ]
+    },
+    {
+        "_id": "HANGSENG_39",
+        "atm_type": "hsbc",
+        "shop_type": "hangseng",
+        "name": {
+            "zh": "恒生銀行 城市花園優越及優進理財中心",
+            "en": "Hang Seng Bank City Garden Prestige & Preferred Banking Centre"
+        },
+        "area": {
+            "zh": "香港島",
+            "en": "Hong Kong Island"
+        },
+        "district": {
+            "zh": "東區",
+            "en": "Eastern"
+        },
+        "address": {
+            "zh": "電氣道233號",
+            "en": "233 Electric Road"
+        },
+        "service": {
+            "zh": "戶口開立或查詢(個人)\n櫃位服務\n財富管理\n保管箱服務輪椅通道\n自動櫃員機\n存票快入票機 截票時間 5:30pm\n保管箱服務\n存款快入數機",
+            "en": "Accounts Opening or Enquiry (Personal) \nCounter Service \n Wealth Management \nSafe Deposit Box ServiceWheel Chair Access\nAutomated Teller Machine\nCheque Deposit Machine, Cut-off time  5:30pm\nSafe Deposit Box Services\nCash Deposit Machine"
+        },
+        "detail": {
+            "zh": "自動櫃員機服務時間\n24小時",
+            "en": "ATM Service Hours\n24-hours"
+        },
+        "atm24": true,
+        "workHrs": {
+            "monday": "09:00 - 17:00",
+            "tuesday": "09:00 - 17:00",
+            "wednesday": "09:00 - 17:00",
+            "thursday": "09:00 - 17:00",
+            "friday": "09:00 - 17:00",
+            "saturday": "09:00 - 13:00",
+            "sunday": "-"
+        },
+        "tel": null,
+        "loc": [
+            114.193113,
+            22.29072
         ]
     },
     {
@@ -6272,34 +6316,34 @@
         ]
     },
     {
-        "_id": "HANGSENG_39",
+        "_id": "HANGSENG_232",
         "atm_type": "hsbc",
         "shop_type": "hangseng",
         "name": {
-            "zh": "恒生銀行 城市花園優越及優進理財中心",
-            "en": "Hang Seng Bank City Garden Prestige & Preferred Banking Centre"
+            "zh": "恒生銀行 馬鞍山分行",
+            "en": "Hang Seng Bank Ma On Shan Branch"
         },
         "area": {
-            "zh": "香港島",
-            "en": "Hong Kong Island"
+            "zh": "新界東",
+            "en": "New Territories East"
         },
         "district": {
-            "zh": "東區",
-            "en": "Eastern"
+            "zh": "沙田",
+            "en": "Shatin"
         },
         "address": {
-            "zh": "電氣道233號",
-            "en": "233 Electric Road"
+            "zh": "馬鞍山廣場2樓256-257號舖",
+            "en": "Shop 256-257, Level 2, Ma On Shan Plaza"
         },
         "service": {
-            "zh": "戶口開立或查詢(個人)\n櫃位服務\n財富管理\n保管箱服務輪椅通道\n自動櫃員機\n存票快入票機 截票時間 5:30pm\n保管箱服務\n存款快入數機",
-            "en": "Accounts Opening or Enquiry (Personal) \nCounter Service \n Wealth Management \nSafe Deposit Box ServiceWheel Chair Access\nAutomated Teller Machine\nCheque Deposit Machine, Cut-off time  5:30pm\nSafe Deposit Box Services\nCash Deposit Machine"
+            "zh": "戶口開立或查詢(個人)\n櫃位服務\n財富管理\n證券服務輪椅通道\n自動櫃員機\n存款快入數機\n證券服務",
+            "en": "Accounts Opening or Enquiry (Personal) \nCounter Service \n Wealth Management \nSecurities ServiceWheel Chair Access\nAutomated Teller Machine\nCash Deposit Machine\nSecurities Services"
         },
         "detail": {
-            "zh": "自動櫃員機服務時間\n24小時",
-            "en": "ATM Service Hours\n24-hours"
+            "zh": "自動櫃員機服務時間\n根據商場服務時間",
+            "en": "ATM Service Hours\nSubject to Mall Opening Hours"
         },
-        "atm24": true,
+        "atm24": false,
         "workHrs": {
             "monday": "09:00 - 17:00",
             "tuesday": "09:00 - 17:00",
@@ -6311,8 +6355,8 @@
         },
         "tel": null,
         "loc": [
-            114.194482,
-            22.290648
+            114.1957559,
+            22.3349313
         ]
     },
     {
@@ -6479,8 +6523,8 @@
         "workHrs": null,
         "tel": null,
         "loc": [
-            114.198037,
-            22.395003
+            114.199142,
+            22.396211
         ]
     },
     {
@@ -7567,8 +7611,8 @@
         "workHrs": null,
         "tel": null,
         "loc": [
-            114.218913,
-            22.315547
+            114.220014,
+            22.315138
         ]
     },
     {
@@ -7755,8 +7799,8 @@
         },
         "tel": null,
         "loc": [
-            114.225464,
-            22.310726
+            114.2254711,
+            22.3107694
         ]
     },
     {
@@ -7956,42 +8000,6 @@
         ]
     },
     {
-        "_id": "HANGSENG_145",
-        "atm_type": "hsbc",
-        "shop_type": "hangseng",
-        "name": {
-            "zh": "恒生銀行 麗港城商場",
-            "en": "Hang Seng Bank Laguna Plaza"
-        },
-        "area": {
-            "zh": "九龍東",
-            "en": "Kowloon East"
-        },
-        "district": {
-            "zh": "觀塘",
-            "en": "Kwun Tong"
-        },
-        "address": {
-            "zh": "麗港城商場1樓50A號",
-            "en": "Shop 50A, 1/F, Laguna Plaza, Lam Tin"
-        },
-        "service": {
-            "zh": "自動櫃員機\n存票快入票機 截票時間 5:30pm\n存款快入數機",
-            "en": "Automated Teller Machine\nCheque Deposit Machine, Cut-off time  5:30pm\nCash Deposit Machine"
-        },
-        "detail": {
-            "zh": "自動櫃員機服務時間\n根據商場服務時間",
-            "en": "ATM Service Hours\nSubject to Mall Opening Hours"
-        },
-        "atm24": false,
-        "workHrs": null,
-        "tel": null,
-        "loc": [
-            114.2279879,
-            22.3068794
-        ]
-    },
-    {
         "_id": "HANGSENG_53",
         "atm_type": "hsbc",
         "shop_type": "hangseng",
@@ -8105,50 +8113,6 @@
         "loc": [
             114.231208,
             22.424373
-        ]
-    },
-    {
-        "_id": "HANGSENG_232",
-        "atm_type": "hsbc",
-        "shop_type": "hangseng",
-        "name": {
-            "zh": "恒生銀行 馬鞍山分行",
-            "en": "Hang Seng Bank Ma On Shan Branch"
-        },
-        "area": {
-            "zh": "新界東",
-            "en": "New Territories East"
-        },
-        "district": {
-            "zh": "沙田",
-            "en": "Shatin"
-        },
-        "address": {
-            "zh": "馬鞍山廣場2樓256-257號舖",
-            "en": "Shop 256-257, Level 2, Ma On Shan Plaza"
-        },
-        "service": {
-            "zh": "戶口開立或查詢(個人)\n櫃位服務\n財富管理\n證券服務輪椅通道\n自動櫃員機\n存款快入數機\n證券服務",
-            "en": "Accounts Opening or Enquiry (Personal) \nCounter Service \n Wealth Management \nSecurities ServiceWheel Chair Access\nAutomated Teller Machine\nCash Deposit Machine\nSecurities Services"
-        },
-        "detail": {
-            "zh": "自動櫃員機服務時間\n根據商場服務時間",
-            "en": "ATM Service Hours\nSubject to Mall Opening Hours"
-        },
-        "atm24": false,
-        "workHrs": {
-            "monday": "09:00 - 17:00",
-            "tuesday": "09:00 - 17:00",
-            "wednesday": "09:00 - 17:00",
-            "thursday": "09:00 - 17:00",
-            "friday": "09:00 - 17:00",
-            "saturday": "09:00 - 13:00",
-            "sunday": "-"
-        },
-        "tel": null,
-        "loc": [
-            114.2313392,
-            22.4254406
         ]
     },
     {
@@ -8271,8 +8235,8 @@
         },
         "tel": null,
         "loc": [
-            114.23612,
-            22.264233
+            114.2361176,
+            22.2642301
         ]
     },
     {
@@ -8683,8 +8647,8 @@
         "workHrs": null,
         "tel": null,
         "loc": [
-            114.25981,
-            22.309394
+            114.2598061,
+            22.3093475
         ]
     },
     {
@@ -8721,6 +8685,42 @@
         "loc": [
             114.260018,
             22.307436
+        ]
+    },
+    {
+        "_id": "HANGSENG_145",
+        "atm_type": "hsbc",
+        "shop_type": "hangseng",
+        "name": {
+            "zh": "恒生銀行 麗港城商場",
+            "en": "Hang Seng Bank Laguna Plaza"
+        },
+        "area": {
+            "zh": "九龍東",
+            "en": "Kowloon East"
+        },
+        "district": {
+            "zh": "觀塘",
+            "en": "Kwun Tong"
+        },
+        "address": {
+            "zh": "麗港城商場1樓50A號",
+            "en": "Shop 50A, 1/F, Laguna Plaza, Lam Tin"
+        },
+        "service": {
+            "zh": "自動櫃員機\n存票快入票機 截票時間 5:30pm\n存款快入數機",
+            "en": "Automated Teller Machine\nCheque Deposit Machine, Cut-off time  5:30pm\nCash Deposit Machine"
+        },
+        "detail": {
+            "zh": "自動櫃員機服務時間\n根據商場服務時間",
+            "en": "ATM Service Hours\nSubject to Mall Opening Hours"
+        },
+        "atm24": false,
+        "workHrs": null,
+        "tel": null,
+        "loc": [
+            114.2629045,
+            22.309509
         ]
     },
     {

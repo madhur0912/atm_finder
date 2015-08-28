@@ -139,6 +139,8 @@ function Branch(branch) {
 	this.tel = null;
 }
 
+var allWorkhrs = [];
+
 var getWorkingHrs = function(branch) {
 	var workHrs = ['-', '-', '-', '-', '-', '-', '-'];
 
@@ -146,15 +148,21 @@ var getWorkingHrs = function(branch) {
 		var dayAttr = 'time' + i + '_EN';
 		var timeAttr = 'time' + dayAttr;
 		var timeStr = formatTimeStr(branch[timeAttr]);
+
+		// var result = branch[timeAttr] + '=' + timeStr;
+		if (allWorkhrs.indexOf(branch[dayAttr]) === -1) {
+			allWorkhrs.push(branch[dayAttr]);
+		};
+
 		switch (branch[dayAttr]) {
 			case 'Monday-Sunday':
-				for (var i = 0; i < 7; i++) {
-					workHrs[i] = timeStr;
+				for (var j = 0; j < 7; j++) {
+					workHrs[j] = timeStr;
 				}
 				break;
 			case 'Monday-Saturday':
-				for (var i = 0; i < 6; i++) {
-					workHrs[i] = timeStr;
+				for (var j = 0; j < 6; j++) {
+					workHrs[j] = timeStr;
 				}
 				break;
 			case 'Sunday':
@@ -162,50 +170,50 @@ var getWorkingHrs = function(branch) {
 				workHrs[6] = timeStr;
 				break;
 			case 'Monday-Thursday':
-				for (var i = 0; i < 4; i++) {
-					workHrs[i] = timeStr;
+				for (var j = 0; j < 4; j++) {
+					workHrs[j] = timeStr;
 				}
 				break;
 			case 'Friday-Sunday':
-				for (var i = 4; i < 7; i++) {
-					workHrs[i] = timeStr;
+				for (var j = 4; j < 7; j++) {
+					workHrs[j] = timeStr;
 				}
 				break;
 			case 'Monday-Friday':
-				for (var i = 0; i < 5; i++) {
-					workHrs[i] = timeStr;
+				for (var j = 0; j < 5; j++) {
+					workHrs[j] = timeStr;
 				}
 				break;
 			case 'Saturday-Sunday':
 			case 'Saturday-Sunday & Public Holiday':
-				for (var i = 5; i < 7; i++) {
-					workHrs[i] = timeStr;
+				for (var j = 5; j < 7; j++) {
+					workHrs[j] = timeStr;
 				}
 				break;
 			case 'Friday-Sunday & Public Holiday':
-				for (var i = 4; i < 7; i++) {
-					workHrs[i] = timeStr;
+				for (var j = 4; j < 7; j++) {
+					workHrs[j] = timeStr;
 				}
 				break;
 			case 'Sunday-Thursday':
 			case 'Sunday-Thursday & Public Holiday':
-				for (var i = 0; i < 7; i++) {
+				for (var j = 0; j < 7; j++) {
 					if (i === 4 || i === 5) {
 						continue;
 					} else {
-						workHrs[i] = timeStr;
+						workHrs[j] = timeStr;
 					}
 				}
 				break;
 			case 'Friday-Saturday':
 			case 'Friday-Saturday & Public Holiday':
-				for (var i = 4; i < 6; i++) {
-					workHrs[i] = timeStr;
+				for (var j = 4; j < 6; j++) {
+					workHrs[j] = timeStr;
 				}
 				break;
 			case 'Monday-Friday & Sunday':
-				for (var i = 0; i < 4; i++) {
-					workHrs[i] = timeStr;
+				for (var j = 0; j < 5; j++) {
+					workHrs[j] = timeStr;
 				}
 				workHrs[6] = timeStr;
 				break;
@@ -214,8 +222,8 @@ var getWorkingHrs = function(branch) {
 				break;
 			case 'Monday & Wednesday-Sunday':
 				workHrs[0] = timeStr;
-				for (var i = 2; i < 7; i++) {
-					workHrs[i] = timeStr;
+				for (var j = 2; j < 7; j++) {
+					workHrs[j] = timeStr;
 				}
 				break;
 			case 'Tuesday':
@@ -225,14 +233,14 @@ var getWorkingHrs = function(branch) {
 				workHrs[0] = timeStr;
 				break;
 			case 'Tuesday-Sunday':
-				for (var i = 1; i < 7; i++) {
-					workHrs[i] = timeStr;
+				for (var j = 1; j < 7; j++) {
+					workHrs[j] = timeStr;
 				}
 				break;
 			case 'Sunday-Friday':
-				for (var i = 0; i < 7; i++) {
-					if (i !== 5) {
-						workHrs[i] = timeStr;
+				for (var j = 0; j < 7; j++) {
+					if (j !== 5) {
+						workHrs[j] = timeStr;
 					}
 				}
 				break;

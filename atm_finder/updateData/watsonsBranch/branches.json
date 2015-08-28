@@ -6,7 +6,7 @@
             "zh": "屈臣氏 議事亭",
             "en": "Watsons Largo Senado"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "澳門",
             "en": "Macau"
@@ -44,7 +44,7 @@
             "zh": "屈臣氏 米糙巷",
             "en": "Watsons Centro Com"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "澳門",
             "en": "Macau"
@@ -82,7 +82,7 @@
             "zh": "屈臣氏 水坑尾",
             "en": "Watsons Rua Campo"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "澳門",
             "en": "Macau"
@@ -120,7 +120,7 @@
             "zh": "屈臣氏 三盞燈",
             "en": "Watsons Three Lamps"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "澳門",
             "en": "Macau"
@@ -158,7 +158,7 @@
             "zh": "屈臣氏 高士德",
             "en": "Watsons Costa"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "澳門",
             "en": "Macau"
@@ -196,7 +196,7 @@
             "zh": "屈臣氏 康和",
             "en": "Watsons Hong Vo"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "澳門",
             "en": "Macau"
@@ -234,7 +234,7 @@
             "zh": "屈臣氏 祐漢",
             "en": "Watsons Iao Hon"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "澳門",
             "en": "Macau"
@@ -272,7 +272,7 @@
             "zh": "屈臣氏 新益花園",
             "en": "Watsons Jardins Sun Yick"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "澳門",
             "en": "Macau"
@@ -310,7 +310,7 @@
             "zh": "屈臣氏 黄金商場",
             "en": "Watsons Vong Kam"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "澳門",
             "en": "Macau"
@@ -348,7 +348,7 @@
             "zh": "屈臣氏 澳門銀河酒店",
             "en": "Watsons The Galaxy"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "澳門",
             "en": "Macau"
@@ -386,7 +386,7 @@
             "zh": "屈臣氏 海濱花園",
             "en": "Watsons Hoi Pan Fa Un"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "澳門",
             "en": "Macau"
@@ -424,7 +424,7 @@
             "zh": "屈臣氏 濠景花園",
             "en": "Watsons Nova Garden"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "澳門",
             "en": "Macau"
@@ -462,7 +462,7 @@
             "zh": "屈臣氏 威尼斯人度假村酒店",
             "en": "Watsons Venetian"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "澳門",
             "en": "Macau"
@@ -500,7 +500,7 @@
             "zh": "屈臣氏 東涌港鐵站 (第二分店)",
             "en": "Watsons Tung Chung MTR Station (Shop no. 2)"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -538,7 +538,7 @@
             "zh": "屈臣氏 東涌港鐵站 (第一分店)",
             "en": "Watsons Tung Chung MTR Station (Shop no. 1)"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -576,7 +576,7 @@
             "zh": "屈臣氏 良景",
             "en": "Watsons Leung King"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -614,7 +614,7 @@
             "zh": "屈臣氏 新屯門中心",
             "en": "Watsons Sun Tuen Mun Centre"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -652,7 +652,7 @@
             "zh": "屈臣氏 建生村",
             "en": "Watsons Kin Sang Estate"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -690,7 +690,7 @@
             "zh": "屈臣氏 卓爾居",
             "en": "Watsons Chelsea Heights"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -728,7 +728,7 @@
             "zh": "屈臣氏 V City",
             "en": "Watsons V City"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -766,7 +766,7 @@
             "zh": "屈臣氏 屯門啟民徑",
             "en": "Watsons Kai Man Path"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -804,7 +804,7 @@
             "zh": "屈臣氏 安定商場",
             "en": "Watsons On Ting Shopping Centre"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -842,7 +842,7 @@
             "zh": "屈臣氏 屯門時代廣場",
             "en": "Watsons Trend Plaza, Tuen Mun"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -880,7 +880,7 @@
             "zh": "屈臣氏 屯門市廣場2期",
             "en": "Watsons Tuen Mun Town Plaza Phase II"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -918,7 +918,7 @@
             "zh": "屈臣氏 屯門",
             "en": "Watsons Tuen Mun"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -956,7 +956,7 @@
             "zh": "屈臣氏 井財街",
             "en": "Watsons Tseng Choi Street"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -994,7 +994,7 @@
             "zh": "屈臣氏 華都大道",
             "en": "Watsons Waldorf Avenue"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -1032,7 +1032,7 @@
             "zh": "屈臣氏 置樂花園",
             "en": "Watsons Chi Lok Fa Yuen"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -1070,7 +1070,7 @@
             "zh": "屈臣氏 黃金海岸",
             "en": "Watsons HK Gold Coast"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -1108,7 +1108,7 @@
             "zh": "屈臣氏 頌富",
             "en": "Watsons Chung Fu"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -1146,7 +1146,7 @@
             "zh": "屈臣氏 天水圍天澤商場",
             "en": "Watsons Tin Chak"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -1184,7 +1184,7 @@
             "zh": "屈臣氏 新北江商場",
             "en": "Watsons Locwood Court"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -1222,7 +1222,7 @@
             "zh": "屈臣氏 嘉湖銀座",
             "en": "Watsons Kingswood Ginza"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -1260,7 +1260,7 @@
             "zh": "屈臣氏 愉景灣",
             "en": "Watsons Discovery Bay"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -1298,7 +1298,7 @@
             "zh": "屈臣氏 元朗廣場",
             "en": "Watsons Yuen Long Plaza"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -1336,7 +1336,7 @@
             "zh": "屈臣氏 元朗青山公路",
             "en": "Watsons Castle Peak Road (Yuen Long)"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -1374,7 +1374,7 @@
             "zh": "屈臣氏 安寧路",
             "en": "Watsons On Ning Road"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -1412,7 +1412,7 @@
             "zh": "屈臣氏 元朗",
             "en": "Watsons Yuen Long"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -1450,7 +1450,7 @@
             "zh": "屈臣氏 新元朗",
             "en": "Watsons New Yuen Long"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -1488,7 +1488,7 @@
             "zh": "屈臣氏 壽富街",
             "en": "Watsons Sau Fu Street"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -1526,7 +1526,7 @@
             "zh": "屈臣氏 元朗千色廣場",
             "en": "Watsons Yuen Long Citimall"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -1564,7 +1564,7 @@
             "zh": "屈臣氏 長洲",
             "en": "Watsons Cheung Chau"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -1602,7 +1602,7 @@
             "zh": "屈臣氏 豐裕軒",
             "en": "Watsons Opulence Height"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -1640,7 +1640,7 @@
             "zh": "屈臣氏 麗都花園",
             "en": "Watsons Lido Avenue"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -1678,7 +1678,7 @@
             "zh": "屈臣氏 落馬洲港鐵站(第二分店)",
             "en": "Watsons Lok Ma Chau MTR Station(Shop no. 2)"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -1716,7 +1716,7 @@
             "zh": "屈臣氏 港鐵落馬洲站",
             "en": "Watsons Lok Ma Chau Station"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -1754,7 +1754,7 @@
             "zh": "屈臣氏 落馬洲港鐵站(第一分店)",
             "en": "Watsons Lok Ma Chau MTR Station(Shop no. 1)"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -1792,7 +1792,7 @@
             "zh": "屈臣氏 長發村",
             "en": "Watsons Cheung Fat Estate"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -1830,7 +1830,7 @@
             "zh": "屈臣氏 港鐵青衣站",
             "en": "Watsons Tsing Yi Station"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -1868,7 +1868,7 @@
             "zh": "屈臣氏 藍澄灣",
             "en": "Watsons Rambler Plaza"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -1906,7 +1906,7 @@
             "zh": "屈臣氏 荃灣廣場",
             "en": "Watsons Tsuen Wan Plaza"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -1944,7 +1944,7 @@
             "zh": "屈臣氏 愉景新城",
             "en": "Watsons Discovery Park Shopping Centre"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -1982,7 +1982,7 @@
             "zh": "屈臣氏 荃新天地2期",
             "en": "Watsons Ciytwalk Phase 2"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -2020,7 +2020,7 @@
             "zh": "屈臣氏 荃錦中心",
             "en": "Watsons Tsuen Kam Centre"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -2058,7 +2058,7 @@
             "zh": "屈臣氏 南豐中心",
             "en": "Watsons Nan Fung Centre"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -2096,7 +2096,7 @@
             "zh": "屈臣氏 眾安街",
             "en": "Watsons Chung On Street"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -2134,7 +2134,7 @@
             "zh": "屈臣氏 綠楊新村",
             "en": "Watsons Luk Yeung Sun Chuen"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -2172,7 +2172,7 @@
             "zh": "屈臣氏 創意無限廣場",
             "en": "Watsons Smartland"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -2210,7 +2210,7 @@
             "zh": "屈臣氏 彩園村商場",
             "en": "Watsons Choi Yuen Plaza"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -2248,7 +2248,7 @@
             "zh": "屈臣氏 禮芳街",
             "en": "Watsons Lai Fong Street"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -2286,7 +2286,7 @@
             "zh": "屈臣氏 新都會廣場",
             "en": "Watsons Metroplaza"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -2324,7 +2324,7 @@
             "zh": "屈臣氏 上水",
             "en": "Watsons Sheung Shui"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -2362,7 +2362,7 @@
             "zh": "屈臣氏 葵盛東村",
             "en": "Watsons Kwai Shing Est."
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -2400,7 +2400,7 @@
             "zh": "屈臣氏 上水廣場",
             "en": "Watsons Landmark North"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -2438,7 +2438,7 @@
             "zh": "屈臣氏 卑路乍街102-114號",
             "en": "Watsons No.102-114 Belcher’s Street"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -2476,7 +2476,7 @@
             "zh": "屈臣氏 港鐵上水站",
             "en": "Watsons Sheung Shui Station"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -2514,7 +2514,7 @@
             "zh": "屈臣氏 卑路乍街",
             "en": "Watsons Belcher’s Street"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -2552,7 +2552,7 @@
             "zh": "屈臣氏 上水滙",
             "en": "Watsons Spot"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -2590,7 +2590,7 @@
             "zh": "屈臣氏 新康街",
             "en": "Watsons San Hong Street"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -2628,7 +2628,7 @@
             "zh": "屈臣氏 上水中心",
             "en": "Watsons Sheung Shui Centre"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -2666,7 +2666,7 @@
             "zh": "屈臣氏 葵興商場",
             "en": "Watsons Kwai Hing Shopping Centre"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -2704,7 +2704,7 @@
             "zh": "屈臣氏 天平邨",
             "en": "Watsons Tin Ping Estate"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -2742,7 +2742,7 @@
             "zh": "屈臣氏 梨木樹",
             "en": "Watsons Lei Muk Shue"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -2780,7 +2780,7 @@
             "zh": "屈臣氏 華明中心",
             "en": "Watsons Wah Ming Centre"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -2818,7 +2818,7 @@
             "zh": "屈臣氏 華景商場",
             "en": "Watsons Wonderland Villas"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -2856,7 +2856,7 @@
             "zh": "屈臣氏 石蔭",
             "en": "Watsons Shek Yam"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -2894,7 +2894,7 @@
             "zh": "屈臣氏 置富",
             "en": "Watsons Chi Fu"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -2932,7 +2932,7 @@
             "zh": "屈臣氏 美孚",
             "en": "Watsons Mei Foo"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -2970,7 +2970,7 @@
             "zh": "屈臣氏 粉嶺名都廣場",
             "en": "Watsons Fanling Town Centre"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -3008,7 +3008,7 @@
             "zh": "屈臣氏 石籬2村",
             "en": "Watsons Shek Lei Estate II"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -3046,7 +3046,7 @@
             "zh": "屈臣氏 港鐵美孚站",
             "en": "Watsons Mei Foo Station"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -3084,7 +3084,7 @@
             "zh": "屈臣氏 花都廣場",
             "en": "Watsons Flora Plaza"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -3122,7 +3122,7 @@
             "zh": "屈臣氏 正街",
             "en": "Watsons Centre Street"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -3160,7 +3160,7 @@
             "zh": "屈臣氏 帝庭軒",
             "en": "Watsons Regentville"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -3198,7 +3198,7 @@
             "zh": "屈臣氏 牽晴間",
             "en": "Watsons Dawning Views Plaza"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -3236,7 +3236,7 @@
             "zh": "屈臣氏 海麗邨",
             "en": "Watsons Hoi Lai Estate"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -3274,7 +3274,7 @@
             "zh": "屈臣氏 海怡半島",
             "en": "Watsons South Horizons"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -3312,7 +3312,7 @@
             "zh": "屈臣氏 宇晴軒",
             "en": "Watsons The Pacifica Mall"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -3350,7 +3350,7 @@
             "zh": "屈臣氏 堅道",
             "en": "Watsons Caine Road"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -3388,7 +3388,7 @@
             "zh": "屈臣氏 信德中心",
             "en": "Watsons Shun Tak Centre"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -3426,7 +3426,7 @@
             "zh": "屈臣氏 香港仔中心",
             "en": "Watsons Aberdeen Centre"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -3464,7 +3464,7 @@
             "zh": "屈臣氏 元洲村",
             "en": "Watsons Un Chau Shopping Centre"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -3502,7 +3502,7 @@
             "zh": "屈臣氏 利東村",
             "en": "Watsons Lei Tung Estate"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -3540,7 +3540,7 @@
             "zh": "屈臣氏 元洲街",
             "en": "Watsons Un Chau Street"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -3578,7 +3578,7 @@
             "zh": "屈臣氏 裕昌大廈",
             "en": "Watsons Prosperous Building"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -3616,7 +3616,7 @@
             "zh": "屈臣氏 萬邦行",
             "en": "Watsons Melbourne Plaza"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -3654,7 +3654,7 @@
             "zh": "屈臣氏 麗閣邨",
             "en": "Watsons Lai Kok Estate"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -3692,7 +3692,7 @@
             "zh": "屈臣氏 馮氏大廈",
             "en": "Watsons Fung House"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -3730,7 +3730,7 @@
             "zh": "屈臣氏 香港站",
             "en": "Watsons Hong Kong Station"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -3768,7 +3768,7 @@
             "zh": "屈臣氏 青山道",
             "en": "Watsons Castle Peak Road"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -3806,7 +3806,7 @@
             "zh": "屈臣氏 奧海城3期",
             "en": "Watsons Olympian City 3"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -3844,7 +3844,7 @@
             "zh": "屈臣氏 西九龍中心",
             "en": "Watsons Dragon Centre"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -3882,7 +3882,7 @@
             "zh": "屈臣氏 太和村",
             "en": "Watsons Tai Wo Estate"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -3920,7 +3920,7 @@
             "zh": "屈臣氏 荔枝角道",
             "en": "Watsons Lai Chi Kok"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -3958,7 +3958,7 @@
             "zh": "屈臣氏 大角咀",
             "en": "Watsons Tai Kok Tsui"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -3996,7 +3996,7 @@
             "zh": "屈臣氏 九江街",
             "en": "Watsons Kiu Kiang Street"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -4034,7 +4034,7 @@
             "zh": "屈臣氏 奧海城",
             "en": "Watsons Olympian City"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -4072,7 +4072,7 @@
             "zh": "屈臣氏 深水埗",
             "en": "Watsons Sham Shui Po"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -4110,7 +4110,7 @@
             "zh": "屈臣氏 太古廣場",
             "en": "Watsons Pacific Place"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -4148,7 +4148,7 @@
             "zh": "屈臣氏 金鐘海富中心",
             "en": "Watsons Admiralty Centre"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -4186,7 +4186,7 @@
             "zh": "屈臣氏 統一中心",
             "en": "Watsons United Centre"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -4224,7 +4224,7 @@
             "zh": "屈臣氏 八號花園",
             "en": "Watsons Eightland Garden"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -4262,7 +4262,7 @@
             "zh": "屈臣氏 寶鄉街",
             "en": "Watsons Po Heung Street"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -4300,7 +4300,7 @@
             "zh": "屈臣氏 廣褔里",
             "en": "Watsons Kwong Fuk Lane"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -4338,7 +4338,7 @@
             "zh": "屈臣氏 太子道西",
             "en": "Watsons Prince Edward Rd West"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -4376,7 +4376,7 @@
             "zh": "屈臣氏 柏宜中心",
             "en": "Watsons Union Park Centre"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -4414,7 +4414,7 @@
             "zh": "屈臣氏 中港城",
             "en": "Watsons China Hong Kong City"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -4452,7 +4452,7 @@
             "zh": "屈臣氏 海港城",
             "en": "Watsons Harbour City (Health)"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -4490,7 +4490,7 @@
             "zh": "屈臣氏 朗豪坊",
             "en": "Watsons Langham Place"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -4528,7 +4528,7 @@
             "zh": "屈臣氏 星光行",
             "en": "Watsons Star House"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -4566,7 +4566,7 @@
             "zh": "屈臣氏 香葉道",
             "en": "Watsons Heung Yip Road"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -4604,7 +4604,7 @@
             "zh": "屈臣氏 新達廣場",
             "en": "Watsons Uptown Plaza"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -4642,7 +4642,7 @@
             "zh": "屈臣氏 旺角",
             "en": "Watsons Mongkok"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -4680,7 +4680,7 @@
             "zh": "屈臣氏 莊士敦道",
             "en": "Watsons Johnston Road"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -4718,7 +4718,7 @@
             "zh": "屈臣氏 西洋菜南街",
             "en": "Watsons Sai Yeung Choi Street South"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -4756,7 +4756,7 @@
             "zh": "屈臣氏 彌敦道",
             "en": "Watsons Nathan Road"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -4794,7 +4794,7 @@
             "zh": "屈臣氏 平安大廈",
             "en": "Watsons Alhambra Building"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -4832,7 +4832,7 @@
             "zh": "屈臣氏 漢口道",
             "en": "Watsons Hankow Road"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -4870,7 +4870,7 @@
             "zh": "屈臣氏 合和中心",
             "en": "Watsons Hopewell Centre"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -4908,7 +4908,7 @@
             "zh": "屈臣氏 新樂酒店",
             "en": "Watsons Shamrock Hotel"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -4946,7 +4946,7 @@
             "zh": "屈臣氏 花園街",
             "en": "Watsons Fa Yuen Street"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -4984,7 +4984,7 @@
             "zh": "屈臣氏 金雞廣場",
             "en": "Watsons Golden Era Plaza"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -5022,7 +5022,7 @@
             "zh": "屈臣氏 大埔超級城",
             "en": "Watsons Tai Po Mega Mall"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -5060,7 +5060,7 @@
             "zh": "屈臣氏 旺角東站",
             "en": "Watsons Mong Kok East Station"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -5098,7 +5098,7 @@
             "zh": "屈臣氏 柯士甸道",
             "en": "Watsons Austin Road"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -5136,7 +5136,7 @@
             "zh": "屈臣氏 金馬倫道",
             "en": "Watsons Cameron Road"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -5174,7 +5174,7 @@
             "zh": "屈臣氏 K11",
             "en": "Watsons K11"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -5212,7 +5212,7 @@
             "zh": "屈臣氏 又一城",
             "en": "Watsons Festival Walk"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -5250,7 +5250,7 @@
             "zh": "屈臣氏 富善邨",
             "en": "Watsons Fu Shin Estate"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -5288,7 +5288,7 @@
             "zh": "屈臣氏 軒尼詩道",
             "en": "Watsons Hennessy Road"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -5326,7 +5326,7 @@
             "zh": "屈臣氏 希爾頓大廈",
             "en": "Watsons Hilton Tower"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -5364,7 +5364,7 @@
             "zh": "屈臣氏 廣生行大廈",
             "en": "Watsons Kwong Sang Hong"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -5402,7 +5402,7 @@
             "zh": "屈臣氏 大圍",
             "en": "Watsons Tai Wai"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -5440,7 +5440,7 @@
             "zh": "屈臣氏 大圍港鐵站",
             "en": "Watsons Tai Wai KCR Station"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -5478,7 +5478,7 @@
             "zh": "屈臣氏 愛民",
             "en": "Watsons Oi Man"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -5516,7 +5516,7 @@
             "zh": "屈臣氏 新翠邨",
             "en": "Watsons Sun Chui Estate"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -5554,7 +5554,7 @@
             "zh": "屈臣氏 何文田廣場",
             "en": "Watsons Homantin Plaza"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -5592,7 +5592,7 @@
             "zh": "屈臣氏 時代廣場(Baby)",
             "en": "Watsons Times Square Baby"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -5630,7 +5630,7 @@
             "zh": "屈臣氏 時代廣場",
             "en": "Watsons Times Square"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -5668,7 +5668,7 @@
             "zh": "屈臣氏 銅鑼灣廣場1期",
             "en": "Watsons Causeway Bay Plaza 1"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -5706,7 +5706,7 @@
             "zh": "屈臣氏 國際都會",
             "en": "Watsons Metropolis Mall"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -5744,7 +5744,7 @@
             "zh": "屈臣氏 世貿中心",
             "en": "Watsons The World Trade Centre"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -5782,7 +5782,7 @@
             "zh": "屈臣氏 跑馬地",
             "en": "Watsons Happy Valley"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -5820,7 +5820,7 @@
             "zh": "屈臣氏 恩平中心",
             "en": "Watsons Fortune Centre"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -5858,7 +5858,7 @@
             "zh": "屈臣氏 紅磡灣",
             "en": "Watsons Hunghom Bay"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -5896,7 +5896,7 @@
             "zh": "屈臣氏 皇室堡",
             "en": "Watsons Windsor House"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -5934,7 +5934,7 @@
             "zh": "屈臣氏 樂富中心",
             "en": "Watsons Lok Fu Shopping Centre"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -5972,7 +5972,7 @@
             "zh": "屈臣氏 樂富",
             "en": "Watsons Lok Fu"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -6010,7 +6010,7 @@
             "zh": "屈臣氏 連城廣場",
             "en": "Watsons Citylink Plaza"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -6048,7 +6048,7 @@
             "zh": "屈臣氏 福佬村道",
             "en": "Watsons Fuk Lo Tsun Road"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -6086,7 +6086,7 @@
             "zh": "屈臣氏 義達工業大廈",
             "en": "Watsons Eldex Building"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -6124,7 +6124,7 @@
             "zh": "屈臣氏 銅鑼灣道",
             "en": "Watsons Tung Lo Wan Road"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -6162,7 +6162,7 @@
             "zh": "屈臣氏 新城市廣場",
             "en": "Watsons New Town Plaza"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -6200,7 +6200,7 @@
             "zh": "屈臣氏 紅磡商業中心",
             "en": "Watsons Hunghom Commercial Centre"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -6238,7 +6238,7 @@
             "zh": "屈臣氏 九龍城廣場",
             "en": "Watsons Kowloon City Plaza"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -6276,7 +6276,7 @@
             "zh": "屈臣氏 沙田廣場",
             "en": "Watsons Shatin Plaza"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -6314,7 +6314,7 @@
             "zh": "屈臣氏 黃埔花園",
             "en": "Watsons Whampoa Garden"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -6352,7 +6352,7 @@
             "zh": "屈臣氏 欣榮花園",
             "en": "Watsons Jubilant Place"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -6390,7 +6390,7 @@
             "zh": "屈臣氏 衙前圍道",
             "en": "Watsons Nga Tsin Wai Road"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -6428,7 +6428,7 @@
             "zh": "屈臣氏 沙田中心",
             "en": "Watsons Shatin Centre"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -6466,7 +6466,7 @@
             "zh": "屈臣氏 土瓜灣",
             "en": "Watsons Tokwawan"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -6504,7 +6504,7 @@
             "zh": "屈臣氏 好運中心",
             "en": "Watsons Lucky Plaza"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -6542,7 +6542,7 @@
             "zh": "屈臣氏 龍翔中心",
             "en": "Watsons Lung Cheung Mall"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -6580,7 +6580,7 @@
             "zh": "屈臣氏 天后",
             "en": "Watsons Tin Hau"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -6618,7 +6618,7 @@
             "zh": "屈臣氏 竹園",
             "en": "Watsons Chuk Yuen"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -6656,7 +6656,7 @@
             "zh": "屈臣氏 黃大仙中心",
             "en": "Watsons Wong Tai Sin Shopping Centre"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -6694,7 +6694,7 @@
             "zh": "屈臣氏 南天大厦",
             "en": "Watsons Nam Tin Building"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -6732,7 +6732,7 @@
             "zh": "屈臣氏 和富中心",
             "en": "Watsons Provident Centre"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -6770,7 +6770,7 @@
             "zh": "屈臣氏 河畔花園",
             "en": "Watsons Garden Rivera"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -6808,7 +6808,7 @@
             "zh": "屈臣氏 禾輋村",
             "en": "Watsons Wo Che Estate"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -6846,7 +6846,7 @@
             "zh": "屈臣氏 譽港灣",
             "en": "Watsons Mikiki"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -6884,7 +6884,7 @@
             "zh": "屈臣氏 爵祿街",
             "en": "Watsons San Po Kong"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -6922,7 +6922,7 @@
             "zh": "屈臣氏 雙鳳街",
             "en": "Watsons Sheung Fung Street"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -6960,7 +6960,7 @@
             "zh": "屈臣氏 英皇道375號",
             "en": "Watsons 375 King’s Road"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -6998,7 +6998,7 @@
             "zh": "屈臣氏 御龍山",
             "en": "Watsons Palazzo"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -7036,7 +7036,7 @@
             "zh": "屈臣氏 渣華道",
             "en": "Watsons Java Road"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -7074,7 +7074,7 @@
             "zh": "屈臣氏 慈雲山",
             "en": "Watsons Tsz Wan Shan"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -7112,7 +7112,7 @@
             "zh": "屈臣氏 鑽石山",
             "en": "Watsons Diamond Hill"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -7150,7 +7150,7 @@
             "zh": "屈臣氏 港運城",
             "en": "Watsons Island Place"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -7188,7 +7188,7 @@
             "zh": "屈臣氏 晴朗商場",
             "en": "Watsons Ching Long Shopping Centre"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -7226,7 +7226,7 @@
             "zh": "屈臣氏 置富第一城∙樂薈",
             "en": "Watsons Fortune City One Plus"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -7264,7 +7264,7 @@
             "zh": "屈臣氏 坪石邨",
             "en": "Watsons Ping Shek Estate"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -7302,7 +7302,7 @@
             "zh": "屈臣氏 匯八坊",
             "en": "Watsons Infinity Eight"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -7340,7 +7340,7 @@
             "zh": "屈臣氏 鰂魚涌",
             "en": "Watsons Quarry Bay"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -7378,7 +7378,7 @@
             "zh": "屈臣氏 赤柱",
             "en": "Watsons Stanley"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -7416,7 +7416,7 @@
             "zh": "屈臣氏 彩德商場",
             "en": "Watsons Choi Tak Shopping Centre"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -7454,7 +7454,7 @@
             "zh": "屈臣氏 德福廣場",
             "en": "Watsons Telford Plaza"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -7492,7 +7492,7 @@
             "zh": "屈臣氏 彩雲商場",
             "en": "Watsons Choi Wan Shopping Centre"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -7530,7 +7530,7 @@
             "zh": "屈臣氏 淘大商場",
             "en": "Watsons Amoy Plaza"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -7568,7 +7568,7 @@
             "zh": "屈臣氏 康怡廣場",
             "en": "Watsons Kornhill Plaza"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -7606,7 +7606,7 @@
             "zh": "屈臣氏 太古城",
             "en": "Watsons Cityplaza"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -7644,7 +7644,7 @@
             "zh": "屈臣氏 樂華",
             "en": "Watsons Lok Wah"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -7682,7 +7682,7 @@
             "zh": "屈臣氏 麗灣大厦",
             "en": "Watsons Lai Wan Building"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -7720,7 +7720,7 @@
             "zh": "屈臣氏 牛頭角道",
             "en": "Watsons Ngau Tau Kok Road"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -7758,7 +7758,7 @@
             "zh": "屈臣氏 沙頭角邨",
             "en": "Watsons Sha Tau Kok Chuen"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -7796,7 +7796,7 @@
             "zh": "屈臣氏 鱷魚恤中心",
             "en": "Watsons Crocodile Centre"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -7834,7 +7834,7 @@
             "zh": "屈臣氏 頌安",
             "en": "Watsons Chung On"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -7872,7 +7872,7 @@
             "zh": "屈臣氏 麗港城",
             "en": "Watsons Laguna City"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -7910,7 +7910,7 @@
             "zh": "屈臣氏 筲箕灣",
             "en": "Watsons Shau Kei Wan"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -7948,7 +7948,7 @@
             "zh": "屈臣氏 馬鞍山",
             "en": "Watsons Ma On Shan"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -7986,7 +7986,7 @@
             "zh": "屈臣氏 新港城中心",
             "en": "Watsons Sunshine City"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -8024,7 +8024,7 @@
             "zh": "屈臣氏 秀茂坪商場",
             "en": "Watsons Sau Mau Ping Shopping Centre"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -8062,7 +8062,7 @@
             "zh": "屈臣氏 匯景廣場",
             "en": "Watsons Sceneway Plaza"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -8100,7 +8100,7 @@
             "zh": "屈臣氏 啟田",
             "en": "Watsons Kai Tin"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -8138,7 +8138,7 @@
             "zh": "屈臣氏 興華村",
             "en": "Watsons Hing Wah Shopping Centre"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -8176,7 +8176,7 @@
             "zh": "屈臣氏 新翠商場",
             "en": "Watsons New Jade Shopping Arcade"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -8214,7 +8214,7 @@
             "zh": "屈臣氏 德田商場",
             "en": "Watsons Tak Tin Shopping Centre"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -8252,7 +8252,7 @@
             "zh": "屈臣氏 大本型",
             "en": "Watsons Domain"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -8290,7 +8290,7 @@
             "zh": "屈臣氏 鯉魚門",
             "en": "Watsons Lei Yue Mun"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "九龍",
             "en": "Kowloon"
@@ -8328,7 +8328,7 @@
             "zh": "屈臣氏 迎海薈",
             "en": "Watsons Double Cove Place"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -8366,7 +8366,7 @@
             "zh": "屈臣氏 小西灣商場",
             "en": "Watsons Siu Sai Wan Shopping Centre"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "香港",
             "en": "Hong Kong"
@@ -8404,7 +8404,7 @@
             "zh": "屈臣氏 都會馬尺",
             "en": "Watsons Metro Town"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -8442,7 +8442,7 @@
             "zh": "屈臣氏 新都城中心二期",
             "en": "Watsons Metro City Phase II"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -8480,7 +8480,7 @@
             "zh": "屈臣氏 尚德",
             "en": "Watsons Sheung Tak"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -8518,7 +8518,7 @@
             "zh": "屈臣氏 將軍澳廣場",
             "en": "Watsons Tseung Kwan O Plaza"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -8556,7 +8556,7 @@
             "zh": "屈臣氏 東港城2",
             "en": "Watsons East Point City"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -8594,7 +8594,7 @@
             "zh": "屈臣氏 厚德",
             "en": "Watsons Hau Tak"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -8632,7 +8632,7 @@
             "zh": "屈臣氏 西貢",
             "en": "Watsons Sai Kung"
         },
-        "bank_type": "watsons",
+        "shop_type": "watsons",
         "area": {
             "zh": "新界",
             "en": "New Territories"

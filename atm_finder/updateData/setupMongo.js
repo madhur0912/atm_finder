@@ -12,7 +12,7 @@ var circleK = require('./circleKBranch/app');
 var hangseng = require('./hangsengBranch/app');
 var hsbc = require('./hsbcBranch/app');
 var jetco = require('./jetcoBranch/app');
-var manning = require('./manningBranch/app');
+var manning = require('./manningsBranch/app');
 var seven = require('./sevenBranch/app');
 var watsons = require('./watsonsBranch/app');
 
@@ -77,6 +77,23 @@ var insertAtmToCollection = function(collection) {
 	});
 };
 
+var createGeoIndex = function() {
+	// db.atm.createIndex( { loc : "2dsphere" } )
+	return new Promise(function(resolve, reject) {
+		db.collection('atm').createIndex({
+			loc: '2dsphere'
+		}, function(err, result) {
+			if (err) {
+				reject(err);
+			}
+
+			console.log(result);
+
+			resolve(result);
+		})
+	});
+}
+
 // Establish connection to db
 db.open(function(err, db) {
 	assert.equal(null, err);
@@ -84,9 +101,10 @@ db.open(function(err, db) {
 	Promise
 		.try(createAtmCollection)
 		.then(insertAtmToCollection)
+		.then(createGeoIndex)
 		.then(function(result) {
-			console.log('Insert Finish');
-			console.log(result);
+			console.log('SetupMongo: Insert Finish');
+			console.log('SetupMongo: Index Finish - ' + result);
 			db.close();
 		})
 		.catch(function(err) {

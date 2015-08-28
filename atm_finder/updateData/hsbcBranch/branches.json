@@ -1736,8 +1736,8 @@
             "en": "7-Eleven, Shop A10-A13, G/F, Kingswood Richly Plaza, 1 Tin Wu Road, Tin Shui Wai, Yuen Long, New Territories"
         },
         "detail": {
-            "zh": "自動櫃員機將於2015年8月24日至27日起暫停服務",
-            "en": "ATM service will be temporarily suspended from 24-27Aug 2015"
+            "zh": null,
+            "en": null
         },
         "loc": [
             114.00044,
@@ -2852,42 +2852,6 @@
         "tel": null
     },
     {
-        "_id": "HSBC_109-04502",
-        "atm_type": "hsbc",
-        "shop_type": "hsbc",
-        "name": {
-            "zh": "匯豐銀行 翠怡花園理財易中心",
-            "en": "HSBC Greenfield Garden EasiService Banking Centre"
-        },
-        "area": {
-            "zh": "新界",
-            "en": "New Territories"
-        },
-        "district": {
-            "zh": "葵青",
-            "en": "Kwai Tsing"
-        },
-        "address": {
-            "zh": "新界青衣翠怡花園商場地下1號舖",
-            "en": "Shop 1, Greenfield Garden Shopping Arcade, Greendfield Garden, Tsing Yi, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
-        "loc": [
-            114.10845,
-            22.35135
-        ],
-        "workHrs": null,
-        "atm24": true,
-        "service": {
-            "zh": "現金提款",
-            "en": "Cash Withdrawal"
-        },
-        "tel": null
-    },
-    {
         "_id": "HSBC_109-04503",
         "atm_type": "hsbc",
         "shop_type": "hsbc",
@@ -2920,6 +2884,42 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
+        },
+        "tel": null
+    },
+    {
+        "_id": "HSBC_109-04502",
+        "atm_type": "hsbc",
+        "shop_type": "hsbc",
+        "name": {
+            "zh": "匯豐銀行 翠怡花園理財易中心",
+            "en": "HSBC Greenfield Garden EasiService Banking Centre"
+        },
+        "area": {
+            "zh": "新界",
+            "en": "New Territories"
+        },
+        "district": {
+            "zh": "葵青",
+            "en": "Kwai Tsing"
+        },
+        "address": {
+            "zh": "新界青衣翠怡花園商場地下1號舖",
+            "en": "Shop 1, Greenfield Garden Shopping Arcade, Greendfield Garden, Tsing Yi, New Territories"
+        },
+        "detail": {
+            "zh": null,
+            "en": null
+        },
+        "loc": [
+            114.10845,
+            22.35135
+        ],
+        "workHrs": null,
+        "atm24": true,
+        "service": {
+            "zh": "現金提款",
+            "en": "Cash Withdrawal"
         },
         "tel": null
     },
@@ -3132,42 +3132,6 @@
         "service": {
             "zh": "輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
             "en": "Wheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
-        },
-        "tel": null
-    },
-    {
-        "_id": "HSBC_032-04515",
-        "atm_type": "hsbc",
-        "shop_type": "hsbc",
-        "name": {
-            "zh": "匯豐銀行 中染新城理財易中心 - 將於2015年8月27日（星期四）早上9時起停止服務",
-            "en": "HSBC CDW Place Express Banking - will be discontinued after 9:00am on 27Aug2015"
-        },
-        "area": {
-            "zh": "新界",
-            "en": "New Territories"
-        },
-        "district": {
-            "zh": "荃灣",
-            "en": "Tsuen Wan"
-        },
-        "address": {
-            "zh": "新界荃灣青山道388號中染新城1樓1號櫃員機",
-            "en": "ATM No. 1, 1/F, CDW Place, 388 Castle Peak Road, Tsuen Wan, New Territories"
-        },
-        "detail": {
-            "zh": "將於2015年8月27日（星期四）早上9時起停止服務",
-            "en": "Express Banking service will be discontinued after 9:00am on 27Aug2015"
-        },
-        "loc": [
-            114.11306,
-            22.37539
-        ],
-        "workHrs": null,
-        "atm24": true,
-        "service": {
-            "zh": "現金提款\n輪椅通道 (自動櫃員機)\n支票存款",
-            "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCheque Deposit"
         },
         "tel": null
     },
@@ -4509,7 +4473,7 @@
         },
         "detail": {
             "zh": "此自動櫃員機將於2015年9月17日至30日暫停服務",
-            "en": "Service will be temporarily suspended from 17-30Sep2015"
+            "en": "Service will be temporarily suspended from 17 - 30 September 2015"
         },
         "loc": [
             114.13643,
@@ -5724,8 +5688,8 @@
             "en": "7-Eleven, Shop No. 7, G/F Fairview Height, 1 Seymour Road, Hong Kong"
         },
         "detail": {
-            "zh": null,
-            "en": null
+            "zh": "自動櫃員機將於2015年9月28日至10月2日暫停服務",
+            "en": "ATM service will be temporarily suspended from 28 September - 2 October 2015"
         },
         "loc": [
             114.15077,
@@ -7184,12 +7148,12 @@
             "en": "Sham Shui Po"
         },
         "address": {
-            "zh": "九龍深水埗桂林街133-135 號 地下B 舖 7-Eleven便利店",
+            "zh": "九龍深水埗桂林街133-135 號地下B舖 7-Eleven便利店",
             "en": "7-Eleven, Shop B, G/F, 133-135 Kweilin Street, Sham Shui Po, Kowloon"
         },
         "detail": {
-            "zh": null,
-            "en": null
+            "zh": "自動櫃員機將於2015年9月16日至18日暫停服務",
+            "en": "ATM service will be temporarily suspended from 16 - 18 September 2015"
         },
         "loc": [
             114.16153,
@@ -7928,12 +7892,12 @@
             "en": "Yau Tsim Mong"
         },
         "address": {
-            "zh": "九龍佐敦寳靈街48-50號地下 7-Eleven便利店",
-            "en": "7-Eleven, G/F, 48-50 Bowring Street, Jordan, Kowloon."
+            "zh": "九龍佐敦寳靈街48-50號地下7-Eleven便利店",
+            "en": "7-Eleven, G/F, 48-50 Bowring Street, Jordan, Kowloon"
         },
         "detail": {
-            "zh": null,
-            "en": null
+            "zh": "自動櫃員機將於2015年9月7日至10日暫停服務",
+            "en": "ATM service will be temporarily suspended from 7 - 10 September 2015"
         },
         "loc": [
             114.16899,
@@ -8256,12 +8220,12 @@
             "en": "Yau Tsim Mong"
         },
         "address": {
-            "zh": "九龍旺角通菜街126A 號地下7-Eleven便利店",
+            "zh": "九龍旺角通菜街126A號地下7-Eleven便利店",
             "en": "7-Eleven, G/F, 126A Tung Choi Street, Mong Kok, Kowloon"
         },
         "detail": {
-            "zh": null,
-            "en": null
+            "zh": "自動櫃員機將於2015年9月9日至11日暫停服務",
+            "en": "ATM service will be temporarily suspended from 9 - 11 September 2015"
         },
         "loc": [
             114.17031,
@@ -8336,12 +8300,12 @@
             "en": "Yau Tsim Mong"
         },
         "address": {
-            "zh": "九龍旺角通菜街81 號地下 7-Eleven便利店",
+            "zh": "九龍旺角通菜街81號地下7-Eleven便利店",
             "en": "7-Eleven, G/F, 81 Tung Choi Street, Mong Kok, Kowloon"
         },
         "detail": {
-            "zh": null,
-            "en": null
+            "zh": "自動櫃員機將於2015年9月2日至4日暫停服務",
+            "en": "ATM service will be temporarily suspended from 2 - 4 September 2015"
         },
         "loc": [
             114.17048,
@@ -10972,8 +10936,8 @@
             "en": "7-Eleven, Shop A, G/F, 24-24A Pak Tai Street, To Kwa Wan, Kowloon"
         },
         "detail": {
-            "zh": "自動櫃員機將於2015年8月31日至9月3日起暫停服務",
-            "en": "ATM service will be temporarily suspended from 31Aug-3Sep 2015"
+            "zh": "自動櫃員機將於2015年8月31日至9月3日暫停服務",
+            "en": "ATM service will be temporarily suspended from 31 August - 3 September 2015"
         },
         "loc": [
             114.1881,
@@ -11696,8 +11660,8 @@
             "en": "7-Eleven, Shop 36, G/F, Garden Rivera, Nos. 20-30 Tai Chung Kiu Road, Shatin"
         },
         "detail": {
-            "zh": null,
-            "en": null
+            "zh": "自動櫃員機將於2015年9月21日至24日暫停服務",
+            "en": "ATM service will be temporarily suspended from 21 - 24 September 2015"
         },
         "loc": [
             114.19591,
@@ -15424,8 +15388,8 @@
             "en": "7-Eleven, G/F, Shop 11A, 15 & 15A, Po Tung Road, Sai Kung, New Territories"
         },
         "detail": {
-            "zh": null,
-            "en": null
+            "zh": "自動櫃員機將於2015年9月14日至17日暫停服務",
+            "en": "ATM service will be temporarily suspended from 14 - 17 September 2015"
         },
         "loc": [
             114.27057,

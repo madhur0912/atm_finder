@@ -13,6 +13,7 @@ var $ = require('cheerio');
 var request = require('request');
 
 var dataDir = __dirname + '/data/';
+var patchDir = __dirname + '/patch/';
 var baseURLZh = 'http://www.jetco.com.hk/tc/xml/atm/';
 var baseURLEn = 'http://www.jetco.com.hk/en/xml/atm/';
 var areaPath = '2_atmArea.xml';
@@ -33,7 +34,7 @@ function Branch(atm, en) {
 		zh: $(atm).find('ob_name').text(),
 		en: $(en).find('ob_name').text()
 	};
-	this.shop_type = this.name.zh.substring(0, this.name.zh.indexOf('銀行') + 2);
+	this.shop_type = this.name.en.replace(/ /g, '');
 	this.area = {
 		zh: $(atm).find('aarea').text(),
 		en: $(en).find('aarea').text()
@@ -212,6 +213,41 @@ var getBranchesWithAreaAndDistricts = function(area_id, district_id) {
 	});
 };
 
+var count = 0;
+
+// Delete duplicated branch
+var deleteDuplicated = function(branches) {
+	return new Promise(function(resolve) {
+		var duplicated = JSON.parse(fs.readFileSync(patchDir + 'duplicated.json', 'utf8'));
+
+		for (var i = 0; i < branches.length - 1; i++) {
+			if (duplicated.indexOf(branches[i]._id) > -1) {
+				// If branch._id exist in duplicated patch
+				// Delete it
+				console.log('delete ' + branches[i]._id);
+				branches.splice(i, 1);
+				i--;
+			} else {
+				for (var j = i + 1; j < branches.length; j++) {
+					if (branches[i].address.zh.trim() === branches[j].address.zh.trim()) {
+						// If branches zh address is duplicated
+						// Delete one of it
+						branches.splice(j, 1);
+						j--;
+					} else if (branches[i].address.en.trim() === branches[j].address.en.trim()) {
+						// If branches en address is duplicated
+						// Delete one of it
+						branches.splice(j, 1);
+						j--;
+					}
+				};
+			}
+		};
+
+		resolve(branches);
+	});
+}
+
 // Save response body
 var saveResponseBody = function(filename, url, body) {
 	body = '<!-- ' + url + '-->\n' + body;
@@ -231,6 +267,7 @@ var branches = Promise
 	.then(getAllDistrictIds)
 	// Input array of Area Objects, return array of Branch Objects
 	.then(getAllBranches)
+	.then(deleteDuplicated)
 	// Save to json
 	.then(function(branches) {
 		return new Promise(function(resolve) {

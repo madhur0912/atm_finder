@@ -38,9 +38,13 @@ function Branch(branch) {
 	this.loc = [parseFloat(branch.longitude), parseFloat(branch.latitude)];
 	this.service = null;
 	this.tel = null;
+
+	var zhDetail = branch.zh.operation_day.trim() === '' ? null : branch.zh.operation_day.trim();
+	var enDetail = branch.operation_day.trim() === '' ? null : branch.operation_day.trim();
+
 	this.detail = {
-		zh: branch.zh.operation_day,
-		en: branch.operation_day,
+		zh: zhDetail,
+		en: enDetail
 	};
 
 	// Parse working hours
