@@ -213,8 +213,6 @@ var getBranchesWithAreaAndDistricts = function(area_id, district_id) {
 	});
 };
 
-var count = 0;
-
 // Delete duplicated branch
 var deleteDuplicated = function(branches) {
 	return new Promise(function(resolve) {
@@ -224,7 +222,6 @@ var deleteDuplicated = function(branches) {
 			if (duplicated.indexOf(branches[i]._id) > -1) {
 				// If branch._id exist in duplicated patch
 				// Delete it
-				console.log('delete ' + branches[i]._id);
 				branches.splice(i, 1);
 				i--;
 			} else {

@@ -19,17 +19,23 @@ var filter_language = function(language, obj) {
 };
 
 /* GET all atm. */
-router.get('/', function(req, res) {
+router.get('/:code', function(req, res) {
+
+	var code = req.params.code;
 
 	req.db.get('atm').find({}, function(err, data) {
 		if (err) {
 			res.send(err);
 		} else {
 			res.send({
-				atm: data
+				atm: filter_language(code, data)
 			});
 		}
 	});
+});
+
+router.get('/type', function(req, res) {
+
 });
 
 /* GET all atm inside area. */
@@ -45,13 +51,18 @@ router.get('/:code/bottomLeft/:bottomLeft/upperRight/:upperRight', function(req,
 	];
 
 	req.db.get('atm').find({
-		shop_type: 'hsbc',
 		loc: {
 			$geoWithin: {
 				$box: box
 			}
 		}
-	}, function(err, data) {
+	}, [
+		'_id',
+		'atm_type',
+		'name',
+		'shop_type',
+		'loc'
+	], function(err, data) {
 		if (err) {
 			res.send(err);
 		} else {
