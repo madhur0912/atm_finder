@@ -1,1439 +1,5 @@
 [
     {
-        "_id": "SEVEN_14006cb0-ee3b-4a1b-a942-21380227352c",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門河邊新街111-A號光河大廈地下B座",
-            "en": "Em Macau,  Rua Do Almirante Sergio No.111-A, Kuong Ho Res-Do-Chao B, Macau"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.534088,
-            22.191288
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_da4a9528-d921-4eef-be31-530f2f311962",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門李加祿街 2 號群安大廈地下 F 座",
-            "en": "Em Macau, Rua De Joao Lecaros No.2 Kwan On Res-Do-Chao F"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.53463,
-            22.19112
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_862c2a35-a6ac-4cc4-a129-faecf959cf5b",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門河邊新街1-A號海運大廈地下H座",
-            "en": "Em Macau, Rua Do Almirante Sergio No.1-A, Hoi Wan Res-Do-Chao H"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.535393,
-            22.1934624
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_0a87341f-44f7-4134-8967-99658bd3cbc1",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門風順堂街 6-I 號金運大廈地下 B 座舖",
-            "en": "Shop B, G/F., Edf. Kam Wan, 6-I Rua de S Lourenco, Macau"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.536278,
-            22.1905613
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_6d497ec1-41c3-4619-b9b0-ea255c2bf50b",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門高尾巷(高尾街) 6 號全棟",
-            "en": "No. 6 Travessa Dos Algibebes, Macau"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.540092,
-            22.1952534
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_c72cf079-4c08-4bc5-9e4a-79356d30f60b",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門連勝街2-D號及賣菜巷15及15-A,(信良大廈) \"A-R/C\",地下A座 ",
-            "en": "Rua de Coelho Do Amaral 2D & T. de Mosca 15 & 15A, Macau"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.540535,
-            22.1991825
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_c2026503-3165-4e2b-9868-388b0cb610d6",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門 海灣南街 106號 信和廣場 (第一座融和樓, 第二座祥和樓, 第三座盈和閣) 地下 C舖",
-            "en": "Em Macau, Rua Da Bacia Sul No 106, Chino Plaza (Harvest Court, Concordance Court, Prosperity Court) Res-Do-Chao C, Macau"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.542137,
-            22.20638
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_c16d9c4e-4b7e-418a-a08e-8cc485e23080",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門連勝街 83B 號地下及閣樓",
-            "en": "G/F & C/L, No. 83B Rua de Coelho de Amaral, Macau"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.542656,
-            22.1999664
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_3154998e-a218-459e-8115-34948516c62c",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門天神巷21F-21G號昌勝樓地下A座及閣樓",
-            "en": "EM Macau, Travessa Dos Anjos N°S 21-F -21-G, Cheong Seng Res-Do-Chao A"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": false,
-        "loc": [
-            113.5428,
-            22.1938648
-        ],
-        "workHrs": {
-            "monday": "07:00 - 23:00",
-            "tuesday": "07:00 - 23:00",
-            "wednesday": "07:00 - 23:00",
-            "thursday": "07:00 - 23:00",
-            "friday": "07:00 - 23:00",
-            "saturday": "07:00 - 23:00",
-            "sunday": "07:00 - 23:00"
-        },
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_fd864fb5-5d30-4416-a966-79af1bcca223",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門筷子基沙梨頭南街 87 至 187 號, 運順新邨地下舖位 CV + CW座",
-            "en": "Shop CV + CW, G/F., Van Sion Son Chun, No.87-187 Rua Sul do Patane, Fái Chi Kei, Macau"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": false,
-        "loc": [
-            113.542862,
-            22.20628
-        ],
-        "workHrs": {
-            "monday": "07:00 - 24:00",
-            "tuesday": "07:00 - 24:00",
-            "wednesday": "07:00 - 24:00",
-            "thursday": "07:00 - 24:00",
-            "friday": "07:00 - 24:00",
-            "saturday": "07:00 - 24:00",
-            "sunday": "07:00 - 24:00"
-        },
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_e980a162-456f-45c8-8b38-bd3798003f3b",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門渡船街 53A",
-            "en": "No. 53A, Rua Da Barca, Macau"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.542984,
-            22.2027588
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_febe39cf-9bd8-44ef-b1b3-6064861f70fc",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門 和樂大馬路89-91A號 宏開大廈 (第一座) 地下 A舖",
-            "en": "Em Macau, Avenida da Concórdia Nos 89-91A, Edificio Residencial Wang Hoi (Bloco 1) Res-Do-Chao A, Macau"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.543068,
-            22.2087326
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_d95b1157-89c1-4d4c-ba7c-837d7c18e476",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門瘋堂斜巷 29-31 號美華大廈地下A及部分C舖",
-            "en": "Em Macau, Calçada da Igreja de S. Lázaro Nos.29-31, Mei Wa AR/C & portion CR/C"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.543633,
-            22.19783
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_89d217f0-7851-4c7f-ba78-e7419e97a790",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門筷子基俾若翰街 (筷子基北街) 122-124 號地下 I 舖",
-            "en": "Shop I, G/F., No.122-124 Rua do Comandante joão Bel, Fái Chi Kei, Macau"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.543678,
-            22.2080936
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_ff5698fe-8820-4563-abcc-607a3ad5a349",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門水坑尾街 102-116 號地下 A 舖",
-            "en": "Shop A, G/F., No.102-116 Rua do Campo, Macau"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.543747,
-            22.1937065
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_4b5286fd-aa2e-4674-a96c-ff1313c29c0a",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門和樂大馬路216-278號嘉應花園地下A座",
-            "en": "Em Macau, Avenida Da Concordia N\" 216-278, Mayfair Garden - Ka Ying Court, Res-Do-Chao A"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.544159,
-            22.2104244
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_7d234a1a-0b4f-4f49-9f60-7a393af29487",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門沙嘉都喇賈罷麗街 48 號興利大廈地下 B 座",
-            "en": "Em Macau, Rua de Sacadura Cabral No. 48 Res-Do-Chao B"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.545692,
-            22.20008
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_e36ab5ea-8f14-4671-9b9b-d21b5ee2b8c2",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門嘉路米耶圓形地(三盞燈) 2-C 號嘉樂花園地下 F 座及閣樓",
-            "en": "Em Macau, Rotunda De Carlos Da Maia No.2-C, Jardim Ka Loc, Res-Do-Chao F."
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.545845,
-            22.2027645
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_b4253e5a-580f-4e66-8072-1a16dc261922",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門連勝馬路98H&98I號偉業大廈(第一座)地下D&E舖",
-            "en": "Em Macau, Estrada De Coelho Do Amaral No.98-H & 98-I, Wai Ip (Bloco 1) Res-Do-Chao D & E, Macau"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.546227,
-            22.2050076
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_23669e0b-7b93-4f93-9bde-8bec234b2d0b",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門羅利老馬路 16-16f 及 俾利喇街 78A-82C 號地下 C 舗",
-            "en": "Shop C, G/F, No 78A-82C Rua de Francisco Xavier Pereira and No. 16-16F Estrada de adolfo Loureiro, Macau"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.546707,
-            22.2007713
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_7c6826ea-2848-45ee-9105-10b884012845",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門東望洋斜巷 12-12A 號利安大廈地下 B 舗",
-            "en": "Shop B, G/F., Edf. Lei On, Nos. 12-12A Calcada do Gaio, Macau"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.546936,
-            22.195797
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_555d4212-59b9-40d0-9de1-7f0e744bc954",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門北京街 180-182 號廣發商業中心地下 D 座",
-            "en": "Em Macau, Rua De Pequim Nos.180-182, Centro Com. Kuong Fat, Res-Do-Chao D, Macau"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.548157,
-            22.1916161
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_c3fb3fe1-ca09-43a7-a3a6-64efbe4d2f81",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門高地烏街 52-54B 及 雅廉訪大馬路 53-55B 地下 H 舖",
-            "en": "Shop H, G/F., No.23-55B Ouvidor Arriaga, A. do & No.52-54B Pedro Coutinho, Rua de, Macau"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.54818,
-            22.2030678
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_53e3cd06-4105-4d3b-9ee5-98a3596cb18d",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門黑沙環馬路 47 號祐昇大廈第三座地下 A",
-            "en": "Em Macau Estrada Da Areia Preta No.47 Yau Seng Bloco III Res-Do-Chao A"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.54969,
-            22.207016
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_0e000a65-bede-4332-9aea-a3c39c39cc97",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門氹仔柯維納馬路 374 號南新花園地下 R 舖",
-            "en": "Shop R, G/F., Nam Sun Garden, 374 Estrada Governador Albano De Oliveira, Taipa, Macau"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.549759,
-            22.15762
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_3bd6ec16-f1df-41ae-96fd-0ed42a874607",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門海边馬路 30-30E 地下 A 舖",
-            "en": "Shop A, R/C No.30-30E Estrada Marginal Do Hipodromo, Macau"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.550117,
-            22.2101383
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_e3ebd42a-db59-4996-9edc-c348e215e4b5",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門高美士街56號南園地下E及F座",
-            "en": "EM Macau, Rua De Luis Gonzaga Gomes No.56, Edificio Nam Un Res-Do-Chao E & F"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.550224,
-            22.19249
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_bb138c1d-7036-486e-925a-0bb3c9bca3c2",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門祐漢新村第二街46及48號黃金商場地下A及B座",
-            "en": "Em Macau, Rua Dois Bairro Iao Hon N 46-48, Centro Comercial Vong Kam Res-Do-Chao A & B"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.550423,
-            22.21142
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_865b6f37-b91e-4dd9-b041-d5c16a1b6927",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門宋玉生廣場 235 至 287 號 T 座地下 TR/C 舖",
-            "en": "Shop TR/C, G/F., Block T, No.235-287 Alameda Dr. Carlos d Assumpção, Macau"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.55056,
-            22.1885567
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_e57794f0-b2ac-401c-a984-ca9712dad970",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門肥利喇亞美打大馬路(荷蘭園大馬路)134號栢蕙花園地下L座",
-            "en": "Em Macau, Avenida Do Conselheiro Ferreira De Almeida No. 134, Pak Wai Fa Yuen, Res-Do-Chao L"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.550812,
-            22.203146
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_407de76c-dbc8-4691-9aa6-7c1a8cb03999",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門氹仔佛山街樂駿盈軒地下 H 舖",
-            "en": "Shop H, G/F, EDF. Happy Valley Mansion, Rua De Fat San, Taipa, Macau"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.551437,
-            22.1574364
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_9053f2b1-f395-45c8-b8b0-597bf945c2df",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門馬濟時總督大馬路 353 號富達花園地下 P 座及一樓",
-            "en": "Em Macau, Avenida Do Governador Jaime Silverio Marques No.353, Fu Tat Fa Yuen, Res-Do-Chao P"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.5518,
-            22.1902561
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_7875cd63-14c3-4e5d-9c24-9db42d028427",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門銀河™渡假城商舖LG101, 路氹填海區, 蓮花海濱大馬路東面及望德聖母灣大馬路南面",
-            "en": "Shop LG101, Galaxy Macau™ Resort, COTAI, Nascente da Avenida Marginal Flor de Lótus e a Sul da Estrada da Baía de Nossa Senhora da Esperança Macau"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.553055,
-            22.1496887
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_6da4459a-adb7-4eaa-9efa-01325d1a7e75",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門氹仔亞威羅街美景花園第七座”ＢＫ”舖地下",
-            "en": "Rua De Aveiro, Edificio Mei Keng, Bloco 7, Loja \"B/K\" R/C, Taipa."
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.553375,
-            22.1570015
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_b240f53d-4f7b-450f-aaf7-fc1eb9f87ecd",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門氹仔基馬拉斯大馬路35-43號美景花園美寶閣地下H舖",
-            "en": "Na Taipa, Avenida de Guimarães Nos.35-43, Mei Keng Fa Un, Res-Do-Chao H.Macau"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.55368,
-            22.15699
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_5925f295-fef5-47cb-ada5-095a3c1f72cd",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門金沙酒店 Level M 員工商店",
-            "en": "Level M, Back-of-House VML Team Member Store, Sands, Macao"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.555008,
-            22.191925
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_67800ef3-e86e-455e-b826-95e4dc9f0131",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門氹仔地堡街 191 號 泉褔新邨第一期地下 A/B 座",
-            "en": "Na Taipa, Rua Do Regedor No 191, Chun Fok Village - 1 Fase Res-Do-Chao AB., Macau"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": false,
-        "loc": [
-            113.555176,
-            22.1528339
-        ],
-        "workHrs": {
-            "monday": "07:00 - 23:00",
-            "tuesday": "07:00 - 23:00",
-            "wednesday": "07:00 - 23:00",
-            "thursday": "07:00 - 23:00",
-            "friday": "07:00 - 23:00",
-            "saturday": "07:00 - 23:00",
-            "sunday": "07:00 - 23:00"
-        },
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_8b56e24d-f4b3-4c84-b4ff-2d099375b91b",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門氹仔南京街568號雄昌花園(第一,二,三座)地下G座",
-            "en": "Na Taipa, Rua De Nam Keng No.568, Hong Cheong (Blocos 1, 2, 3) Res-Do-Chao G"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.555344,
-            22.1608829
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_fd08df82-adea-41bd-bc28-9f3ded6e1809",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門黑沙灣新街 306 號海濱花園 6 座 /7 座 ",
-            "en": "Rua Nova Da Areia Preta, No. 306, Blk 6, G/F Shop F-R/C and Blk 7, G/F Shop D-R/C"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.555458,
-            22.2076054
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_65704087-33b4-45c1-bd23-455dca9db52b",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門黑沙環新填海區\"R\"及\"R1\"地段寰宇天下地下X舖位",
-            "en": "Novo Aterro da Areia Preta Quarteriao “R + R1” em Macau"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.555923,
-            22.2110863
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_927489bf-0535-48c3-a3aa-8972593dbbd0",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門黑沙灣中街67號保利達花園地下BA座",
-            "en": "EM Macau, Rua Central Da Areia Preta N°67, Polytec Garden Res-Do-Chao BA"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.556335,
-            22.209383
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_7d579980-b5fb-4940-aa89-28c349e53538",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門氹仔埃武拉街 173 號花城利鴻、利圖、利偉、利業 地下 N 座",
-            "en": "Na Taipa, Rua De Evora No.173, Fa Seng Lei Hong, Lei Tou, Lei Wai, Lei Ip Res-Do-Chao N, Macau"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.556366,
-            22.1563282
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_781cbd61-eba1-4ce7-9baf-3e7326caea7f",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門勞動節大馬路 512 號廣華新村第一座地下 A舖",
-            "en": "Em Macau, Avenida 1 De Maio No 512, Kuong Wa San Chun, Bloco 1 Res-Do-Chao A, Macau"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.557587,
-            22.2077141
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_5da07f18-323c-420c-bd67-2c08c50bae29",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門氹仔埃武拉街 407 號新世界花園地下 G 舖",
-            "en": "Shop G, G/F., New World Garden, No.470 Rua de Évora, Taipa, Macau"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.55822,
-            22.15785
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_05f498eb-d348-441f-81e9-f049312cc418",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門威尼斯人酒店 LG1, 員工商店",
-            "en": "Team Member Store, LG1 Venetian Macao Resort Hotel, Macau"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.55999,
-            22.1472645
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_78babac4-6afd-4a7f-ba0e-ddaf6772aab3",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門低層地下,員工餐廳,澳門銀河渡假城, 路氹城",
-            "en": "Convenience Store at LG/F Staff Canteen, Galaxy Hotel Resort, Cotai, Macau"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.562828,
-            22.1401482
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_10143f34-060f-4280-af00-64b7c3d6dc40",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門金沙城中心 LG F222, 員工商店",
-            "en": "Team Member Store, Room LG F222 Sands Cotai Centre, Macau"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.564827,
-            22.1459236
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
         "_id": "SEVEN_24b5fd15-578a-4ea5-83ba-985b1b444fa8",
         "atm_type": "eps",
         "name": {
@@ -3746,36 +2312,6 @@
         "tel": null
     },
     {
-        "_id": "SEVEN_0a5582ed-cc01-444f-aa4c-652610495787",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "天水圍 ",
-            "en": "Tin Shui Wai"
-        },
-        "district": {
-            "zh": "天水圍 ",
-            "en": "Tin Shui Wai"
-        },
-        "address": {
-            "zh": "新界天水圍天恩路12至18號置富嘉湖廣場1期地下G73B號舖",
-            "en": "Shop No. G73B, G/F., of Phase 1, Fortune Kingswood, 12-18 Tin Yan Road, Tin Shui Wai, NT"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.002853,
-            22.4579163
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
         "_id": "SEVEN_500d18d9-c7b5-492b-8f83-593cfe88bb3d",
         "atm_type": "eps",
         "name": {
@@ -3794,6 +2330,36 @@
         "address": {
             "zh": "新界天水圍天恩路 12-18 號置富嘉湖一期地下 G58-60 號舖",
             "en": "Shop 58-60, G/F., Phase 1 of Fortune Kingswood, Tin Shui Wai, NT"
+        },
+        "service": null,
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.002853,
+            22.4579163
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
+        "_id": "SEVEN_0a5582ed-cc01-444f-aa4c-652610495787",
+        "atm_type": "eps",
+        "name": {
+            "zh": "7-11便利店",
+            "en": "7-Eleven"
+        },
+        "shop_type": "7-11",
+        "area": {
+            "zh": "天水圍 ",
+            "en": "Tin Shui Wai"
+        },
+        "district": {
+            "zh": "天水圍 ",
+            "en": "Tin Shui Wai"
+        },
+        "address": {
+            "zh": "新界天水圍天恩路12至18號置富嘉湖廣場1期地下G73B號舖",
+            "en": "Shop No. G73B, G/F., of Phase 1, Fortune Kingswood, 12-18 Tin Yan Road, Tin Shui Wai, NT"
         },
         "service": null,
         "detail": null,
@@ -7148,36 +5714,6 @@
         "tel": null
     },
     {
-        "_id": "SEVEN_715b8e1b-c5c5-4079-ab00-73ffc497d2fe",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "荃灣 ",
-            "en": "Tsuen Wan"
-        },
-        "district": {
-            "zh": "荃灣 ",
-            "en": "Tsuen Wan"
-        },
-        "address": {
-            "zh": "新界荃灣眾安街 26-40 號合眾大廈 地下 1C 舖位",
-            "en": "Shop 1C on G/F., Mutual House, No.26-40 Chung On St., Tsuen Wan, NT"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.117783,
-            22.3710022
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
         "_id": "SEVEN_295e774c-9c14-4284-ba2f-fe3cbcc730a5",
         "atm_type": "eps",
         "name": {
@@ -7213,6 +5749,36 @@
             "saturday": "06:30 - 24:00",
             "sunday": "06:30 - 24:00"
         },
+        "tel": null
+    },
+    {
+        "_id": "SEVEN_715b8e1b-c5c5-4079-ab00-73ffc497d2fe",
+        "atm_type": "eps",
+        "name": {
+            "zh": "7-11便利店",
+            "en": "7-Eleven"
+        },
+        "shop_type": "7-11",
+        "area": {
+            "zh": "荃灣 ",
+            "en": "Tsuen Wan"
+        },
+        "district": {
+            "zh": "荃灣 ",
+            "en": "Tsuen Wan"
+        },
+        "address": {
+            "zh": "新界荃灣眾安街 26-40 號合眾大廈 地下 1C 舖位",
+            "en": "Shop 1C on G/F., Mutual House, No.26-40 Chung On St., Tsuen Wan, NT"
+        },
+        "service": null,
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.117783,
+            22.3710022
+        ],
+        "workHrs": null,
         "tel": null
     },
     {
@@ -10306,6 +8872,36 @@
         "tel": null
     },
     {
+        "_id": "SEVEN_0f93ef4a-7a31-4208-aa52-02f514a6f162",
+        "atm_type": "eps",
+        "name": {
+            "zh": "7-11便利店",
+            "en": "7-Eleven"
+        },
+        "shop_type": "7-11",
+        "area": {
+            "zh": "西環",
+            "en": "Western"
+        },
+        "district": {
+            "zh": "西環",
+            "en": "Western"
+        },
+        "address": {
+            "zh": "香港西營盤正街 18 號啟正中心地下 A 舖",
+            "en": "Shop A, G/F., Kaiser Centre, No. 18 Centre Street, Sai Ying Pun, HK"
+        },
+        "service": null,
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.1422,
+            22.2875519
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
         "_id": "SEVEN_0b7d9a4e-e041-4c00-bd8f-e9d7aaf7d7b1",
         "atm_type": "eps",
         "name": {
@@ -10341,36 +8937,6 @@
             "saturday": "07:00 - 23:00",
             "sunday": "07:00 - 23:00"
         },
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_0f93ef4a-7a31-4208-aa52-02f514a6f162",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "西環",
-            "en": "Western"
-        },
-        "district": {
-            "zh": "西環",
-            "en": "Western"
-        },
-        "address": {
-            "zh": "香港西營盤正街 18 號啟正中心地下 A 舖",
-            "en": "Shop A, G/F., Kaiser Centre, No. 18 Centre Street, Sai Ying Pun, HK"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.1422,
-            22.2875519
-        ],
-        "workHrs": null,
         "tel": null
     },
     {
@@ -11398,44 +9964,6 @@
         "tel": null
     },
     {
-        "_id": "SEVEN_4cb11d31-af74-43cb-855a-6af1b7cadd0d",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "上環 ",
-            "en": "Sheung Wan"
-        },
-        "district": {
-            "zh": "上環 ",
-            "en": "Sheung Wan"
-        },
-        "address": {
-            "zh": "香港干諾道中 200 號信德中心 2 樓 289 號舖",
-            "en": "Shop 289 on 2nd Floor, Shun Tak Centre, 200 Connaught Road Central, Hong Kong"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": false,
-        "loc": [
-            114.151794,
-            22.28791
-        ],
-        "workHrs": {
-            "monday": "07:00 - 23:00",
-            "tuesday": "07:00 - 23:00",
-            "wednesday": "07:00 - 23:00",
-            "thursday": "07:00 - 23:00",
-            "friday": "07:00 - 23:00",
-            "saturday": "07:00 - 23:00",
-            "sunday": "07:00 - 23:00"
-        },
-        "tel": null
-    },
-    {
         "_id": "SEVEN_89b95b74-1fd8-424a-a5df-e5ec65353de8",
         "atm_type": "eps",
         "name": {
@@ -11493,6 +10021,44 @@
             22.28791
         ],
         "workHrs": null,
+        "tel": null
+    },
+    {
+        "_id": "SEVEN_4cb11d31-af74-43cb-855a-6af1b7cadd0d",
+        "atm_type": "eps",
+        "name": {
+            "zh": "7-11便利店",
+            "en": "7-Eleven"
+        },
+        "shop_type": "7-11",
+        "area": {
+            "zh": "上環 ",
+            "en": "Sheung Wan"
+        },
+        "district": {
+            "zh": "上環 ",
+            "en": "Sheung Wan"
+        },
+        "address": {
+            "zh": "香港干諾道中 200 號信德中心 2 樓 289 號舖",
+            "en": "Shop 289 on 2nd Floor, Shun Tak Centre, 200 Connaught Road Central, Hong Kong"
+        },
+        "service": null,
+        "detail": null,
+        "atm24": false,
+        "loc": [
+            114.151794,
+            22.28791
+        ],
+        "workHrs": {
+            "monday": "07:00 - 23:00",
+            "tuesday": "07:00 - 23:00",
+            "wednesday": "07:00 - 23:00",
+            "thursday": "07:00 - 23:00",
+            "friday": "07:00 - 23:00",
+            "saturday": "07:00 - 23:00",
+            "sunday": "07:00 - 23:00"
+        },
         "tel": null
     },
     {
@@ -17590,36 +16156,6 @@
         "tel": null
     },
     {
-        "_id": "SEVEN_75ac28bf-a606-421f-9ffc-8915d8bbd40a",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "佐敦",
-            "en": "Jordan"
-        },
-        "district": {
-            "zh": "佐敦",
-            "en": "Jordan"
-        },
-        "address": {
-            "zh": "九龍佐敦西貢街 3-5 號昌華商業大廈地下 1 號舖位",
-            "en": "Shop No.1, G/F., Cheung Wah Commercial Building, No.3-5 Saigon Street, Jordan, Kowloon"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.171829,
-            22.3069248
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
         "_id": "SEVEN_bdfc18d2-2667-4944-9022-6d6d7d7003ee",
         "atm_type": "eps",
         "name": {
@@ -17645,6 +16181,36 @@
         "loc": [
             114.171829,
             22.3180828
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
+        "_id": "SEVEN_75ac28bf-a606-421f-9ffc-8915d8bbd40a",
+        "atm_type": "eps",
+        "name": {
+            "zh": "7-11便利店",
+            "en": "7-Eleven"
+        },
+        "shop_type": "7-11",
+        "area": {
+            "zh": "佐敦",
+            "en": "Jordan"
+        },
+        "district": {
+            "zh": "佐敦",
+            "en": "Jordan"
+        },
+        "address": {
+            "zh": "九龍佐敦西貢街 3-5 號昌華商業大廈地下 1 號舖位",
+            "en": "Shop No.1, G/F., Cheung Wah Commercial Building, No.3-5 Saigon Street, Jordan, Kowloon"
+        },
+        "service": null,
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.171829,
+            22.3069248
         ],
         "workHrs": null,
         "tel": null
@@ -18922,6 +17488,36 @@
         "tel": null
     },
     {
+        "_id": "SEVEN_3a509d93-bc0d-400b-91a5-6e0159b2ddbc",
+        "atm_type": "eps",
+        "name": {
+            "zh": "7-11便利店",
+            "en": "7-Eleven"
+        },
+        "shop_type": "7-11",
+        "area": {
+            "zh": "灣仔 ",
+            "en": "Wan Chai"
+        },
+        "district": {
+            "zh": "灣仔 ",
+            "en": "Wan Chai"
+        },
+        "address": {
+            "zh": "香港灣仔菲林明道 11-15 號玉滿樓地下 C 號舖位",
+            "en": "Shop C, G/F., Jade House, 11-15 Fleming Rd., Wanchai, HK"
+        },
+        "service": null,
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.174866,
+            22.277256
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
         "_id": "SEVEN_ab9c881d-3736-424b-9c21-f08ad18bb379",
         "atm_type": "eps",
         "name": {
@@ -18957,36 +17553,6 @@
             "saturday": "07:00 - 23:00",
             "sunday": "07:00 - 23:00"
         },
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_3a509d93-bc0d-400b-91a5-6e0159b2ddbc",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "灣仔 ",
-            "en": "Wan Chai"
-        },
-        "district": {
-            "zh": "灣仔 ",
-            "en": "Wan Chai"
-        },
-        "address": {
-            "zh": "香港灣仔菲林明道 11-15 號玉滿樓地下 C 號舖位",
-            "en": "Shop C, G/F., Jade House, 11-15 Fleming Rd., Wanchai, HK"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.174866,
-            22.277256
-        ],
-        "workHrs": null,
         "tel": null
     },
     {
@@ -20692,6 +19258,36 @@
         "tel": null
     },
     {
+        "_id": "SEVEN_5865b1ae-57f1-4f4d-a5c8-d2bd07b0360e",
+        "atm_type": "eps",
+        "name": {
+            "zh": "7-11便利店",
+            "en": "7-Eleven"
+        },
+        "shop_type": "7-11",
+        "area": {
+            "zh": "何文田 ",
+            "en": "Homantin"
+        },
+        "district": {
+            "zh": "何文田 ",
+            "en": "Homantin"
+        },
+        "address": {
+            "zh": "九龍何文田何文田廣場地下 10 號舖位",
+            "en": "Shop No.10, G/F., Homantin Plaza, Homantin, KLN"
+        },
+        "service": null,
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.181892,
+            22.316185
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
         "_id": "SEVEN_9035374b-da0c-4c01-9098-641cfe11722c",
         "atm_type": "eps",
         "name": {
@@ -20727,36 +19323,6 @@
             "saturday": "07:00 - 23:00",
             "sunday": "07:00 - 23:00"
         },
-        "tel": null
-    },
-    {
-        "_id": "SEVEN_5865b1ae-57f1-4f4d-a5c8-d2bd07b0360e",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "何文田 ",
-            "en": "Homantin"
-        },
-        "district": {
-            "zh": "何文田 ",
-            "en": "Homantin"
-        },
-        "address": {
-            "zh": "九龍何文田何文田廣場地下 10 號舖位",
-            "en": "Shop No.10, G/F., Homantin Plaza, Homantin, KLN"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.181892,
-            22.316185
-        ],
-        "workHrs": null,
         "tel": null
     },
     {
@@ -23296,36 +21862,6 @@
         "tel": null
     },
     {
-        "_id": "SEVEN_f387f160-703e-412a-be4f-6da216bcb3ff",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "黃大仙/慈雲山 ",
-            "en": "Wong Tai Sin / Tsz Wan Shan"
-        },
-        "district": {
-            "zh": "黃大仙/慈雲山 ",
-            "en": "Wong Tai Sin / Tsz Wan Shan"
-        },
-        "address": {
-            "zh": "九龍黃大仙竹園邨竹園商場 S4 號舖",
-            "en": "Shop S4, Chuk Yuen Shopping Centre, Chuk Yuen South Estate, Kln"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.193871,
-            22.3450375
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
         "_id": "SEVEN_999b53dc-86ff-4cdf-b8bd-36a1be0cc7a8",
         "atm_type": "eps",
         "name": {
@@ -23351,6 +21887,36 @@
         "loc": [
             114.193871,
             22.3773975
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
+        "_id": "SEVEN_f387f160-703e-412a-be4f-6da216bcb3ff",
+        "atm_type": "eps",
+        "name": {
+            "zh": "7-11便利店",
+            "en": "7-Eleven"
+        },
+        "shop_type": "7-11",
+        "area": {
+            "zh": "黃大仙/慈雲山 ",
+            "en": "Wong Tai Sin / Tsz Wan Shan"
+        },
+        "district": {
+            "zh": "黃大仙/慈雲山 ",
+            "en": "Wong Tai Sin / Tsz Wan Shan"
+        },
+        "address": {
+            "zh": "九龍黃大仙竹園邨竹園商場 S4 號舖",
+            "en": "Shop S4, Chuk Yuen Shopping Centre, Chuk Yuen South Estate, Kln"
+        },
+        "service": null,
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.193871,
+            22.3450375
         ],
         "workHrs": null,
         "tel": null
@@ -23800,36 +22366,6 @@
         "tel": null
     },
     {
-        "_id": "SEVEN_df45b7cb-e609-4a6e-9abf-348d1167314f",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "沙田 ",
-            "en": "Shatin"
-        },
-        "district": {
-            "zh": "沙田 ",
-            "en": "Shatin"
-        },
-        "address": {
-            "zh": "新界沙田河畔花園一期地下 36 號舖",
-            "en": "Shop 36, Level 1, Podium of Garden Rivera, Shatin, NT"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.195572,
-            22.381464
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
         "_id": "SEVEN_a0c10652-967a-4ac0-bba8-93549ff65bf1",
         "atm_type": "eps",
         "name": {
@@ -23855,6 +22391,36 @@
         "loc": [
             114.195572,
             22.3498211
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
+        "_id": "SEVEN_df45b7cb-e609-4a6e-9abf-348d1167314f",
+        "atm_type": "eps",
+        "name": {
+            "zh": "7-11便利店",
+            "en": "7-Eleven"
+        },
+        "shop_type": "7-11",
+        "area": {
+            "zh": "沙田 ",
+            "en": "Shatin"
+        },
+        "district": {
+            "zh": "沙田 ",
+            "en": "Shatin"
+        },
+        "address": {
+            "zh": "新界沙田河畔花園一期地下 36 號舖",
+            "en": "Shop 36, Level 1, Podium of Garden Rivera, Shatin, NT"
+        },
+        "service": null,
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.195572,
+            22.381464
         ],
         "workHrs": null,
         "tel": null
@@ -28616,36 +27182,6 @@
         "tel": null
     },
     {
-        "_id": "SEVEN_3cb82d3a-f738-4fc6-bb7e-0a3f08e27049",
-        "atm_type": "eps",
-        "name": {
-            "zh": "7-11便利店",
-            "en": "7-Eleven"
-        },
-        "shop_type": "7-11",
-        "area": {
-            "zh": "藍田 ",
-            "en": "Lam Tin"
-        },
-        "district": {
-            "zh": "藍田 ",
-            "en": "Lam Tin"
-        },
-        "address": {
-            "zh": "九龍藍田啟田邨啟田商場地下 7 號舖位",
-            "en": "Shop 7, G/F., Kai Tin Shopping Centre, Kai Tin Estate, Lam Tin, KLN"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.234779,
-            22.3084927
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
         "_id": "SEVEN_222b4668-4c6c-4022-8a89-18a77bfbef3c",
         "atm_type": "eps",
         "name": {
@@ -28681,6 +27217,36 @@
             "saturday": "07:00 - 23:00",
             "sunday": "07:00 - 23:00"
         },
+        "tel": null
+    },
+    {
+        "_id": "SEVEN_3cb82d3a-f738-4fc6-bb7e-0a3f08e27049",
+        "atm_type": "eps",
+        "name": {
+            "zh": "7-11便利店",
+            "en": "7-Eleven"
+        },
+        "shop_type": "7-11",
+        "area": {
+            "zh": "藍田 ",
+            "en": "Lam Tin"
+        },
+        "district": {
+            "zh": "藍田 ",
+            "en": "Lam Tin"
+        },
+        "address": {
+            "zh": "九龍藍田啟田邨啟田商場地下 7 號舖位",
+            "en": "Shop 7, G/F., Kai Tin Shopping Centre, Kai Tin Estate, Lam Tin, KLN"
+        },
+        "service": null,
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.234779,
+            22.3084927
+        ],
+        "workHrs": null,
         "tel": null
     },
     {

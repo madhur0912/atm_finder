@@ -346,6 +346,7 @@ var formatBranches = function(branches) {
 	});
 };
 
+// Merge En and Zt Branches
 var mergeEnZtBranches = function(enAndZt) {
 	return new Promise(function(resolve) {
 
@@ -382,12 +383,27 @@ var mergeEnZtBranches = function(enAndZt) {
 	});
 };
 
+// Remove branches from Macau
+var removeMacau = function(branches) {
+	return new Promise(function(resolve) {
+		for (var i = 0; i < branches.length; i++) {
+			if (branches[i].district.en === 'Macau') {
+				branches.splice(i, 1);
+				i--;
+			}
+		}
+
+		resolve(branches);
+	});
+};
+
 // Start the promise
 var branches = Promise
 	.map(['en', 'zt'], getBranches, {
 		concurrency: 1
 	})
 	.then(mergeEnZtBranches)
+	.then(removeMacau)
 	.then(function(branches) {
 		return new Promise(function(resolve) {
 

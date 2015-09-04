@@ -152,7 +152,7 @@ var getWorkingHrs = function(branch) {
 		// var result = branch[timeAttr] + '=' + timeStr;
 		if (allWorkhrs.indexOf(branch[dayAttr]) === -1) {
 			allWorkhrs.push(branch[dayAttr]);
-		};
+		}
 
 		switch (branch[dayAttr]) {
 			case 'Monday-Sunday':
@@ -325,33 +325,22 @@ var saveResponseBody = function(filename, url, body) {
 var formatBranches = function(branches) {
 	return new Promise(function(resolve) {
 
-		var timeType = [];
-		var timeStringType = [];
-
-		for (var i = 0; i < branches.length; i++) {
-			if (timeType.indexOf(branches[i].time1_EN) === -1) {
-				timeType.push(branches[i].time1_EN);
-			}
-			if (timeType.indexOf(branches[i].time2_EN) === -1) {
-				timeType.push(branches[i].time2_EN);
-			}
-			if (timeType.indexOf(branches[i].time3_EN) === -1) {
-				timeType.push(branches[i].time3_EN);
-			}
-
-			if (timeStringType.indexOf(branches[i].timetime1_EN) === -1) {
-				timeStringType.push(branches[i].timetime1_EN);
-			}
-			if (timeStringType.indexOf(branches[i].timetime2_EN) === -1) {
-				timeStringType.push(branches[i].timetime2_EN);
-			}
-			if (timeStringType.indexOf(branches[i].timetime3_EN) === -1) {
-				timeStringType.push(branches[i].timetime3_EN);
-			}
-		}
-
 		for (var i = 0; i < branches.length; i++) {
 			branches[i] = new Branch(branches[i]);
+		}
+
+		resolve(branches);
+	});
+};
+
+// Remove branches from Macau
+var removeMacau = function(branches) {
+	return new Promise(function(resolve) {
+		for (var i = 0; i < branches.length; i++) {
+			if (branches[i].district.en === 'Macau') {
+				branches.splice(i, 1);
+				i--;
+			}
 		}
 
 		resolve(branches);
@@ -362,6 +351,7 @@ var formatBranches = function(branches) {
 var branches = Promise
 	.try(getBranches)
 	.then(formatBranches)
+	.then(removeMacau)
 	.then(function(branches) {
 		return new Promise(function(resolve) {
 

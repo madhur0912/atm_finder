@@ -1,702 +1,5 @@
 [
     {
-        "_id": "MANNINGS_Rua_da_Praia_do_Manduco",
-        "atm_type": "eps",
-        "name": {
-            "zh": "萬寧 澳門下環街",
-            "en": "Mannings Rua da Praia do Manduco"
-        },
-        "shop_type": "mannings",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門下環街37號地下",
-            "en": "Rua da Praia do Manduco, No. 37, R/C e S/L, Macau"
-        },
-        "service": null,
-        "detail": {
-            "zh": "星期一至日 10:00-22:00",
-            "en": "Monday-Sunday 10:00-22:00"
-        },
-        "atm24": false,
-        "loc": [
-            113.53467,
-            22.18988
-        ],
-        "workHrs": {
-            "monday": "10:00 - 22:00",
-            "tuesday": "10:00 - 22:00",
-            "wednesday": "10:00 - 22:00",
-            "thursday": "10:00 - 22:00",
-            "friday": "10:00 - 22:00",
-            "saturday": "10:00 - 22:00",
-            "sunday": "10:00 - 22:00"
-        },
-        "tel": null
-    },
-    {
-        "_id": "MANNINGS_Largo_Do_Senado",
-        "atm_type": "eps",
-        "name": {
-            "zh": "萬寧 澳門議事亭",
-            "en": "Mannings Largo Do Senado"
-        },
-        "shop_type": "mannings",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門議事亭前地7B號地下、1樓及2樓",
-            "en": "R/C E 2 Andares Superiores, Largo Do Senado N� 7B, Macau"
-        },
-        "service": null,
-        "detail": {
-            "zh": "星期一至日 10:00-22:30",
-            "en": "Monday-Sunday 10:00-22:30"
-        },
-        "atm24": false,
-        "loc": [
-            113.539751,
-            22.193741
-        ],
-        "workHrs": {
-            "monday": "10:00 - 22:30",
-            "tuesday": "10:00 - 22:30",
-            "wednesday": "10:00 - 22:30",
-            "thursday": "10:00 - 22:30",
-            "friday": "10:00 - 22:30",
-            "saturday": "10:00 - 22:30",
-            "sunday": "10:00 - 22:30"
-        },
-        "tel": null
-    },
-    {
-        "_id": "MANNINGS_Lung_Cheong",
-        "atm_type": "eps",
-        "name": {
-            "zh": "萬寧 龍昌商業大廈",
-            "en": "Mannings Lung Cheong"
-        },
-        "shop_type": "mannings",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門板樟堂街20號龍昌商業大廈地下A座",
-            "en": "Rua de S. Domingos N 20, EDF. Commercial Lung Cheong Res-do-chao A. Mac"
-        },
-        "service": null,
-        "detail": {
-            "zh": "星期一至日 10:00-22:30",
-            "en": "Monday-Sunday 10:00-22:30"
-        },
-        "atm24": false,
-        "loc": [
-            113.54153,
-            22.19446
-        ],
-        "workHrs": {
-            "monday": "10:00 - 22:30",
-            "tuesday": "10:00 - 22:30",
-            "wednesday": "10:00 - 22:30",
-            "thursday": "10:00 - 22:30",
-            "friday": "10:00 - 22:30",
-            "saturday": "10:00 - 22:30",
-            "sunday": "10:00 - 22:30"
-        },
-        "tel": null
-    },
-    {
-        "_id": "MANNINGS_AVENIDA_DA_CONCORDIA",
-        "atm_type": "eps",
-        "name": {
-            "zh": "萬寧 和樂坊",
-            "en": "Mannings AVENIDA DA CONCORDIA"
-        },
-        "shop_type": "mannings",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門和樂大馬路120號地下D舖",
-            "en": "Res-do-chao D, 120 Avenida Da Concordia, Macau"
-        },
-        "service": null,
-        "detail": {
-            "zh": "星期一至日 11:00-22:00",
-            "en": "Monday-Sunday 11:00-22:00"
-        },
-        "atm24": false,
-        "loc": [
-            113.54331,
-            22.20929
-        ],
-        "workHrs": {
-            "monday": "11:00 - 22:00",
-            "tuesday": "11:00 - 22:00",
-            "wednesday": "11:00 - 22:00",
-            "thursday": "11:00 - 22:00",
-            "friday": "11:00 - 22:00",
-            "saturday": "11:00 - 22:00",
-            "sunday": "11:00 - 22:00"
-        },
-        "tel": null
-    },
-    {
-        "_id": "MANNINGS_New_Macau_Square",
-        "atm_type": "eps",
-        "name": {
-            "zh": "萬寧 新澳門廣場",
-            "en": "Mannings New Macau Square"
-        },
-        "shop_type": "mannings",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門羅保博士街2-16A號澳門廣場地下Q座連閣樓",
-            "en": "Rua Do Dr. Pedro Jose Lobo N�2-16A, The Macau Square R�S-DO-CH�O Q R/C Com S/L, Macau"
-        },
-        "service": null,
-        "detail": {
-            "zh": "星期一至日 9:00-22:00",
-            "en": "Monday-Sunday 9:00-22:00"
-        },
-        "atm24": false,
-        "loc": [
-            113.54387,
-            22.19874
-        ],
-        "workHrs": {
-            "monday": "09:00 - 22:00",
-            "tuesday": "09:00 - 22:00",
-            "wednesday": "09:00 - 22:00",
-            "thursday": "09:00 - 22:00",
-            "friday": "09:00 - 22:00",
-            "saturday": "09:00 - 22:00",
-            "sunday": "09:00 - 22:00"
-        },
-        "tel": null
-    },
-    {
-        "_id": "MANNINGS_Avenida_DB_Horta_E_Costa_N�",
-        "atm_type": "eps",
-        "name": {
-            "zh": "萬寧 高士德大馬路",
-            "en": "Mannings Avenida DB Horta E Costa N�"
-        },
-        "shop_type": "mannings",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門高士德大馬路111號日旺樓地下A舖",
-            "en": "Avenida DB Horta E Costa N� 111, Iet Wong R�S-DO-CH�O A, Macau"
-        },
-        "service": null,
-        "detail": {
-            "zh": "星期一至四 9:30-22:00\n星期五至日 9:00-22:00",
-            "en": "Monday-Thursday 9:30-22:00\nFriday-Sunday 9:00-22:00"
-        },
-        "atm24": false,
-        "loc": [
-            113.54442,
-            22.20512
-        ],
-        "workHrs": {
-            "monday": "09:30 - 22:00",
-            "tuesday": "09:30 - 22:00",
-            "wednesday": "09:30 - 22:00",
-            "thursday": "09:30 - 22:00",
-            "friday": "09:00 - 22:00",
-            "saturday": "09:00 - 22:00",
-            "sunday": "09:00 - 22:00"
-        },
-        "tel": null
-    },
-    {
-        "_id": "MANNINGS_Rua_Da_Barca",
-        "atm_type": "eps",
-        "name": {
-            "zh": "萬寧 澳門渡船街",
-            "en": "Mannings Rua Da Barca"
-        },
-        "shop_type": "mannings",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門渡船街4-AB 敬利大廈地下B座及閣樓",
-            "en": "Rua Da Barca N�4-AB, Keng Lei R�S-DO-CH�O B Com Sobrelo Ja, EM Macau"
-        },
-        "service": null,
-        "detail": {
-            "zh": "星期一至日 10:30-22:00",
-            "en": "Monday-Sunday 10:30-22:00"
-        },
-        "atm24": false,
-        "loc": [
-            113.544999,
-            22.201908
-        ],
-        "workHrs": {
-            "monday": "10:30 - 22:00",
-            "tuesday": "10:30 - 22:00",
-            "wednesday": "10:30 - 22:00",
-            "thursday": "10:30 - 22:00",
-            "friday": "10:30 - 22:00",
-            "saturday": "10:30 - 22:00",
-            "sunday": "10:30 - 22:00"
-        },
-        "tel": null
-    },
-    {
-        "_id": "MANNINGS_Edificio_Choi_I_Garden",
-        "atm_type": "eps",
-        "name": {
-            "zh": "萬寧 澳門翠怡花園",
-            "en": "Mannings Edificio Choi I Garden"
-        },
-        "shop_type": "mannings",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門巴波沙大馬路38-42號翠怡花園地庫D舖",
-            "en": "Avenida De Artur Tamagnini Barbosa N�S 38-42, Edificio Choi I Garden Cave D, EM Macau"
-        },
-        "service": null,
-        "detail": {
-            "zh": "星期一至日 1:00-21:00",
-            "en": "Monday-Sunday 1:00-21:00"
-        },
-        "atm24": false,
-        "loc": [
-            113.54756,
-            22.21264
-        ],
-        "workHrs": {
-            "monday": "01:00 - 21:00",
-            "tuesday": "01:00 - 21:00",
-            "wednesday": "01:00 - 21:00",
-            "thursday": "01:00 - 21:00",
-            "friday": "01:00 - 21:00",
-            "saturday": "01:00 - 21:00",
-            "sunday": "01:00 - 21:00"
-        },
-        "tel": null
-    },
-    {
-        "_id": "MANNINGS_COUTINHO",
-        "atm_type": "eps",
-        "name": {
-            "zh": "萬寧 高地烏街",
-            "en": "Mannings COUTINHO"
-        },
-        "shop_type": "mannings",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門高地烏街52-54 號海暉閣地下B舖",
-            "en": "Rua de Pedro Coutinho No. 52-54 B, Macau"
-        },
-        "service": null,
-        "detail": {
-            "zh": "星期一至日 10:30-22:00",
-            "en": "Monday-Sunday 10:30-22:00"
-        },
-        "atm24": false,
-        "loc": [
-            113.54817,
-            22.20303
-        ],
-        "workHrs": {
-            "monday": "10:30 - 22:00",
-            "tuesday": "10:30 - 22:00",
-            "wednesday": "10:30 - 22:00",
-            "thursday": "10:30 - 22:00",
-            "friday": "10:30 - 22:00",
-            "saturday": "10:30 - 22:00",
-            "sunday": "10:30 - 22:00"
-        },
-        "tel": null
-    },
-    {
-        "_id": "MANNINGS_BAIRRO_LAO_HON",
-        "atm_type": "eps",
-        "name": {
-            "zh": "萬寧 祐漢新村",
-            "en": "Mannings BAIRRO LAO HON"
-        },
-        "shop_type": "mannings",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門祐漢新村第一街 53 號 , A-R/C",
-            "en": "Rua Um, Bairro lao Hon, No. 53, A-R/C, Macau"
-        },
-        "service": null,
-        "detail": {
-            "zh": "星期一至日 9:30-22:00",
-            "en": "Monday-Sunday 9:30-22:00"
-        },
-        "atm24": false,
-        "loc": [
-            113.54945,
-            22.21133
-        ],
-        "workHrs": {
-            "monday": "09:30 - 22:00",
-            "tuesday": "09:30 - 22:00",
-            "wednesday": "09:30 - 22:00",
-            "thursday": "09:30 - 22:00",
-            "friday": "09:30 - 22:00",
-            "saturday": "09:30 - 22:00",
-            "sunday": "09:30 - 22:00"
-        },
-        "tel": null
-    },
-    {
-        "_id": "MANNINGS_Sun_Star_Plaza",
-        "atm_type": "eps",
-        "name": {
-            "zh": "萬寧 信達廣場",
-            "en": "Mannings Sun Star Plaza"
-        },
-        "shop_type": "mannings",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門黑沙灣馬場大馬路330號信達廣場一座商場地下F及G舖",
-            "en": "Shop F & G, Res-Do-Chao G, Sun Star Plaza, Bloco I, Estrada Dos Cavaleiros No. 330, EM Macau"
-        },
-        "service": null,
-        "detail": {
-            "zh": "星期一至日 10:00-22:00",
-            "en": "Monday-Sunday 10:00-22:00"
-        },
-        "atm24": false,
-        "loc": [
-            113.549585,
-            22.214114
-        ],
-        "workHrs": {
-            "monday": "10:00 - 22:00",
-            "tuesday": "10:00 - 22:00",
-            "wednesday": "10:00 - 22:00",
-            "thursday": "10:00 - 22:00",
-            "friday": "10:00 - 22:00",
-            "saturday": "10:00 - 22:00",
-            "sunday": "10:00 - 22:00"
-        },
-        "tel": null
-    },
-    {
-        "_id": "MANNINGS_Areia_Preta",
-        "atm_type": "eps",
-        "name": {
-            "zh": "萬寧 澳門黑沙環",
-            "en": "Mannings Areia Preta"
-        },
-        "shop_type": "mannings",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門黑沙環第二街52-54號文豐樓地下A座",
-            "en": "Rua Dois Bairro Da Areia Preta N�S 52-54, Man Fong R�S-DO-CH�O A, EM Macau"
-        },
-        "service": null,
-        "detail": {
-            "zh": "星期一至日 1:00-21:00",
-            "en": "Monday-Sunday 1:00-21:00"
-        },
-        "atm24": false,
-        "loc": [
-            113.5503,
-            22.20934
-        ],
-        "workHrs": {
-            "monday": "01:00 - 21:00",
-            "tuesday": "01:00 - 21:00",
-            "wednesday": "01:00 - 21:00",
-            "thursday": "01:00 - 21:00",
-            "friday": "01:00 - 21:00",
-            "saturday": "01:00 - 21:00",
-            "sunday": "01:00 - 21:00"
-        },
-        "tel": null
-    },
-    {
-        "_id": "MANNINGS_KUONG_FOK_ON",
-        "atm_type": "eps",
-        "name": {
-            "zh": "萬寧 廣福安",
-            "en": "Mannings KUONG FOK ON"
-        },
-        "shop_type": "mannings",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門馬場東大馬路238-312 號廣福安花園地下AE及AF舖",
-            "en": "Aer-C Avenida Leste Do, Hipodromo, no.238, Kuong Fok On Fa Un, Macau"
-        },
-        "service": null,
-        "detail": {
-            "zh": "星期一至日 11:00-22:00",
-            "en": "Monday-Sunday 11:00-22:00"
-        },
-        "atm24": false,
-        "loc": [
-            113.55385,
-            22.2112
-        ],
-        "workHrs": {
-            "monday": "11:00 - 22:00",
-            "tuesday": "11:00 - 22:00",
-            "wednesday": "11:00 - 22:00",
-            "thursday": "11:00 - 22:00",
-            "friday": "11:00 - 22:00",
-            "saturday": "11:00 - 22:00",
-            "sunday": "11:00 - 22:00"
-        },
-        "tel": null
-    },
-    {
-        "_id": "MANNINGS_Ruo_Do_Regedor",
-        "atm_type": "eps",
-        "name": {
-            "zh": "萬寧 澳門地堡街",
-            "en": "Mannings Ruo Do Regedor"
-        },
-        "shop_type": "mannings",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門氹仔地堡街18-18A號萬利大廈地下A座及D座",
-            "en": "Na Taipa, Rua Do Regedor N�S 18 - 18-A, Man Lei �R�s-do-ch�o A, D"
-        },
-        "service": null,
-        "detail": {
-            "zh": "星期一至日 10:00-22:00",
-            "en": "Monday-Sunday 10:00-22:00"
-        },
-        "atm24": false,
-        "loc": [
-            113.55584,
-            22.15335
-        ],
-        "workHrs": {
-            "monday": "10:00 - 22:00",
-            "tuesday": "10:00 - 22:00",
-            "wednesday": "10:00 - 22:00",
-            "thursday": "10:00 - 22:00",
-            "friday": "10:00 - 22:00",
-            "saturday": "10:00 - 22:00",
-            "sunday": "10:00 - 22:00"
-        },
-        "tel": null
-    },
-    {
-        "_id": "MANNINGS_Rua_de_Coimbra",
-        "atm_type": "eps",
-        "name": {
-            "zh": "萬寧 哥英布拉街",
-            "en": "Mannings Rua de Coimbra"
-        },
-        "shop_type": "mannings",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "氹仔哥英布拉街125號花城利厚、利圖、利偉、利業地下W座",
-            "en": "Na Taipa, Rua De Coimbra N 125, Fa Seng Lei Hong, Lei Tou, Lei Wai, Lei Ip Res-do-chao W"
-        },
-        "service": null,
-        "detail": {
-            "zh": "星期一至日 10:00-22:00",
-            "en": "Monday-Sunday 10:00-22:00"
-        },
-        "atm24": false,
-        "loc": [
-            113.55706,
-            22.15721
-        ],
-        "workHrs": {
-            "monday": "10:00 - 22:00",
-            "tuesday": "10:00 - 22:00",
-            "wednesday": "10:00 - 22:00",
-            "thursday": "10:00 - 22:00",
-            "friday": "10:00 - 22:00",
-            "saturday": "10:00 - 22:00",
-            "sunday": "10:00 - 22:00"
-        },
-        "tel": null
-    },
-    {
-        "_id": "MANNINGS_Galaxy_Macau",
-        "atm_type": "eps",
-        "name": {
-            "zh": "萬寧 澳門銀河",
-            "en": "Mannings Galaxy Macau"
-        },
-        "shop_type": "mannings",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門路氹城大馬路澳門銀河G49號舖",
-            "en": "G49, Galaxy Macau, Avenida De Cotai, Cotai City, Macau"
-        },
-        "service": null,
-        "detail": {
-            "zh": "星期一至日 10:00-24:00",
-            "en": "Monday-Sunday 10:00-24:00"
-        },
-        "atm24": false,
-        "loc": [
-            113.55794,
-            22.14283
-        ],
-        "workHrs": {
-            "monday": "10:00 - 24:00",
-            "tuesday": "10:00 - 24:00",
-            "wednesday": "10:00 - 24:00",
-            "thursday": "10:00 - 24:00",
-            "friday": "10:00 - 24:00",
-            "saturday": "10:00 - 24:00",
-            "sunday": "10:00 - 24:00"
-        },
-        "tel": null
-    },
-    {
-        "_id": "MANNINGS_NAM_SAN",
-        "atm_type": "eps",
-        "name": {
-            "zh": "萬寧 南新花園",
-            "en": "Mannings NAM SAN"
-        },
-        "shop_type": "mannings",
-        "area": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "district": {
-            "zh": "澳門",
-            "en": "Macau"
-        },
-        "address": {
-            "zh": "澳門氹仔柯維納馬路320A – 362G號南新第二座地下AB舖",
-            "en": "Na Taipa, Estrada Governador Albano de Oliveira, Nos. 320A – 362G, Nam San Bloco II, rés-do-chão AB"
-        },
-        "service": null,
-        "detail": {
-            "zh": "星期一至日 10:30-22:00",
-            "en": "Monday-Sunday 10:30-22:00"
-        },
-        "atm24": false,
-        "loc": [
-            113.56392,
-            22.15968
-        ],
-        "workHrs": {
-            "monday": "10:30 - 22:00",
-            "tuesday": "10:30 - 22:00",
-            "wednesday": "10:30 - 22:00",
-            "thursday": "10:30 - 22:00",
-            "friday": "10:30 - 22:00",
-            "saturday": "10:30 - 22:00",
-            "sunday": "10:30 - 22:00"
-        },
-        "tel": null
-    },
-    {
         "_id": "MANNINGS_TI_L6_RESTRICTED_AREA",
         "atm_type": "eps",
         "name": {
@@ -779,47 +82,6 @@
         "tel": null
     },
     {
-        "_id": "MANNINGS_TI_L5_Restricted_Area",
-        "atm_type": "eps",
-        "name": {
-            "zh": "萬寧 TI L5 轉機禁區",
-            "en": "Mannings TI L5 Restricted Area"
-        },
-        "shop_type": "mannings",
-        "area": {
-            "zh": "新界",
-            "en": "New Territories"
-        },
-        "district": {
-            "zh": "離島",
-            "en": "Islands"
-        },
-        "address": {
-            "zh": "香港大嶼山香港國際機場一號客運大樓5樓5E525A號舖",
-            "en": "Unit 5E525A, Terminal 1, Hong Kong International Airport, Lantau, Hong Kong"
-        },
-        "service": null,
-        "detail": {
-            "zh": "星期一至日 7:30-23:00",
-            "en": "Monday-Sunday 7:30-23:00"
-        },
-        "atm24": false,
-        "loc": [
-            113.93376,
-            22.31708
-        ],
-        "workHrs": {
-            "monday": "07:30 - 23:00",
-            "tuesday": "07:30 - 23:00",
-            "wednesday": "07:30 - 23:00",
-            "thursday": "07:30 - 23:00",
-            "friday": "07:30 - 23:00",
-            "saturday": "07:30 - 23:00",
-            "sunday": "07:30 - 23:00"
-        },
-        "tel": null
-    },
-    {
         "_id": "MANNINGS_TI_L7_RESTRICTED_AREA",
         "atm_type": "eps",
         "name": {
@@ -857,6 +119,47 @@
             "friday": "07:00 - 13:00",
             "saturday": "07:00 - 13:00",
             "sunday": "07:00 - 13:00"
+        },
+        "tel": null
+    },
+    {
+        "_id": "MANNINGS_TI_L5_Restricted_Area",
+        "atm_type": "eps",
+        "name": {
+            "zh": "萬寧 TI L5 轉機禁區",
+            "en": "Mannings TI L5 Restricted Area"
+        },
+        "shop_type": "mannings",
+        "area": {
+            "zh": "新界",
+            "en": "New Territories"
+        },
+        "district": {
+            "zh": "離島",
+            "en": "Islands"
+        },
+        "address": {
+            "zh": "香港大嶼山香港國際機場一號客運大樓5樓5E525A號舖",
+            "en": "Unit 5E525A, Terminal 1, Hong Kong International Airport, Lantau, Hong Kong"
+        },
+        "service": null,
+        "detail": {
+            "zh": "星期一至日 7:30-23:00",
+            "en": "Monday-Sunday 7:30-23:00"
+        },
+        "atm24": false,
+        "loc": [
+            113.93376,
+            22.31708
+        ],
+        "workHrs": {
+            "monday": "07:30 - 23:00",
+            "tuesday": "07:30 - 23:00",
+            "wednesday": "07:30 - 23:00",
+            "thursday": "07:30 - 23:00",
+            "friday": "07:30 - 23:00",
+            "saturday": "07:30 - 23:00",
+            "sunday": "07:30 - 23:00"
         },
         "tel": null
     },
@@ -3731,47 +3034,6 @@
         "tel": null
     },
     {
-        "_id": "MANNINGS_NEW_LO_WU_STATION_ARRIVAL",
-        "atm_type": "eps",
-        "name": {
-            "zh": "萬寧 新羅湖港鐵站入境",
-            "en": "Mannings NEW LO WU STATION ARRIVAL"
-        },
-        "shop_type": "mannings",
-        "area": {
-            "zh": "新界",
-            "en": "New Territories"
-        },
-        "district": {
-            "zh": "北區",
-            "en": "North"
-        },
-        "address": {
-            "zh": "新界羅湖港鐵站K1 & K2號舖",
-            "en": "Shop LOW K1 & K2, MTR Lo Wu Station"
-        },
-        "service": null,
-        "detail": {
-            "zh": "星期一至日 9:00-22:00",
-            "en": "Monday-Sunday 9:00-22:00"
-        },
-        "atm24": false,
-        "loc": [
-            114.113192,
-            22.527801
-        ],
-        "workHrs": {
-            "monday": "09:00 - 22:00",
-            "tuesday": "09:00 - 22:00",
-            "wednesday": "09:00 - 22:00",
-            "thursday": "09:00 - 22:00",
-            "friday": "09:00 - 22:00",
-            "saturday": "09:00 - 22:00",
-            "sunday": "09:00 - 22:00"
-        },
-        "tel": null
-    },
-    {
         "_id": "MANNINGS_LO_WU_STATION",
         "atm_type": "eps",
         "name": {
@@ -3809,6 +3071,47 @@
             "friday": "08:00 - 22:00",
             "saturday": "08:00 - 22:00",
             "sunday": "08:00 - 22:00"
+        },
+        "tel": null
+    },
+    {
+        "_id": "MANNINGS_NEW_LO_WU_STATION_ARRIVAL",
+        "atm_type": "eps",
+        "name": {
+            "zh": "萬寧 新羅湖港鐵站入境",
+            "en": "Mannings NEW LO WU STATION ARRIVAL"
+        },
+        "shop_type": "mannings",
+        "area": {
+            "zh": "新界",
+            "en": "New Territories"
+        },
+        "district": {
+            "zh": "北區",
+            "en": "North"
+        },
+        "address": {
+            "zh": "新界羅湖港鐵站K1 & K2號舖",
+            "en": "Shop LOW K1 & K2, MTR Lo Wu Station"
+        },
+        "service": null,
+        "detail": {
+            "zh": "星期一至日 9:00-22:00",
+            "en": "Monday-Sunday 9:00-22:00"
+        },
+        "atm24": false,
+        "loc": [
+            114.113192,
+            22.527801
+        ],
+        "workHrs": {
+            "monday": "09:00 - 22:00",
+            "tuesday": "09:00 - 22:00",
+            "wednesday": "09:00 - 22:00",
+            "thursday": "09:00 - 22:00",
+            "friday": "09:00 - 22:00",
+            "saturday": "09:00 - 22:00",
+            "sunday": "09:00 - 22:00"
         },
         "tel": null
     },
