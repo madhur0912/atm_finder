@@ -7,7 +7,6 @@ var Promise = require('bluebird');
 var fs = require('fs');
 var $ = require('cheerio');
 var request = require('request');
-var sleep = require('sleep');
 
 // Geocoder
 var geocoderProvider = 'google';
@@ -107,8 +106,11 @@ var branchGetLatLong = function(branch) {
 					// Get the response
 					// Set .lat and .lng and resolve it
 					branch.loc = [res[0].longitude, res[0].latitude];
-					sleep.usleep(1000000 / 4);
-					resolve(branch);
+					//sleep.usleep(1000000 / 4);
+					//resolve(branch);
+					setTimeout(function() {
+						resolve(branch);
+					}, 1000 / 4);
 				})
 				.catch(function(err) {
 
