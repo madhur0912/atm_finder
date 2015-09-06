@@ -1148,8 +1148,8 @@
             "en": "Open space OS-2, G/F, Greenfield Garden Shopping Arcade, Tsing Yi"
         },
         "service": {
-            "zh": "輪椅通道\n自動櫃員機",
-            "en": "Wheel Chair Access\nAutomated Teller Machine"
+            "zh": "輪椅通道\n自動櫃員機\n存款快入數機",
+            "en": "Wheel Chair Access\nAutomated Teller Machine\nCash Deposit Machine"
         },
         "detail": {
             "zh": "自動櫃員機服務時間\n根據商場服務時間",
@@ -1161,6 +1161,42 @@
         "loc": [
             114.108408,
             22.351327
+        ]
+    },
+    {
+        "_id": "HANGSENG_253",
+        "atm_type": "hsbc",
+        "shop_type": "hangseng",
+        "name": {
+            "zh": "恒生銀行 香港浸信會醫院",
+            "en": "Hang Seng Bank Hong Kong Baptist Hospital"
+        },
+        "area": {
+            "zh": "九龍西",
+            "en": "Kowloon West"
+        },
+        "district": {
+            "zh": "九龍城",
+            "en": "Kowloon City"
+        },
+        "address": {
+            "zh": "香港浸信會醫院E座EG 等候區",
+            "en": "Waiting Area, EG/F,Block E, Hong Kong Baptist Hospital"
+        },
+        "service": {
+            "zh": "自動櫃員機\n存款快入數機",
+            "en": "Automated Teller Machine\nCash Deposit Machine"
+        },
+        "detail": {
+            "zh": "自動櫃員機服務時間\n",
+            "en": "ATM Service Hours\n"
+        },
+        "atm24": false,
+        "workHrs": null,
+        "tel": null,
+        "loc": [
+            114.109497,
+            22.396428
         ]
     },
     {
@@ -1328,8 +1364,8 @@
             "en": "30 Tai Ho Road"
         },
         "service": {
-            "zh": "戶口開立或查詢(個人)\n櫃位服務\n財富管理\n保管箱服務輪椅通道\n自動櫃員機\n存票快入票機 截票時間 5:30pm\n保管箱服務\n存款快入數機",
-            "en": "Accounts Opening or Enquiry (Personal) \nCounter Service \n Wealth Management \nSafe Deposit Box ServiceWheel Chair Access\nAutomated Teller Machine\nCheque Deposit Machine, Cut-off time  5:30pm\nSafe Deposit Box Services\nCash Deposit Machine"
+            "zh": "戶口開立或查詢(個人)\n櫃位服務\n財富管理\n保管箱服務輪椅通道\n自動櫃員機(港幣及人民幣)\n存票快入票機 截票時間 5:30pm\n保管箱服務\n存款快入數機",
+            "en": "Accounts Opening or Enquiry (Personal) \nCounter Service \n Wealth Management \nSafe Deposit Box ServiceWheel Chair Access\nAutomated Teller Machine(HKD & RMB)\nCheque Deposit Machine, Cut-off time  5:30pm\nSafe Deposit Box Services\nCash Deposit Machine"
         },
         "detail": {
             "zh": "自動櫃員機服務時間\n24小時",
@@ -1852,8 +1888,8 @@
             "en": "MTR Kennedy Town Station"
         },
         "service": {
-            "zh": "輪椅通道\n自動櫃員機\n存票快入票機 截票時間 6:00pm\n存款快入數機",
-            "en": "Wheel Chair Access\nAutomated Teller Machine\nCheque Deposit Machine, Cut-off time  6:00pm\nCash Deposit Machine"
+            "zh": "輪椅通道\n自動櫃員機(港幣及人民幣)\n存票快入票機 截票時間 6:00pm\n存款快入數機",
+            "en": "Wheel Chair Access\nAutomated Teller Machine(HKD & RMB)\nCheque Deposit Machine, Cut-off time  6:00pm\nCash Deposit Machine"
         },
         "detail": {
             "zh": "自動櫃員機服務時間\n約06:00 - 凌晨01:00 (根據該站首/尾班車服務時間)",
@@ -1888,8 +1924,8 @@
             "en": "MTR Sai Ying Pun Station"
         },
         "service": {
-            "zh": "輪椅通道\n自動櫃員機\n存票快入票機 截票時間 6:00pm\n存款快入數機",
-            "en": "Wheel Chair Access\nAutomated Teller Machine\nCheque Deposit Machine, Cut-off time  6:00pm\nCash Deposit Machine"
+            "zh": "輪椅通道\n自動櫃員機(港幣及人民幣)\n存票快入票機 截票時間 6:00pm\n存款快入數機",
+            "en": "Wheel Chair Access\nAutomated Teller Machine(HKD & RMB)\nCheque Deposit Machine, Cut-off time  6:00pm\nCash Deposit Machine"
         },
         "detail": {
             "zh": "自動櫃員機服務時間\n約06:00 - 凌晨01:00 (根據該站首/尾班車服務時間)",
@@ -2128,8 +2164,8 @@
             "en": "MTR HKU Station"
         },
         "service": {
-            "zh": "輪椅通道\n自動櫃員機\n存票快入票機 截票時間 6:00pm\n存款快入數機",
-            "en": "Wheel Chair Access\nAutomated Teller Machine\nCheque Deposit Machine, Cut-off time  6:00pm\nCash Deposit Machine"
+            "zh": "輪椅通道\n自動櫃員機(港幣及人民幣)\n存票快入票機 截票時間 6:00pm\n存款快入數機",
+            "en": "Wheel Chair Access\nAutomated Teller Machine(HKD & RMB)\nCheque Deposit Machine, Cut-off time  6:00pm\nCash Deposit Machine"
         },
         "detail": {
             "zh": "自動櫃員機服務時間\n約06:00 - 凌晨01:00 (根據該站首/尾班車服務時間)",
@@ -4512,42 +4548,6 @@
         ]
     },
     {
-        "_id": "HANGSENG_76",
-        "atm_type": "hsbc",
-        "shop_type": "hangseng",
-        "name": {
-            "zh": "恒生銀行 亞皆老街",
-            "en": "Hang Seng Bank Argyle Street"
-        },
-        "area": {
-            "zh": "九龍西",
-            "en": "Kowloon West"
-        },
-        "district": {
-            "zh": "油尖旺",
-            "en": "Yau Tsim Mong"
-        },
-        "address": {
-            "zh": "亞皆老街113號地下",
-            "en": "G/F, 113 Argyle Street"
-        },
-        "service": {
-            "zh": "自動櫃員機\n存款快入數機",
-            "en": "Automated Teller Machine\nCash Deposit Machine"
-        },
-        "detail": {
-            "zh": "自動櫃員機服務時間\n24小時",
-            "en": "ATM Service Hours\n24 Hours"
-        },
-        "atm24": true,
-        "workHrs": null,
-        "tel": null,
-        "loc": [
-            114.173165,
-            22.3204289
-        ]
-    },
-    {
         "_id": "HANGSENG_101",
         "atm_type": "hsbc",
         "shop_type": "hangseng",
@@ -4917,6 +4917,42 @@
         "loc": [
             114.177463,
             22.3756288
+        ]
+    },
+    {
+        "_id": "HANGSENG_252",
+        "atm_type": "hsbc",
+        "shop_type": "hangseng",
+        "name": {
+            "zh": "恒生銀行 帝國中心",
+            "en": "Hang Seng Bank Empire Centre"
+        },
+        "area": {
+            "zh": "九龍西",
+            "en": "Kowloon West"
+        },
+        "district": {
+            "zh": "油尖旺",
+            "en": "Yau Tsim Mong"
+        },
+        "address": {
+            "zh": "尖沙咀麼地道68號帝國中心地下",
+            "en": "G/F, Empire Centre, 68 Mody Road, Tsim Sha Tsui"
+        },
+        "service": {
+            "zh": "自動櫃員機\n存款快入數機",
+            "en": "Automated Teller Machine\nCash Deposit Machine"
+        },
+        "detail": {
+            "zh": "自動櫃員機服務時間\n",
+            "en": "ATM Service Hours\n"
+        },
+        "atm24": false,
+        "workHrs": null,
+        "tel": null,
+        "loc": [
+            114.1783319,
+            22.2984061
         ]
     },
     {

@@ -11,7 +11,6 @@ var arr = [];
 var searchNearby = function(branch, index, length) {
 
 	db.get('atm').find({
-		shop_type: branch.shop_type,
 		'loc': {
 			$near: {
 				$geometry: {
@@ -36,7 +35,7 @@ var searchNearby = function(branch, index, length) {
 
 			for (var i = 0; i < arr.length; i++) {
 				content += '\n------------------------------------------------------------------------------\n';
-				content += JSON.stringify(arr[i]);
+				content += JSON.stringify(arr[i],0,4);
 			};
 
 			fs.writeFileSync('nearby.json', content, 'utf-8');

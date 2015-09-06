@@ -87,8 +87,6 @@ var createGeoIndex = function() {
 				reject(err);
 			}
 
-			console.log(result);
-
 			resolve(result);
 		})
 	});

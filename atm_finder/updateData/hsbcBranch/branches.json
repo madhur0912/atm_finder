@@ -8304,8 +8304,8 @@
             "en": "7-Eleven, G/F, 81 Tung Choi Street, Mong Kok, Kowloon"
         },
         "detail": {
-            "zh": "自動櫃員機將於2015年9月2日至4日暫停服務",
-            "en": "ATM service will be temporarily suspended from 2 - 4 September 2015"
+            "zh": null,
+            "en": null
         },
         "loc": [
             114.17048,
@@ -10936,8 +10936,8 @@
             "en": "7-Eleven, Shop A, G/F, 24-24A Pak Tai Street, To Kwa Wan, Kowloon"
         },
         "detail": {
-            "zh": "自動櫃員機將於2015年8月31日至9月3日暫停服務",
-            "en": "ATM service will be temporarily suspended from 31 August - 3 September 2015"
+            "zh": null,
+            "en": null
         },
         "loc": [
             114.1881,
@@ -15400,6 +15400,42 @@
         "service": {
             "zh": "現金提款",
             "en": "Cash Withdrawal"
+        },
+        "tel": null
+    },
+    {
+        "_id": "HSBC_055-04503",
+        "atm_type": "hsbc",
+        "shop_type": "hsbc",
+        "name": {
+            "zh": "匯豐銀行 西貢理財易中心",
+            "en": "HSBC Sai Kung Express Banking"
+        },
+        "area": {
+            "zh": "新界",
+            "en": "New Territories"
+        },
+        "district": {
+            "zh": "西貢",
+            "en": "Sai Kung"
+        },
+        "address": {
+            "zh": "新界西貢親民街西貢花園8號舖",
+            "en": "Shops No. 8, Sai Kung Garden, Chan Man Street, Sai Kung, New Territories"
+        },
+        "detail": {
+            "zh": null,
+            "en": null
+        },
+        "loc": [
+            114.271179,
+            22.382343
+        ],
+        "workHrs": null,
+        "atm24": true,
+        "service": {
+            "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n外幣現金提款\n更新存摺簿交易資料\n支票存款",
+            "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nForeign Currency Cash Withdrawal\nPassbook Update\nCheque Deposit"
         },
         "tel": null
     },

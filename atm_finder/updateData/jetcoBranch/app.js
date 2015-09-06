@@ -107,26 +107,26 @@ var enNameToShortEnName = {
 };
 
 var enNameToShortZhName = {
-    "Standard Chartered Bank (Hong Kong) Limited":"渣打銀行",
-    "Bank of China (Hong Kong) Limited":"中國銀行",
-    "The Bank of East Asia, Limited":"東亞銀行",
-    "DBS Bank (Hong Kong) Limited":"星展銀行",
-    "Wing Lung Bank Limited":"永隆銀行",
-    "Shanghai Commercial Bank Limited":"上海商業銀行",
-    "Bank of Communications Co., Ltd.":"交通銀行",
-    "Public Bank (Hong Kong) Limited":"大眾銀行",
-    "OCBC Wing Hang Bank Limited":"華僑永亨銀行",
-    "Dah Sing Bank, Limited":"大新銀行",
-    "Chong Hing Bank Limited":"創興銀行",
-    "Nanyang Commercial Bank Limited":"南洋商業銀行",
-    "Industrial and Commercial Bank of China (Asia) Limited":"中國工商銀行",
-    "Citibank (Hong Kong) Limited":"花旗銀行",
-    "China CITIC Bank International Limited":"中信銀行",
-    "China Construction Bank (Asia) Corporation Limited":"中國建設銀行",
-    "Fubon Bank (Hong Kong) Limited":"富邦銀行",
-    "Chiyu Banking Corporation Limited":"集友銀行",
-    "Australia and New Zealand Banking Group Limited, Hong Kong Branch":"澳新銀行",
-    "China Merchants Bank Hong Kong Branch":"招商銀行"
+    'Standard Chartered Bank (Hong Kong) Limited':'渣打銀行',
+    'Bank of China (Hong Kong) Limited':'中國銀行',
+    'The Bank of East Asia, Limited':'東亞銀行',
+    'DBS Bank (Hong Kong) Limited':'星展銀行',
+    'Wing Lung Bank Limited':'永隆銀行',
+    'Shanghai Commercial Bank Limited':'上海商業銀行',
+    'Bank of Communications Co., Ltd.':'交通銀行',
+    'Public Bank (Hong Kong) Limited':'大眾銀行',
+    'OCBC Wing Hang Bank Limited':'華僑永亨銀行',
+    'Dah Sing Bank, Limited':'大新銀行',
+    'Chong Hing Bank Limited':'創興銀行',
+    'Nanyang Commercial Bank Limited':'南洋商業銀行',
+    'Industrial and Commercial Bank of China (Asia) Limited':'中國工商銀行',
+    'Citibank (Hong Kong) Limited':'花旗銀行',
+    'China CITIC Bank International Limited':'中信銀行',
+    'China Construction Bank (Asia) Corporation Limited':'中國建設銀行',
+    'Fubon Bank (Hong Kong) Limited':'富邦銀行',
+    'Chiyu Banking Corporation Limited':'集友銀行',
+    'Australia and New Zealand Banking Group Limited, Hong Kong Branch':'澳新銀行',
+    'China Merchants Bank Hong Kong Branch':'招商銀行'
 };
 
 // Function to flatten an array
