@@ -18,7 +18,7 @@ function Branch(branch) {
 		zh: '7-11便利店',
 		en: '7-Eleven'
 	};
-	this.shop_type = '7-11';
+	this.shop_type = 'seven';
 	this.area = {
 		zh: branch.distr.name.tc,
 		en: branch.distr.name.en
@@ -92,7 +92,7 @@ var saveResponseBody = function(filename, url, body) {
 	}
 	fs.writeFileSync(dataDir + filename, body, 'utf-8');
 
-	console.log('7-11: Save ' + filename + ' success!');
+	console.log('Seven: Save ' + filename + ' success!');
 };
 
 // Format branches array
@@ -135,15 +135,15 @@ var branches = Promise
 
 			// Save to branches.json
 			fs.writeFileSync(__dirname + '/branches.json', JSON.stringify(branches, 0, 4), 'utf-8');
-			console.log('7-11: Save branches.json success!');
-			console.log('7-11: Finish.');
+			console.log('Seven: Save branches.json success!');
+			console.log('Seven: Finish.');
 
 			resolve(branches);
 		});
 	})
 	// Error handler
 	.catch(function(error) {
-		console.log('7-11: ' + error);
+		console.log('Seven: ' + error);
 	});
 
 module.exports = branches;

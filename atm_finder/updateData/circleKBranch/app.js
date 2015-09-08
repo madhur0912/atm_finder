@@ -8,6 +8,7 @@ var fs = require('fs');
 var $ = require('cheerio');
 
 var dataDir = __dirname + '/data/';
+var patchDir = __dirname + '/patch/';
 var urlZh = 'http://www.circlek.hk/store';
 var urlEn = 'http://www.circlek.hk/en/store';
 
@@ -266,11 +267,29 @@ var removeMacau = function(branches) {
 	});
 };
 
+var patchBracnhes = function (branches) {
+	return new Promise(function (resolve) {
+		var patch = JSON.parse(fs.readFileSync(patchDir + 'patch.json', 'utf8'));
+
+		console.log(patch);
+
+		for (var i = 0; i < branches.length; i++) {
+			
+			if (patch.hasOwnProperty(branches[i]._id)) {
+				branches[i].loc = patch[branches[i]._id];
+			};
+		};
+
+		resolve(branches);
+	});
+};
+
 // Start the promise
 var branches = Promise
 	.join(getBranches('zh'), getBranches('en'), mergeBranches)
 	.then(formatBranches)
 	.then(removeMacau)
+	.then(patchBracnhes)
 	.then(function(branches) {
 		return new Promise(function(resolve) {
 

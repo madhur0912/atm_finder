@@ -22,6 +22,10 @@ var searchNearby = function(branch, index, length) {
 		}
 	}, function(err, data) {
 		//console.log(data)
+		if (data.length > 2) {
+			console.log('bigger! ' + data.length);
+		};
+
 		if (data.length > 1) {
 			arr.push(data);
 		};

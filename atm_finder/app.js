@@ -7,8 +7,12 @@ var bodyParser = require('body-parser');
 
 // Database
 var mongo = require('mongodb');
-var monk = require('monk');
-var db = monk('localhost:27017/atm');
+var mongoose = require('mongoose').connect('mongodb://localhost:27017/atm');
+var db = mongoose.connection;
+db.on('error', console.error.bind(console, 'connection error:'));
+db.once('open', function(callback) {
+	console.log('> mongodb connected');
+});
 
 var atm = require('./routes/atm');
 
@@ -30,7 +34,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 // Make our db accessible to our router
 app.use(function(req, res, next) {
-	req.db = db;
+	//req.db = db;
 	next();
 });
 

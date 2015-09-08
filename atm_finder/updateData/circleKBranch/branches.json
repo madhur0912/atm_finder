@@ -5738,6 +5738,39 @@
         "workHrs": null
     },
     {
+        "_id": "CIRCLEK_471",
+        "atm_type": "eps",
+        "shop_type": "circleK",
+        "name": {
+            "zh": "OK便利店",
+            "en": "CircleK"
+        },
+        "area": {
+            "zh": "九龍",
+            "en": "Kowloon"
+        },
+        "district": {
+            "zh": "油麻地",
+            "en": "Yau Ma Tei"
+        },
+        "address": {
+            "zh": "九龍永星里 5 號地下 3, 4、5 及 16 號舖",
+            "en": "Shop Nos. 3, 4, 5 & 16, G/F., No. 5 Wing Sing Lane, Kowloon"
+        },
+        "loc": [
+            114.170622,
+            22.310928
+        ],
+        "service": null,
+        "tel": null,
+        "detail": {
+            "zh": null,
+            "en": null
+        },
+        "atm24": true,
+        "workHrs": null
+    },
+    {
         "_id": "CIRCLEK_273",
         "atm_type": "eps",
         "shop_type": "circleK",
@@ -6232,39 +6265,6 @@
         "workHrs": null
     },
     {
-        "_id": "CIRCLEK_347",
-        "atm_type": "eps",
-        "shop_type": "circleK",
-        "name": {
-            "zh": "OK便利店",
-            "en": "CircleK"
-        },
-        "area": {
-            "zh": "香港島",
-            "en": "Hong Kong Island"
-        },
-        "district": {
-            "zh": "上環",
-            "en": "Sheung Wan"
-        },
-        "address": {
-            "zh": "香港皇后大道西476-482號永興樓地下D號舖",
-            "en": "Shop D, G/F., Wing Hing House, Nos. 476, 478, 480 & 482 Queen's Road West, Hong Kong"
-        },
-        "loc": [
-            114.172964,
-            22.275992
-        ],
-        "service": null,
-        "tel": null,
-        "detail": {
-            "zh": null,
-            "en": null
-        },
-        "atm24": true,
-        "workHrs": null
-    },
-    {
         "_id": "CIRCLEK_243",
         "atm_type": "eps",
         "shop_type": "circleK",
@@ -6345,6 +6345,39 @@
             "saturday": "06:45 - 22:45",
             "sunday": "06:45 - 22:45"
         }
+    },
+    {
+        "_id": "CIRCLEK_347",
+        "atm_type": "eps",
+        "shop_type": "circleK",
+        "name": {
+            "zh": "OK便利店",
+            "en": "CircleK"
+        },
+        "area": {
+            "zh": "香港島",
+            "en": "Hong Kong Island"
+        },
+        "district": {
+            "zh": "上環",
+            "en": "Sheung Wan"
+        },
+        "address": {
+            "zh": "香港皇后大道西476-482號永興樓地下D號舖",
+            "en": "Shop D, G/F., Wing Hing House, Nos. 476, 478, 480 & 482 Queen's Road West, Hong Kong"
+        },
+        "loc": [
+            114.172964,
+            22.275992
+        ],
+        "service": null,
+        "tel": null,
+        "detail": {
+            "zh": null,
+            "en": null
+        },
+        "atm24": true,
+        "workHrs": null
     },
     {
         "_id": "CIRCLEK_388",
@@ -6569,7 +6602,7 @@
         "workHrs": null
     },
     {
-        "_id": "CIRCLEK_270",
+        "_id": "CIRCLEK_269",
         "atm_type": "eps",
         "shop_type": "circleK",
         "name": {
@@ -6585,8 +6618,8 @@
             "en": "Tsim Sha Tsui"
         },
         "address": {
-            "zh": "九龍尖東站25號舖",
-            "en": "Shop No. 25 East Tsim Sha Tsui Station, Kowloon(MTR - East Rail Line)"
+            "zh": "九龍尖東站3號舖",
+            "en": "TST KCR West, Shop No.3 East Tsim Sha Tsui Station, Kowloon(MTR - East Rail Line)"
         },
         "loc": [
             114.174586,
@@ -6610,7 +6643,7 @@
         }
     },
     {
-        "_id": "CIRCLEK_269",
+        "_id": "CIRCLEK_270",
         "atm_type": "eps",
         "shop_type": "circleK",
         "name": {
@@ -6626,8 +6659,8 @@
             "en": "Tsim Sha Tsui"
         },
         "address": {
-            "zh": "九龍尖東站3號舖",
-            "en": "TST KCR West, Shop No.3 East Tsim Sha Tsui Station, Kowloon(MTR - East Rail Line)"
+            "zh": "九龍尖東站25號舖",
+            "en": "Shop No. 25 East Tsim Sha Tsui Station, Kowloon(MTR - East Rail Line)"
         },
         "loc": [
             114.174586,
@@ -10725,7 +10758,7 @@
         "workHrs": null
     },
     {
-        "_id": "CIRCLEK_300",
+        "_id": "CIRCLEK_252",
         "atm_type": "eps",
         "shop_type": "circleK",
         "name": {
@@ -10741,8 +10774,8 @@
             "en": "Chai Wan"
         },
         "address": {
-            "zh": "柴灣地鐵站CHW12號舖",
-            "en": "KIOSK No. CHW12 at Chai Wan Station, Chai Wan (Exit C)"
+            "zh": "柴灣地鐵站CHW11號舖",
+            "en": "KIOSK CHW11 Chai Wan MTR Station"
         },
         "loc": [
             114.237133,
@@ -10766,7 +10799,7 @@
         }
     },
     {
-        "_id": "CIRCLEK_252",
+        "_id": "CIRCLEK_300",
         "atm_type": "eps",
         "shop_type": "circleK",
         "name": {
@@ -10782,8 +10815,8 @@
             "en": "Chai Wan"
         },
         "address": {
-            "zh": "柴灣地鐵站CHW11號舖",
-            "en": "KIOSK CHW11 Chai Wan MTR Station"
+            "zh": "柴灣地鐵站CHW12號舖",
+            "en": "KIOSK No. CHW12 at Chai Wan Station, Chai Wan (Exit C)"
         },
         "loc": [
             114.237133,
@@ -11701,39 +11734,6 @@
         "loc": [
             114.273267,
             22.381213
-        ],
-        "service": null,
-        "tel": null,
-        "detail": {
-            "zh": null,
-            "en": null
-        },
-        "atm24": true,
-        "workHrs": null
-    },
-    {
-        "_id": "CIRCLEK_471",
-        "atm_type": "eps",
-        "shop_type": "circleK",
-        "name": {
-            "zh": "OK便利店",
-            "en": "CircleK"
-        },
-        "area": {
-            "zh": "九龍",
-            "en": "Kowloon"
-        },
-        "district": {
-            "zh": "油麻地",
-            "en": "Yau Ma Tei"
-        },
-        "address": {
-            "zh": "九龍永星里 5 號地下 3, 4、5 及 16 號舖",
-            "en": "Shop Nos. 3, 4, 5 & 16, G/F., No. 5 Wing Sing Lane, Kowloon"
-        },
-        "loc": [
-            114.56789,
-            22.12345
         ],
         "service": null,
         "tel": null,
