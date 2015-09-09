@@ -15438,49 +15438,5 @@
             "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nForeign Currency Cash Withdrawal\nPassbook Update\nCheque Deposit"
         },
         "tel": null
-    },
-    {
-        "_id": "HSBC_055",
-        "atm_type": "hsbc",
-        "shop_type": "hsbc",
-        "name": {
-            "zh": "匯豐銀行 西貢分行",
-            "en": "HSBC Sai Kung Branch"
-        },
-        "area": {
-            "zh": "新界",
-            "en": "New Territories"
-        },
-        "district": {
-            "zh": "西貢區",
-            "en": "Sai Kung District"
-        },
-        "address": {
-            "zh": "新界西貢親民街西貢花園9-10號舖",
-            "en": "Shops No. 9 & 10, Sai Kung Garden, Chan Man Street, Sai Kung, New Territories"
-        },
-        "detail": {
-            "zh": "24小時自動櫃員機服務",
-            "en": "24-hour ATM Service"
-        },
-        "loc": [
-            114.271256,
-            22.382291
-        ],
-        "workHrs": {
-            "monday": "09:00 - 16:30",
-            "tuesday": "09:00 - 16:30",
-            "wednesday": "09:00 - 16:30",
-            "thursday": "09:00 - 16:30",
-            "friday": "09:00 - 17:00",
-            "saturday": "09:00 - 13:00",
-            "sunday": "-"
-        },
-        "atm24": true,
-        "service": {
-            "zh": "現金提款\n外幣兌換服務\n匯豐卓越理財服務櫃檯\n現金存款\n網上理財服務\n更新存摺簿交易資料\n匯豐運籌理財服務櫃檯",
-            "en": "Cash Withdrawal\nForeign Currency Exchange\nHSBC Premier Counter\nCash Deposit\nOnline Financial Services \nPassbook Update\nHSBC Advance Counter"
-        },
-        "tel": null
     }
 ]

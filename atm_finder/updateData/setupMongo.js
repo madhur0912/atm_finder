@@ -31,12 +31,21 @@ var flattenArray = function(array) {
 // Function to create the atm collection
 var createAtmCollection = function() {
 	return new Promise(function(resolve, reject) {
-		db.createCollection('atm', {}, function(err, collection) {
+
+		db.collection('atm').drop(function(err, reply) {
 			if (err) {
-				reject(err);
+				console.log('Error: ' + err);
 			} else {
-				resolve(collection);
+				console.log('Mongo: Drop collection "atm": ' + reply);
 			}
+
+			db.createCollection('atm', {}, function(err, collection) {
+				if (err) {
+					reject(err);
+				} else {
+					resolve(collection);
+				}
+			});
 		});
 	});
 };

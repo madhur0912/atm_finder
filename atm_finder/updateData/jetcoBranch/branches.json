@@ -99,39 +99,6 @@
         "tel": null
     },
     {
-        "_id": "JETCO_20072",
-        "atm_type": "jetco",
-        "name": {
-            "zh": "中國銀行",
-            "en": "Bank of China"
-        },
-        "shop_type": "boc",
-        "area": {
-            "zh": "離島",
-            "en": "Outlying Islands"
-        },
-        "district": {
-            "zh": "大嶼山",
-            "en": "Lantau Island"
-        },
-        "address": {
-            "zh": "香港國際機場一號客運大樓第5層, 5T099E號自動櫃員機",
-            "en": "ATM at Unit No.5T099E at level 5, Terminal 1, Hong Kong International Airport, Lantau, Hong Kong. "
-        },
-        "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
-        },
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.93399477005005,
-            22.314825346701916
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
         "_id": "JETCO_1853",
         "atm_type": "jetco",
         "name": {
@@ -160,39 +127,6 @@
         "loc": [
             113.93413424491882,
             22.29757398865327
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "JETCO_20071",
-        "atm_type": "jetco",
-        "name": {
-            "zh": "中國銀行",
-            "en": "Bank of China"
-        },
-        "shop_type": "boc",
-        "area": {
-            "zh": "離島",
-            "en": "Outlying Islands"
-        },
-        "district": {
-            "zh": "大嶼山",
-            "en": "Lantau Island"
-        },
-        "address": {
-            "zh": "香港國際機場一號客運大樓第5層, 5T030B號自動櫃員機",
-            "en": "ATM at Unit No.5T030B at level 5, Terminal 1, Hong Kong International Airport, Lantau, Hong Kong. "
-        },
-        "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
-        },
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.9346170425415,
-            22.314904749636536
         ],
         "workHrs": null,
         "tel": null
@@ -1320,39 +1254,6 @@
         "tel": null
     },
     {
-        "_id": "JETCO_1770",
-        "atm_type": "jetco",
-        "name": {
-            "zh": "大新銀行",
-            "en": "Dah Sing Bank"
-        },
-        "shop_type": "dahsing",
-        "area": {
-            "zh": "新界",
-            "en": "New Territories"
-        },
-        "district": {
-            "zh": "屯門",
-            "en": "Tuen Mun"
-        },
-        "address": {
-            "zh": "屯門建生村建生商場111A舖",
-            "en": "Shop No. 111A Shopping Centre, Kin Sang Estate, Tuen Mun"
-        },
-        "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\n銀聯\nCIRRUS",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nCUP\nCIRRUS"
-        },
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.96953403949738,
-            22.407080896238707
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
         "_id": "JETCO_33281",
         "atm_type": "jetco",
         "name": {
@@ -2178,6 +2079,39 @@
         "tel": null
     },
     {
+        "_id": "JETCO_193404",
+        "atm_type": "jetco",
+        "name": {
+            "zh": "中國銀行",
+            "en": "Bank of China"
+        },
+        "shop_type": "boc",
+        "area": {
+            "zh": "新界",
+            "en": "New Territories"
+        },
+        "district": {
+            "zh": "屯門",
+            "en": "Tuen Mun"
+        },
+        "address": {
+            "zh": "新界屯門友愛路友愛邨「H.A.N.D.S」商場S區地下(又稱 L1) ATM No.2",
+            "en": "No.2 G/F., of Commercial Centre (also known as Zone S, H.A.N.D.S.),  Yau Oi Estate, Yau Oi Road, Tuen Mun, N. T."
+        },
+        "service": {
+            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
+            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
+        },
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            113.97591468619157,
+            22.38705088937457
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
         "_id": "JETCO_1759",
         "atm_type": "jetco",
         "name": {
@@ -2310,39 +2244,6 @@
         "tel": null
     },
     {
-        "_id": "JETCO_1756",
-        "atm_type": "jetco",
-        "name": {
-            "zh": "中國建設銀行",
-            "en": "China Construction Bank"
-        },
-        "shop_type": "construct",
-        "area": {
-            "zh": "新界",
-            "en": "New Territories"
-        },
-        "district": {
-            "zh": "屯門",
-            "en": "Tuen Mun"
-        },
-        "address": {
-            "zh": "屯門市廣場第二期地下9至12及15號舖",
-            "en": "Shop Nos. 9-12 & 15, G/F, Tuen Mun Town Plaza Phase II, 3 Tuen Lung Street, Tuen Mun"
-        },
-        "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\n銀聯",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nCUP"
-        },
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            113.9763544,
-            22.3937419
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
         "_id": "JETCO_17458",
         "atm_type": "jetco",
         "name": {
@@ -2376,13 +2277,13 @@
         "tel": null
     },
     {
-        "_id": "JETCO_125603",
+        "_id": "JETCO_1756",
         "atm_type": "jetco",
         "name": {
-            "zh": "創興銀行",
-            "en": "Chong Hing Bank"
+            "zh": "中國建設銀行",
+            "en": "China Construction Bank"
         },
-        "shop_type": "chonghing",
+        "shop_type": "construct",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -2392,18 +2293,18 @@
             "en": "Tuen Mun"
         },
         "address": {
-            "zh": "屯門安定街巿大樓C116號舖",
-            "en": "Shop C116, Restaurant and Market Block, On Ting Shopping Centre, Tuen Mun"
+            "zh": "屯門市廣場第二期地下9至12及15號舖",
+            "en": "Shop Nos. 9-12 & 15, G/F, Tuen Mun Town Plaza Phase II, 3 Tuen Lung Street, Tuen Mun"
         },
         "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\n銀聯",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nCUP"
+            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\n銀聯",
+            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nCUP"
         },
         "detail": null,
         "atm24": true,
         "loc": [
-            113.97650241851807,
-            22.38728156648575
+            113.9763544,
+            22.3937419
         ],
         "workHrs": null,
         "tel": null
@@ -2668,6 +2569,39 @@
         "loc": [
             113.97861063480377,
             22.389111833212137
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
+        "_id": "JETCO_193414",
+        "atm_type": "jetco",
+        "name": {
+            "zh": "創興銀行",
+            "en": "Chong Hing Bank"
+        },
+        "shop_type": "chonghing",
+        "area": {
+            "zh": "新界",
+            "en": "New Territories"
+        },
+        "district": {
+            "zh": "屯門",
+            "en": "Tuen Mun"
+        },
+        "address": {
+            "zh": "新界屯門兆康站SIH 34舖",
+            "en": "Shop SIH34,Siu Hong Station,Tuen Mun,New Territories"
+        },
+        "service": {
+            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\n銀聯",
+            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nCUP"
+        },
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            113.97877199999994,
+            22.411341
         ],
         "workHrs": null,
         "tel": null
@@ -3993,6 +3927,39 @@
         "tel": null
     },
     {
+        "_id": "JETCO_186913",
+        "atm_type": "jetco",
+        "name": {
+            "zh": "中國銀行",
+            "en": "Bank of China"
+        },
+        "shop_type": "boc",
+        "area": {
+            "zh": "新界",
+            "en": "New Territories"
+        },
+        "district": {
+            "zh": "元朗",
+            "en": "Yuen Long"
+        },
+        "address": {
+            "zh": "元朗壽富街29號興隆中心地下20號舖",
+            "en": "Shop 20, G/F, Prosper Centre, No.29 Sau Fu Street, Yuen Long, N.T."
+        },
+        "service": {
+            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
+            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
+        },
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.02757840000004,
+            22.444956
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
         "_id": "JETCO_1842",
         "atm_type": "jetco",
         "name": {
@@ -4681,6 +4648,39 @@
         "loc": [
             114.0347170829773,
             22.446100922503728
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
+        "_id": "JETCO_196738",
+        "atm_type": "jetco",
+        "name": {
+            "zh": "東亞銀行",
+            "en": "The Bank of East Asia"
+        },
+        "shop_type": "bea",
+        "area": {
+            "zh": "新界",
+            "en": "New Territories"
+        },
+        "district": {
+            "zh": "元朗",
+            "en": "Yuen Long"
+        },
+        "address": {
+            "zh": "新界元朗元龍街9號形點I,1樓1071舖",
+            "en": "Shop 1071, L1, YOHO MALL I,9 Yuen Lung Street,Yuen Long, N.T."
+        },
+        "service": {
+            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
+            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
+        },
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.036877,
+            22.442972
         ],
         "workHrs": null,
         "tel": null
@@ -6298,6 +6298,39 @@
         "loc": [
             114.11098301410675,
             22.370026771160934
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
+        "_id": "JETCO_193407",
+        "atm_type": "jetco",
+        "name": {
+            "zh": "中國銀行",
+            "en": "Bank of China"
+        },
+        "shop_type": "boc",
+        "area": {
+            "zh": "新界",
+            "en": "New Territories"
+        },
+        "district": {
+            "zh": "青衣",
+            "en": "Tsing Yi"
+        },
+        "address": {
+            "zh": "靑衣航運路 36號亞洲物流中心-順豐大廈 9樓",
+            "en": "9/F, Asia Logistics Hub - S.F.Centre, 36. Tsing Yi  Hong Wan Road, Tsing Yi, N.T."
+        },
+        "service": {
+            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
+            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
+        },
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.11140019999993,
+            22.3349013
         ],
         "workHrs": null,
         "tel": null
@@ -7953,6 +7986,39 @@
         "tel": null
     },
     {
+        "_id": "JETCO_180720",
+        "atm_type": "jetco",
+        "name": {
+            "zh": "中國銀行",
+            "en": "Bank of China"
+        },
+        "shop_type": "boc",
+        "area": {
+            "zh": "新界",
+            "en": "New Territories"
+        },
+        "district": {
+            "zh": "葵涌",
+            "en": "Kwai Chung"
+        },
+        "address": {
+            "zh": "新界葵涌永基路 55號嘉里貨運中心 P1層",
+            "en": "Outside P1 Lift Lobby, Kerry Cargo Centre, 55 Wing Kei Road, Kwai Chung, N.T."
+        },
+        "service": {
+            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
+            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
+        },
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.12095739999995,
+            22.3633509
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
         "_id": "JETCO_1716",
         "atm_type": "jetco",
         "name": {
@@ -8514,39 +8580,6 @@
         "tel": null
     },
     {
-        "_id": "JETCO_1381",
-        "atm_type": "jetco",
-        "name": {
-            "zh": "創興銀行",
-            "en": "Chong Hing Bank"
-        },
-        "shop_type": "chonghing",
-        "area": {
-            "zh": "新界",
-            "en": "New Territories"
-        },
-        "district": {
-            "zh": "葵涌",
-            "en": "Kwai Chung"
-        },
-        "address": {
-            "zh": "葵涌葵涌邨商場111號舖",
-            "en": "Shop 111, Podium Level 1, Kwai Chung Shopping Centre, Kwai Chung"
-        },
-        "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\n銀聯",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nCUP"
-        },
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.12683218717575,
-            22.369257857417438
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
         "_id": "JETCO_1536",
         "atm_type": "jetco",
         "name": {
@@ -8745,39 +8778,6 @@
         "tel": null
     },
     {
-        "_id": "JETCO_17460",
-        "atm_type": "jetco",
-        "name": {
-            "zh": "中國銀行",
-            "en": "Bank of China"
-        },
-        "shop_type": "boc",
-        "area": {
-            "zh": "新界",
-            "en": "New Territories"
-        },
-        "district": {
-            "zh": "葵芳",
-            "en": "Kwai Fong"
-        },
-        "address": {
-            "zh": "新界葵涌興芳道223號新都會廣場260-265號舖",
-            "en": "Shop 260-265,Metroplaza, 223 Hing Fong Road, Kwai Chung, New Territories"
-        },
-        "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
-        },
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.12694215774536,
-            22.357130782035444
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
         "_id": "JETCO_98218",
         "atm_type": "jetco",
         "name": {
@@ -8839,39 +8839,6 @@
         "loc": [
             114.12712454795837,
             22.364473134214368
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "JETCO_1368",
-        "atm_type": "jetco",
-        "name": {
-            "zh": "中國銀行",
-            "en": "Bank of China"
-        },
-        "shop_type": "boc",
-        "area": {
-            "zh": "新界",
-            "en": "New Territories"
-        },
-        "district": {
-            "zh": "葵涌",
-            "en": "Kwai Chung"
-        },
-        "address": {
-            "zh": "新界葵涌興芳道223號新都會廣場260-265號",
-            "en": "Shop 260-265, Metroplaza, 223 Hing Fong Road, Kwai Chung, New Territories"
-        },
-        "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
-        },
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.127189,
-            22.357196
         ],
         "workHrs": null,
         "tel": null
@@ -8943,39 +8910,6 @@
         "tel": null
     },
     {
-        "_id": "JETCO_1526",
-        "atm_type": "jetco",
-        "name": {
-            "zh": "中國銀行",
-            "en": "Bank of China"
-        },
-        "shop_type": "boc",
-        "area": {
-            "zh": "新界",
-            "en": "New Territories"
-        },
-        "district": {
-            "zh": "上水",
-            "en": "Sheung Shui"
-        },
-        "address": {
-            "zh": "上水清河村清譽樓附翼地下空地ATM位置",
-            "en": "ATM at the Empty Bay, G/F, Ching Yu House Annex Block, Ching Ho Estate, Sheung Shui"
-        },
-        "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
-        },
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.12733912467957,
-            22.49378376851048
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
         "_id": "JETCO_1393",
         "atm_type": "jetco",
         "name": {
@@ -9004,6 +8938,39 @@
         "loc": [
             114.12733912467957,
             22.339646488512788
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
+        "_id": "JETCO_1526",
+        "atm_type": "jetco",
+        "name": {
+            "zh": "中國銀行",
+            "en": "Bank of China"
+        },
+        "shop_type": "boc",
+        "area": {
+            "zh": "新界",
+            "en": "New Territories"
+        },
+        "district": {
+            "zh": "上水",
+            "en": "Sheung Shui"
+        },
+        "address": {
+            "zh": "上水清河村清譽樓附翼地下空地ATM位置",
+            "en": "ATM at the Empty Bay, G/F, Ching Yu House Annex Block, Ching Ho Estate, Sheung Shui"
+        },
+        "service": {
+            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
+            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
+        },
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.12733912467957,
+            22.49378376851048
         ],
         "workHrs": null,
         "tel": null
@@ -9570,13 +9537,13 @@
         "tel": null
     },
     {
-        "_id": "JETCO_1380",
+        "_id": "JETCO_2422",
         "atm_type": "jetco",
         "name": {
-            "zh": "創興銀行",
-            "en": "Chong Hing Bank"
+            "zh": "中國銀行",
+            "en": "Bank of China"
         },
-        "shop_type": "chonghing",
+        "shop_type": "boc",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -9586,18 +9553,18 @@
             "en": "Kwai Chung"
         },
         "address": {
-            "zh": "葵涌祖堯邨敬祖路C座地下",
-            "en": "G/F Block C ,King Cho Rd Cho Yiu Chuen"
+            "zh": "葵涌葵涌村葵涌商場101號商舖對面的公共地方ATM位置",
+            "en": "ATM at Open Space facing Shop 101, Kwai Chung Shopping Centre, Kwai Chung"
         },
         "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\n銀聯",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nCUP"
+            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
+            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
         },
         "detail": null,
         "atm24": true,
         "loc": [
             114.12842273712158,
-            22.346084277931315
+            22.36708255263281
         ],
         "workHrs": null,
         "tel": null
@@ -9636,13 +9603,13 @@
         "tel": null
     },
     {
-        "_id": "JETCO_2422",
+        "_id": "JETCO_1380",
         "atm_type": "jetco",
         "name": {
-            "zh": "中國銀行",
-            "en": "Bank of China"
+            "zh": "創興銀行",
+            "en": "Chong Hing Bank"
         },
-        "shop_type": "boc",
+        "shop_type": "chonghing",
         "area": {
             "zh": "新界",
             "en": "New Territories"
@@ -9652,18 +9619,18 @@
             "en": "Kwai Chung"
         },
         "address": {
-            "zh": "葵涌葵涌村葵涌商場101號商舖對面的公共地方ATM位置",
-            "en": "ATM at Open Space facing Shop 101, Kwai Chung Shopping Centre, Kwai Chung"
+            "zh": "葵涌祖堯邨敬祖路C座地下",
+            "en": "G/F Block C ,King Cho Rd Cho Yiu Chuen"
         },
         "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
+            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\n銀聯",
+            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nCUP"
         },
         "detail": null,
         "atm24": true,
         "loc": [
             114.12842273712158,
-            22.36708255263281
+            22.346084277931315
         ],
         "workHrs": null,
         "tel": null
@@ -10324,6 +10291,39 @@
         "loc": [
             114.13120700000002,
             22.363056
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
+        "_id": "JETCO_199838",
+        "atm_type": "jetco",
+        "name": {
+            "zh": "中國工商銀行",
+            "en": "Industrial and Commercial Bank of China"
+        },
+        "shop_type": "icbc",
+        "area": {
+            "zh": "新界",
+            "en": "New Territories"
+        },
+        "district": {
+            "zh": "葵興",
+            "en": "Kwai Hing"
+        },
+        "address": {
+            "zh": "葵涌興芳道166-174號新葵興廣場1樓",
+            "en": "1/F, Sun Kwai Hing Plaza ,166-174 Hing Fong Road, Kwai Chung "
+        },
+        "service": {
+            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\nJCB\n銀聯\nCIRRUS",
+            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nJCB\nCUP\nCIRRUS"
+        },
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.1316094,
+            22.363047
         ],
         "workHrs": null,
         "tel": null
@@ -12474,39 +12474,6 @@
         "tel": null
     },
     {
-        "_id": "JETCO_1026",
-        "atm_type": "jetco",
-        "name": {
-            "zh": "中國銀行",
-            "en": "Bank of China"
-        },
-        "shop_type": "boc",
-        "area": {
-            "zh": "九龍",
-            "en": "Kowloon"
-        },
-        "district": {
-            "zh": "美孚",
-            "en": "Mei Foo"
-        },
-        "address": {
-            "zh": "美孚美孚新邨萬事逹廣場7-B",
-            "en": "17-B Mount Sterling Mall, Mei Foo Sun Chuen, Mei Foo"
-        },
-        "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
-        },
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.13983285427094,
-            22.33759228736289
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
         "_id": "JETCO_1031",
         "atm_type": "jetco",
         "name": {
@@ -12535,6 +12502,39 @@
         "loc": [
             114.13983285427094,
             22.337617096736075
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
+        "_id": "JETCO_1026",
+        "atm_type": "jetco",
+        "name": {
+            "zh": "中國銀行",
+            "en": "Bank of China"
+        },
+        "shop_type": "boc",
+        "area": {
+            "zh": "九龍",
+            "en": "Kowloon"
+        },
+        "district": {
+            "zh": "美孚",
+            "en": "Mei Foo"
+        },
+        "address": {
+            "zh": "美孚美孚新邨萬事逹廣場7-B",
+            "en": "17-B Mount Sterling Mall, Mei Foo Sun Chuen, Mei Foo"
+        },
+        "service": {
+            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
+            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
+        },
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.13983285427094,
+            22.33759228736289
         ],
         "workHrs": null,
         "tel": null
@@ -13299,39 +13299,6 @@
         "tel": null
     },
     {
-        "_id": "JETCO_66147",
-        "atm_type": "jetco",
-        "name": {
-            "zh": "中國工商銀行",
-            "en": "Industrial and Commercial Bank of China"
-        },
-        "shop_type": "icbc",
-        "area": {
-            "zh": "新界",
-            "en": "New Territories"
-        },
-        "district": {
-            "zh": "粉嶺",
-            "en": "Fanling"
-        },
-        "address": {
-            "zh": "新界粉嶺一鳴路23號牽晴間購物商場地下G1A號鋪",
-            "en": "Shop No. G1A, G/F., Dawning Views Plaza, No.23 Yat Ming Road Fanling, New Territories."
-        },
-        "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\nJCB\n銀聯\nCIRRUS",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nJCB\nCUP\nCIRRUS"
-        },
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.14345920085907,
-            22.48733051711439
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
         "_id": "JETCO_796",
         "atm_type": "jetco",
         "name": {
@@ -13690,39 +13657,6 @@
         "loc": [
             114.146630576799,
             22.24377292974553
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "JETCO_1161",
-        "atm_type": "jetco",
-        "name": {
-            "zh": "創興銀行",
-            "en": "Chong Hing Bank"
-        },
-        "shop_type": "chonghing",
-        "area": {
-            "zh": "九龍",
-            "en": "Kowloon"
-        },
-        "district": {
-            "zh": "荔枝角",
-            "en": "Lai Chi Kok"
-        },
-        "address": {
-            "zh": "深水埗海麗邨海麗商場112號舖",
-            "en": "Shop No.112, Hoi Lai Shopping Centre, Hoi Lai Estate, Sham Shui Po."
-        },
-        "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\n銀聯",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nCUP"
-        },
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.14676904678345,
-            22.332491386495622
         ],
         "workHrs": null,
         "tel": null
@@ -14091,39 +14025,6 @@
         "tel": null
     },
     {
-        "_id": "JETCO_807",
-        "atm_type": "jetco",
-        "name": {
-            "zh": "東亞銀行",
-            "en": "The Bank of East Asia"
-        },
-        "shop_type": "bea",
-        "area": {
-            "zh": "九龍",
-            "en": "Kowloon"
-        },
-        "district": {
-            "zh": "荔枝角",
-            "en": "Lai Chi Kok"
-        },
-        "address": {
-            "zh": "長沙灣長沙灣道833號長沙灣廣場1樓117-118號",
-            "en": "1Shop 117-118, 1/F, Cheung Sha Wan Plaza, 833 Cheung Sha Wan Road"
-        },
-        "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
-        },
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.148737,
-            22.337118
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
         "_id": "JETCO_805",
         "atm_type": "jetco",
         "name": {
@@ -14146,6 +14047,39 @@
         "service": {
             "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\n銀聯\nCIRRUS",
             "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nCUP\nCIRRUS"
+        },
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.148737,
+            22.337118
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
+        "_id": "JETCO_807",
+        "atm_type": "jetco",
+        "name": {
+            "zh": "東亞銀行",
+            "en": "The Bank of East Asia"
+        },
+        "shop_type": "bea",
+        "area": {
+            "zh": "九龍",
+            "en": "Kowloon"
+        },
+        "district": {
+            "zh": "荔枝角",
+            "en": "Lai Chi Kok"
+        },
+        "address": {
+            "zh": "長沙灣長沙灣道833號長沙灣廣場1樓117-118號",
+            "en": "1Shop 117-118, 1/F, Cheung Sha Wan Plaza, 833 Cheung Sha Wan Road"
+        },
+        "service": {
+            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
+            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
         },
         "detail": null,
         "atm24": true,
@@ -14218,39 +14152,6 @@
         "loc": [
             114.14876461029053,
             22.24919331874452
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "JETCO_89172",
-        "atm_type": "jetco",
-        "name": {
-            "zh": "中國工商銀行",
-            "en": "Industrial and Commercial Bank of China"
-        },
-        "shop_type": "icbc",
-        "area": {
-            "zh": "香港",
-            "en": "Hong Kong"
-        },
-        "district": {
-            "zh": "上環",
-            "en": "Sheung Wan"
-        },
-        "address": {
-            "zh": "上環皇后大道中375號地下B舖",
-            "en": "Shop B, G/F, 375 Queens Road Central, Hong Kong"
-        },
-        "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\nJCB\n銀聯\nCIRRUS",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nJCB\nCUP\nCIRRUS"
-        },
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.1489040851593,
-            22.286118227609734
         ],
         "workHrs": null,
         "tel": null
@@ -15873,6 +15774,39 @@
         "tel": null
     },
     {
+        "_id": "JETCO_199837",
+        "atm_type": "jetco",
+        "name": {
+            "zh": "中國工商銀行",
+            "en": "Industrial and Commercial Bank of China"
+        },
+        "shop_type": "icbc",
+        "area": {
+            "zh": "九龍",
+            "en": "Kowloon"
+        },
+        "district": {
+            "zh": "長沙灣",
+            "en": "Cheung Sha Wan"
+        },
+        "address": {
+            "zh": "九龍長沙灣元州街303號元州商場地下",
+            "en": "G/F., Un Chau Estate Shopping Center, Cheung Sha Wan"
+        },
+        "service": {
+            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\nJCB\n銀聯\nCIRRUS",
+            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nJCB\nCUP\nCIRRUS"
+        },
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.15508299999999,
+            22.3383
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
         "_id": "JETCO_165182",
         "atm_type": "jetco",
         "name": {
@@ -16434,39 +16368,6 @@
         "tel": null
     },
     {
-        "_id": "JETCO_107407",
-        "atm_type": "jetco",
-        "name": {
-            "zh": "中國工商銀行",
-            "en": "Industrial and Commercial Bank of China"
-        },
-        "shop_type": "icbc",
-        "area": {
-            "zh": "九龍",
-            "en": "Kowloon"
-        },
-        "district": {
-            "zh": "長沙灣",
-            "en": "Cheung Sha Wan"
-        },
-        "address": {
-            "zh": "港鐵長沙灣站B出口CSW ATM 2舖",
-            "en": "Shop CSW ATM 2, Exit B, MTR Cheung Sha Wan Station"
-        },
-        "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\nJCB\n銀聯\nCIRRUS",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nJCB\nCUP\nCIRRUS"
-        },
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.1560173034668,
-            22.33557278958356
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
         "_id": "JETCO_376",
         "atm_type": "jetco",
         "name": {
@@ -16495,6 +16396,39 @@
         "loc": [
             114.1560173034668,
             22.24739597186728
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
+        "_id": "JETCO_107407",
+        "atm_type": "jetco",
+        "name": {
+            "zh": "中國工商銀行",
+            "en": "Industrial and Commercial Bank of China"
+        },
+        "shop_type": "icbc",
+        "area": {
+            "zh": "九龍",
+            "en": "Kowloon"
+        },
+        "district": {
+            "zh": "長沙灣",
+            "en": "Cheung Sha Wan"
+        },
+        "address": {
+            "zh": "港鐵長沙灣站B出口CSW ATM 2舖",
+            "en": "Shop CSW ATM 2, Exit B, MTR Cheung Sha Wan Station"
+        },
+        "service": {
+            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\nJCB\n銀聯\nCIRRUS",
+            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nJCB\nCUP\nCIRRUS"
+        },
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.1560173034668,
+            22.33557278958356
         ],
         "workHrs": null,
         "tel": null
@@ -16698,39 +16632,6 @@
         "tel": null
     },
     {
-        "_id": "JETCO_20050",
-        "atm_type": "jetco",
-        "name": {
-            "zh": "中國銀行",
-            "en": "Bank of China"
-        },
-        "shop_type": "boc",
-        "area": {
-            "zh": "香港",
-            "en": "Hong Kong"
-        },
-        "district": {
-            "zh": "香港仔",
-            "en": "Aberdeen"
-        },
-        "address": {
-            "zh": "香港鴨脷洲惠風街13-15號",
-            "en": "13-15 Wai Fung Street, Ap Lei Chau, Hong Kong"
-        },
-        "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
-        },
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.15655374526978,
-            22.244337450133195
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
         "_id": "JETCO_513",
         "atm_type": "jetco",
         "name": {
@@ -16759,6 +16660,39 @@
         "loc": [
             114.15655374526978,
             22.28378030313346
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
+        "_id": "JETCO_20050",
+        "atm_type": "jetco",
+        "name": {
+            "zh": "中國銀行",
+            "en": "Bank of China"
+        },
+        "shop_type": "boc",
+        "area": {
+            "zh": "香港",
+            "en": "Hong Kong"
+        },
+        "district": {
+            "zh": "香港仔",
+            "en": "Aberdeen"
+        },
+        "address": {
+            "zh": "香港鴨脷洲惠風街13-15號",
+            "en": "13-15 Wai Fung Street, Ap Lei Chau, Hong Kong"
+        },
+        "service": {
+            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
+            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
+        },
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.15655374526978,
+            22.244337450133195
         ],
         "workHrs": null,
         "tel": null
@@ -17023,6 +16957,39 @@
         "loc": [
             114.15696680545807,
             22.28326903206176
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
+        "_id": "JETCO_199833",
+        "atm_type": "jetco",
+        "name": {
+            "zh": "創興銀行",
+            "en": "Chong Hing Bank"
+        },
+        "shop_type": "chonghing",
+        "area": {
+            "zh": "香港",
+            "en": "Hong Kong"
+        },
+        "district": {
+            "zh": "中環",
+            "en": "Central"
+        },
+        "address": {
+            "zh": "中環德輔道中24號3樓",
+            "en": "3/F 24 Des Voeux Road Central, Hong Kong."
+        },
+        "service": {
+            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\n銀聯",
+            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nCUP"
+        },
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.15700700000002,
+            22.282521
         ],
         "workHrs": null,
         "tel": null
@@ -17749,39 +17716,6 @@
         "loc": [
             114.15837228298187,
             22.280945951607823
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "JETCO_486",
-        "atm_type": "jetco",
-        "name": {
-            "zh": "花旗銀行",
-            "en": "Citibank"
-        },
-        "shop_type": "citi",
-        "area": {
-            "zh": "香港",
-            "en": "Hong Kong"
-        },
-        "district": {
-            "zh": "中環",
-            "en": "Central"
-        },
-        "address": {
-            "zh": "中環康樂廣場八號交易廣場一座十樓1003-1004室",
-            "en": "Unit 1003-4, One Exchange Square, 8 Connaught Place, Central, Hong Kong."
-        },
-        "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\n銀聯\nCIRRUS",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nCUP\nCIRRUS"
-        },
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.158396422863,
-            22.283442765159904
         ],
         "workHrs": null,
         "tel": null
@@ -19437,39 +19371,6 @@
         "tel": null
     },
     {
-        "_id": "JETCO_1195",
-        "atm_type": "jetco",
-        "name": {
-            "zh": "渣打銀行",
-            "en": "Standard Chartered Bank"
-        },
-        "shop_type": "sc",
-        "area": {
-            "zh": "九龍",
-            "en": "Kowloon"
-        },
-        "district": {
-            "zh": "大角咀",
-            "en": "Tai Kok Tsui"
-        },
-        "address": {
-            "zh": "大角咀海庭道18號奧海城二期一樓135&136號",
-            "en": "Shop Nos. 135&136, 1/F, Olympian City 2, 18 Hoi Ting Road, West Kowloon."
-        },
-        "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\n銀聯\nCIRRUS",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nCUP\nCIRRUS"
-        },
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.161943,
-            22.315615
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
         "_id": "JETCO_1185",
         "atm_type": "jetco",
         "name": {
@@ -19525,6 +19426,39 @@
         "service": {
             "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
             "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
+        },
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.161943,
+            22.315615
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
+        "_id": "JETCO_1195",
+        "atm_type": "jetco",
+        "name": {
+            "zh": "渣打銀行",
+            "en": "Standard Chartered Bank"
+        },
+        "shop_type": "sc",
+        "area": {
+            "zh": "九龍",
+            "en": "Kowloon"
+        },
+        "district": {
+            "zh": "大角咀",
+            "en": "Tai Kok Tsui"
+        },
+        "address": {
+            "zh": "大角咀海庭道18號奧海城二期一樓135&136號",
+            "en": "Shop Nos. 135&136, 1/F, Olympian City 2, 18 Hoi Ting Road, West Kowloon."
+        },
+        "service": {
+            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\n銀聯\nCIRRUS",
+            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nCUP\nCIRRUS"
         },
         "detail": null,
         "atm24": true,
@@ -20328,6 +20262,39 @@
         "tel": null
     },
     {
+        "_id": "JETCO_193413",
+        "atm_type": "jetco",
+        "name": {
+            "zh": "花旗銀行",
+            "en": "Citibank"
+        },
+        "shop_type": "citi",
+        "area": {
+            "zh": "香港",
+            "en": "Hong Kong"
+        },
+        "district": {
+            "zh": "金鐘",
+            "en": "Admiralty"
+        },
+        "address": {
+            "zh": "香港金鐘金鐘道93號金鐘廊LAB Concept A13號舖",
+            "en": "ATM Space, Lab Concept, Queensway Plaza, No.93 Queensway, Admiralty, Hong Kong"
+        },
+        "service": {
+            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\n銀聯\nCIRRUS",
+            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nCUP\nCIRRUS"
+        },
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.16459014484406,
+            22.279395490484152
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
         "_id": "JETCO_391",
         "atm_type": "jetco",
         "name": {
@@ -20658,39 +20625,6 @@
         "tel": null
     },
     {
-        "_id": "JETCO_388",
-        "atm_type": "jetco",
-        "name": {
-            "zh": "花旗銀行",
-            "en": "Citibank"
-        },
-        "shop_type": "citi",
-        "area": {
-            "zh": "香港",
-            "en": "Hong Kong"
-        },
-        "district": {
-            "zh": "金鐘",
-            "en": "Admiralty"
-        },
-        "address": {
-            "zh": "金鐘港鐵站車站大堂自動櫃員機ADM ATM 5",
-            "en": "MTR Admiralty Station, Concourse Level, Automated Teller Machine Site ADM ATM 5, Hong Kong"
-        },
-        "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\n銀聯\nCIRRUS",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nCUP\nCIRRUS"
-        },
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.16550159454346,
-            22.27902987757458
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
         "_id": "JETCO_384",
         "atm_type": "jetco",
         "name": {
@@ -20719,6 +20653,39 @@
         "loc": [
             114.16550159454346,
             22.27842427358582
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
+        "_id": "JETCO_388",
+        "atm_type": "jetco",
+        "name": {
+            "zh": "花旗銀行",
+            "en": "Citibank"
+        },
+        "shop_type": "citi",
+        "area": {
+            "zh": "香港",
+            "en": "Hong Kong"
+        },
+        "district": {
+            "zh": "金鐘",
+            "en": "Admiralty"
+        },
+        "address": {
+            "zh": "金鐘港鐵站車站大堂自動櫃員機ADM ATM 5",
+            "en": "MTR Admiralty Station, Concourse Level, Automated Teller Machine Site ADM ATM 5, Hong Kong"
+        },
+        "service": {
+            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\n銀聯\nCIRRUS",
+            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nCUP\nCIRRUS"
+        },
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.16550159454346,
+            22.27902987757458
         ],
         "workHrs": null,
         "tel": null
@@ -22242,39 +22209,6 @@
         "tel": null
     },
     {
-        "_id": "JETCO_83320",
-        "atm_type": "jetco",
-        "name": {
-            "zh": "中國工商銀行",
-            "en": "Industrial and Commercial Bank of China"
-        },
-        "shop_type": "icbc",
-        "area": {
-            "zh": "九龍",
-            "en": "Kowloon"
-        },
-        "district": {
-            "zh": "旺角",
-            "en": "Mong Kok"
-        },
-        "address": {
-            "zh": "九龍旺角道44號地下D1號舖Portion 2A",
-            "en": "Portion 2A, Shop D1, 44 Mong Kok Road, Kowloon."
-        },
-        "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\nJCB\n銀聯\nCIRRUS",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nJCB\nCUP\nCIRRUS"
-        },
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.16831523180008,
-            22.32061916099015
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
         "_id": "JETCO_35965",
         "atm_type": "jetco",
         "name": {
@@ -23260,39 +23194,6 @@
         "loc": [
             114.16933178901672,
             22.319212291150468
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "JETCO_1314",
-        "atm_type": "jetco",
-        "name": {
-            "zh": "集友銀行",
-            "en": "Chiyu Bank"
-        },
-        "shop_type": "chiyu",
-        "area": {
-            "zh": "九龍",
-            "en": "Kowloon"
-        },
-        "district": {
-            "zh": "佐敦",
-            "en": "Jordan"
-        },
-        "address": {
-            "zh": "九龍油蔴地上海街117-119號",
-            "en": "117-119 Shanghai Street, Yaumatei, Kowloon."
-        },
-        "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
-        },
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.16935324668884,
-            22.30605104422866
         ],
         "workHrs": null,
         "tel": null
@@ -24321,39 +24222,6 @@
         "tel": null
     },
     {
-        "_id": "JETCO_1094",
-        "atm_type": "jetco",
-        "name": {
-            "zh": "南洋商業銀行",
-            "en": "Nanyang Commercial Bank"
-        },
-        "shop_type": "nanyang",
-        "area": {
-            "zh": "九龍",
-            "en": "Kowloon"
-        },
-        "district": {
-            "zh": "旺角",
-            "en": "Mong Kok"
-        },
-        "address": {
-            "zh": "旺角彌敦道570-572號",
-            "en": "570-572 Nathan Road, Kowloon."
-        },
-        "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
-        },
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.17038857936859,
-            22.314949413767405
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
         "_id": "JETCO_1087",
         "atm_type": "jetco",
         "name": {
@@ -24382,6 +24250,39 @@
         "loc": [
             114.17038857936859,
             22.315048667340406
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
+        "_id": "JETCO_1094",
+        "atm_type": "jetco",
+        "name": {
+            "zh": "南洋商業銀行",
+            "en": "Nanyang Commercial Bank"
+        },
+        "shop_type": "nanyang",
+        "area": {
+            "zh": "九龍",
+            "en": "Kowloon"
+        },
+        "district": {
+            "zh": "旺角",
+            "en": "Mong Kok"
+        },
+        "address": {
+            "zh": "旺角彌敦道570-572號",
+            "en": "570-572 Nathan Road, Kowloon."
+        },
+        "service": {
+            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
+            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
+        },
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.17038857936859,
+            22.314949413767405
         ],
         "workHrs": null,
         "tel": null
@@ -24816,39 +24717,6 @@
         "tel": null
     },
     {
-        "_id": "JETCO_1329",
-        "atm_type": "jetco",
-        "name": {
-            "zh": "渣打銀行",
-            "en": "Standard Chartered Bank"
-        },
-        "shop_type": "sc",
-        "area": {
-            "zh": "九龍",
-            "en": "Kowloon"
-        },
-        "district": {
-            "zh": "油麻地",
-            "en": "Yaumati"
-        },
-        "address": {
-            "zh": "油麻地地鐵站非收費區ATM3號位",
-            "en": "ATM 3, Unpaid Concourse, Yaumatei MTR Station, Kowloon."
-        },
-        "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\nPLUS\n銀聯\nCIRRUS",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nPLUS\nCUP\nCIRRUS"
-        },
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.1707112,
-            22.3130319
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
         "_id": "JETCO_1310",
         "atm_type": "jetco",
         "name": {
@@ -24871,6 +24739,39 @@
         "service": {
             "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\nPLUS\nJCB\n銀聯\nCIRRUS",
             "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nPLUS\nJCB\nCUP\nCIRRUS"
+        },
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.1707112,
+            22.3130319
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
+        "_id": "JETCO_1329",
+        "atm_type": "jetco",
+        "name": {
+            "zh": "渣打銀行",
+            "en": "Standard Chartered Bank"
+        },
+        "shop_type": "sc",
+        "area": {
+            "zh": "九龍",
+            "en": "Kowloon"
+        },
+        "district": {
+            "zh": "油麻地",
+            "en": "Yaumati"
+        },
+        "address": {
+            "zh": "油麻地地鐵站非收費區ATM3號位",
+            "en": "ATM 3, Unpaid Concourse, Yaumatei MTR Station, Kowloon."
+        },
+        "service": {
+            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\nPLUS\n銀聯\nCIRRUS",
+            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nPLUS\nCUP\nCIRRUS"
         },
         "detail": null,
         "atm24": true,
@@ -26532,39 +26433,6 @@
         "tel": null
     },
     {
-        "_id": "JETCO_746",
-        "atm_type": "jetco",
-        "name": {
-            "zh": "富邦銀行",
-            "en": "Fubon Bank"
-        },
-        "shop_type": "fubon",
-        "area": {
-            "zh": "香港",
-            "en": "Hong Kong"
-        },
-        "district": {
-            "zh": "灣仔",
-            "en": "Wanchai"
-        },
-        "address": {
-            "zh": "灣仔皇后大道東213號胡忠大廈地下2號舖",
-            "en": "Shop 2, G/F., Wu Chung House, 213 Queen's Road East, HK."
-        },
-        "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\n銀聯\nCIRRUS",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nCUP\nCIRRUS"
-        },
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.17287766933441,
-            22.274289218894246
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
         "_id": "JETCO_1239",
         "atm_type": "jetco",
         "name": {
@@ -27555,39 +27423,6 @@
         "tel": null
     },
     {
-        "_id": "JETCO_928",
-        "atm_type": "jetco",
-        "name": {
-            "zh": "東亞銀行",
-            "en": "The Bank of East Asia"
-        },
-        "shop_type": "bea",
-        "area": {
-            "zh": "九龍",
-            "en": "Kowloon"
-        },
-        "district": {
-            "zh": "九龍塘",
-            "en": "Kowloon Tong"
-        },
-        "address": {
-            "zh": "九龍塘達之路80號又一城MTR07號",
-            "en": "Unit MTR07, Level MTR, Festival Walk, 80 Tat Chee Avenue, Kowloon Tong"
-        },
-        "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
-        },
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.17427778244019,
-            22.337026632456944
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
         "_id": "JETCO_1547",
         "atm_type": "jetco",
         "name": {
@@ -27616,6 +27451,39 @@
         "loc": [
             114.17427778244019,
             22.448545197429457
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
+        "_id": "JETCO_928",
+        "atm_type": "jetco",
+        "name": {
+            "zh": "東亞銀行",
+            "en": "The Bank of East Asia"
+        },
+        "shop_type": "bea",
+        "area": {
+            "zh": "九龍",
+            "en": "Kowloon"
+        },
+        "district": {
+            "zh": "九龍塘",
+            "en": "Kowloon Tong"
+        },
+        "address": {
+            "zh": "九龍塘達之路80號又一城MTR07號",
+            "en": "Unit MTR07, Level MTR, Festival Walk, 80 Tat Chee Avenue, Kowloon Tong"
+        },
+        "service": {
+            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
+            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
+        },
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.17427778244019,
+            22.337026632456944
         ],
         "workHrs": null,
         "tel": null
@@ -28507,6 +28375,39 @@
         "loc": [
             114.17551696300507,
             22.274815415115114
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
+        "_id": "JETCO_199834",
+        "atm_type": "jetco",
+        "name": {
+            "zh": "渣打銀行",
+            "en": "Standard Chartered Bank"
+        },
+        "shop_type": "sc",
+        "area": {
+            "zh": "九龍",
+            "en": "Kowloon"
+        },
+        "district": {
+            "zh": "尖沙咀",
+            "en": "Tsim Sha Tsui"
+        },
+        "address": {
+            "zh": "九龍尖沙咀漆咸道南53-55號嘉芙中心地下1-3號舖",
+            "en": "Shop Nos 1 - 3, G/F Catherine House, 53 - 55 Chatham Road South, Tsimshatsui, Kowloon"
+        },
+        "service": {
+            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\n銀聯\nCIRRUS",
+            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nCUP\nCIRRUS"
+        },
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.17553750000002,
+            22.299085
         ],
         "workHrs": null,
         "tel": null
@@ -29596,39 +29497,6 @@
         "loc": [
             114.178139,
             22.325725
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "JETCO_1459",
-        "atm_type": "jetco",
-        "name": {
-            "zh": "中國銀行",
-            "en": "Bank of China"
-        },
-        "shop_type": "boc",
-        "area": {
-            "zh": "新界",
-            "en": "New Territories"
-        },
-        "district": {
-            "zh": "沙田",
-            "en": "Shatin"
-        },
-        "address": {
-            "zh": "沙田大圍道74-76號",
-            "en": "74-76 Tai Wai Road, Sha Tin, New Territories"
-        },
-        "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
-        },
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.17819112539291,
-            22.37446406459546
         ],
         "workHrs": null,
         "tel": null
@@ -33264,39 +33132,6 @@
         "tel": null
     },
     {
-        "_id": "JETCO_1019",
-        "atm_type": "jetco",
-        "name": {
-            "zh": "東亞銀行",
-            "en": "The Bank of East Asia"
-        },
-        "shop_type": "bea",
-        "area": {
-            "zh": "九龍",
-            "en": "Kowloon"
-        },
-        "district": {
-            "zh": "樂富",
-            "en": "Lok Fu"
-        },
-        "address": {
-            "zh": "樂富橫頭磡樂富中心1樓F9A號",
-            "en": "Shop No. F9A, 1/F, Lok  Fu Shopping Centre, Wang Tau Hom"
-        },
-        "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
-        },
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.18724358081818,
-            22.338152978119194
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
         "_id": "JETCO_863",
         "atm_type": "jetco",
         "name": {
@@ -33622,6 +33457,39 @@
         "loc": [
             114.187418,
             22.310344
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
+        "_id": "JETCO_1019",
+        "atm_type": "jetco",
+        "name": {
+            "zh": "東亞銀行",
+            "en": "The Bank of East Asia"
+        },
+        "shop_type": "bea",
+        "area": {
+            "zh": "九龍",
+            "en": "Kowloon"
+        },
+        "district": {
+            "zh": "樂富",
+            "en": "Lok Fu"
+        },
+        "address": {
+            "zh": "橫頭磡樂富廣場L樓 L217-L223號",
+            "en": "Shop L217- L223, L/F Lok Fu Plaza, Wang Tau Hom"
+        },
+        "service": {
+            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
+            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
+        },
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.18743399999994,
+            22.337372
         ],
         "workHrs": null,
         "tel": null
@@ -36498,6 +36366,39 @@
         "tel": null
     },
     {
+        "_id": "JETCO_193416",
+        "atm_type": "jetco",
+        "name": {
+            "zh": "星展銀行",
+            "en": "DBS Bank"
+        },
+        "shop_type": "dbs",
+        "area": {
+            "zh": "新界",
+            "en": "New Territories"
+        },
+        "district": {
+            "zh": "火炭",
+            "en": "Fo Tan"
+        },
+        "address": {
+            "zh": "新界沙田火炭山尾街18-24號1樓B7A 及 B7B號鋪",
+            "en": "Shop B7A & B7B, Level 1, Shatin Galleria, 18-24 Shan Mei St., Fotan, N.T. "
+        },
+        "service": {
+            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\n銀聯\nCIRRUS",
+            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nCUP\nCIRRUS"
+        },
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.19344922453683,
+            22.397081829104085
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
         "_id": "JETCO_1286",
         "atm_type": "jetco",
         "name": {
@@ -36795,39 +36696,6 @@
         "tel": null
     },
     {
-        "_id": "JETCO_1281",
-        "atm_type": "jetco",
-        "name": {
-            "zh": "東亞銀行",
-            "en": "The Bank of East Asia"
-        },
-        "shop_type": "bea",
-        "area": {
-            "zh": "九龍",
-            "en": "Kowloon"
-        },
-        "district": {
-            "zh": "黃大仙",
-            "en": "Wong Tai Sin"
-        },
-        "address": {
-            "zh": "黃大仙中心2樓F15號",
-            "en": "Shop F15, 1/F, Wong Tai Sin Shopping Centre, Wong Tai Sin"
-        },
-        "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
-        },
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.194285,
-            22.341404
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
         "_id": "JETCO_1291",
         "atm_type": "jetco",
         "name": {
@@ -36850,6 +36718,39 @@
         "service": {
             "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
             "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
+        },
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.194285,
+            22.341404
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
+        "_id": "JETCO_1281",
+        "atm_type": "jetco",
+        "name": {
+            "zh": "東亞銀行",
+            "en": "The Bank of East Asia"
+        },
+        "shop_type": "bea",
+        "area": {
+            "zh": "九龍",
+            "en": "Kowloon"
+        },
+        "district": {
+            "zh": "黃大仙",
+            "en": "Wong Tai Sin"
+        },
+        "address": {
+            "zh": "黃大仙中心2樓F15號",
+            "en": "Shop F15, 1/F, Wong Tai Sin Shopping Centre, Wong Tai Sin"
+        },
+        "service": {
+            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
+            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
         },
         "detail": null,
         "atm24": true,
@@ -38709,39 +38610,6 @@
         "tel": null
     },
     {
-        "_id": "JETCO_1297",
-        "atm_type": "jetco",
-        "name": {
-            "zh": "大眾銀行",
-            "en": "Public Bank"
-        },
-        "shop_type": "public",
-        "area": {
-            "zh": "九龍",
-            "en": "Kowloon"
-        },
-        "district": {
-            "zh": "黃大仙",
-            "en": "Wong Tai Sin"
-        },
-        "address": {
-            "zh": "九龍黃大仙慈雲山中心6樓641–642號舖",
-            "en": "Shop 641-642  6/F, Tsz Wan Shan Shopping Centre, Wong Tai Sin, Kowloon"
-        },
-        "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\nJCB\n銀聯",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nJCB\nCUP"
-        },
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.200536,
-            22.348217
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
         "_id": "JETCO_1295",
         "atm_type": "jetco",
         "name": {
@@ -38764,6 +38632,39 @@
         "service": {
             "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
             "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
+        },
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.200536,
+            22.348217
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
+        "_id": "JETCO_1297",
+        "atm_type": "jetco",
+        "name": {
+            "zh": "大眾銀行",
+            "en": "Public Bank"
+        },
+        "shop_type": "public",
+        "area": {
+            "zh": "九龍",
+            "en": "Kowloon"
+        },
+        "district": {
+            "zh": "黃大仙",
+            "en": "Wong Tai Sin"
+        },
+        "address": {
+            "zh": "九龍黃大仙慈雲山中心6樓641–642號舖",
+            "en": "Shop 641-642  6/F, Tsz Wan Shan Shopping Centre, Wong Tai Sin, Kowloon"
+        },
+        "service": {
+            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\nJCB\n銀聯",
+            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nJCB\nCUP"
         },
         "detail": null,
         "atm24": true,
@@ -39562,6 +39463,39 @@
         "loc": [
             114.202776,
             22.387148
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
+        "_id": "JETCO_186915",
+        "atm_type": "jetco",
+        "name": {
+            "zh": "中國銀行",
+            "en": "Bank of China"
+        },
+        "shop_type": "boc",
+        "area": {
+            "zh": "九龍",
+            "en": "Kowloon"
+        },
+        "district": {
+            "zh": "九龍城",
+            "en": "Kowloon City"
+        },
+        "address": {
+            "zh": "九龍城晴朗商場A區1樓ATM位",
+            "en": "ATM Site at 1/F, Zone A, Ching Long Shopping Centre, Kowloon City, Kowloon, Hong Kong."
+        },
+        "service": {
+            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
+            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
+        },
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.20291989999998,
+            22.3315397
         ],
         "workHrs": null,
         "tel": null
@@ -40788,39 +40722,6 @@
         "tel": null
     },
     {
-        "_id": "JETCO_92194",
-        "atm_type": "jetco",
-        "name": {
-            "zh": "渣打銀行",
-            "en": "Standard Chartered Bank"
-        },
-        "shop_type": "sc",
-        "area": {
-            "zh": "新界",
-            "en": "New Territories"
-        },
-        "district": {
-            "zh": "大埔",
-            "en": "Tai Po"
-        },
-        "address": {
-            "zh": "港鐵大學站UNI ATM2 (往羅湖方向月台大堂)",
-            "en": "ATM Site UNI ATM2 at MTR University Station (To Lo Wu direction concourse)"
-        },
-        "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\n銀聯\nCIRRUS",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nCUP\nCIRRUS"
-        },
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.20996189117432,
-            22.41287335322663
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
         "_id": "JETCO_1352",
         "atm_type": "jetco",
         "name": {
@@ -41547,39 +41448,6 @@
         "tel": null
     },
     {
-        "_id": "JETCO_903",
-        "atm_type": "jetco",
-        "name": {
-            "zh": "花旗銀行",
-            "en": "Citibank"
-        },
-        "shop_type": "citi",
-        "area": {
-            "zh": "九龍",
-            "en": "Kowloon"
-        },
-        "district": {
-            "zh": "九龍灣",
-            "en": "Kowloon Bay"
-        },
-        "address": {
-            "zh": "九龍灣德福廣場3號自動櫃員機",
-            "en": "ATM No.3, 1/F, Telford Plaza 1, Kowloon Bay"
-        },
-        "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\n銀聯\nCIRRUS",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nCUP\nCIRRUS"
-        },
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.2133226,
-            22.3230963
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
         "_id": "JETCO_901",
         "atm_type": "jetco",
         "name": {
@@ -41598,6 +41466,39 @@
         "address": {
             "zh": "九龍灣德福廣場店舖P4 & P6",
             "en": "Shop Units P4 & P6 Telford Plaza, Kowloon Bay"
+        },
+        "service": {
+            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\n銀聯\nCIRRUS",
+            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nCUP\nCIRRUS"
+        },
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.2133226,
+            22.3230963
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
+        "_id": "JETCO_903",
+        "atm_type": "jetco",
+        "name": {
+            "zh": "花旗銀行",
+            "en": "Citibank"
+        },
+        "shop_type": "citi",
+        "area": {
+            "zh": "九龍",
+            "en": "Kowloon"
+        },
+        "district": {
+            "zh": "九龍灣",
+            "en": "Kowloon Bay"
+        },
+        "address": {
+            "zh": "九龍灣德福廣場3號自動櫃員機",
+            "en": "ATM No.3, 1/F, Telford Plaza 1, Kowloon Bay"
         },
         "service": {
             "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\n銀聯\nCIRRUS",
@@ -41646,39 +41547,6 @@
         "tel": null
     },
     {
-        "_id": "JETCO_652",
-        "atm_type": "jetco",
-        "name": {
-            "zh": "星展銀行",
-            "en": "DBS Bank"
-        },
-        "shop_type": "dbs",
-        "area": {
-            "zh": "香港",
-            "en": "Hong Kong"
-        },
-        "district": {
-            "zh": "鰂魚涌",
-            "en": "Quarry Bay"
-        },
-        "address": {
-            "zh": "鰂魚涌港島東華蘭路18號港島東中心16樓",
-            "en": "16/F, One Island East, 18 Westlands Road, Island East, Quarry Bay"
-        },
-        "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\n銀聯\nCIRRUS",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nCUP\nCIRRUS"
-        },
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.213354,
-            22.286112
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
         "_id": "JETCO_649",
         "atm_type": "jetco",
         "name": {
@@ -41697,6 +41565,39 @@
         "address": {
             "zh": "鰂魚涌港島東華蘭路18號港島東中心40樓",
             "en": "40/F, One Island East, 18 Westlands Road, Island East, Quarry Bay"
+        },
+        "service": {
+            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\n銀聯\nCIRRUS",
+            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nCUP\nCIRRUS"
+        },
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.213354,
+            22.286112
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
+        "_id": "JETCO_652",
+        "atm_type": "jetco",
+        "name": {
+            "zh": "星展銀行",
+            "en": "DBS Bank"
+        },
+        "shop_type": "dbs",
+        "area": {
+            "zh": "香港",
+            "en": "Hong Kong"
+        },
+        "district": {
+            "zh": "鰂魚涌",
+            "en": "Quarry Bay"
+        },
+        "address": {
+            "zh": "鰂魚涌港島東華蘭路18號港島東中心16樓",
+            "en": "16/F, One Island East, 18 Westlands Road, Island East, Quarry Bay"
         },
         "service": {
             "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\n銀聯\nCIRRUS",
@@ -42240,39 +42141,6 @@
         "tel": null
     },
     {
-        "_id": "JETCO_14903",
-        "atm_type": "jetco",
-        "name": {
-            "zh": "中國建設銀行",
-            "en": "China Construction Bank"
-        },
-        "shop_type": "construct",
-        "area": {
-            "zh": "九龍",
-            "en": "Kowloon"
-        },
-        "district": {
-            "zh": "九龍灣",
-            "en": "Kowloon Bay"
-        },
-        "address": {
-            "zh": "[香港] 九龍九龍灣牛頭角道七十七號淘大花園IIA期地下181及190號舖",
-            "en": "Shop 181 & 190, G/F, Phase IIA, Amoy Gardens,77 Ngau Tau Kok Road, Kowloon Bay, Kowloon [Hong Kong]"
-        },
-        "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\n銀聯",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nCUP"
-        },
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.2154608,
-            22.3246044
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
         "_id": "JETCO_4866",
         "atm_type": "jetco",
         "name": {
@@ -42295,6 +42163,39 @@
         "service": {
             "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\n銀聯\nCIRRUS",
             "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nCUP\nCIRRUS"
+        },
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.2154608,
+            22.3246044
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
+        "_id": "JETCO_14903",
+        "atm_type": "jetco",
+        "name": {
+            "zh": "中國建設銀行",
+            "en": "China Construction Bank"
+        },
+        "shop_type": "construct",
+        "area": {
+            "zh": "九龍",
+            "en": "Kowloon"
+        },
+        "district": {
+            "zh": "九龍灣",
+            "en": "Kowloon Bay"
+        },
+        "address": {
+            "zh": "[香港] 九龍九龍灣牛頭角道七十七號淘大花園IIA期地下181及190號舖",
+            "en": "Shop 181 & 190, G/F, Phase IIA, Amoy Gardens,77 Ngau Tau Kok Road, Kowloon Bay, Kowloon [Hong Kong]"
+        },
+        "service": {
+            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\n銀聯",
+            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nInterbank Transfer\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nCUP"
         },
         "detail": null,
         "atm24": true,
@@ -42537,39 +42438,6 @@
         "tel": null
     },
     {
-        "_id": "JETCO_653",
-        "atm_type": "jetco",
-        "name": {
-            "zh": "星展銀行",
-            "en": "DBS Bank"
-        },
-        "shop_type": "dbs",
-        "area": {
-            "zh": "香港",
-            "en": "Hong Kong"
-        },
-        "district": {
-            "zh": "鰂魚涌",
-            "en": "Quarry Bay"
-        },
-        "address": {
-            "zh": "鰂魚涌太古城道22號明宮閣G406 & P413號舖",
-            "en": "Shop G406 & P413, Ming Kung Mansion, 22 Taikoo Shing Road, Taikoo Shing, Quarry Bay"
-        },
-        "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\n銀聯\nCIRRUS",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nCUP\nCIRRUS"
-        },
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.21632409095764,
-            22.28632173935554
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
         "_id": "JETCO_41421",
         "atm_type": "jetco",
         "name": {
@@ -42598,6 +42466,39 @@
         "loc": [
             114.21632409095764,
             22.284658890802348
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
+        "_id": "JETCO_653",
+        "atm_type": "jetco",
+        "name": {
+            "zh": "星展銀行",
+            "en": "DBS Bank"
+        },
+        "shop_type": "dbs",
+        "area": {
+            "zh": "香港",
+            "en": "Hong Kong"
+        },
+        "district": {
+            "zh": "鰂魚涌",
+            "en": "Quarry Bay"
+        },
+        "address": {
+            "zh": "鰂魚涌太古城道22號明宮閣G406 & P413號舖",
+            "en": "Shop G406 & P413, Ming Kung Mansion, 22 Taikoo Shing Road, Taikoo Shing, Quarry Bay"
+        },
+        "service": {
+            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\n銀聯\nCIRRUS",
+            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nCUP\nCIRRUS"
+        },
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.21632409095764,
+            22.28632173935554
         ],
         "workHrs": null,
         "tel": null
@@ -43906,8 +43807,8 @@
             "en": "Kwun Tong"
         },
         "address": {
-            "zh": "九龍觀塘康寧道45號宜安中心地下4-6號舖",
-            "en": "Shops 4-6, G/F, Yee On Centre, 45 Hong Ning Road, Kwun Tong, Kowloon."
+            "zh": "九龍觀塘鴻圖道57 號南洋廣場地下",
+            "en": "G/F, Nanyang Plaza, 57 Hung To Road, Kwun Tong, Kowloon"
         },
         "service": {
             "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
@@ -44154,39 +44055,6 @@
         "tel": null
     },
     {
-        "_id": "JETCO_1446",
-        "atm_type": "jetco",
-        "name": {
-            "zh": "中國銀行",
-            "en": "Bank of China"
-        },
-        "shop_type": "boc",
-        "area": {
-            "zh": "新界",
-            "en": "New Territories"
-        },
-        "district": {
-            "zh": "沙頭角",
-            "en": "Sha Tau Kok"
-        },
-        "address": {
-            "zh": "沙頭角沙頭角邨16-18座",
-            "en": "Block 16-18, Sha Tau Kok Chuen, Sha Tau Kok, New Territories"
-        },
-        "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
-        },
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.22388255596161,
-            22.54598356311974
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
         "_id": "JETCO_970",
         "atm_type": "jetco",
         "name": {
@@ -44215,6 +44083,39 @@
         "loc": [
             114.22388255596161,
             22.309634281868238
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
+        "_id": "JETCO_1446",
+        "atm_type": "jetco",
+        "name": {
+            "zh": "中國銀行",
+            "en": "Bank of China"
+        },
+        "shop_type": "boc",
+        "area": {
+            "zh": "新界",
+            "en": "New Territories"
+        },
+        "district": {
+            "zh": "沙頭角",
+            "en": "Sha Tau Kok"
+        },
+        "address": {
+            "zh": "沙頭角沙頭角邨16-18座",
+            "en": "Block 16-18, Sha Tau Kok Chuen, Sha Tau Kok, New Territories"
+        },
+        "service": {
+            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
+            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
+        },
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.22388255596161,
+            22.54598356311974
         ],
         "workHrs": null,
         "tel": null
@@ -44281,39 +44182,6 @@
         "loc": [
             114.22408369999994,
             22.3155151
-        ],
-        "workHrs": null,
-        "tel": null
-    },
-    {
-        "_id": "JETCO_955",
-        "atm_type": "jetco",
-        "name": {
-            "zh": "中國銀行",
-            "en": "Bank of China"
-        },
-        "shop_type": "boc",
-        "area": {
-            "zh": "九龍",
-            "en": "Kowloon"
-        },
-        "district": {
-            "zh": "觀塘",
-            "en": "Kwun Tong"
-        },
-        "address": {
-            "zh": "觀塘裕民坊20-24號",
-            "en": "20-24 Yue Man Square, Kwun Tong, Kowloon"
-        },
-        "service": {
-            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
-            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
-        },
-        "detail": null,
-        "atm24": true,
-        "loc": [
-            114.22410249710083,
-            22.31375340266427
         ],
         "workHrs": null,
         "tel": null
@@ -49351,8 +49219,8 @@
             "en": "Tseung Kwan O"
         },
         "address": {
-            "zh": "新界將軍澳將軍澳中心G06號舖",
-            "en": "Shop No. G6, G/F., Park Central, 9 Tong Tak Street, Tseung Kwan O, N.T."
+            "zh": "將軍澳唐德街9號將軍澳中心1樓156號",
+            "en": "Shop 156, Level 1, Park Central, 9 Tong Tak Street, Tseung Kwan O, N.T."
         },
         "service": {
             "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n跨行轉賬\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
@@ -49990,6 +49858,39 @@
         "loc": [
             114.26439464092255,
             22.315614411358958
+        ],
+        "workHrs": null,
+        "tel": null
+    },
+    {
+        "_id": "JETCO_165183",
+        "atm_type": "jetco",
+        "name": {
+            "zh": "中國銀行",
+            "en": "Bank of China"
+        },
+        "shop_type": "boc",
+        "area": {
+            "zh": "新界",
+            "en": "New Territories"
+        },
+        "district": {
+            "zh": "西貢",
+            "en": "Sai Kung"
+        },
+        "address": {
+            "zh": "新界清水灣道香港科技大學李兆基商學院大樓地下樓層",
+            "en": "G/ Floor, Lee Shau Kee Business Building, The Hong Kong University of Science & Technology, Clear Water Bay Road, NT."
+        },
+        "service": {
+            "zh": "現金提款, 轉賬, 結餘查詢, 更改私人密碼及其他基本服務\n強積金\n賬單繳費, 信用卡繳費, 慈善捐款\nPLUS\nJCB\n銀聯\nCIRRUS",
+            "en": "Cash Withdrawal, Fund Transfer, Balance Enquiry, PIN Change and other basic services\nMPF\nBill Payment, Credit Card Payment and Charity Donation\nPLUS\nJCB\nCUP\nCIRRUS"
+        },
+        "detail": null,
+        "atm24": true,
+        "loc": [
+            114.26491489496766,
+            22.333141762445443
         ],
         "workHrs": null,
         "tel": null

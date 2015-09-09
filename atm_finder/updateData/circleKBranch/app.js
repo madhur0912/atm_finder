@@ -267,14 +267,12 @@ var removeMacau = function(branches) {
 	});
 };
 
-var patchBracnhes = function (branches) {
-	return new Promise(function (resolve) {
+var patchBracnhes = function(branches) {
+	return new Promise(function(resolve) {
 		var patch = JSON.parse(fs.readFileSync(patchDir + 'patch.json', 'utf8'));
 
-		console.log(patch);
-
 		for (var i = 0; i < branches.length; i++) {
-			
+
 			if (patch.hasOwnProperty(branches[i]._id)) {
 				branches[i].loc = patch[branches[i]._id];
 			};
