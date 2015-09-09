@@ -2,15 +2,21 @@ var fs = require('fs');
 
 // Database
 var mongo = require('mongodb');
-var monk = require('monk');
-var db = monk('localhost:27017/atm');
+var mongo = require('mongodb');
+var mongoose = require('mongoose').connect('mongodb://localhost:27017/atm');
+var db = mongoose.connection;
+db.on('error', console.error.bind(console, 'connection error:'));
+db.once('open', function(callback) {
+	console.log('> mongodb connected');
+});
+var Atm = require('./models/atm');
 
 var count = 0;
 var arr = [];
 
 var searchNearby = function(branch, index, length) {
 
-	db.get('atm').find({
+	Atm.find({
 		'loc': {
 			$near: {
 				$geometry: {
@@ -39,7 +45,7 @@ var searchNearby = function(branch, index, length) {
 
 			for (var i = 0; i < arr.length; i++) {
 				content += '\n------------------------------------------------------------------------------\n';
-				content += JSON.stringify(arr[i],0,4);
+				content += JSON.stringify(arr[i], 0, 4);
 			};
 
 			fs.writeFileSync('nearby.json', content, 'utf-8');
@@ -47,7 +53,7 @@ var searchNearby = function(branch, index, length) {
 	});
 }
 
-db.get('atm').find({}, function(err, data) {
+Atm.find({}, function(err, data) {
 	if (err) {
 		res.send(err);
 	} else {

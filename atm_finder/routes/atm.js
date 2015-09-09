@@ -118,4 +118,44 @@ router.get('/box/:code/bottomLeft/:bottomLeft/upperRight/:upperRight', function(
 	}
 });
 
+// /* GET all atm inside area with filter. */
+// router.get('/box/:code/bottomLeft/:bottomLeft/upperRight/:upperRight/atm_type/:atm_type/shop_type/:shop_type', function(req, res) {
+
+// 	var code = req.params.code;
+// 	if (availableLanguages.indexOf(code) === -1) {
+// 		var err = new Error('Language Code should be either "zh" or "en"');
+// 		err.status = 400;
+// 		res.send(err);
+// 	} else {
+// 		var bottomLeft = JSON.parse('[' + req.params.bottomLeft + ']');
+// 		var upperRight = JSON.parse('[' + req.params.upperRight + ']');
+
+// 		var box = [
+// 			[bottomLeft[1], bottomLeft[0]],
+// 			[upperRight[1], upperRight[0]]
+// 		];
+
+// 		Atm
+// 			.find({
+// 				loc: {
+// 					$geoWithin: {
+// 						$box: box
+// 					}
+// 				}
+// 			})
+// 			.select({
+// 				_id: 1,
+// 				atm_type: 1,
+// 				name: 1,
+// 				shop_type: 1,
+// 				loc: 1
+// 			})
+// 			.then(function(data) {
+// 				res.send({
+// 					atm: filter_language(code, data)
+// 				});
+// 			});
+// 	}
+// });
+
 module.exports = router;
