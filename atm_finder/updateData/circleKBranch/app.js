@@ -19,7 +19,7 @@ function Branch(branch) {
 	// Set basic key-value
 	this._id = 'CIRCLEK_' + branch.store_no;
 	this.atm_type = 'eps';
-	this.shop_type = 'circleK';
+	this.shop_type = 'circlek';
 	this.name = {
 		zh: 'OK便利店',
 		en: 'CircleK'
