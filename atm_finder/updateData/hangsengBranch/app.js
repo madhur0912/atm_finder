@@ -166,7 +166,7 @@ var formatBranch = function(branch) {
 
 		var result = {
 			_id: 'HANGSENG_' + branch.zh.Code,
-			atm_type: 'hsbc',
+			atm_type: 'hsbcgroup',
 			shop_type: 'hangseng',
 			name: {
 				zh: '恒生銀行 ' + branch.zh.Name,

@@ -102,7 +102,7 @@ function Branch(branch) {
 
 	// Set basic key-value
 	this._id = 'HSBC_' + branch.locationId;
-	this.atm_type = 'hsbc';
+	this.atm_type = 'hsbcgroup';
 	this.shop_type = 'hsbc';
 	this.name = {
 		zh: '匯豐銀行 ' + branch.name,

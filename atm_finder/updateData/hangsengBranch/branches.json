@@ -1,7 +1,7 @@
 [
     {
         "_id": "HANGSENG_193",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 北大嶼山醫院",
@@ -37,7 +37,7 @@
     },
     {
         "_id": "HANGSENG_191",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵博覽館站",
@@ -73,7 +73,7 @@
     },
     {
         "_id": "HANGSENG_192",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵東涌站 (港鐵站辦事處)",
@@ -117,7 +117,7 @@
     },
     {
         "_id": "HANGSENG_194",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 映灣薈",
@@ -153,7 +153,7 @@
     },
     {
         "_id": "HANGSENG_161",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 大興邨",
@@ -189,7 +189,7 @@
     },
     {
         "_id": "HANGSENG_160",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵屯門站",
@@ -225,7 +225,7 @@
     },
     {
         "_id": "HANGSENG_163",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 屯門鄉事會路分行",
@@ -269,7 +269,7 @@
     },
     {
         "_id": "HANGSENG_162",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 屯門市廣場優越及優進理財中心",
@@ -313,7 +313,7 @@
     },
     {
         "_id": "HANGSENG_159",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵兆康站",
@@ -349,7 +349,7 @@
     },
     {
         "_id": "HANGSENG_167",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 頌富廣場",
@@ -385,7 +385,7 @@
     },
     {
         "_id": "HANGSENG_166",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 天瑞商場",
@@ -421,7 +421,7 @@
     },
     {
         "_id": "HANGSENG_168",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 天澤商場",
@@ -457,7 +457,7 @@
     },
     {
         "_id": "HANGSENG_165",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 嘉湖銀座分行",
@@ -501,7 +501,7 @@
     },
     {
         "_id": "HANGSENG_164",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵天水圍站",
@@ -537,7 +537,7 @@
     },
     {
         "_id": "HANGSENG_169",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵朗屏站",
@@ -573,7 +573,7 @@
     },
     {
         "_id": "HANGSENG_173",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 元朗(教育路)分行",
@@ -617,7 +617,7 @@
     },
     {
         "_id": "HANGSENG_195",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵欣澳站",
@@ -653,7 +653,7 @@
     },
     {
         "_id": "HANGSENG_171",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 谷亭街",
@@ -689,7 +689,7 @@
     },
     {
         "_id": "HANGSENG_170",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵元朗站",
@@ -725,7 +725,7 @@
     },
     {
         "_id": "HANGSENG_174",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 博愛醫院",
@@ -761,7 +761,7 @@
     },
     {
         "_id": "HANGSENG_196",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵迪士尼站",
@@ -797,7 +797,7 @@
     },
     {
         "_id": "HANGSENG_175",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵錦上路站",
@@ -833,7 +833,7 @@
     },
     {
         "_id": "HANGSENG_198",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵落馬洲站",
@@ -869,7 +869,7 @@
     },
     {
         "_id": "HANGSENG_188",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 長亨邨",
@@ -905,7 +905,7 @@
     },
     {
         "_id": "HANGSENG_158",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 麗城花園",
@@ -941,7 +941,7 @@
     },
     {
         "_id": "HANGSENG_187",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 青衣邨",
@@ -977,7 +977,7 @@
     },
     {
         "_id": "HANGSENG_189",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 長康一期商場",
@@ -1013,7 +1013,7 @@
     },
     {
         "_id": "HANGSENG_184",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵青衣站",
@@ -1049,7 +1049,7 @@
     },
     {
         "_id": "HANGSENG_157",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 有線電視大樓",
@@ -1085,7 +1085,7 @@
     },
     {
         "_id": "HANGSENG_185",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 青衣城分行",
@@ -1129,7 +1129,7 @@
     },
     {
         "_id": "HANGSENG_190",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 翠怡花園",
@@ -1165,7 +1165,7 @@
     },
     {
         "_id": "HANGSENG_253",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 香港浸信會醫院",
@@ -1201,7 +1201,7 @@
     },
     {
         "_id": "HANGSENG_149",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵荃灣西站",
@@ -1237,7 +1237,7 @@
     },
     {
         "_id": "HANGSENG_155",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 荃灣廣場一田百貨",
@@ -1273,7 +1273,7 @@
     },
     {
         "_id": "HANGSENG_197",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵羅湖站",
@@ -1309,7 +1309,7 @@
     },
     {
         "_id": "HANGSENG_151",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 荃錦中心商場",
@@ -1345,7 +1345,7 @@
     },
     {
         "_id": "HANGSENG_152",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 大河道分行",
@@ -1389,7 +1389,7 @@
     },
     {
         "_id": "HANGSENG_153",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 眾安街分行",
@@ -1433,7 +1433,7 @@
     },
     {
         "_id": "HANGSENG_154",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 荃灣分行",
@@ -1477,7 +1477,7 @@
     },
     {
         "_id": "HANGSENG_148",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵荃灣站 (港鐵站辦事處)",
@@ -1521,7 +1521,7 @@
     },
     {
         "_id": "HANGSENG_156",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 悅來坊",
@@ -1557,7 +1557,7 @@
     },
     {
         "_id": "HANGSENG_147",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵大窩口站",
@@ -1593,7 +1593,7 @@
     },
     {
         "_id": "HANGSENG_183",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵荔景站 (港鐵站辦事處)",
@@ -1637,7 +1637,7 @@
     },
     {
         "_id": "HANGSENG_203",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 新康街",
@@ -1673,7 +1673,7 @@
     },
     {
         "_id": "HANGSENG_182",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 新都會廣場分行",
@@ -1717,7 +1717,7 @@
     },
     {
         "_id": "HANGSENG_181",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵葵芳站 (港鐵站辦事處)",
@@ -1761,7 +1761,7 @@
     },
     {
         "_id": "HANGSENG_199",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵上水站",
@@ -1797,7 +1797,7 @@
     },
     {
         "_id": "HANGSENG_2",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 士美非路(百佳)",
@@ -1833,7 +1833,7 @@
     },
     {
         "_id": "HANGSENG_179",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 葵涌商場",
@@ -1869,7 +1869,7 @@
     },
     {
         "_id": "HANGSENG_3",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵堅尼地城站",
@@ -1905,7 +1905,7 @@
     },
     {
         "_id": "HANGSENG_8",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵西營盤站",
@@ -1941,7 +1941,7 @@
     },
     {
         "_id": "HANGSENG_200",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 上水個人理財中心",
@@ -1985,7 +1985,7 @@
     },
     {
         "_id": "HANGSENG_1",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 堅尼地城分行",
@@ -2029,7 +2029,7 @@
     },
     {
         "_id": "HANGSENG_62",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 香港大學",
@@ -2065,7 +2065,7 @@
     },
     {
         "_id": "HANGSENG_177",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵葵興站",
@@ -2101,7 +2101,7 @@
     },
     {
         "_id": "HANGSENG_178",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 新葵興廣場分行",
@@ -2145,7 +2145,7 @@
     },
     {
         "_id": "HANGSENG_7",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵香港大學站",
@@ -2181,7 +2181,7 @@
     },
     {
         "_id": "HANGSENG_6",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 石塘咀",
@@ -2217,7 +2217,7 @@
     },
     {
         "_id": "HANGSENG_4",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 龍豐閣",
@@ -2253,7 +2253,7 @@
     },
     {
         "_id": "HANGSENG_176",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 華景山莊",
@@ -2289,7 +2289,7 @@
     },
     {
         "_id": "HANGSENG_97",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 美孚新邨(蘭秀道)分行",
@@ -2333,7 +2333,7 @@
     },
     {
         "_id": "HANGSENG_180",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 上葵涌分行",
@@ -2377,7 +2377,7 @@
     },
     {
         "_id": "HANGSENG_96",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵美孚站",
@@ -2413,7 +2413,7 @@
     },
     {
         "_id": "HANGSENG_98",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 美孚廣場優越及優進理財中心",
@@ -2457,7 +2457,7 @@
     },
     {
         "_id": "HANGSENG_204",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 花都廣場",
@@ -2493,7 +2493,7 @@
     },
     {
         "_id": "HANGSENG_205",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 粉嶺分行",
@@ -2537,7 +2537,7 @@
     },
     {
         "_id": "HANGSENG_95",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 饒宗頤文化館",
@@ -2573,7 +2573,7 @@
     },
     {
         "_id": "HANGSENG_9",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 德輔道西分行",
@@ -2617,7 +2617,7 @@
     },
     {
         "_id": "HANGSENG_94",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵荔枝角站 (港鐵站辦事處)",
@@ -2661,7 +2661,7 @@
     },
     {
         "_id": "HANGSENG_92",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 長沙灣廣場分行",
@@ -2705,7 +2705,7 @@
     },
     {
         "_id": "HANGSENG_61",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 鴨脷洲邨",
@@ -2741,7 +2741,7 @@
     },
     {
         "_id": "HANGSENG_11",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵上環站(中) (港鐵站辦事處)",
@@ -2785,7 +2785,7 @@
     },
     {
         "_id": "HANGSENG_12",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵上環站(東) (港鐵站辦事處)",
@@ -2829,7 +2829,7 @@
     },
     {
         "_id": "HANGSENG_10",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 上環分行",
@@ -2873,7 +2873,7 @@
     },
     {
         "_id": "HANGSENG_99",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵南昌站",
@@ -2909,7 +2909,7 @@
     },
     {
         "_id": "HANGSENG_60",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 香港仔中心",
@@ -2945,7 +2945,7 @@
     },
     {
         "_id": "HANGSENG_93",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵長沙灣站",
@@ -2981,7 +2981,7 @@
     },
     {
         "_id": "HANGSENG_13",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 總行",
@@ -3025,7 +3025,7 @@
     },
     {
         "_id": "HANGSENG_91",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 青山道",
@@ -3061,7 +3061,7 @@
     },
     {
         "_id": "HANGSENG_17",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵中環站(環球大廈)個人理財中心",
@@ -3105,7 +3105,7 @@
     },
     {
         "_id": "HANGSENG_16",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵香港站",
@@ -3141,7 +3141,7 @@
     },
     {
         "_id": "HANGSENG_251",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 奧海城分行",
@@ -3185,7 +3185,7 @@
     },
     {
         "_id": "HANGSENG_15",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 國際金融中心",
@@ -3221,7 +3221,7 @@
     },
     {
         "_id": "HANGSENG_85",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵奧運站",
@@ -3257,7 +3257,7 @@
     },
     {
         "_id": "HANGSENG_18",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵中環站(昃臣道)",
@@ -3293,7 +3293,7 @@
     },
     {
         "_id": "HANGSENG_81",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 埃華街",
@@ -3329,7 +3329,7 @@
     },
     {
         "_id": "HANGSENG_206",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵太和站",
@@ -3365,7 +3365,7 @@
     },
     {
         "_id": "HANGSENG_84",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵九龍站 (港鐵站辦事處)",
@@ -3409,7 +3409,7 @@
     },
     {
         "_id": "HANGSENG_88",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵深水埗站",
@@ -3445,7 +3445,7 @@
     },
     {
         "_id": "HANGSENG_172",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 元朗優越及優進理財中心",
@@ -3489,7 +3489,7 @@
     },
     {
         "_id": "HANGSENG_89",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 北河街分行",
@@ -3533,7 +3533,7 @@
     },
     {
         "_id": "HANGSENG_80",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 大角咀",
@@ -3569,7 +3569,7 @@
     },
     {
         "_id": "HANGSENG_63",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 深灣遊艇會",
@@ -3605,7 +3605,7 @@
     },
     {
         "_id": "HANGSENG_72",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 理工大學西九龍校園",
@@ -3641,7 +3641,7 @@
     },
     {
         "_id": "HANGSENG_24",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 政府總部",
@@ -3677,7 +3677,7 @@
     },
     {
         "_id": "HANGSENG_23",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 统一中心",
@@ -3713,7 +3713,7 @@
     },
     {
         "_id": "HANGSENG_20",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵金鐘站 (港鐵站辦事處)",
@@ -3757,7 +3757,7 @@
     },
     {
         "_id": "HANGSENG_209",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 大埔分行",
@@ -3801,7 +3801,7 @@
     },
     {
         "_id": "HANGSENG_87",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 石硤尾邨",
@@ -3837,7 +3837,7 @@
     },
     {
         "_id": "HANGSENG_208",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 大埔(安慈路)分行",
@@ -3881,7 +3881,7 @@
     },
     {
         "_id": "HANGSENG_86",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵石硤尾站",
@@ -3917,7 +3917,7 @@
     },
     {
         "_id": "HANGSENG_83",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 太子道141號分行",
@@ -3961,7 +3961,7 @@
     },
     {
         "_id": "HANGSENG_78",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 旺角優越及優進理財中心",
@@ -4005,7 +4005,7 @@
     },
     {
         "_id": "HANGSENG_77",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵旺角站",
@@ -4041,7 +4041,7 @@
     },
     {
         "_id": "HANGSENG_210",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 大埔超級城",
@@ -4077,7 +4077,7 @@
     },
     {
         "_id": "HANGSENG_73",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 九龍總行",
@@ -4121,7 +4121,7 @@
     },
     {
         "_id": "HANGSENG_207",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵大埔墟站",
@@ -4157,7 +4157,7 @@
     },
     {
         "_id": "HANGSENG_71",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵油麻地站",
@@ -4193,7 +4193,7 @@
     },
     {
         "_id": "HANGSENG_70",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 油麻地分行",
@@ -4237,7 +4237,7 @@
     },
     {
         "_id": "HANGSENG_211",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 富亨商場",
@@ -4273,7 +4273,7 @@
     },
     {
         "_id": "HANGSENG_79",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 旺角個人理財中心",
@@ -4317,7 +4317,7 @@
     },
     {
         "_id": "HANGSENG_66",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 漢口道分行",
@@ -4361,7 +4361,7 @@
     },
     {
         "_id": "HANGSENG_69",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵佐敦站 (港鐵站辦事處)",
@@ -4405,7 +4405,7 @@
     },
     {
         "_id": "HANGSENG_102",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 香港城巿大學",
@@ -4441,7 +4441,7 @@
     },
     {
         "_id": "HANGSENG_65",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵尖沙咀站",
@@ -4477,7 +4477,7 @@
     },
     {
         "_id": "HANGSENG_75",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵旺角東站",
@@ -4513,7 +4513,7 @@
     },
     {
         "_id": "HANGSENG_25",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵灣仔站",
@@ -4549,7 +4549,7 @@
     },
     {
         "_id": "HANGSENG_101",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 城巿大學分行",
@@ -4593,7 +4593,7 @@
     },
     {
         "_id": "HANGSENG_67",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 尖沙咀分行",
@@ -4637,7 +4637,7 @@
     },
     {
         "_id": "HANGSENG_26",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 莊士敦道分行",
@@ -4681,7 +4681,7 @@
     },
     {
         "_id": "HANGSENG_64",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵尖東站",
@@ -4717,7 +4717,7 @@
     },
     {
         "_id": "HANGSENG_27",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 灣仔分行",
@@ -4761,7 +4761,7 @@
     },
     {
         "_id": "HANGSENG_230",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 仁安醫院",
@@ -4797,7 +4797,7 @@
     },
     {
         "_id": "HANGSENG_100",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵九龍塘站",
@@ -4833,7 +4833,7 @@
     },
     {
         "_id": "HANGSENG_74",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 窩打老道優越及優進理財中心",
@@ -4877,7 +4877,7 @@
     },
     {
         "_id": "HANGSENG_229",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 大圍分行",
@@ -4921,7 +4921,7 @@
     },
     {
         "_id": "HANGSENG_252",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 帝國中心",
@@ -4957,7 +4957,7 @@
     },
     {
         "_id": "HANGSENG_228",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵大圍站",
@@ -4993,7 +4993,7 @@
     },
     {
         "_id": "HANGSENG_112",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 理工大學分行",
@@ -5037,7 +5037,7 @@
     },
     {
         "_id": "HANGSENG_103",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 浸會大學分行",
@@ -5081,7 +5081,7 @@
     },
     {
         "_id": "HANGSENG_105",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 香港浸信會醫院",
@@ -5117,7 +5117,7 @@
     },
     {
         "_id": "HANGSENG_28",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 軒尼詩道分行",
@@ -5161,7 +5161,7 @@
     },
     {
         "_id": "HANGSENG_111",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵紅磡站",
@@ -5197,7 +5197,7 @@
     },
     {
         "_id": "HANGSENG_35",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 跑馬地馬場",
@@ -5233,7 +5233,7 @@
     },
     {
         "_id": "HANGSENG_104",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 香港浸會大學",
@@ -5269,7 +5269,7 @@
     },
     {
         "_id": "HANGSENG_106",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 醫院管理局大樓",
@@ -5305,7 +5305,7 @@
     },
     {
         "_id": "HANGSENG_29",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵銅鑼灣(西)站",
@@ -5341,7 +5341,7 @@
     },
     {
         "_id": "HANGSENG_30",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵銅鑼灣(東)站個人理財中心",
@@ -5385,7 +5385,7 @@
     },
     {
         "_id": "HANGSENG_107",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 聖德肋撒醫院",
@@ -5421,7 +5421,7 @@
     },
     {
         "_id": "HANGSENG_31",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 恩平道分行",
@@ -5465,7 +5465,7 @@
     },
     {
         "_id": "HANGSENG_32",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 銅鑼灣優越及優進理財中心",
@@ -5509,7 +5509,7 @@
     },
     {
         "_id": "HANGSENG_36",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 跑馬地優越及優進理財中心",
@@ -5553,7 +5553,7 @@
     },
     {
         "_id": "HANGSENG_34",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 南華體育會",
@@ -5589,7 +5589,7 @@
     },
     {
         "_id": "HANGSENG_126",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵樂富站",
@@ -5625,7 +5625,7 @@
     },
     {
         "_id": "HANGSENG_108",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 九龍城分行",
@@ -5669,7 +5669,7 @@
     },
     {
         "_id": "HANGSENG_224",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 一田百貨",
@@ -5705,7 +5705,7 @@
     },
     {
         "_id": "HANGSENG_115",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 紅磡分行",
@@ -5749,7 +5749,7 @@
     },
     {
         "_id": "HANGSENG_127",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 樂富廣場分行",
@@ -5793,7 +5793,7 @@
     },
     {
         "_id": "HANGSENG_113",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 德民街",
@@ -5829,7 +5829,7 @@
     },
     {
         "_id": "HANGSENG_109",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 譚公道分行",
@@ -5873,7 +5873,7 @@
     },
     {
         "_id": "HANGSENG_33",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 聖保祿醫院",
@@ -5909,7 +5909,7 @@
     },
     {
         "_id": "HANGSENG_110",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 土瓜灣分行",
@@ -5953,7 +5953,7 @@
     },
     {
         "_id": "HANGSENG_221",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 沙田分行",
@@ -5997,7 +5997,7 @@
     },
     {
         "_id": "HANGSENG_116",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 漁人碼頭",
@@ -6033,7 +6033,7 @@
     },
     {
         "_id": "HANGSENG_226",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 乙明邨OK便利店",
@@ -6069,7 +6069,7 @@
     },
     {
         "_id": "HANGSENG_37",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵天后站 (港鐵站辦事處)",
@@ -6113,7 +6113,7 @@
     },
     {
         "_id": "HANGSENG_39",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 城市花園優越及優進理財中心",
@@ -6157,7 +6157,7 @@
     },
     {
         "_id": "HANGSENG_216",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 火炭",
@@ -6193,7 +6193,7 @@
     },
     {
         "_id": "HANGSENG_38",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵炮台山站",
@@ -6229,7 +6229,7 @@
     },
     {
         "_id": "HANGSENG_124",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵黃大仙站 (港鐵站辦事處)",
@@ -6273,7 +6273,7 @@
     },
     {
         "_id": "HANGSENG_125",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 黃大仙分行",
@@ -6317,7 +6317,7 @@
     },
     {
         "_id": "HANGSENG_212",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 香港教育學院",
@@ -6353,7 +6353,7 @@
     },
     {
         "_id": "HANGSENG_232",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 馬鞍山分行",
@@ -6397,7 +6397,7 @@
     },
     {
         "_id": "HANGSENG_121",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 新蒲崗分行",
@@ -6441,7 +6441,7 @@
     },
     {
         "_id": "HANGSENG_40",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 北角分行",
@@ -6485,7 +6485,7 @@
     },
     {
         "_id": "HANGSENG_122",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 慈雲山分行",
@@ -6529,7 +6529,7 @@
     },
     {
         "_id": "HANGSENG_215",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵火炭站",
@@ -6565,7 +6565,7 @@
     },
     {
         "_id": "HANGSENG_120",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 龍蟠苑OK便利店",
@@ -6601,7 +6601,7 @@
     },
     {
         "_id": "HANGSENG_41",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵北角站",
@@ -6637,7 +6637,7 @@
     },
     {
         "_id": "HANGSENG_123",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 慈雲山中心",
@@ -6673,7 +6673,7 @@
     },
     {
         "_id": "HANGSENG_42",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 北角(樂嘉中心)分行",
@@ -6717,7 +6717,7 @@
     },
     {
         "_id": "HANGSENG_118",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵鑽石山站",
@@ -6753,7 +6753,7 @@
     },
     {
         "_id": "HANGSENG_119",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 荷里活廣場",
@@ -6789,7 +6789,7 @@
     },
     {
         "_id": "HANGSENG_223",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 沙田第一城分行",
@@ -6833,7 +6833,7 @@
     },
     {
         "_id": "HANGSENG_213",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 中文大學分行",
@@ -6877,7 +6877,7 @@
     },
     {
         "_id": "HANGSENG_225",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 愉翠商場",
@@ -6913,7 +6913,7 @@
     },
     {
         "_id": "HANGSENG_217",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 沙田馬場",
@@ -6949,7 +6949,7 @@
     },
     {
         "_id": "HANGSENG_214",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 香港中文大學",
@@ -6985,7 +6985,7 @@
     },
     {
         "_id": "HANGSENG_132",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 MegaBox",
@@ -7021,7 +7021,7 @@
     },
     {
         "_id": "HANGSENG_43",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵鰂魚涌(西)站",
@@ -7057,7 +7057,7 @@
     },
     {
         "_id": "HANGSENG_117",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵彩虹站 (港鐵站辦事處)",
@@ -7101,7 +7101,7 @@
     },
     {
         "_id": "HANGSENG_44",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵鰂魚涌(東)站",
@@ -7137,7 +7137,7 @@
     },
     {
         "_id": "HANGSENG_220",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵沙田站",
@@ -7173,7 +7173,7 @@
     },
     {
         "_id": "HANGSENG_130",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 德福大廈分行",
@@ -7217,7 +7217,7 @@
     },
     {
         "_id": "HANGSENG_227",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 恒生管理學院",
@@ -7253,7 +7253,7 @@
     },
     {
         "_id": "HANGSENG_45",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 鰂魚涌分行",
@@ -7297,7 +7297,7 @@
     },
     {
         "_id": "HANGSENG_235",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 沙田醫院",
@@ -7333,7 +7333,7 @@
     },
     {
         "_id": "HANGSENG_131",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 德福商場第二期",
@@ -7369,7 +7369,7 @@
     },
     {
         "_id": "HANGSENG_129",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 九龍灣優越及優進理財中心",
@@ -7413,7 +7413,7 @@
     },
     {
         "_id": "HANGSENG_128",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵九龍灣站",
@@ -7449,7 +7449,7 @@
     },
     {
         "_id": "HANGSENG_47",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 太古城優越理財中心",
@@ -7493,7 +7493,7 @@
     },
     {
         "_id": "HANGSENG_46",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵太古站",
@@ -7529,7 +7529,7 @@
     },
     {
         "_id": "HANGSENG_134",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 牛頭角分行",
@@ -7573,7 +7573,7 @@
     },
     {
         "_id": "HANGSENG_48",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 太古城分行",
@@ -7617,7 +7617,7 @@
     },
     {
         "_id": "HANGSENG_133",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵牛頭角站",
@@ -7653,7 +7653,7 @@
     },
     {
         "_id": "HANGSENG_50",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵西灣河站",
@@ -7689,7 +7689,7 @@
     },
     {
         "_id": "HANGSENG_49",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 鯉景灣",
@@ -7725,7 +7725,7 @@
     },
     {
         "_id": "HANGSENG_234",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 富安花園",
@@ -7761,7 +7761,7 @@
     },
     {
         "_id": "HANGSENG_136",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 APM",
@@ -7797,7 +7797,7 @@
     },
     {
         "_id": "HANGSENG_139",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 觀塘個人理財中心",
@@ -7841,7 +7841,7 @@
     },
     {
         "_id": "HANGSENG_138",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 觀塘廣場",
@@ -7877,7 +7877,7 @@
     },
     {
         "_id": "HANGSENG_51",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 筲箕灣道",
@@ -7913,7 +7913,7 @@
     },
     {
         "_id": "HANGSENG_135",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵觀塘站 (港鐵站辦事處)",
@@ -7957,7 +7957,7 @@
     },
     {
         "_id": "HANGSENG_52",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 筲箕灣分行",
@@ -8001,7 +8001,7 @@
     },
     {
         "_id": "HANGSENG_143",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 聯合醫院",
@@ -8037,7 +8037,7 @@
     },
     {
         "_id": "HANGSENG_53",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵筲箕灣站",
@@ -8073,7 +8073,7 @@
     },
     {
         "_id": "HANGSENG_142",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 曉麗商場",
@@ -8109,7 +8109,7 @@
     },
     {
         "_id": "HANGSENG_233",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 新港城中心優越及優進理財中心",
@@ -8153,7 +8153,7 @@
     },
     {
         "_id": "HANGSENG_231",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵馬鞍山站",
@@ -8189,7 +8189,7 @@
     },
     {
         "_id": "HANGSENG_144",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵藍田站 (港鐵站辦事處)",
@@ -8233,7 +8233,7 @@
     },
     {
         "_id": "HANGSENG_56",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 柴灣分行",
@@ -8277,7 +8277,7 @@
     },
     {
         "_id": "HANGSENG_146",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵油塘站",
@@ -8313,7 +8313,7 @@
     },
     {
         "_id": "HANGSENG_55",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵柴灣站",
@@ -8349,7 +8349,7 @@
     },
     {
         "_id": "HANGSENG_54",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵杏花邨站",
@@ -8385,7 +8385,7 @@
     },
     {
         "_id": "HANGSENG_57",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 富怡花園",
@@ -8421,7 +8421,7 @@
     },
     {
         "_id": "HANGSENG_58",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 藍灣廣場",
@@ -8457,7 +8457,7 @@
     },
     {
         "_id": "HANGSENG_236",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵調景嶺站",
@@ -8493,7 +8493,7 @@
     },
     {
         "_id": "HANGSENG_240",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 將軍澳中心分行",
@@ -8537,7 +8537,7 @@
     },
     {
         "_id": "HANGSENG_246",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 新都城分行",
@@ -8581,7 +8581,7 @@
     },
     {
         "_id": "HANGSENG_247",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 新都城",
@@ -8617,7 +8617,7 @@
     },
     {
         "_id": "HANGSENG_245",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵寶琳站",
@@ -8653,7 +8653,7 @@
     },
     {
         "_id": "HANGSENG_238",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 Popcorn",
@@ -8689,7 +8689,7 @@
     },
     {
         "_id": "HANGSENG_237",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵將軍澳站",
@@ -8725,7 +8725,7 @@
     },
     {
         "_id": "HANGSENG_145",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 麗港城商場",
@@ -8761,7 +8761,7 @@
     },
     {
         "_id": "HANGSENG_248",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 科技大學分行",
@@ -8805,7 +8805,7 @@
     },
     {
         "_id": "HANGSENG_249",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 香港科技大學",
@@ -8841,7 +8841,7 @@
     },
     {
         "_id": "HANGSENG_242",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵坑口站",
@@ -8877,7 +8877,7 @@
     },
     {
         "_id": "HANGSENG_250",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 香港科技大學",
@@ -8913,7 +8913,7 @@
     },
     {
         "_id": "HANGSENG_243",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 東港城分行",
@@ -8957,7 +8957,7 @@
     },
     {
         "_id": "HANGSENG_244",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 將軍澳醫院",
@@ -8993,7 +8993,7 @@
     },
     {
         "_id": "HANGSENG_241",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵康城站",
@@ -9029,7 +9029,7 @@
     },
     {
         "_id": "HANGSENG_82",
-        "atm_type": "hsbc",
+        "atm_type": "hsbcgroup",
         "shop_type": "hangseng",
         "name": {
             "zh": "恒生銀行 港鐵太子站",
