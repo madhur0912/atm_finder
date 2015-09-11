@@ -15,6 +15,7 @@ db.once('open', function(callback) {
 });
 
 var atm = require('./routes/atm');
+var localized = require('./routes/localized');
 
 var app = express();
 
@@ -39,6 +40,7 @@ app.use(function(req, res, next) {
 });
 
 app.use('/atm', atm);
+app.use('/localized', localized);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

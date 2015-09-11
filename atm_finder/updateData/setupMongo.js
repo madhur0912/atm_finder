@@ -1,5 +1,7 @@
 'use strict';
 
+var fs = require('fs');
+
 // Setup mongodb
 var Promise = require('bluebird');
 var Db = require('mongodb').Db;
@@ -7,6 +9,9 @@ var Server = require('mongodb').Server;
 var assert = require('assert');
 var dbName = 'atm';
 var dbPath = 'localhost';
+
+var atmCollectionName = 'atm';
+var localizedCollectionName = 'localized';
 
 var circleK = require('./circleKBranch/app');
 var hangseng = require('./hangsengBranch/app');
@@ -29,23 +34,41 @@ var flattenArray = function(array) {
 };
 
 // Function to create the atm collection
-var createAtmCollection = function() {
+var createCollectionWithName = function(name) {
 	return new Promise(function(resolve, reject) {
 
-		db.collection('atm').drop(function(err, reply) {
+		db.collection(name).drop(function(err, reply) {
 			if (err) {
 				console.log('Error: ' + err);
 			} else {
-				console.log('Mongo: Drop collection "atm": ' + reply);
+				console.log('Mongo: Drop collection "' + name + '" : ' + reply);
 			}
 
-			db.createCollection('atm', {}, function(err, collection) {
+			db.createCollection(name, {}, function(err, collection) {
 				if (err) {
 					reject(err);
 				} else {
 					resolve(collection);
 				}
 			});
+		});
+	});
+};
+
+// Function to insert all branches to collection
+var insertLocalizedToCollection = function() {
+	return new Promise(function(resolve, reject) {
+
+		var filename = localizedCollectionName + '.json'
+		var localized = JSON.parse(fs.readFileSync(filename, 'utf8'));
+
+		db.collection(localizedCollectionName).insertOne(localized, function(err, result) {
+
+			if (err) {
+				reject(err);
+			} else {
+				resolve(result);
+			}
 		});
 	});
 };
@@ -67,7 +90,7 @@ var insertAtmToCollection = function(collection) {
 			.all(allBranches)
 			.then(flattenArray)
 			.then(function(branches) {
-				var bulk = collection.initializeUnorderedBulkOp();
+				var bulk = db.collection(atmCollectionName).initializeUnorderedBulkOp();
 				branches.map(function(branch) {
 					bulk.insert(branch);
 				});
@@ -89,7 +112,7 @@ var insertAtmToCollection = function(collection) {
 var createGeoIndex = function() {
 	// db.atm.createIndex( { loc : "2dsphere" } )
 	return new Promise(function(resolve, reject) {
-		db.collection('atm').createIndex({
+		db.collection(atmCollectionName).createIndex({
 			loc: '2dsphere'
 		}, function(err, result) {
 			if (err) {
@@ -97,24 +120,40 @@ var createGeoIndex = function() {
 			}
 
 			resolve(result);
-		})
+		});
 	});
-}
+};
 
 // Establish connection to db
 db.open(function(err, db) {
 	assert.equal(null, err);
 
-	Promise
-		.try(createAtmCollection)
-		.then(insertAtmToCollection)
-		.then(createGeoIndex)
-		.then(function(result) {
-			console.log('SetupMongo: Insert Finish');
-			console.log('SetupMongo: Index Finish - ' + result);
-			db.close();
+	var insertLocalized = Promise
+		.map([localizedCollectionName], createCollectionWithName)
+		.then(insertLocalizedToCollection)
+		.then(function() {
+			console.log('SetupMongo: Insert localized Finish.');
 		})
 		.catch(function(err) {
 			console.log(err);
+		});
+
+	var insertAtm = Promise
+		.map([atmCollectionName], createCollectionWithName)
+		.then(insertAtmToCollection)
+		.then(createGeoIndex)
+		.then(function(result) {
+			console.log('SetupMongo: Insert ATM Finish.');
+			console.log('SetupMongo: ATM Index Finish - ' + result + '.');
+		})
+		.catch(function(err) {
+			console.log(err);
+		});
+
+	Promise
+		.all([insertLocalized, insertAtm])
+		.then(function() {
+			console.log('SetupMongo: Setup Mongo complete. Close db.');
+			db.close();
 		});
 });

@@ -1,0 +1,118 @@
+{
+	"jetco": {
+		"zh": "銀通櫃員機",
+		"en": "JETCO ATM"
+	},
+	"bea": {
+		"zh": "東亞銀行",
+		"en": "The Bank of East Asia"
+	},
+	"boc": {
+		"zh": "中國銀行",
+		"en": "Bank of China"
+	},
+	"chonghing": {
+		"zh": "創興銀行",
+		"en": "Chong Hing Bank"
+	},
+	"sc": {
+		"zh": "渣打銀行",
+		"en": "Standard Chartered"
+	},
+	"citi": {
+		"zh": "花旗銀行",
+		"en": "Citibank"
+	},
+	"scb": {
+		"zh": "上海商業銀行",
+		"en": "Shanghai Commercial Bank"
+	},
+	"dahsing": {
+		"zh": "大新銀行",
+		"en": "Dah Sing Bank"
+	},
+	"comm": {
+		"zh": "交通銀行",
+		"en": "Bank of Communications"
+	},
+	"icbc": {
+		"zh": "工商銀行",
+		"en": "ICBC"
+	},
+	"citic": {
+		"zh": "中信銀行",
+		"en": "China CITIC Bank"
+	},
+	"winglung": {
+		"zh": "永隆銀行",
+		"en": "Wing Lung Bank"
+	},
+	"fubon": {
+		"zh": "富邦銀行",
+		"en": "Fubon Bank"
+	},
+	"dbs": {
+		"zh": "星展銀行",
+		"en": "DBS Bank"
+	},
+	"chiyu": {
+		"zh": "集友銀行",
+		"en": "Chiyu"
+	},
+	"nanyang": {
+		"zh": "南洋商業銀行",
+		"en": "Nanyang Commercial Bank"
+	},
+	"construct": {
+		"zh": "中國建設銀行",
+		"en": "China Construction Bank"
+	},
+	"ocbc": {
+		"zh": "華僑永亨銀行",
+		"en": "OCBC Wing Hang Bank"
+	},
+	"public": {
+		"zh": "大眾銀行",
+		"en": "Public Bank"
+	},
+	"anz": {
+		"zh": "澳新銀行‎",
+		"en": "ANZ"
+	},
+	"cmb": {
+		"zh": "招商銀行",
+		"en": "China Merchants Bank"
+	},
+	"hsbcgroup": {
+		"zh": "匯豐集團櫃員機",
+		"en": "HSBC Group ATM"
+	},
+	"hangseng": {
+		"zh": "恒生銀行",
+		"en": "Hang Seng Bank"
+	},
+	"hsbc": {
+		"zh": "匯豐銀行",
+		"en": "HSBC"
+	},
+	"eps": {
+		"zh": "EPS提款易商戶",
+		"en": "EPS EasyCash merchants"
+	},
+	"circlek": {
+		"zh": "OK便利店",
+		"en": "CircleK"
+	},
+	"mannings": {
+		"zh": "萬寧",
+		"en": "Mannings"
+	},
+	"seven": {
+		"zh": "7-11",
+		"en": "7-Eleven"
+	},
+	"watsons": {
+		"zh": "屈臣氏",
+		"en": "Watsons"
+	}
+}
