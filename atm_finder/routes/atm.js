@@ -6,7 +6,7 @@ var router = express.Router();
 
 var Atm = require('./../models/atm');
 
-var maxResultSize = 100;
+var maxResultSize = 30;
 var availableLanguages = ['zh', 'en'];
 
 // filter json obj by language
@@ -41,6 +41,42 @@ var distanceFromPoint = function(lat1, lon1, lat2, lon2, unit) {
 		dist = dist * 0.8684
 	}
 	return dist
+}
+
+var atmQuery = function(code, center, atm_type, shop_type, callback) {
+
+	var find = {
+		loc: {
+			$near: {
+				$geometry: {
+					type: 'Point',
+					coordinates: center
+				}
+			}
+		}
+	};
+
+	if (atm_type !== null) {
+		find.atm_type = atm_type;
+	}
+
+	if (shop_type !== null) {
+		find.shop_type = shop_type;
+	}
+
+	Atm
+		.find(find)
+		.limit(maxResultSize)
+		.select({
+			_id: 1,
+			atm_type: 1,
+			name: 1,
+			shop_type: 1,
+			loc: 1
+		})
+		.then(function(data) {
+			callback(null, filter_language(code, data));
+		});
 }
 
 /* GET all atm. */
@@ -94,7 +130,7 @@ router.get('/shop_type', function(req, res) {
 });
 
 /* GET all atm inside area. */
-router.get('/box/:code/bottomLeft/:bottomLeft/upperRight/:upperRight', function(req, res) {
+router.get('/near/:code/center/:center', function(req, res) {
 
 	var code = req.params.code;
 	if (availableLanguages.indexOf(code) === -1) {
@@ -102,101 +138,58 @@ router.get('/box/:code/bottomLeft/:bottomLeft/upperRight/:upperRight', function(
 		err.status = 400;
 		res.send(err);
 	} else {
-		var bottomLeft = JSON.parse('[' + req.params.bottomLeft + ']');
-		var upperRight = JSON.parse('[' + req.params.upperRight + ']');
+		var center = JSON.parse('[' + req.params.center + ']');
+		center = [center[1], center[0]];
 
-		var box = [
-			[bottomLeft[1], bottomLeft[0]],
-			[upperRight[1], upperRight[0]]
-		];
-
-		var d = 1000 * distanceFromPoint(bottomLeft[0], bottomLeft[1], upperRight[0], upperRight[1], 'K');
-
-		console.log(d);
-
-		var minPoint = [(bottomLeft[1] + upperRight[1]) / 2, (bottomLeft[0] + upperRight[0]) / 2];
-
-		Atm
-			.find({
-				loc: {
-					$near: {
-						$geometry: {
-							type: 'Point',
-							coordinates: minPoint
-						},
-						$maxDistance: d * 0.5
-					}
-				}
-			})
-			.select({
-				_id: 1,
-				atm_type: 1,
-				name: 1,
-				shop_type: 1,
-				loc: 1
-			})
-			.then(function(data) {
-				var result = filter_language(code, data);
-				var exist = [];
-
-				if (result.length > maxResultSize) {
-					result = result.slice(0, maxResultSize);
-				};
-
-				for (var i = 0; i < result.length; i++) {
-					if (exist.indexOf(result[i].shop_type) === -1) {
-						exist.push(result[i].shop_type);
-					} else {
-						result[i].shop_type = 'x';
-					}
-				};
-
-				res.send({
-					atm: result
-				});
+		atmQuery(code, center, null, null, function(err, atms) {
+			res.send({
+				atm: atms
 			});
+		})
 	}
 });
 
-/* GET all atm inside area with atm filter. */
-router.get('/box/:code/bottomLeft/:bottomLeft/upperRight/:upperRight/atm_type/:atm_type', function(req, res) {
+/* GET all atm inside area with atm_type filter. */
+router.get('/near/:code/center/:center/atm_type/:atm_type', function(req, res) {
 
 	var code = req.params.code;
+
 	if (availableLanguages.indexOf(code) === -1) {
 		var err = new Error('Language Code should be either "zh" or "en"');
 		err.status = 400;
 		res.send(err);
 	} else {
 		var atm_type = req.params.atm_type;
-		var bottomLeft = JSON.parse('[' + req.params.bottomLeft + ']');
-		var upperRight = JSON.parse('[' + req.params.upperRight + ']');
+		var center = JSON.parse('[' + req.params.center + ']');
+		center = [center[1], center[0]];
 
-		var box = [
-			[bottomLeft[1], bottomLeft[0]],
-			[upperRight[1], upperRight[0]]
-		];
-
-		Atm
-			.find({
-				atm_type: atm_type,
-				loc: {
-					$geoWithin: {
-						$box: box
-					}
-				}
-			})
-			.select({
-				_id: 1,
-				atm_type: 1,
-				name: 1,
-				shop_type: 1,
-				loc: 1
-			})
-			.then(function(data) {
-				res.send({
-					atm: filter_language(code, data)
-				});
+		atmQuery(code, center, atm_type, null, function(err, atms) {
+			res.send({
+				atm: atms
 			});
+		})
+	}
+});
+
+/* GET all atm inside area with shop_type filter. */
+router.get('/near/:code/center/:center/shop_type/:shop_type', function(req, res) {
+
+	var code = req.params.code;
+
+	if (availableLanguages.indexOf(code) === -1) {
+		var err = new Error('Language Code should be either "zh" or "en"');
+		err.status = 400;
+		res.send(err);
+	} else {
+		var shop_type = req.params.shop_type;
+		var center = JSON.parse('[' + req.params.center + ']');
+		center = [center[1], center[0]];
+
+		atmQuery(code, center, null, shop_type, function(err, atms) {
+			res.send({
+				atm: atms
+			});
+		})
 	}
 });
 
