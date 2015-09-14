@@ -18,8 +18,8 @@ function Branch(en, zt) {
 	this._id = 'WATSONS_' + en.name.replace(/ /g, '_');
 	this.atm_type = 'eps';
 	this.name = {
-		zh: '屈臣氏 ' + zt.name,
-		en: 'Watsons ' + en.name
+		zh: zt.name,
+		en: en.name
 	};
 	this.shop_type = 'watsons';
 	this.area = {

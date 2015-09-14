@@ -169,8 +169,8 @@ var formatBranch = function(branch) {
 			atm_type: 'hsbcgroup',
 			shop_type: 'hangseng',
 			name: {
-				zh: '恒生銀行 ' + branch.zh.Name,
-				en: 'Hang Seng Bank ' + branch.en.Name
+				zh: branch.zh.Name,
+				en: branch.en.Name
 			},
 			area: {
 				zh: branch.zh.area,

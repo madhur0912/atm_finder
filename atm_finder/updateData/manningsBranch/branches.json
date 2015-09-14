@@ -3,8 +3,8 @@
         "_id": "MANNINGS_TI_L6_RESTRICTED_AREA",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 T1 L6 禁區西北客運廊",
-            "en": "Mannings TI L6 RESTRICTED AREA"
+            "zh": "T1 L6 禁區西北客運廊",
+            "en": "TI L6 RESTRICTED AREA"
         },
         "shop_type": "mannings",
         "area": {
@@ -44,8 +44,8 @@
         "_id": "MANNINGS_North_Satellite_Concourse",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 北衛星客運廊",
-            "en": "Mannings North Satellite Concourse"
+            "zh": "北衛星客運廊",
+            "en": "North Satellite Concourse"
         },
         "shop_type": "mannings",
         "area": {
@@ -85,8 +85,8 @@
         "_id": "MANNINGS_TI_L7_RESTRICTED_AREA",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 T1 L7 禁區東大堂",
-            "en": "Mannings TI L7 RESTRICTED AREA"
+            "zh": "T1 L7 禁區東大堂",
+            "en": "TI L7 RESTRICTED AREA"
         },
         "shop_type": "mannings",
         "area": {
@@ -126,8 +126,8 @@
         "_id": "MANNINGS_TI_L5_Restricted_Area",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 TI L5 轉機禁區",
-            "en": "Mannings TI L5 Restricted Area"
+            "zh": "TI L5 轉機禁區",
+            "en": "TI L5 Restricted Area"
         },
         "shop_type": "mannings",
         "area": {
@@ -167,8 +167,8 @@
         "_id": "MANNINGS_T1_L7E105_RESTRICTED_AREA",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 T1 L7E105 禁區東大堂",
-            "en": "Mannings T1 L7E105 RESTRICTED AREA"
+            "zh": "T1 L7E105 禁區東大堂",
+            "en": "T1 L7E105 RESTRICTED AREA"
         },
         "shop_type": "mannings",
         "area": {
@@ -208,8 +208,8 @@
         "_id": "MANNINGS_T1_L7_DEPARTURE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 T1 L7 出境大堂",
-            "en": "Mannings T1 L7 DEPARTURE"
+            "zh": "T1 L7 出境大堂",
+            "en": "T1 L7 DEPARTURE"
         },
         "shop_type": "mannings",
         "area": {
@@ -249,8 +249,8 @@
         "_id": "MANNINGS_YAT_TUNG",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 逸東",
-            "en": "Mannings YAT TUNG"
+            "zh": "逸東",
+            "en": "YAT TUNG"
         },
         "shop_type": "mannings",
         "area": {
@@ -290,8 +290,8 @@
         "_id": "MANNINGS_T1_L6_DEPARTURES_HALL",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 T1 L6 離境大堂",
-            "en": "Mannings T1 L6 DEPARTURES HALL"
+            "zh": "T1 L6 離境大堂",
+            "en": "T1 L6 DEPARTURES HALL"
         },
         "shop_type": "mannings",
         "area": {
@@ -331,8 +331,8 @@
         "_id": "MANNINGS_T1_L5_ARRIVAL",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 T1 L5 接機大堂",
-            "en": "Mannings T1 L5 ARRIVAL"
+            "zh": "T1 L5 接機大堂",
+            "en": "T1 L5 ARRIVAL"
         },
         "shop_type": "mannings",
         "area": {
@@ -372,8 +372,8 @@
         "_id": "MANNINGS_AIRPORT_ARRIVAL",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 機場入境",
-            "en": "Mannings AIRPORT ARRIVAL"
+            "zh": "機場入境",
+            "en": "AIRPORT ARRIVAL"
         },
         "shop_type": "mannings",
         "area": {
@@ -413,8 +413,8 @@
         "_id": "MANNINGS_AIRPORT_DEPARTURE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 機場離境",
-            "en": "Mannings AIRPORT DEPARTURE"
+            "zh": "機場離境",
+            "en": "AIRPORT DEPARTURE"
         },
         "shop_type": "mannings",
         "area": {
@@ -454,8 +454,8 @@
         "_id": "MANNINGS_TUNG_CHUNG_CRESCENT",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 東堤灣畔",
-            "en": "Mannings TUNG CHUNG CRESCENT"
+            "zh": "東堤灣畔",
+            "en": "TUNG CHUNG CRESCENT"
         },
         "shop_type": "mannings",
         "area": {
@@ -495,8 +495,8 @@
         "_id": "MANNINGS_FU_TUNG_SHOPPING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 富東商場",
-            "en": "Mannings FU TUNG SHOPPING CENTRE"
+            "zh": "富東商場",
+            "en": "FU TUNG SHOPPING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -536,8 +536,8 @@
         "_id": "MANNINGS_SkyPier",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 機場海天客運碼頭",
-            "en": "Mannings SkyPier"
+            "zh": "機場海天客運碼頭",
+            "en": "SkyPier"
         },
         "shop_type": "mannings",
         "area": {
@@ -577,8 +577,8 @@
         "_id": "MANNINGS_LEUNG_KING",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 良景",
-            "en": "Mannings LEUNG KING"
+            "zh": "良景",
+            "en": "LEUNG KING"
         },
         "shop_type": "mannings",
         "area": {
@@ -618,8 +618,8 @@
         "_id": "MANNINGS_BUTTERFLY",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 蝴蝶邨",
-            "en": "Mannings BUTTERFLY"
+            "zh": "蝴蝶邨",
+            "en": "BUTTERFLY"
         },
         "shop_type": "mannings",
         "area": {
@@ -659,8 +659,8 @@
         "_id": "MANNINGS_GLORIOUS_GARDEN",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 富健花園",
-            "en": "Mannings GLORIOUS GARDEN"
+            "zh": "富健花園",
+            "en": "GLORIOUS GARDEN"
         },
         "shop_type": "mannings",
         "area": {
@@ -700,8 +700,8 @@
         "_id": "MANNINGS_SHAN_KING",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 山景",
-            "en": "Mannings SHAN KING"
+            "zh": "山景",
+            "en": "SHAN KING"
         },
         "shop_type": "mannings",
         "area": {
@@ -741,8 +741,8 @@
         "_id": "MANNINGS_OCEAN_WALK",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 海翠坊",
-            "en": "Mannings OCEAN WALK"
+            "zh": "海翠坊",
+            "en": "OCEAN WALK"
         },
         "shop_type": "mannings",
         "area": {
@@ -782,8 +782,8 @@
         "_id": "MANNINGS_PO_TIN_SHOPPING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 寶田商場",
-            "en": "Mannings PO TIN SHOPPING CENTRE"
+            "zh": "寶田商場",
+            "en": "PO TIN SHOPPING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -823,8 +823,8 @@
         "_id": "MANNINGS_BLOSSOM_GARDEN",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 寶怡花園",
-            "en": "Mannings BLOSSOM GARDEN"
+            "zh": "寶怡花園",
+            "en": "BLOSSOM GARDEN"
         },
         "shop_type": "mannings",
         "area": {
@@ -864,8 +864,8 @@
         "_id": "MANNINGS_TAI_HING_ESTATE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 大興",
-            "en": "Mannings TAI HING ESTATE"
+            "zh": "大興",
+            "en": "TAI HING ESTATE"
         },
         "shop_type": "mannings",
         "area": {
@@ -905,8 +905,8 @@
         "_id": "MANNINGS_TAI_HING_GARDEN",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 大興花園",
-            "en": "Mannings TAI HING GARDEN"
+            "zh": "大興花園",
+            "en": "TAI HING GARDEN"
         },
         "shop_type": "mannings",
         "area": {
@@ -946,8 +946,8 @@
         "_id": "MANNINGS_KCR_TUEN_MUN",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 西鐵屯門站",
-            "en": "Mannings KCR TUEN MUN"
+            "zh": "西鐵屯門站",
+            "en": "KCR TUEN MUN"
         },
         "shop_type": "mannings",
         "area": {
@@ -987,8 +987,8 @@
         "_id": "MANNINGS_YAU_OI",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 友愛",
-            "en": "Mannings YAU OI"
+            "zh": "友愛",
+            "en": "YAU OI"
         },
         "shop_type": "mannings",
         "area": {
@@ -1028,8 +1028,8 @@
         "_id": "MANNINGS_TREND_PLAZA",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 屯門時代廣場",
-            "en": "Mannings TREND PLAZA"
+            "zh": "屯門時代廣場",
+            "en": "TREND PLAZA"
         },
         "shop_type": "mannings",
         "area": {
@@ -1069,8 +1069,8 @@
         "_id": "MANNINGS_TUEN_MUN_BABY",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 屯門Baby",
-            "en": "Mannings TUEN MUN BABY"
+            "zh": "屯門Baby",
+            "en": "TUEN MUN BABY"
         },
         "shop_type": "mannings",
         "area": {
@@ -1110,8 +1110,8 @@
         "_id": "MANNINGS_TUEN_MUN_OLD_TOWN",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 屯門仁政街",
-            "en": "Mannings TUEN MUN OLD TOWN"
+            "zh": "屯門仁政街",
+            "en": "TUEN MUN OLD TOWN"
         },
         "shop_type": "mannings",
         "area": {
@@ -1151,8 +1151,8 @@
         "_id": "MANNINGS_TUEN_MUN_TOWN_PLAZA",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 屯門市廣場",
-            "en": "Mannings TUEN MUN TOWN PLAZA"
+            "zh": "屯門市廣場",
+            "en": "TUEN MUN TOWN PLAZA"
         },
         "shop_type": "mannings",
         "area": {
@@ -1192,8 +1192,8 @@
         "_id": "MANNINGS_KCR_SIU_HONG",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 西鐵兆康站",
-            "en": "Mannings KCR SIU HONG"
+            "zh": "西鐵兆康站",
+            "en": "KCR SIU HONG"
         },
         "shop_type": "mannings",
         "area": {
@@ -1233,8 +1233,8 @@
         "_id": "MANNINGS_HANFORD_PLAZA",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 恆福商場",
-            "en": "Mannings HANFORD PLAZA"
+            "zh": "恆福商場",
+            "en": "HANFORD PLAZA"
         },
         "shop_type": "mannings",
         "area": {
@@ -1274,8 +1274,8 @@
         "_id": "MANNINGS_SIU_HONG_COURT",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 兆康苑",
-            "en": "Mannings SIU HONG COURT"
+            "zh": "兆康苑",
+            "en": "SIU HONG COURT"
         },
         "shop_type": "mannings",
         "area": {
@@ -1315,8 +1315,8 @@
         "_id": "MANNINGS_CHI_LOK_FA_YUEN",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 置樂花園",
-            "en": "Mannings CHI LOK FA YUEN"
+            "zh": "置樂花園",
+            "en": "CHI LOK FA YUEN"
         },
         "shop_type": "mannings",
         "area": {
@@ -1356,8 +1356,8 @@
         "_id": "MANNINGS_FU_TAI",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 富泰",
-            "en": "Mannings FU TAI"
+            "zh": "富泰",
+            "en": "FU TAI"
         },
         "shop_type": "mannings",
         "area": {
@@ -1397,8 +1397,8 @@
         "_id": "MANNINGS_HUNG_SHUI_KIU",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 洪水橋",
-            "en": "Mannings HUNG SHUI KIU"
+            "zh": "洪水橋",
+            "en": "HUNG SHUI KIU"
         },
         "shop_type": "mannings",
         "area": {
@@ -1438,8 +1438,8 @@
         "_id": "MANNINGS_CHUNG_FU",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 頌富",
-            "en": "Mannings CHUNG FU"
+            "zh": "頌富",
+            "en": "CHUNG FU"
         },
         "shop_type": "mannings",
         "area": {
@@ -1479,8 +1479,8 @@
         "_id": "MANNINGS_TIN_SHUI_SHOPPING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 天瑞商場",
-            "en": "Mannings TIN SHUI SHOPPING CENTRE"
+            "zh": "天瑞商場",
+            "en": "TIN SHUI SHOPPING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -1520,8 +1520,8 @@
         "_id": "MANNINGS_RICHLY_PLAZA",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 新北江",
-            "en": "Mannings RICHLY PLAZA"
+            "zh": "新北江",
+            "en": "RICHLY PLAZA"
         },
         "shop_type": "mannings",
         "area": {
@@ -1561,8 +1561,8 @@
         "_id": "MANNINGS_GRANDEUR_TERRACE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 俊宏軒",
-            "en": "Mannings GRANDEUR TERRACE"
+            "zh": "俊宏軒",
+            "en": "GRANDEUR TERRACE"
         },
         "shop_type": "mannings",
         "area": {
@@ -1602,8 +1602,8 @@
         "_id": "MANNINGS_TIN_CHING_SHOPPING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 天晴商場",
-            "en": "Mannings TIN CHING SHOPPING CENTRE"
+            "zh": "天晴商場",
+            "en": "TIN CHING SHOPPING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -1643,8 +1643,8 @@
         "_id": "MANNINGS_TIN_WAH_ESTATE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 天華邨",
-            "en": "Mannings TIN WAH ESTATE"
+            "zh": "天華邨",
+            "en": "TIN WAH ESTATE"
         },
         "shop_type": "mannings",
         "area": {
@@ -1684,8 +1684,8 @@
         "_id": "MANNINGS_TIN_YIU",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 天耀",
-            "en": "Mannings TIN YIU"
+            "zh": "天耀",
+            "en": "TIN YIU"
         },
         "shop_type": "mannings",
         "area": {
@@ -1725,8 +1725,8 @@
         "_id": "MANNINGS_KCR_-_TIN_SHUI_WAI",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 西鐵天水圍站",
-            "en": "Mannings KCR - TIN SHUI WAI"
+            "zh": "西鐵天水圍站",
+            "en": "KCR - TIN SHUI WAI"
         },
         "shop_type": "mannings",
         "area": {
@@ -1766,8 +1766,8 @@
         "_id": "MANNINGS_LONG_PING_ESTATE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 朗屏邨",
-            "en": "Mannings LONG PING ESTATE"
+            "zh": "朗屏邨",
+            "en": "LONG PING ESTATE"
         },
         "shop_type": "mannings",
         "area": {
@@ -1807,8 +1807,8 @@
         "_id": "MANNINGS_CHUN_YIN_SQUARE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 俊賢坊",
-            "en": "Mannings CHUN YIN SQUARE"
+            "zh": "俊賢坊",
+            "en": "CHUN YIN SQUARE"
         },
         "shop_type": "mannings",
         "area": {
@@ -1848,8 +1848,8 @@
         "_id": "MANNINGS_YUEN_LONG_WING_WAH",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 元朗榮華",
-            "en": "Mannings YUEN LONG WING WAH"
+            "zh": "元朗榮華",
+            "en": "YUEN LONG WING WAH"
         },
         "shop_type": "mannings",
         "area": {
@@ -1889,8 +1889,8 @@
         "_id": "MANNINGS_YUEN_LONG_MAIN_ROAD",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 元朗大馬路",
-            "en": "Mannings YUEN LONG MAIN ROAD"
+            "zh": "元朗大馬路",
+            "en": "YUEN LONG MAIN ROAD"
         },
         "shop_type": "mannings",
         "area": {
@@ -1930,8 +1930,8 @@
         "_id": "MANNINGS_YUEN_LONG_PLAZA",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 元朗廣場",
-            "en": "Mannings YUEN LONG PLAZA"
+            "zh": "元朗廣場",
+            "en": "YUEN LONG PLAZA"
         },
         "shop_type": "mannings",
         "area": {
@@ -1971,8 +1971,8 @@
         "_id": "MANNINGS_SAU_FU_STREET",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 元朗壽富街",
-            "en": "Mannings SAU FU STREET"
+            "zh": "元朗壽富街",
+            "en": "SAU FU STREET"
         },
         "shop_type": "mannings",
         "area": {
@@ -2012,8 +2012,8 @@
         "_id": "MANNINGS_KAU_YUK_ROAD",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 教育路",
-            "en": "Mannings KAU YUK ROAD"
+            "zh": "教育路",
+            "en": "KAU YUK ROAD"
         },
         "shop_type": "mannings",
         "area": {
@@ -2053,8 +2053,8 @@
         "_id": "MANNINGS_KWOK_WAH_MANSION",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 國華大廈",
-            "en": "Mannings KWOK WAH MANSION"
+            "zh": "國華大廈",
+            "en": "KWOK WAH MANSION"
         },
         "shop_type": "mannings",
         "area": {
@@ -2094,8 +2094,8 @@
         "_id": "MANNINGS_KAR_SHING",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 嘉城",
-            "en": "Mannings KAR SHING"
+            "zh": "嘉城",
+            "en": "KAR SHING"
         },
         "shop_type": "mannings",
         "area": {
@@ -2135,8 +2135,8 @@
         "_id": "MANNINGS_CHEUNG_CHAU",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 長洲",
-            "en": "Mannings CHEUNG CHAU"
+            "zh": "長洲",
+            "en": "CHEUNG CHAU"
         },
         "shop_type": "mannings",
         "area": {
@@ -2176,8 +2176,8 @@
         "_id": "MANNINGS_KUK_TING_STREET",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 元朗谷亭街",
-            "en": "Mannings KUK TING STREET"
+            "zh": "元朗谷亭街",
+            "en": "KUK TING STREET"
         },
         "shop_type": "mannings",
         "area": {
@@ -2217,8 +2217,8 @@
         "_id": "MANNINGS_TAI_HANG",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 泰衡",
-            "en": "Mannings TAI HANG"
+            "zh": "泰衡",
+            "en": "TAI HANG"
         },
         "shop_type": "mannings",
         "area": {
@@ -2258,8 +2258,8 @@
         "_id": "MANNINGS_KWONG_WAH_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 光華中心",
-            "en": "Mannings KWONG WAH CENTRE"
+            "zh": "光華中心",
+            "en": "KWONG WAH CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -2299,8 +2299,8 @@
         "_id": "MANNINGS_FUNG_KAM_STREET",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 元朗鳳琴街",
-            "en": "Mannings FUNG KAM STREET"
+            "zh": "元朗鳳琴街",
+            "en": "FUNG KAM STREET"
         },
         "shop_type": "mannings",
         "area": {
@@ -2340,8 +2340,8 @@
         "_id": "MANNINGS_SUN_YUEN_LONG_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 新元朗中心",
-            "en": "Mannings SUN YUEN LONG CENTRE"
+            "zh": "新元朗中心",
+            "en": "SUN YUEN LONG CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -2381,8 +2381,8 @@
         "_id": "MANNINGS_FAIRVIEW_PARK",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 錦繡花園",
-            "en": "Mannings FAIRVIEW PARK"
+            "zh": "錦繡花園",
+            "en": "FAIRVIEW PARK"
         },
         "shop_type": "mannings",
         "area": {
@@ -2422,8 +2422,8 @@
         "_id": "MANNINGS_PARK_ISLAND",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 珀麗灣",
-            "en": "Mannings PARK ISLAND"
+            "zh": "珀麗灣",
+            "en": "PARK ISLAND"
         },
         "shop_type": "mannings",
         "area": {
@@ -2463,8 +2463,8 @@
         "_id": "MANNINGS_BELLAGIO_MALL",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 碧堤坊",
-            "en": "Mannings BELLAGIO MALL"
+            "zh": "碧堤坊",
+            "en": "BELLAGIO MALL"
         },
         "shop_type": "mannings",
         "area": {
@@ -2504,8 +2504,8 @@
         "_id": "MANNINGS_LOK_MA_CHAU_DEPARTURE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 落馬洲離境",
-            "en": "Mannings LOK MA CHAU DEPARTURE"
+            "zh": "落馬洲離境",
+            "en": "LOK MA CHAU DEPARTURE"
         },
         "shop_type": "mannings",
         "area": {
@@ -2545,8 +2545,8 @@
         "_id": "MANNINGS_CHEUNG_HANG",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 長亨",
-            "en": "Mannings CHEUNG HANG"
+            "zh": "長亨",
+            "en": "CHEUNG HANG"
         },
         "shop_type": "mannings",
         "area": {
@@ -2586,8 +2586,8 @@
         "_id": "MANNINGS_CHEUNG_HONG_SHOPPING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 長康商場",
-            "en": "Mannings CHEUNG HONG SHOPPING CENTRE"
+            "zh": "長康商場",
+            "en": "CHEUNG HONG SHOPPING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -2627,8 +2627,8 @@
         "_id": "MANNINGS_TSING_YI",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 青衣",
-            "en": "Mannings TSING YI"
+            "zh": "青衣",
+            "en": "TSING YI"
         },
         "shop_type": "mannings",
         "area": {
@@ -2668,8 +2668,8 @@
         "_id": "MANNINGS_BROADVIEW_GARDEN",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 偉景花園",
-            "en": "Mannings BROADVIEW GARDEN"
+            "zh": "偉景花園",
+            "en": "BROADVIEW GARDEN"
         },
         "shop_type": "mannings",
         "area": {
@@ -2709,8 +2709,8 @@
         "_id": "MANNINGS_MARITIME_SQUARE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 青衣城",
-            "en": "Mannings MARITIME SQUARE"
+            "zh": "青衣城",
+            "en": "MARITIME SQUARE"
         },
         "shop_type": "mannings",
         "area": {
@@ -2750,8 +2750,8 @@
         "_id": "MANNINGS_TIVOLI_GARDEN",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 宏褔花園",
-            "en": "Mannings TIVOLI GARDEN"
+            "zh": "宏褔花園",
+            "en": "TIVOLI GARDEN"
         },
         "shop_type": "mannings",
         "area": {
@@ -2791,8 +2791,8 @@
         "_id": "MANNINGS_TSUEN_WAN",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 荃灣中心",
-            "en": "Mannings TSUEN WAN"
+            "zh": "荃灣中心",
+            "en": "TSUEN WAN"
         },
         "shop_type": "mannings",
         "area": {
@@ -2832,8 +2832,8 @@
         "_id": "MANNINGS_CHEUNG_CHING_ESTATE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 長青邨",
-            "en": "Mannings CHEUNG CHING ESTATE"
+            "zh": "長青邨",
+            "en": "CHEUNG CHING ESTATE"
         },
         "shop_type": "mannings",
         "area": {
@@ -2873,8 +2873,8 @@
         "_id": "MANNINGS_GREENFIELD_GARDEN",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 翠怡花園",
-            "en": "Mannings GREENFIELD GARDEN"
+            "zh": "翠怡花園",
+            "en": "GREENFIELD GARDEN"
         },
         "shop_type": "mannings",
         "area": {
@@ -2914,8 +2914,8 @@
         "_id": "MANNINGS_MOON_LOK_DAI_HA",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 滿樂大廈",
-            "en": "Mannings MOON LOK DAI HA"
+            "zh": "滿樂大廈",
+            "en": "MOON LOK DAI HA"
         },
         "shop_type": "mannings",
         "area": {
@@ -2955,8 +2955,8 @@
         "_id": "MANNINGS_NEW_TSUEN_WAN_PLAZA",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 新荃灣廣場",
-            "en": "Mannings NEW TSUEN WAN PLAZA"
+            "zh": "新荃灣廣場",
+            "en": "NEW TSUEN WAN PLAZA"
         },
         "shop_type": "mannings",
         "area": {
@@ -2996,8 +2996,8 @@
         "_id": "MANNINGS_NINA_TOWER",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 如心廣場",
-            "en": "Mannings NINA TOWER"
+            "zh": "如心廣場",
+            "en": "NINA TOWER"
         },
         "shop_type": "mannings",
         "area": {
@@ -3037,8 +3037,8 @@
         "_id": "MANNINGS_LO_WU_STATION",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 羅湖港鐵站",
-            "en": "Mannings LO WU STATION"
+            "zh": "羅湖港鐵站",
+            "en": "LO WU STATION"
         },
         "shop_type": "mannings",
         "area": {
@@ -3078,8 +3078,8 @@
         "_id": "MANNINGS_NEW_LO_WU_STATION_ARRIVAL",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 新羅湖港鐵站入境",
-            "en": "Mannings NEW LO WU STATION ARRIVAL"
+            "zh": "新羅湖港鐵站入境",
+            "en": "NEW LO WU STATION ARRIVAL"
         },
         "shop_type": "mannings",
         "area": {
@@ -3119,8 +3119,8 @@
         "_id": "MANNINGS_CITYWALK",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 荃新天地",
-            "en": "Mannings CITYWALK"
+            "zh": "荃新天地",
+            "en": "CITYWALK"
         },
         "shop_type": "mannings",
         "area": {
@@ -3160,8 +3160,8 @@
         "_id": "MANNINGS_WATERSIDE_PLAZA",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 海灣花園",
-            "en": "Mannings WATERSIDE PLAZA"
+            "zh": "海灣花園",
+            "en": "WATERSIDE PLAZA"
         },
         "shop_type": "mannings",
         "area": {
@@ -3201,8 +3201,8 @@
         "_id": "MANNINGS_CITYWALK_2",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 荃新天地 2",
-            "en": "Mannings CITYWALK 2"
+            "zh": "荃新天地 2",
+            "en": "CITYWALK 2"
         },
         "shop_type": "mannings",
         "area": {
@@ -3242,8 +3242,8 @@
         "_id": "MANNINGS_TSUEN_KAM",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 荃錦中心",
-            "en": "Mannings TSUEN KAM"
+            "zh": "荃錦中心",
+            "en": "TSUEN KAM"
         },
         "shop_type": "mannings",
         "area": {
@@ -3283,8 +3283,8 @@
         "_id": "MANNINGS_SHA_TSUI_ROAD",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 沙咀道",
-            "en": "Mannings SHA TSUI ROAD"
+            "zh": "沙咀道",
+            "en": "SHA TSUI ROAD"
         },
         "shop_type": "mannings",
         "area": {
@@ -3324,8 +3324,8 @@
         "_id": "MANNINGS_CHUNG_ON_STREET",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 眾安街",
-            "en": "Mannings CHUNG ON STREET"
+            "zh": "眾安街",
+            "en": "CHUNG ON STREET"
         },
         "shop_type": "mannings",
         "area": {
@@ -3365,8 +3365,8 @@
         "_id": "MANNINGS_TAI_HO_ROAD",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 大河道",
-            "en": "Mannings TAI HO ROAD"
+            "zh": "大河道",
+            "en": "TAI HO ROAD"
         },
         "shop_type": "mannings",
         "area": {
@@ -3406,8 +3406,8 @@
         "_id": "MANNINGS_LUK_YEUNG_GALLERIA",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 綠楊",
-            "en": "Mannings LUK YEUNG GALLERIA"
+            "zh": "綠楊",
+            "en": "LUK YEUNG GALLERIA"
         },
         "shop_type": "mannings",
         "area": {
@@ -3447,8 +3447,8 @@
         "_id": "MANNINGS_PANDA_PLACE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 悅來坊",
-            "en": "Mannings PANDA PLACE"
+            "zh": "悅來坊",
+            "en": "PANDA PLACE"
         },
         "shop_type": "mannings",
         "area": {
@@ -3488,8 +3488,8 @@
         "_id": "MANNINGS_Kwai_Shing_West_Estate",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 葵盛西邨",
-            "en": "Mannings Kwai Shing West Estate"
+            "zh": "葵盛西邨",
+            "en": "Kwai Shing West Estate"
         },
         "shop_type": "mannings",
         "area": {
@@ -3529,8 +3529,8 @@
         "_id": "MANNINGS_TAI_WO_HAU",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 大窩口",
-            "en": "Mannings TAI WO HAU"
+            "zh": "大窩口",
+            "en": "TAI WO HAU"
         },
         "shop_type": "mannings",
         "area": {
@@ -3570,8 +3570,8 @@
         "_id": "MANNINGS_CHOI_YUEN_PLAZA",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 彩園廣場",
-            "en": "Mannings CHOI YUEN PLAZA"
+            "zh": "彩園廣場",
+            "en": "CHOI YUEN PLAZA"
         },
         "shop_type": "mannings",
         "area": {
@@ -3611,8 +3611,8 @@
         "_id": "MANNINGS_SAN_FUNG_AVENUE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 上水新豐路",
-            "en": "Mannings SAN FUNG AVENUE"
+            "zh": "上水新豐路",
+            "en": "SAN FUNG AVENUE"
         },
         "shop_type": "mannings",
         "area": {
@@ -3652,8 +3652,8 @@
         "_id": "MANNINGS_CHING_HO_SHOPPING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 清河商場",
-            "en": "Mannings CHING HO SHOPPING CENTRE"
+            "zh": "清河商場",
+            "en": "CHING HO SHOPPING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -3693,8 +3693,8 @@
         "_id": "MANNINGS_LUNG_TANG",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 龍騰",
-            "en": "Mannings LUNG TANG"
+            "zh": "龍騰",
+            "en": "LUNG TANG"
         },
         "shop_type": "mannings",
         "area": {
@@ -3734,8 +3734,8 @@
         "_id": "MANNINGS_KWAI_FONG",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 葵芳",
-            "en": "Mannings KWAI FONG"
+            "zh": "葵芳",
+            "en": "KWAI FONG"
         },
         "shop_type": "mannings",
         "area": {
@@ -3775,8 +3775,8 @@
         "_id": "MANNINGS_KWAI_CHUNG_SHOPPING_CTR",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 葵涌商場",
-            "en": "Mannings KWAI CHUNG SHOPPING CTR"
+            "zh": "葵涌商場",
+            "en": "KWAI CHUNG SHOPPING CTR"
         },
         "shop_type": "mannings",
         "area": {
@@ -3816,8 +3816,8 @@
         "_id": "MANNINGS_LUEN_HONG",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 西環聯康",
-            "en": "Mannings LUEN HONG"
+            "zh": "西環聯康",
+            "en": "LUEN HONG"
         },
         "shop_type": "mannings",
         "area": {
@@ -3857,8 +3857,8 @@
         "_id": "MANNINGS_SHEUNG_SHUI_LANDMARK",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 上水廣場",
-            "en": "Mannings SHEUNG SHUI LANDMARK"
+            "zh": "上水廣場",
+            "en": "SHEUNG SHUI LANDMARK"
         },
         "shop_type": "mannings",
         "area": {
@@ -3898,8 +3898,8 @@
         "_id": "MANNINGS_SHEUNG_SHUI_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 上水中心",
-            "en": "Mannings SHEUNG SHUI CENTRE"
+            "zh": "上水中心",
+            "en": "SHEUNG SHUI CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -3939,8 +3939,8 @@
         "_id": "MANNINGS_SHEUNG_SHUI",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 上水",
-            "en": "Mannings SHEUNG SHUI"
+            "zh": "上水",
+            "en": "SHEUNG SHUI"
         },
         "shop_type": "mannings",
         "area": {
@@ -3980,8 +3980,8 @@
         "_id": "MANNINGS_SAN_HONG_STREET",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 新康街",
-            "en": "Mannings SAN HONG STREET"
+            "zh": "新康街",
+            "en": "SAN HONG STREET"
         },
         "shop_type": "mannings",
         "area": {
@@ -4021,8 +4021,8 @@
         "_id": "MANNINGS_KWAI_FONG_PLAZA",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 葵芳廣場",
-            "en": "Mannings KWAI FONG PLAZA"
+            "zh": "葵芳廣場",
+            "en": "KWAI FONG PLAZA"
         },
         "shop_type": "mannings",
         "area": {
@@ -4062,8 +4062,8 @@
         "_id": "MANNINGS_LUNG_FUNG_GARDEN",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 龍豐花園",
-            "en": "Mannings LUNG FUNG GARDEN"
+            "zh": "龍豐花園",
+            "en": "LUNG FUNG GARDEN"
         },
         "shop_type": "mannings",
         "area": {
@@ -4103,8 +4103,8 @@
         "_id": "MANNINGS_NEW_BELCHER'S_STREET",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 新卑路乍街",
-            "en": "Mannings NEW BELCHER'S STREET"
+            "zh": "新卑路乍街",
+            "en": "NEW BELCHER'S STREET"
         },
         "shop_type": "mannings",
         "area": {
@@ -4144,8 +4144,8 @@
         "_id": "MANNINGS_KWAI_HING_STATION",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 葵興港鐵站",
-            "en": "Mannings KWAI HING STATION"
+            "zh": "葵興港鐵站",
+            "en": "KWAI HING STATION"
         },
         "shop_type": "mannings",
         "area": {
@@ -4185,8 +4185,8 @@
         "_id": "MANNINGS_KWAI_HING",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 葵興",
-            "en": "Mannings KWAI HING"
+            "zh": "葵興",
+            "en": "KWAI HING"
         },
         "shop_type": "mannings",
         "area": {
@@ -4226,8 +4226,8 @@
         "_id": "MANNINGS_WO_TONG_TSUI_STREET",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 禾塘咀街",
-            "en": "Mannings WO TONG TSUI STREET"
+            "zh": "禾塘咀街",
+            "en": "WO TONG TSUI STREET"
         },
         "shop_type": "mannings",
         "area": {
@@ -4267,8 +4267,8 @@
         "_id": "MANNINGS_KCC",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 九龍貿易中心",
-            "en": "Mannings KCC"
+            "zh": "九龍貿易中心",
+            "en": "KCC"
         },
         "shop_type": "mannings",
         "area": {
@@ -4308,8 +4308,8 @@
         "_id": "MANNINGS_WESTWOOD",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 寶翠園",
-            "en": "Mannings WESTWOOD"
+            "zh": "寶翠園",
+            "en": "WESTWOOD"
         },
         "shop_type": "mannings",
         "area": {
@@ -4349,8 +4349,8 @@
         "_id": "MANNINGS_WESTERN_DISTRICT",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 西環",
-            "en": "Mannings WESTERN DISTRICT"
+            "zh": "西環",
+            "en": "WESTERN DISTRICT"
         },
         "shop_type": "mannings",
         "area": {
@@ -4390,8 +4390,8 @@
         "_id": "MANNINGS_WAH_FU",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 華富",
-            "en": "Mannings WAH FU"
+            "zh": "華富",
+            "en": "WAH FU"
         },
         "shop_type": "mannings",
         "area": {
@@ -4431,8 +4431,8 @@
         "_id": "MANNINGS_KA_FUK_SHOPPING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 嘉福商場",
-            "en": "Mannings KA FUK SHOPPING CENTRE"
+            "zh": "嘉福商場",
+            "en": "KA FUK SHOPPING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -4472,8 +4472,8 @@
         "_id": "MANNINGS_LEI_MUK_SHUE_SHOPPING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 梨木樹商場",
-            "en": "Mannings LEI MUK SHUE SHOPPING CENTRE"
+            "zh": "梨木樹商場",
+            "en": "LEI MUK SHUE SHOPPING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -4513,8 +4513,8 @@
         "_id": "MANNINGS_MOUNT_STERLING",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 萬事達廣場",
-            "en": "Mannings MOUNT STERLING"
+            "zh": "萬事達廣場",
+            "en": "MOUNT STERLING"
         },
         "shop_type": "mannings",
         "area": {
@@ -4554,8 +4554,8 @@
         "_id": "MANNINGS_SAI_YING_PUN",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 西營盤",
-            "en": "Mannings SAI YING PUN"
+            "zh": "西營盤",
+            "en": "SAI YING PUN"
         },
         "shop_type": "mannings",
         "area": {
@@ -4595,8 +4595,8 @@
         "_id": "MANNINGS_FANLING_STATION",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 粉嶺港鐵站",
-            "en": "Mannings FANLING STATION"
+            "zh": "粉嶺港鐵站",
+            "en": "FANLING STATION"
         },
         "shop_type": "mannings",
         "area": {
@@ -4636,8 +4636,8 @@
         "_id": "MANNINGS_CHI_FU",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 置富",
-            "en": "Mannings CHI FU"
+            "zh": "置富",
+            "en": "CHI FU"
         },
         "shop_type": "mannings",
         "area": {
@@ -4677,8 +4677,8 @@
         "_id": "MANNINGS_YUNG_SHING_SHOPPING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 雍盛商埸",
-            "en": "Mannings YUNG SHING SHOPPING CENTRE"
+            "zh": "雍盛商埸",
+            "en": "YUNG SHING SHOPPING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -4718,8 +4718,8 @@
         "_id": "MANNINGS_SHEK_LEI_SHOPPING_CTR",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 石籬",
-            "en": "Mannings SHEK LEI SHOPPING CTR"
+            "zh": "石籬",
+            "en": "SHEK LEI SHOPPING CTR"
         },
         "shop_type": "mannings",
         "area": {
@@ -4759,8 +4759,8 @@
         "_id": "MANNINGS_SHEK_YAM",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 石蔭",
-            "en": "Mannings SHEK YAM"
+            "zh": "石蔭",
+            "en": "SHEK YAM"
         },
         "shop_type": "mannings",
         "area": {
@@ -4800,8 +4800,8 @@
         "_id": "MANNINGS_FANLING_TOWN_CENTER",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 粉嶺名都",
-            "en": "Mannings FANLING TOWN CENTER"
+            "zh": "粉嶺名都",
+            "en": "FANLING TOWN CENTER"
         },
         "shop_type": "mannings",
         "area": {
@@ -4841,8 +4841,8 @@
         "_id": "MANNINGS_MEI_FOO",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 美孚",
-            "en": "Mannings MEI FOO"
+            "zh": "美孚",
+            "en": "MEI FOO"
         },
         "shop_type": "mannings",
         "area": {
@@ -4882,8 +4882,8 @@
         "_id": "MANNINGS_BONHAM_ROAD",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 般咸道",
-            "en": "Mannings BONHAM ROAD"
+            "zh": "般咸道",
+            "en": "BONHAM ROAD"
         },
         "shop_type": "mannings",
         "area": {
@@ -4923,8 +4923,8 @@
         "_id": "MANNINGS_FLORA_PLAZA",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 花都廣場",
-            "en": "Mannings FLORA PLAZA"
+            "zh": "花都廣場",
+            "en": "FLORA PLAZA"
         },
         "shop_type": "mannings",
         "area": {
@@ -4964,8 +4964,8 @@
         "_id": "MANNINGS_FANLING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 粉嶺中心",
-            "en": "Mannings FANLING CENTRE"
+            "zh": "粉嶺中心",
+            "en": "FANLING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -5005,8 +5005,8 @@
         "_id": "MANNINGS_AVON_PARK",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 碧湖花園",
-            "en": "Mannings AVON PARK"
+            "zh": "碧湖花園",
+            "en": "AVON PARK"
         },
         "shop_type": "mannings",
         "area": {
@@ -5046,8 +5046,8 @@
         "_id": "MANNINGS_DES_VOUEX_ROAD_WEST",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 德輔道西",
-            "en": "Mannings DES VOUEX ROAD WEST"
+            "zh": "德輔道西",
+            "en": "DES VOUEX ROAD WEST"
         },
         "shop_type": "mannings",
         "area": {
@@ -5087,8 +5087,8 @@
         "_id": "MANNINGS_QUEEN'S_ROAD_WEST",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 皇后大道西",
-            "en": "Mannings QUEEN'S ROAD WEST"
+            "zh": "皇后大道西",
+            "en": "QUEEN'S ROAD WEST"
         },
         "shop_type": "mannings",
         "area": {
@@ -5128,8 +5128,8 @@
         "_id": "MANNINGS_REGENTVILLE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 帝庭軒",
-            "en": "Mannings REGENTVILLE"
+            "zh": "帝庭軒",
+            "en": "REGENTVILLE"
         },
         "shop_type": "mannings",
         "area": {
@@ -5169,8 +5169,8 @@
         "_id": "MANNINGS_HOI_LAI_SHOPPING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 海麗商場",
-            "en": "Mannings HOI LAI SHOPPING CENTRE"
+            "zh": "海麗商場",
+            "en": "HOI LAI SHOPPING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -5210,8 +5210,8 @@
         "_id": "MANNINGS_LAI_YAN_LAU",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 賴恩樓",
-            "en": "Mannings LAI YAN LAU"
+            "zh": "賴恩樓",
+            "en": "LAI YAN LAU"
         },
         "shop_type": "mannings",
         "area": {
@@ -5251,8 +5251,8 @@
         "_id": "MANNINGS_SOUTH_HORIZONS",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 海怡廣場",
-            "en": "Mannings SOUTH HORIZONS"
+            "zh": "海怡廣場",
+            "en": "SOUTH HORIZONS"
         },
         "shop_type": "mannings",
         "area": {
@@ -5292,8 +5292,8 @@
         "_id": "MANNINGS_CHEUNG_SHA_WAN",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 長沙灣",
-            "en": "Mannings CHEUNG SHA WAN"
+            "zh": "長沙灣",
+            "en": "CHEUNG SHA WAN"
         },
         "shop_type": "mannings",
         "area": {
@@ -5333,8 +5333,8 @@
         "_id": "MANNINGS_LIBERTE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 昇悅居",
-            "en": "Mannings LIBERTE"
+            "zh": "昇悅居",
+            "en": "LIBERTE"
         },
         "shop_type": "mannings",
         "area": {
@@ -5374,8 +5374,8 @@
         "_id": "MANNINGS_SHEUNG_WAN",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 上環",
-            "en": "Mannings SHEUNG WAN"
+            "zh": "上環",
+            "en": "SHEUNG WAN"
         },
         "shop_type": "mannings",
         "area": {
@@ -5415,8 +5415,8 @@
         "_id": "MANNINGS_TIN_WAN_SHOPPING_CTR",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 田灣村商場",
-            "en": "Mannings TIN WAN SHOPPING CTR"
+            "zh": "田灣村商場",
+            "en": "TIN WAN SHOPPING CTR"
         },
         "shop_type": "mannings",
         "area": {
@@ -5456,8 +5456,8 @@
         "_id": "MANNINGS_ROBINSON_ROAD",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 羅便臣道",
-            "en": "Mannings ROBINSON ROAD"
+            "zh": "羅便臣道",
+            "en": "ROBINSON ROAD"
         },
         "shop_type": "mannings",
         "area": {
@@ -5497,8 +5497,8 @@
         "_id": "MANNINGS_SHUN_TAK_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 信德中心",
-            "en": "Mannings SHUN TAK CENTRE"
+            "zh": "信德中心",
+            "en": "SHUN TAK CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -5538,8 +5538,8 @@
         "_id": "MANNINGS_PARK_BUILDING",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 新青山道",
-            "en": "Mannings PARK BUILDING"
+            "zh": "新青山道",
+            "en": "PARK BUILDING"
         },
         "shop_type": "mannings",
         "area": {
@@ -5579,8 +5579,8 @@
         "_id": "MANNINGS_KCR_-_NAM_CHEONG",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 西鐵南昌站",
-            "en": "Mannings KCR - NAM CHEONG"
+            "zh": "西鐵南昌站",
+            "en": "KCR - NAM CHEONG"
         },
         "shop_type": "mannings",
         "area": {
@@ -5620,8 +5620,8 @@
         "_id": "MANNINGS_AMTEL_BUILDING",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 安泰大廈",
-            "en": "Mannings AMTEL BUILDING"
+            "zh": "安泰大廈",
+            "en": "AMTEL BUILDING"
         },
         "shop_type": "mannings",
         "area": {
@@ -5661,8 +5661,8 @@
         "_id": "MANNINGS_FU_CHEONG",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 富昌",
-            "en": "Mannings FU CHEONG"
+            "zh": "富昌",
+            "en": "FU CHEONG"
         },
         "shop_type": "mannings",
         "area": {
@@ -5702,8 +5702,8 @@
         "_id": "MANNINGS_PORT_CENTER",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 利港中心",
-            "en": "Mannings PORT CENTER"
+            "zh": "利港中心",
+            "en": "PORT CENTER"
         },
         "shop_type": "mannings",
         "area": {
@@ -5743,8 +5743,8 @@
         "_id": "MANNINGS_NEW_DISCOVERY_PARK",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 新愉景新城",
-            "en": "Mannings NEW DISCOVERY PARK"
+            "zh": "新愉景新城",
+            "en": "NEW DISCOVERY PARK"
         },
         "shop_type": "mannings",
         "area": {
@@ -5784,8 +5784,8 @@
         "_id": "MANNINGS_WAH_KWONG",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 華光勵精中心",
-            "en": "Mannings WAH KWONG"
+            "zh": "華光勵精中心",
+            "en": "WAH KWONG"
         },
         "shop_type": "mannings",
         "area": {
@@ -5825,8 +5825,8 @@
         "_id": "MANNINGS_ABERDEEN",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 香港仔",
-            "en": "Mannings ABERDEEN"
+            "zh": "香港仔",
+            "en": "ABERDEEN"
         },
         "shop_type": "mannings",
         "area": {
@@ -5866,8 +5866,8 @@
         "_id": "MANNINGS_NEW_UN_CHAU_STREET",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 新元州街",
-            "en": "Mannings NEW UN CHAU STREET"
+            "zh": "新元州街",
+            "en": "NEW UN CHAU STREET"
         },
         "shop_type": "mannings",
         "area": {
@@ -5907,8 +5907,8 @@
         "_id": "MANNINGS_AP_LEI_CHAU",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 鴨利洲",
-            "en": "Mannings AP LEI CHAU"
+            "zh": "鴨利洲",
+            "en": "AP LEI CHAU"
         },
         "shop_type": "mannings",
         "area": {
@@ -5948,8 +5948,8 @@
         "_id": "MANNINGS_UN_CHAU_STREET",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 元州街",
-            "en": "Mannings UN CHAU STREET"
+            "zh": "元州街",
+            "en": "UN CHAU STREET"
         },
         "shop_type": "mannings",
         "area": {
@@ -5989,8 +5989,8 @@
         "_id": "MANNINGS_HK_MTR_STATION",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 地鐵香港站",
-            "en": "Mannings HK MTR STATION"
+            "zh": "地鐵香港站",
+            "en": "HK MTR STATION"
         },
         "shop_type": "mannings",
         "area": {
@@ -6030,8 +6030,8 @@
         "_id": "MANNINGS_LEI_CHENG_UK",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 李鄭屋",
-            "en": "Mannings LEI CHENG UK"
+            "zh": "李鄭屋",
+            "en": "LEI CHENG UK"
         },
         "shop_type": "mannings",
         "area": {
@@ -6071,8 +6071,8 @@
         "_id": "MANNINGS_OLYMPIAN_CITY_1",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 奧海城1期",
-            "en": "Mannings OLYMPIAN CITY 1"
+            "zh": "奧海城1期",
+            "en": "OLYMPIAN CITY 1"
         },
         "shop_type": "mannings",
         "area": {
@@ -6112,8 +6112,8 @@
         "_id": "MANNINGS_INT'L_FINANCE_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 國際金融中心",
-            "en": "Mannings INT'L FINANCE CENTRE"
+            "zh": "國際金融中心",
+            "en": "INT'L FINANCE CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -6153,8 +6153,8 @@
         "_id": "MANNINGS_PRINCE'S_BUILDING",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 太子大廈",
-            "en": "Mannings PRINCE'S BUILDING"
+            "zh": "太子大廈",
+            "en": "PRINCE'S BUILDING"
         },
         "shop_type": "mannings",
         "area": {
@@ -6194,8 +6194,8 @@
         "_id": "MANNINGS_APOLLO_SHOPPING_CTR",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 宇宙商場",
-            "en": "Mannings APOLLO SHOPPING CTR"
+            "zh": "宇宙商場",
+            "en": "APOLLO SHOPPING CTR"
         },
         "shop_type": "mannings",
         "area": {
@@ -6235,8 +6235,8 @@
         "_id": "MANNINGS_METRO_HARBOUR_PLAZA",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 港灣豪庭廣場",
-            "en": "Mannings METRO HARBOUR PLAZA"
+            "zh": "港灣豪庭廣場",
+            "en": "METRO HARBOUR PLAZA"
         },
         "shop_type": "mannings",
         "area": {
@@ -6276,8 +6276,8 @@
         "_id": "MANNINGS_DRAGON_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 西九龍中心",
-            "en": "Mannings DRAGON CENTRE"
+            "zh": "西九龍中心",
+            "en": "DRAGON CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -6317,8 +6317,8 @@
         "_id": "MANNINGS_ELEMENTS",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 圓方",
-            "en": "Mannings ELEMENTS"
+            "zh": "圓方",
+            "en": "ELEMENTS"
         },
         "shop_type": "mannings",
         "area": {
@@ -6358,8 +6358,8 @@
         "_id": "MANNINGS_LAI_CHI_KOK",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 荔枝角",
-            "en": "Mannings LAI CHI KOK"
+            "zh": "荔枝角",
+            "en": "LAI CHI KOK"
         },
         "shop_type": "mannings",
         "area": {
@@ -6399,8 +6399,8 @@
         "_id": "MANNINGS_IVY_STREET",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 埃華街",
-            "en": "Mannings IVY STREET"
+            "zh": "埃華街",
+            "en": "IVY STREET"
         },
         "shop_type": "mannings",
         "area": {
@@ -6440,8 +6440,8 @@
         "_id": "MANNINGS_YEN_CHOW_STREET",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 欽州街",
-            "en": "Mannings YEN CHOW STREET"
+            "zh": "欽州街",
+            "en": "YEN CHOW STREET"
         },
         "shop_type": "mannings",
         "area": {
@@ -6481,8 +6481,8 @@
         "_id": "MANNINGS_OLYMPIAN_CITY_TWO",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 奧海城2期",
-            "en": "Mannings OLYMPIAN CITY TWO"
+            "zh": "奧海城2期",
+            "en": "OLYMPIAN CITY TWO"
         },
         "shop_type": "mannings",
         "area": {
@@ -6522,8 +6522,8 @@
         "_id": "MANNINGS_TAI_WO",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 太和",
-            "en": "Mannings TAI WO"
+            "zh": "太和",
+            "en": "TAI WO"
         },
         "shop_type": "mannings",
         "area": {
@@ -6563,8 +6563,8 @@
         "_id": "MANNINGS_NEW_KOWLOON_PLAZA",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 新九龍廣場",
-            "en": "Mannings NEW KOWLOON PLAZA"
+            "zh": "新九龍廣場",
+            "en": "NEW KOWLOON PLAZA"
         },
         "shop_type": "mannings",
         "area": {
@@ -6604,8 +6604,8 @@
         "_id": "MANNINGS_FAR_EAST_FINANCE_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 遠東金融中心",
-            "en": "Mannings FAR EAST FINANCE CENTRE"
+            "zh": "遠東金融中心",
+            "en": "FAR EAST FINANCE CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -6645,8 +6645,8 @@
         "_id": "MANNINGS_HOI_FU",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 海富",
-            "en": "Mannings HOI FU"
+            "zh": "海富",
+            "en": "HOI FU"
         },
         "shop_type": "mannings",
         "area": {
@@ -6686,8 +6686,8 @@
         "_id": "MANNINGS_FUK_TSUN_STREET",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 福全街",
-            "en": "Mannings FUK TSUN STREET"
+            "zh": "福全街",
+            "en": "FUK TSUN STREET"
         },
         "shop_type": "mannings",
         "area": {
@@ -6727,8 +6727,8 @@
         "_id": "MANNINGS_RONDALL_BUILDING",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 大埔道",
-            "en": "Mannings RONDALL BUILDING"
+            "zh": "大埔道",
+            "en": "RONDALL BUILDING"
         },
         "shop_type": "mannings",
         "area": {
@@ -6768,8 +6768,8 @@
         "_id": "MANNINGS_CORONATION_CIRCLE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 中港薈",
-            "en": "Mannings CORONATION CIRCLE"
+            "zh": "中港薈",
+            "en": "CORONATION CIRCLE"
         },
         "shop_type": "mannings",
         "area": {
@@ -6809,8 +6809,8 @@
         "_id": "MANNINGS_PO_HEUNG_STREET",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 寶鄉街",
-            "en": "Mannings PO HEUNG STREET"
+            "zh": "寶鄉街",
+            "en": "PO HEUNG STREET"
         },
         "shop_type": "mannings",
         "area": {
@@ -6850,8 +6850,8 @@
         "_id": "MANNINGS_NEW_LAI_CHI_KOK",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 新荔枝角",
-            "en": "Mannings NEW LAI CHI KOK"
+            "zh": "新荔枝角",
+            "en": "NEW LAI CHI KOK"
         },
         "shop_type": "mannings",
         "area": {
@@ -6891,8 +6891,8 @@
         "_id": "MANNINGS_MAN_WAI_STREET",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 文蔚街",
-            "en": "Mannings MAN WAI STREET"
+            "zh": "文蔚街",
+            "en": "MAN WAI STREET"
         },
         "shop_type": "mannings",
         "area": {
@@ -6932,8 +6932,8 @@
         "_id": "MANNINGS_TAI_WING_LANE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 大榮里",
-            "en": "Mannings TAI WING LANE"
+            "zh": "大榮里",
+            "en": "TAI WING LANE"
         },
         "shop_type": "mannings",
         "area": {
@@ -6973,8 +6973,8 @@
         "_id": "MANNINGS_WAN_TAU_TONG",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 運頭塘",
-            "en": "Mannings WAN TAU TONG"
+            "zh": "運頭塘",
+            "en": "WAN TAU TONG"
         },
         "shop_type": "mannings",
         "area": {
@@ -7014,8 +7014,8 @@
         "_id": "MANNINGS_PRINCE_EDWARD",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 太子",
-            "en": "Mannings PRINCE EDWARD"
+            "zh": "太子",
+            "en": "PRINCE EDWARD"
         },
         "shop_type": "mannings",
         "area": {
@@ -7055,8 +7055,8 @@
         "_id": "MANNINGS_CHINA_FERRY_TERMINAL�",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 中國客運碼頭 ",
-            "en": "Mannings CHINA FERRY TERMINAL�"
+            "zh": "中國客運碼頭 ",
+            "en": "CHINA FERRY TERMINAL�"
         },
         "shop_type": "mannings",
         "area": {
@@ -7096,8 +7096,8 @@
         "_id": "MANNINGS_NAM_CHEONG_STREET",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 南昌街",
-            "en": "Mannings NAM CHEONG STREET"
+            "zh": "南昌街",
+            "en": "NAM CHEONG STREET"
         },
         "shop_type": "mannings",
         "area": {
@@ -7137,8 +7137,8 @@
         "_id": "MANNINGS_TAI_YUEN_ESTATE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 大元村",
-            "en": "Mannings TAI YUEN ESTATE"
+            "zh": "大元村",
+            "en": "TAI YUEN ESTATE"
         },
         "shop_type": "mannings",
         "area": {
@@ -7178,8 +7178,8 @@
         "_id": "MANNINGS_GOLDEN_PLAZA",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 金都中心",
-            "en": "Mannings GOLDEN PLAZA"
+            "zh": "金都中心",
+            "en": "GOLDEN PLAZA"
         },
         "shop_type": "mannings",
         "area": {
@@ -7219,8 +7219,8 @@
         "_id": "MANNINGS_SHEK_KIP_MEI_ESTATE_PHASE_2",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 石硤尾邨二期",
-            "en": "Mannings SHEK KIP MEI ESTATE PHASE 2"
+            "zh": "石硤尾邨二期",
+            "en": "SHEK KIP MEI ESTATE PHASE 2"
         },
         "shop_type": "mannings",
         "area": {
@@ -7260,8 +7260,8 @@
         "_id": "MANNINGS_SHEK_KIP_MEI",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 石硤尾",
-            "en": "Mannings SHEK KIP MEI"
+            "zh": "石硤尾",
+            "en": "SHEK KIP MEI"
         },
         "shop_type": "mannings",
         "area": {
@@ -7301,8 +7301,8 @@
         "_id": "MANNINGS_UPTOWN_PLAZA",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 新達廣場",
-            "en": "Mannings UPTOWN PLAZA"
+            "zh": "新達廣場",
+            "en": "UPTOWN PLAZA"
         },
         "shop_type": "mannings",
         "area": {
@@ -7342,8 +7342,8 @@
         "_id": "MANNINGS_KOLOUR_·_Tsuen_Wan_I",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 荃灣千色匯",
-            "en": "Mannings KOLOUR · Tsuen Wan I"
+            "zh": "荃灣千色匯",
+            "en": "KOLOUR · Tsuen Wan I"
         },
         "shop_type": "mannings",
         "area": {
@@ -7383,8 +7383,8 @@
         "_id": "MANNINGS_JORDAN_ROAD",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 佐敦道",
-            "en": "Mannings JORDAN ROAD"
+            "zh": "佐敦道",
+            "en": "JORDAN ROAD"
         },
         "shop_type": "mannings",
         "area": {
@@ -7424,8 +7424,8 @@
         "_id": "MANNINGS_SHANGHAI_STREET",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 上海街",
-            "en": "Mannings SHANGHAI STREET"
+            "zh": "上海街",
+            "en": "SHANGHAI STREET"
         },
         "shop_type": "mannings",
         "area": {
@@ -7465,8 +7465,8 @@
         "_id": "MANNINGS_NELSON_STREET",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 奶路臣街",
-            "en": "Mannings NELSON STREET"
+            "zh": "奶路臣街",
+            "en": "NELSON STREET"
         },
         "shop_type": "mannings",
         "area": {
@@ -7506,8 +7506,8 @@
         "_id": "MANNINGS_NATHAN_ROAD",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 彌敦道",
-            "en": "Mannings NATHAN ROAD"
+            "zh": "彌敦道",
+            "en": "NATHAN ROAD"
         },
         "shop_type": "mannings",
         "area": {
@@ -7547,8 +7547,8 @@
         "_id": "MANNINGS_BUTE_STREET",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 弼街",
-            "en": "Mannings BUTE STREET"
+            "zh": "弼街",
+            "en": "BUTE STREET"
         },
         "shop_type": "mannings",
         "area": {
@@ -7588,8 +7588,8 @@
         "_id": "MANNINGS_NULLAH_ROAD",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 水渠道",
-            "en": "Mannings NULLAH ROAD"
+            "zh": "水渠道",
+            "en": "NULLAH ROAD"
         },
         "shop_type": "mannings",
         "area": {
@@ -7629,8 +7629,8 @@
         "_id": "MANNINGS_SAI_YEUNG_CHOI_STREET_SOUTH",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 西洋菜南街",
-            "en": "Mannings SAI YEUNG CHOI STREET SOUTH"
+            "zh": "西洋菜南街",
+            "en": "SAI YEUNG CHOI STREET SOUTH"
         },
         "shop_type": "mannings",
         "area": {
@@ -7670,8 +7670,8 @@
         "_id": "MANNINGS_SHAN_TUNG_STREET",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 山東街",
-            "en": "Mannings SHAN TUNG STREET"
+            "zh": "山東街",
+            "en": "SHAN TUNG STREET"
         },
         "shop_type": "mannings",
         "area": {
@@ -7711,8 +7711,8 @@
         "_id": "MANNINGS_GRESSON_STREET",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 機利臣街",
-            "en": "Mannings GRESSON STREET"
+            "zh": "機利臣街",
+            "en": "GRESSON STREET"
         },
         "shop_type": "mannings",
         "area": {
@@ -7752,8 +7752,8 @@
         "_id": "MANNINGS_FULL_WIN",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 富運",
-            "en": "Mannings FULL WIN"
+            "zh": "富運",
+            "en": "FULL WIN"
         },
         "shop_type": "mannings",
         "area": {
@@ -7793,8 +7793,8 @@
         "_id": "MANNINGS_TAI_PO",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 大埔",
-            "en": "Mannings TAI PO"
+            "zh": "大埔",
+            "en": "TAI PO"
         },
         "shop_type": "mannings",
         "area": {
@@ -7834,8 +7834,8 @@
         "_id": "MANNINGS_HAIPHONG_ROAD",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 海防道",
-            "en": "Mannings HAIPHONG ROAD"
+            "zh": "海防道",
+            "en": "HAIPHONG ROAD"
         },
         "shop_type": "mannings",
         "area": {
@@ -7875,8 +7875,8 @@
         "_id": "MANNINGS_MEI_TIN_SHOPPING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 美田商場",
-            "en": "Mannings MEI TIN SHOPPING CENTRE"
+            "zh": "美田商場",
+            "en": "MEI TIN SHOPPING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -7916,8 +7916,8 @@
         "_id": "MANNINGS_NEW_ARGYLE_STREET",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 新亞皆老街",
-            "en": "Mannings NEW ARGYLE STREET"
+            "zh": "新亞皆老街",
+            "en": "NEW ARGYLE STREET"
         },
         "shop_type": "mannings",
         "area": {
@@ -7957,8 +7957,8 @@
         "_id": "MANNINGS_SINO_CHEER_PLAZA",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 新寶廣場",
-            "en": "Mannings SINO CHEER PLAZA"
+            "zh": "新寶廣場",
+            "en": "SINO CHEER PLAZA"
         },
         "shop_type": "mannings",
         "area": {
@@ -7998,8 +7998,8 @@
         "_id": "MANNINGS_ARGYLE_STREET",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 亞皆老街",
-            "en": "Mannings ARGYLE STREET"
+            "zh": "亞皆老街",
+            "en": "ARGYLE STREET"
         },
         "shop_type": "mannings",
         "area": {
@@ -8039,8 +8039,8 @@
         "_id": "MANNINGS_YAU_MA_TEI",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 油麻地",
-            "en": "Mannings YAU MA TEI"
+            "zh": "油麻地",
+            "en": "YAU MA TEI"
         },
         "shop_type": "mannings",
         "area": {
@@ -8080,8 +8080,8 @@
         "_id": "MANNINGS_PING_ON_BUILDING",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 平安",
-            "en": "Mannings PING ON BUILDING"
+            "zh": "平安",
+            "en": "PING ON BUILDING"
         },
         "shop_type": "mannings",
         "area": {
@@ -8121,8 +8121,8 @@
         "_id": "MANNINGS_CHINA_HK_CITY",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 中港城",
-            "en": "Mannings CHINA HK CITY"
+            "zh": "中港城",
+            "en": "CHINA HK CITY"
         },
         "shop_type": "mannings",
         "area": {
@@ -8162,8 +8162,8 @@
         "_id": "MANNINGS_HK_PACIFIC_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 亞太中心",
-            "en": "Mannings HK PACIFIC CENTRE"
+            "zh": "亞太中心",
+            "en": "HK PACIFIC CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -8203,8 +8203,8 @@
         "_id": "MANNINGS_FU_HENG",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 富亨",
-            "en": "Mannings FU HENG"
+            "zh": "富亨",
+            "en": "FU HENG"
         },
         "shop_type": "mannings",
         "area": {
@@ -8244,8 +8244,8 @@
         "_id": "MANNINGS_FA_YUEN_STREET",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 花園街",
-            "en": "Mannings FA YUEN STREET"
+            "zh": "花園街",
+            "en": "FA YUEN STREET"
         },
         "shop_type": "mannings",
         "area": {
@@ -8285,8 +8285,8 @@
         "_id": "MANNINGS_BOWRING_STREET",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 寶靈街",
-            "en": "Mannings BOWRING STREET"
+            "zh": "寶靈街",
+            "en": "BOWRING STREET"
         },
         "shop_type": "mannings",
         "area": {
@@ -8326,8 +8326,8 @@
         "_id": "MANNINGS_FORTRESS_TOWER",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 北角城",
-            "en": "Mannings FORTRESS TOWER"
+            "zh": "北角城",
+            "en": "FORTRESS TOWER"
         },
         "shop_type": "mannings",
         "area": {
@@ -8367,8 +8367,8 @@
         "_id": "MANNINGS_GOLDEN_ERA_PLAZA",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 金雞廣場",
-            "en": "Mannings GOLDEN ERA PLAZA"
+            "zh": "金雞廣場",
+            "en": "GOLDEN ERA PLAZA"
         },
         "shop_type": "mannings",
         "area": {
@@ -8408,8 +8408,8 @@
         "_id": "MANNINGS_HIN_KENG",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 顯徑",
-            "en": "Mannings HIN KENG"
+            "zh": "顯徑",
+            "en": "HIN KENG"
         },
         "shop_type": "mannings",
         "area": {
@@ -8449,8 +8449,8 @@
         "_id": "MANNINGS_MOKO",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 新世紀廣場",
-            "en": "Mannings MOKO"
+            "zh": "新世紀廣場",
+            "en": "MOKO"
         },
         "shop_type": "mannings",
         "area": {
@@ -8490,8 +8490,8 @@
         "_id": "MANNINGS_KCR_EAST_TST_STATION",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 尖東港鐵站",
-            "en": "Mannings KCR EAST TST STATION"
+            "zh": "尖東港鐵站",
+            "en": "KCR EAST TST STATION"
         },
         "shop_type": "mannings",
         "area": {
@@ -8531,8 +8531,8 @@
         "_id": "MANNINGS_CKE_SHOPPING_MALL",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 重慶購物商場",
-            "en": "Mannings CKE SHOPPING MALL"
+            "zh": "重慶購物商場",
+            "en": "CKE SHOPPING MALL"
         },
         "shop_type": "mannings",
         "area": {
@@ -8572,8 +8572,8 @@
         "_id": "MANNINGS_SPRING_GARDEN_LANE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 春園街",
-            "en": "Mannings SPRING GARDEN LANE"
+            "zh": "春園街",
+            "en": "SPRING GARDEN LANE"
         },
         "shop_type": "mannings",
         "area": {
@@ -8613,8 +8613,8 @@
         "_id": "MANNINGS_MONG_KOK_EAST_STATION",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 旺角東港鐵站",
-            "en": "Mannings MONG KOK EAST STATION"
+            "zh": "旺角東港鐵站",
+            "en": "MONG KOK EAST STATION"
         },
         "shop_type": "mannings",
         "area": {
@@ -8654,8 +8654,8 @@
         "_id": "MANNINGS_K11",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 河內道 K11",
-            "en": "Mannings K11"
+            "zh": "河內道 K11",
+            "en": "K11"
         },
         "shop_type": "mannings",
         "area": {
@@ -8695,8 +8695,8 @@
         "_id": "MANNINGS_AUSTIN_ROAD",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 柯士甸道",
-            "en": "Mannings AUSTIN ROAD"
+            "zh": "柯士甸道",
+            "en": "AUSTIN ROAD"
         },
         "shop_type": "mannings",
         "area": {
@@ -8736,8 +8736,8 @@
         "_id": "MANNINGS_GRANVILLE_ROAD",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 加連威老道",
-            "en": "Mannings GRANVILLE ROAD"
+            "zh": "加連威老道",
+            "en": "GRANVILLE ROAD"
         },
         "shop_type": "mannings",
         "area": {
@@ -8777,8 +8777,8 @@
         "_id": "MANNINGS_KWONG_FUK_SHOPPING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 廣褔商場",
-            "en": "Mannings KWONG FUK SHOPPING CENTRE"
+            "zh": "廣褔商場",
+            "en": "KWONG FUK SHOPPING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -8818,8 +8818,8 @@
         "_id": "MANNINGS_LOCKHART_ROAD",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 駱克道",
-            "en": "Mannings LOCKHART ROAD"
+            "zh": "駱克道",
+            "en": "LOCKHART ROAD"
         },
         "shop_type": "mannings",
         "area": {
@@ -8859,8 +8859,8 @@
         "_id": "MANNINGS_FESTIVAL_WALK",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 又一城",
-            "en": "Mannings FESTIVAL WALK"
+            "zh": "又一城",
+            "en": "FESTIVAL WALK"
         },
         "shop_type": "mannings",
         "area": {
@@ -8900,8 +8900,8 @@
         "_id": "MANNINGS_GOLDEN_DRAGON_CTR",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 金龍中心",
-            "en": "Mannings GOLDEN DRAGON CTR"
+            "zh": "金龍中心",
+            "en": "GOLDEN DRAGON CTR"
         },
         "shop_type": "mannings",
         "area": {
@@ -8941,8 +8941,8 @@
         "_id": "MANNINGS_KOWLOON_TONG_STATION",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 九龍塘港鐵站",
-            "en": "Mannings KOWLOON TONG STATION"
+            "zh": "九龍塘港鐵站",
+            "en": "KOWLOON TONG STATION"
         },
         "shop_type": "mannings",
         "area": {
@@ -8982,8 +8982,8 @@
         "_id": "MANNINGS_NEW_KOWLOON_TONG_STATION",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 新九龍塘站 ",
-            "en": "Mannings NEW KOWLOON TONG STATION"
+            "zh": "新九龍塘站 ",
+            "en": "NEW KOWLOON TONG STATION"
         },
         "shop_type": "mannings",
         "area": {
@@ -9023,8 +9023,8 @@
         "_id": "MANNINGS_MEI_LAM_SHOPPING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 美林商場",
-            "en": "Mannings MEI LAM SHOPPING CENTRE"
+            "zh": "美林商場",
+            "en": "MEI LAM SHOPPING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -9064,8 +9064,8 @@
         "_id": "MANNINGS_WAN_CHAI_KWONG_WAH",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 灣仔光華",
-            "en": "Mannings WAN CHAI KWONG WAH"
+            "zh": "灣仔光華",
+            "en": "WAN CHAI KWONG WAH"
         },
         "shop_type": "mannings",
         "area": {
@@ -9105,8 +9105,8 @@
         "_id": "MANNINGS_CAMBRIDGE_COURT",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 窩打老道",
-            "en": "Mannings CAMBRIDGE COURT"
+            "zh": "窩打老道",
+            "en": "CAMBRIDGE COURT"
         },
         "shop_type": "mannings",
         "area": {
@@ -9146,8 +9146,8 @@
         "_id": "MANNINGS_SUN_HUNG_KAI_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 新鴻基中心",
-            "en": "Mannings SUN HUNG KAI CENTRE"
+            "zh": "新鴻基中心",
+            "en": "SUN HUNG KAI CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -9187,8 +9187,8 @@
         "_id": "MANNINGS_TAI_WAI",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 大圍",
-            "en": "Mannings TAI WAI"
+            "zh": "大圍",
+            "en": "TAI WAI"
         },
         "shop_type": "mannings",
         "area": {
@@ -9228,8 +9228,8 @@
         "_id": "MANNINGS_TAI_WAI_STATION",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 大圍火車站",
-            "en": "Mannings TAI WAI STATION"
+            "zh": "大圍火車站",
+            "en": "TAI WAI STATION"
         },
         "shop_type": "mannings",
         "area": {
@@ -9269,8 +9269,8 @@
         "_id": "MANNINGS_LUNG_HANG_SHOPPING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 隆亨商場",
-            "en": "Mannings LUNG HANG SHOPPING CENTRE"
+            "zh": "隆亨商場",
+            "en": "LUNG HANG SHOPPING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -9310,8 +9310,8 @@
         "_id": "MANNINGS_WAN_CHAI_ROAD",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 灣仔道",
-            "en": "Mannings WAN CHAI ROAD"
+            "zh": "灣仔道",
+            "en": "WAN CHAI ROAD"
         },
         "shop_type": "mannings",
         "area": {
@@ -9351,8 +9351,8 @@
         "_id": "MANNINGS_OI_MAN_SHOPPING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 愛民商場",
-            "en": "Mannings OI MAN SHOPPING CENTRE"
+            "zh": "愛民商場",
+            "en": "OI MAN SHOPPING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -9392,8 +9392,8 @@
         "_id": "MANNINGS_NEW_MANDARIN_PLAZA",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 新文華中心",
-            "en": "Mannings NEW MANDARIN PLAZA"
+            "zh": "新文華中心",
+            "en": "NEW MANDARIN PLAZA"
         },
         "shop_type": "mannings",
         "area": {
@@ -9433,8 +9433,8 @@
         "_id": "MANNINGS_FOURSEAS_BUILDING",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 四海大廈",
-            "en": "Mannings FOURSEAS BUILDING"
+            "zh": "四海大廈",
+            "en": "FOURSEAS BUILDING"
         },
         "shop_type": "mannings",
         "area": {
@@ -9474,8 +9474,8 @@
         "_id": "MANNINGS_NEW_HENNESSY_ROAD",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 新軒尼詩道",
-            "en": "Mannings NEW HENNESSY ROAD"
+            "zh": "新軒尼詩道",
+            "en": "NEW HENNESSY ROAD"
         },
         "shop_type": "mannings",
         "area": {
@@ -9515,8 +9515,8 @@
         "_id": "MANNINGS_NEW_HUNG_HOM_STATION",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 新紅磡港鐵站",
-            "en": "Mannings NEW HUNG HOM STATION"
+            "zh": "新紅磡港鐵站",
+            "en": "NEW HUNG HOM STATION"
         },
         "shop_type": "mannings",
         "area": {
@@ -9556,8 +9556,8 @@
         "_id": "MANNINGS_HOMANTIN",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 何文田",
-            "en": "Mannings HOMANTIN"
+            "zh": "何文田",
+            "en": "HOMANTIN"
         },
         "shop_type": "mannings",
         "area": {
@@ -9597,8 +9597,8 @@
         "_id": "MANNINGS_NEW_LOCKHART_ROAD",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 新駱克道",
-            "en": "Mannings NEW LOCKHART ROAD"
+            "zh": "新駱克道",
+            "en": "NEW LOCKHART ROAD"
         },
         "shop_type": "mannings",
         "area": {
@@ -9638,8 +9638,8 @@
         "_id": "MANNINGS_LEIGHTON_ROAD",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 禮頓道",
-            "en": "Mannings LEIGHTON ROAD"
+            "zh": "禮頓道",
+            "en": "LEIGHTON ROAD"
         },
         "shop_type": "mannings",
         "area": {
@@ -9679,8 +9679,8 @@
         "_id": "MANNINGS_PO_LOI_STREET",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 寶來街",
-            "en": "Mannings PO LOI STREET"
+            "zh": "寶來街",
+            "en": "PO LOI STREET"
         },
         "shop_type": "mannings",
         "area": {
@@ -9720,8 +9720,8 @@
         "_id": "MANNINGS_HYSAN_PLACE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 希慎廣場",
-            "en": "Mannings HYSAN PLACE"
+            "zh": "希慎廣場",
+            "en": "HYSAN PLACE"
         },
         "shop_type": "mannings",
         "area": {
@@ -9761,8 +9761,8 @@
         "_id": "MANNINGS_PRESIDENT_THEATRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 總統戲院",
-            "en": "Mannings PRESIDENT THEATRE"
+            "zh": "總統戲院",
+            "en": "PRESIDENT THEATRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -9802,8 +9802,8 @@
         "_id": "MANNINGS_PAK_SHA_ROAD",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 白沙道",
-            "en": "Mannings PAK SHA ROAD"
+            "zh": "白沙道",
+            "en": "PAK SHA ROAD"
         },
         "shop_type": "mannings",
         "area": {
@@ -9843,8 +9843,8 @@
         "_id": "MANNINGS_HAPPY_VALLEY",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 跑馬地",
-            "en": "Mannings HAPPY VALLEY"
+            "zh": "跑馬地",
+            "en": "HAPPY VALLEY"
         },
         "shop_type": "mannings",
         "area": {
@@ -9884,8 +9884,8 @@
         "_id": "MANNINGS_YEE_WO_STREET",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 怡和街",
-            "en": "Mannings YEE WO STREET"
+            "zh": "怡和街",
+            "en": "YEE WO STREET"
         },
         "shop_type": "mannings",
         "area": {
@@ -9925,8 +9925,8 @@
         "_id": "MANNINGS_LOK_MAN_SUN_CHUEN",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 樂民新村",
-            "en": "Mannings LOK MAN SUN CHUEN"
+            "zh": "樂民新村",
+            "en": "LOK MAN SUN CHUEN"
         },
         "shop_type": "mannings",
         "area": {
@@ -9966,8 +9966,8 @@
         "_id": "MANNINGS_CHUN_SHEK_SHOPPING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 秦石商場",
-            "en": "Mannings CHUN SHEK SHOPPING CENTRE"
+            "zh": "秦石商場",
+            "en": "CHUN SHEK SHOPPING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -10007,8 +10007,8 @@
         "_id": "MANNINGS_LOK_FU",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 樂富",
-            "en": "Mannings LOK FU"
+            "zh": "樂富",
+            "en": "LOK FU"
         },
         "shop_type": "mannings",
         "area": {
@@ -10048,8 +10048,8 @@
         "_id": "MANNINGS_PLANET_SQUARE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 繽紛購物城",
-            "en": "Mannings PLANET SQUARE"
+            "zh": "繽紛購物城",
+            "en": "PLANET SQUARE"
         },
         "shop_type": "mannings",
         "area": {
@@ -10089,8 +10089,8 @@
         "_id": "MANNINGS_MA_TAU_WAI_ESTATE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 馬頭圍村",
-            "en": "Mannings MA TAU WAI ESTATE"
+            "zh": "馬頭圍村",
+            "en": "MA TAU WAI ESTATE"
         },
         "shop_type": "mannings",
         "area": {
@@ -10130,8 +10130,8 @@
         "_id": "MANNINGS_MA_TAU_WAI_ROAD",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 馬頭圍道",
-            "en": "Mannings MA TAU WAI ROAD"
+            "zh": "馬頭圍道",
+            "en": "MA TAU WAI ROAD"
         },
         "shop_type": "mannings",
         "area": {
@@ -10171,8 +10171,8 @@
         "_id": "MANNINGS_NEW_TOWN_PLAZA_PHASE_3",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 新城市廣場三期",
-            "en": "Mannings NEW TOWN PLAZA PHASE 3"
+            "zh": "新城市廣場三期",
+            "en": "NEW TOWN PLAZA PHASE 3"
         },
         "shop_type": "mannings",
         "area": {
@@ -10212,8 +10212,8 @@
         "_id": "MANNINGS_HUNG_HOM_SQUARE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 紅磡廣場",
-            "en": "Mannings HUNG HOM SQUARE"
+            "zh": "紅磡廣場",
+            "en": "HUNG HOM SQUARE"
         },
         "shop_type": "mannings",
         "area": {
@@ -10253,8 +10253,8 @@
         "_id": "MANNINGS_NGA_TSIN_WAI_ROAD",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 衙前圍道",
-            "en": "Mannings NGA TSIN WAI ROAD"
+            "zh": "衙前圍道",
+            "en": "NGA TSIN WAI ROAD"
         },
         "shop_type": "mannings",
         "area": {
@@ -10294,8 +10294,8 @@
         "_id": "MANNINGS_NEW_TOWN_PLAZA",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 新城市廣場",
-            "en": "Mannings NEW TOWN PLAZA"
+            "zh": "新城市廣場",
+            "en": "NEW TOWN PLAZA"
         },
         "shop_type": "mannings",
         "area": {
@@ -10335,8 +10335,8 @@
         "_id": "MANNINGS_SHATIN_PLAZA",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 沙田廣場",
-            "en": "Mannings SHATIN PLAZA"
+            "zh": "沙田廣場",
+            "en": "SHATIN PLAZA"
         },
         "shop_type": "mannings",
         "area": {
@@ -10376,8 +10376,8 @@
         "_id": "MANNINGS_MA_TAU_KOK_ROAD",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 馬頭角道",
-            "en": "Mannings MA TAU KOK ROAD"
+            "zh": "馬頭角道",
+            "en": "MA TAU KOK ROAD"
         },
         "shop_type": "mannings",
         "area": {
@@ -10417,8 +10417,8 @@
         "_id": "MANNINGS_TOKWAWAN",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 土瓜灣",
-            "en": "Mannings TOKWAWAN"
+            "zh": "土瓜灣",
+            "en": "TOKWAWAN"
         },
         "shop_type": "mannings",
         "area": {
@@ -10458,8 +10458,8 @@
         "_id": "MANNINGS_HONOUR_BUILDING",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 新土瓜灣",
-            "en": "Mannings HONOUR BUILDING"
+            "zh": "新土瓜灣",
+            "en": "HONOUR BUILDING"
         },
         "shop_type": "mannings",
         "area": {
@@ -10499,8 +10499,8 @@
         "_id": "MANNINGS_PERKINS_ROAD",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 白健時道",
-            "en": "Mannings PERKINS ROAD"
+            "zh": "白健時道",
+            "en": "PERKINS ROAD"
         },
         "shop_type": "mannings",
         "area": {
@@ -10540,8 +10540,8 @@
         "_id": "MANNINGS_LEK_YUEN",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 瀝源",
-            "en": "Mannings LEK YUEN"
+            "zh": "瀝源",
+            "en": "LEK YUEN"
         },
         "shop_type": "mannings",
         "area": {
@@ -10581,8 +10581,8 @@
         "_id": "MANNINGS_TIN_HAU",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 天后",
-            "en": "Mannings TIN HAU"
+            "zh": "天后",
+            "en": "TIN HAU"
         },
         "shop_type": "mannings",
         "area": {
@@ -10622,8 +10622,8 @@
         "_id": "MANNINGS_ELECTRIC_ROAD",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 電氣道",
-            "en": "Mannings ELECTRIC ROAD"
+            "zh": "電氣道",
+            "en": "ELECTRIC ROAD"
         },
         "shop_type": "mannings",
         "area": {
@@ -10663,8 +10663,8 @@
         "_id": "MANNINGS_POK_HONG",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 博康",
-            "en": "Mannings POK HONG"
+            "zh": "博康",
+            "en": "POK HONG"
         },
         "shop_type": "mannings",
         "area": {
@@ -10704,8 +10704,8 @@
         "_id": "MANNINGS_CHUK_YUEN",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 竹園",
-            "en": "Mannings CHUK YUEN"
+            "zh": "竹園",
+            "en": "CHUK YUEN"
         },
         "shop_type": "mannings",
         "area": {
@@ -10745,8 +10745,8 @@
         "_id": "MANNINGS_FO_TAN",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 火炭",
-            "en": "Mannings FO TAN"
+            "zh": "火炭",
+            "en": "FO TAN"
         },
         "shop_type": "mannings",
         "area": {
@@ -10786,8 +10786,8 @@
         "_id": "MANNINGS_GRAND_WATERFRONT_PLAZA",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 翔龍灣",
-            "en": "Mannings GRAND WATERFRONT PLAZA"
+            "zh": "翔龍灣",
+            "en": "GRAND WATERFRONT PLAZA"
         },
         "shop_type": "mannings",
         "area": {
@@ -10827,8 +10827,8 @@
         "_id": "MANNINGS_SHA_KOK_SHOPPING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 沙角商場",
-            "en": "Mannings SHA KOK SHOPPING CENTRE"
+            "zh": "沙角商場",
+            "en": "SHA KOK SHOPPING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -10868,8 +10868,8 @@
         "_id": "MANNINGS_SUI_WO",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 穗禾",
-            "en": "Mannings SUI WO"
+            "zh": "穗禾",
+            "en": "SUI WO"
         },
         "shop_type": "mannings",
         "area": {
@@ -10909,8 +10909,8 @@
         "_id": "MANNINGS_WONG_TAI_SIN",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 黃大仙",
-            "en": "Mannings WONG TAI SIN"
+            "zh": "黃大仙",
+            "en": "WONG TAI SIN"
         },
         "shop_type": "mannings",
         "area": {
@@ -10950,8 +10950,8 @@
         "_id": "MANNINGS_LAI_TAK_PLAZA",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 勵德坊",
-            "en": "Mannings LAI TAK PLAZA"
+            "zh": "勵德坊",
+            "en": "LAI TAK PLAZA"
         },
         "shop_type": "mannings",
         "area": {
@@ -10991,8 +10991,8 @@
         "_id": "MANNINGS_NAM_TIN_BUILDING",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 南天大廈",
-            "en": "Mannings NAM TIN BUILDING"
+            "zh": "南天大廈",
+            "en": "NAM TIN BUILDING"
         },
         "shop_type": "mannings",
         "area": {
@@ -11032,8 +11032,8 @@
         "_id": "MANNINGS_WO_CHE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 禾輋",
-            "en": "Mannings WO CHE"
+            "zh": "禾輋",
+            "en": "WO CHE"
         },
         "shop_type": "mannings",
         "area": {
@@ -11073,8 +11073,8 @@
         "_id": "MANNINGS_CLOUDVIEW_ROAD",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 雲景道",
-            "en": "Mannings CLOUDVIEW ROAD"
+            "zh": "雲景道",
+            "en": "CLOUDVIEW ROAD"
         },
         "shop_type": "mannings",
         "area": {
@@ -11114,8 +11114,8 @@
         "_id": "MANNINGS_GREENWOOD_GARDEN",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 翠華花園",
-            "en": "Mannings GREENWOOD GARDEN"
+            "zh": "翠華花園",
+            "en": "GREENWOOD GARDEN"
         },
         "shop_type": "mannings",
         "area": {
@@ -11155,8 +11155,8 @@
         "_id": "MANNINGS_SAN_PO_KONG",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 新蒲崗",
-            "en": "Mannings SAN PO KONG"
+            "zh": "新蒲崗",
+            "en": "SAN PO KONG"
         },
         "shop_type": "mannings",
         "area": {
@@ -11196,8 +11196,8 @@
         "_id": "MANNINGS_TSEUK_LUK_STREET",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 爵祿街",
-            "en": "Mannings TSEUK LUK STREET"
+            "zh": "爵祿街",
+            "en": "TSEUK LUK STREET"
         },
         "shop_type": "mannings",
         "area": {
@@ -11237,8 +11237,8 @@
         "_id": "MANNINGS_SHEUNG_FUNG_STREET",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 雙鳳街",
-            "en": "Mannings SHEUNG FUNG STREET"
+            "zh": "雙鳳街",
+            "en": "SHEUNG FUNG STREET"
         },
         "shop_type": "mannings",
         "area": {
@@ -11278,8 +11278,8 @@
         "_id": "MANNINGS_NORTH_POINT",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 北角",
-            "en": "Mannings NORTH POINT"
+            "zh": "北角",
+            "en": "NORTH POINT"
         },
         "shop_type": "mannings",
         "area": {
@@ -11319,8 +11319,8 @@
         "_id": "MANNINGS_FUNG_TAK_SHOPPING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 鳳德商場",
-            "en": "Mannings FUNG TAK SHOPPING CENTRE"
+            "zh": "鳳德商場",
+            "en": "FUNG TAK SHOPPING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -11360,8 +11360,8 @@
         "_id": "MANNINGS_TSZ_WAN_SHAN_SHOPPING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 慈雲山中心",
-            "en": "Mannings TSZ WAN SHAN SHOPPING CENTRE"
+            "zh": "慈雲山中心",
+            "en": "TSZ WAN SHAN SHOPPING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -11401,8 +11401,8 @@
         "_id": "MANNINGS_PLAZA_ASCOT",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 駿景廣場",
-            "en": "Mannings PLAZA ASCOT"
+            "zh": "駿景廣場",
+            "en": "PLAZA ASCOT"
         },
         "shop_type": "mannings",
         "area": {
@@ -11442,8 +11442,8 @@
         "_id": "MANNINGS_PLAZA_HOLLYWOOD",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 荷里活廣場",
-            "en": "Mannings PLAZA HOLLYWOOD"
+            "zh": "荷里活廣場",
+            "en": "PLAZA HOLLYWOOD"
         },
         "shop_type": "mannings",
         "area": {
@@ -11483,8 +11483,8 @@
         "_id": "MANNINGS_RHYTHM_GARDEN",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 采頤花園",
-            "en": "Mannings RHYTHM GARDEN"
+            "zh": "采頤花園",
+            "en": "RHYTHM GARDEN"
         },
         "shop_type": "mannings",
         "area": {
@@ -11524,8 +11524,8 @@
         "_id": "MANNINGS_FITFORT",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 健威坊",
-            "en": "Mannings FITFORT"
+            "zh": "健威坊",
+            "en": "FITFORT"
         },
         "shop_type": "mannings",
         "area": {
@@ -11565,8 +11565,8 @@
         "_id": "MANNINGS_PAK_TAK",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 百得",
-            "en": "Mannings PAK TAK"
+            "zh": "百得",
+            "en": "PAK TAK"
         },
         "shop_type": "mannings",
         "area": {
@@ -11606,8 +11606,8 @@
         "_id": "MANNINGS_CHING_LONG_SHOPPING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 晴朗商場",
-            "en": "Mannings CHING LONG SHOPPING CENTRE"
+            "zh": "晴朗商場",
+            "en": "CHING LONG SHOPPING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -11647,8 +11647,8 @@
         "_id": "MANNINGS_EMAX",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 九龍灣展貿",
-            "en": "Mannings EMAX"
+            "zh": "九龍灣展貿",
+            "en": "EMAX"
         },
         "shop_type": "mannings",
         "area": {
@@ -11688,8 +11688,8 @@
         "_id": "MANNINGS_YU_CHUI_SHOPPING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 愉翠商場",
-            "en": "Mannings YU CHUI SHOPPING CENTRE"
+            "zh": "愉翠商場",
+            "en": "YU CHUI SHOPPING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -11729,8 +11729,8 @@
         "_id": "MANNINGS_RICHLAND_GARDENS",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 麗晶花園",
-            "en": "Mannings RICHLAND GARDENS"
+            "zh": "麗晶花園",
+            "en": "RICHLAND GARDENS"
         },
         "shop_type": "mannings",
         "area": {
@@ -11770,8 +11770,8 @@
         "_id": "MANNINGS_MARRIOTT_HOTEL",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 沙田萬怡酒店",
-            "en": "Mannings MARRIOTT HOTEL"
+            "zh": "沙田萬怡酒店",
+            "en": "MARRIOTT HOTEL"
         },
         "shop_type": "mannings",
         "area": {
@@ -11811,8 +11811,8 @@
         "_id": "MANNINGS_KAI_YIP_SHOPPING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 啓業商場",
-            "en": "Mannings KAI YIP SHOPPING CENTRE"
+            "zh": "啓業商場",
+            "en": "KAI YIP SHOPPING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -11852,8 +11852,8 @@
         "_id": "MANNINGS_FU_SHAN_ESTATE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 富山邨",
-            "en": "Mannings FU SHAN ESTATE"
+            "zh": "富山邨",
+            "en": "FU SHAN ESTATE"
         },
         "shop_type": "mannings",
         "area": {
@@ -11893,8 +11893,8 @@
         "_id": "MANNINGS_MEGABOX",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 企業廣場",
-            "en": "Mannings MEGABOX"
+            "zh": "企業廣場",
+            "en": "MEGABOX"
         },
         "shop_type": "mannings",
         "area": {
@@ -11934,8 +11934,8 @@
         "_id": "MANNINGS_PING_SHEK_ESTATE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 坪石邨",
-            "en": "Mannings PING SHEK ESTATE"
+            "zh": "坪石邨",
+            "en": "PING SHEK ESTATE"
         },
         "shop_type": "mannings",
         "area": {
@@ -11975,8 +11975,8 @@
         "_id": "MANNINGS_CAMBRIDGE_HOUSE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 康橋大廈",
-            "en": "Mannings CAMBRIDGE HOUSE"
+            "zh": "康橋大廈",
+            "en": "CAMBRIDGE HOUSE"
         },
         "shop_type": "mannings",
         "area": {
@@ -12016,8 +12016,8 @@
         "_id": "MANNINGS_EAST_POINT_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 東匯中心",
-            "en": "Mannings EAST POINT CENTRE"
+            "zh": "東匯中心",
+            "en": "EAST POINT CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -12057,8 +12057,8 @@
         "_id": "MANNINGS_TELFORD_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 德褔中心",
-            "en": "Mannings TELFORD CENTRE"
+            "zh": "德褔中心",
+            "en": "TELFORD CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -12098,8 +12098,8 @@
         "_id": "MANNINGS_CHOI_WAN_SHOPPING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 彩雲商場",
-            "en": "Mannings CHOI WAN SHOPPING CENTRE"
+            "zh": "彩雲商場",
+            "en": "CHOI WAN SHOPPING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -12139,8 +12139,8 @@
         "_id": "MANNINGS_KWONG_YUEN",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 廣源",
-            "en": "Mannings KWONG YUEN"
+            "zh": "廣源",
+            "en": "KWONG YUEN"
         },
         "shop_type": "mannings",
         "area": {
@@ -12180,8 +12180,8 @@
         "_id": "MANNINGS_LOWER_NGAU_TAU_KOK_ESTATE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 牛頭角下邨",
-            "en": "Mannings LOWER NGAU TAU KOK ESTATE"
+            "zh": "牛頭角下邨",
+            "en": "LOWER NGAU TAU KOK ESTATE"
         },
         "shop_type": "mannings",
         "area": {
@@ -12221,8 +12221,8 @@
         "_id": "MANNINGS_KORNHILL_PLAZA",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 康怡廣場",
-            "en": "Mannings KORNHILL PLAZA"
+            "zh": "康怡廣場",
+            "en": "KORNHILL PLAZA"
         },
         "shop_type": "mannings",
         "area": {
@@ -12262,8 +12262,8 @@
         "_id": "MANNINGS_AMOY_PLAZA",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 淘大商場",
-            "en": "Mannings AMOY PLAZA"
+            "zh": "淘大商場",
+            "en": "AMOY PLAZA"
         },
         "shop_type": "mannings",
         "area": {
@@ -12303,8 +12303,8 @@
         "_id": "MANNINGS_TAI_KOO_SHING",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 太古城",
-            "en": "Mannings TAI KOO SHING"
+            "zh": "太古城",
+            "en": "TAI KOO SHING"
         },
         "shop_type": "mannings",
         "area": {
@@ -12344,8 +12344,8 @@
         "_id": "MANNINGS_HUNG_CHEUK_LAU",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 孔雀樓",
-            "en": "Mannings HUNG CHEUK LAU"
+            "zh": "孔雀樓",
+            "en": "HUNG CHEUK LAU"
         },
         "shop_type": "mannings",
         "area": {
@@ -12385,8 +12385,8 @@
         "_id": "MANNINGS_LOK_WAH",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 樂華北商場",
-            "en": "Mannings LOK WAH"
+            "zh": "樂華北商場",
+            "en": "LOK WAH"
         },
         "shop_type": "mannings",
         "area": {
@@ -12426,8 +12426,8 @@
         "_id": "MANNINGS_HING_TUNG_SHOPPING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 興東商場",
-            "en": "Mannings HING TUNG SHOPPING CENTRE"
+            "zh": "興東商場",
+            "en": "HING TUNG SHOPPING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -12467,8 +12467,8 @@
         "_id": "MANNINGS_TAI_ON_BUILDING",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 太安樓",
-            "en": "Mannings TAI ON BUILDING"
+            "zh": "太安樓",
+            "en": "TAI ON BUILDING"
         },
         "shop_type": "mannings",
         "area": {
@@ -12508,8 +12508,8 @@
         "_id": "MANNINGS_KWUN_TONG",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 觀塘",
-            "en": "Mannings KWUN TONG"
+            "zh": "觀塘",
+            "en": "KWUN TONG"
         },
         "shop_type": "mannings",
         "area": {
@@ -12549,8 +12549,8 @@
         "_id": "MANNINGS_LEI_KING_WAN",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 鯉景灣",
-            "en": "Mannings LEI KING WAN"
+            "zh": "鯉景灣",
+            "en": "LEI KING WAN"
         },
         "shop_type": "mannings",
         "area": {
@@ -12590,8 +12590,8 @@
         "_id": "MANNINGS_YUE_MAN_SQUARE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 裕民坊",
-            "en": "Mannings YUE MAN SQUARE"
+            "zh": "裕民坊",
+            "en": "YUE MAN SQUARE"
         },
         "shop_type": "mannings",
         "area": {
@@ -12631,8 +12631,8 @@
         "_id": "MANNINGS_YIU_TUNG_SHOPPING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 耀東商場",
-            "en": "Mannings YIU TUNG SHOPPING CENTRE"
+            "zh": "耀東商場",
+            "en": "YIU TUNG SHOPPING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -12672,8 +12672,8 @@
         "_id": "MANNINGS_APM",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 創紀之城",
-            "en": "Mannings APM"
+            "zh": "創紀之城",
+            "en": "APM"
         },
         "shop_type": "mannings",
         "area": {
@@ -12713,8 +12713,8 @@
         "_id": "MANNINGS_SHUI_WO_STREET",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 瑞和街",
-            "en": "Mannings SHUI WO STREET"
+            "zh": "瑞和街",
+            "en": "SHUI WO STREET"
         },
         "shop_type": "mannings",
         "area": {
@@ -12754,8 +12754,8 @@
         "_id": "MANNINGS_HIP_WO_STREET",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 協和街",
-            "en": "Mannings HIP WO STREET"
+            "zh": "協和街",
+            "en": "HIP WO STREET"
         },
         "shop_type": "mannings",
         "area": {
@@ -12795,8 +12795,8 @@
         "_id": "MANNINGS_SHUN_TIN",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 順天",
-            "en": "Mannings SHUN TIN"
+            "zh": "順天",
+            "en": "SHUN TIN"
         },
         "shop_type": "mannings",
         "area": {
@@ -12836,8 +12836,8 @@
         "_id": "MANNINGS_HOI_YUEN_ROAD",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 開源道",
-            "en": "Mannings HOI YUEN ROAD"
+            "zh": "開源道",
+            "en": "HOI YUEN ROAD"
         },
         "shop_type": "mannings",
         "area": {
@@ -12877,8 +12877,8 @@
         "_id": "MANNINGS_NEW_SAI_WAN_HO",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 新西灣河",
-            "en": "Mannings NEW SAI WAN HO"
+            "zh": "新西灣河",
+            "en": "NEW SAI WAN HO"
         },
         "shop_type": "mannings",
         "area": {
@@ -12918,8 +12918,8 @@
         "_id": "MANNINGS_CHUNG_ON",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 頌安",
-            "en": "Mannings CHUNG ON"
+            "zh": "頌安",
+            "en": "CHUNG ON"
         },
         "shop_type": "mannings",
         "area": {
@@ -12959,8 +12959,8 @@
         "_id": "MANNINGS_SHUN_LEE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 順利村",
-            "en": "Mannings SHUN LEE"
+            "zh": "順利村",
+            "en": "SHUN LEE"
         },
         "shop_type": "mannings",
         "area": {
@@ -13000,8 +13000,8 @@
         "_id": "MANNINGS_OI_TUNG",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 愛東",
-            "en": "Mannings OI TUNG"
+            "zh": "愛東",
+            "en": "OI TUNG"
         },
         "shop_type": "mannings",
         "area": {
@@ -13041,8 +13041,8 @@
         "_id": "MANNINGS_LAGUNA_PLAZA",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 麗港城",
-            "en": "Mannings LAGUNA PLAZA"
+            "zh": "麗港城",
+            "en": "LAGUNA PLAZA"
         },
         "shop_type": "mannings",
         "area": {
@@ -13082,8 +13082,8 @@
         "_id": "MANNINGS_HENG_ON",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 恆安",
-            "en": "Mannings HENG ON"
+            "zh": "恆安",
+            "en": "HENG ON"
         },
         "shop_type": "mannings",
         "area": {
@@ -13123,8 +13123,8 @@
         "_id": "MANNINGS_TSUI_PING_ESTATE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 翠屏道",
-            "en": "Mannings TSUI PING ESTATE"
+            "zh": "翠屏道",
+            "en": "TSUI PING ESTATE"
         },
         "shop_type": "mannings",
         "area": {
@@ -13164,8 +13164,8 @@
         "_id": "MANNINGS_SHAU_KEI_WAN",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 筲箕灣",
-            "en": "Mannings SHAU KEI WAN"
+            "zh": "筲箕灣",
+            "en": "SHAU KEI WAN"
         },
         "shop_type": "mannings",
         "area": {
@@ -13205,8 +13205,8 @@
         "_id": "MANNINGS_YIU_ON_SHOPPING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 耀安商場",
-            "en": "Mannings YIU ON SHOPPING CENTRE"
+            "zh": "耀安商場",
+            "en": "YIU ON SHOPPING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -13246,8 +13246,8 @@
         "_id": "MANNINGS_SUNSHINE_CITY_PLAZA",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 新港城",
-            "en": "Mannings SUNSHINE CITY PLAZA"
+            "zh": "新港城",
+            "en": "SUNSHINE CITY PLAZA"
         },
         "shop_type": "mannings",
         "area": {
@@ -13287,8 +13287,8 @@
         "_id": "MANNINGS_SAU_MAU_PING",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 秀茂坪",
-            "en": "Mannings SAU MAU PING"
+            "zh": "秀茂坪",
+            "en": "SAU MAU PING"
         },
         "shop_type": "mannings",
         "area": {
@@ -13328,8 +13328,8 @@
         "_id": "MANNINGS_HING_MAN_SHOPPING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 興民商場",
-            "en": "Mannings HING MAN SHOPPING CENTRE"
+            "zh": "興民商場",
+            "en": "HING MAN SHOPPING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -13369,8 +13369,8 @@
         "_id": "MANNINGS_SCENEWAY_GARDEN",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 滙景花園商場",
-            "en": "Mannings SCENEWAY GARDEN"
+            "zh": "滙景花園商場",
+            "en": "SCENEWAY GARDEN"
         },
         "shop_type": "mannings",
         "area": {
@@ -13410,8 +13410,8 @@
         "_id": "MANNINGS_YAU_LAI_SHOPPING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 油麗商場",
-            "en": "Mannings YAU LAI SHOPPING CENTRE"
+            "zh": "油麗商場",
+            "en": "YAU LAI SHOPPING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -13451,8 +13451,8 @@
         "_id": "MANNINGS_KAI_TIN",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 啟田",
-            "en": "Mannings KAI TIN"
+            "zh": "啟田",
+            "en": "KAI TIN"
         },
         "shop_type": "mannings",
         "area": {
@@ -13492,8 +13492,8 @@
         "_id": "MANNINGS_HING_WAH_SHOPPING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 興華商場",
-            "en": "Mannings HING WAH SHOPPING CENTRE"
+            "zh": "興華商場",
+            "en": "HING WAH SHOPPING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -13533,8 +13533,8 @@
         "_id": "MANNINGS_PO_TAT",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 寶達",
-            "en": "Mannings PO TAT"
+            "zh": "寶達",
+            "en": "PO TAT"
         },
         "shop_type": "mannings",
         "area": {
@@ -13574,8 +13574,8 @@
         "_id": "MANNINGS_KAM_YING_SHOPPING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 錦英商場",
-            "en": "Mannings KAM YING SHOPPING CENTRE"
+            "zh": "錦英商場",
+            "en": "KAM YING SHOPPING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -13615,8 +13615,8 @@
         "_id": "MANNINGS_NEW_JADE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 新翠商場",
-            "en": "Mannings NEW JADE"
+            "zh": "新翠商場",
+            "en": "NEW JADE"
         },
         "shop_type": "mannings",
         "area": {
@@ -13656,8 +13656,8 @@
         "_id": "MANNINGS_TAK_TIN_SHOPPING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 德田商場",
-            "en": "Mannings TAK TIN SHOPPING CENTRE"
+            "zh": "德田商場",
+            "en": "TAK TIN SHOPPING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -13697,8 +13697,8 @@
         "_id": "MANNINGS_DOMAIN",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 大本型",
-            "en": "Mannings DOMAIN"
+            "zh": "大本型",
+            "en": "DOMAIN"
         },
         "shop_type": "mannings",
         "area": {
@@ -13738,8 +13738,8 @@
         "_id": "MANNINGS_HENG_FA",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 杏花",
-            "en": "Mannings HENG FA"
+            "zh": "杏花",
+            "en": "HENG FA"
         },
         "shop_type": "mannings",
         "area": {
@@ -13779,8 +13779,8 @@
         "_id": "MANNINGS_LEI_YUE_MUN_PLAZA",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 鯉魚門廣場",
-            "en": "Mannings LEI YUE MUN PLAZA"
+            "zh": "鯉魚門廣場",
+            "en": "LEI YUE MUN PLAZA"
         },
         "shop_type": "mannings",
         "area": {
@@ -13820,8 +13820,8 @@
         "_id": "MANNINGS_YUE_WAN_ESTATE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 漁灣邨",
-            "en": "Mannings YUE WAN ESTATE"
+            "zh": "漁灣邨",
+            "en": "YUE WAN ESTATE"
         },
         "shop_type": "mannings",
         "area": {
@@ -13861,8 +13861,8 @@
         "_id": "MANNINGS_Lake_Silver",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 銀湖天峰",
-            "en": "Mannings Lake Silver"
+            "zh": "銀湖天峰",
+            "en": "Lake Silver"
         },
         "shop_type": "mannings",
         "area": {
@@ -13902,8 +13902,8 @@
         "_id": "MANNINGS_SIU_SAI_WAN",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 小西灣",
-            "en": "Mannings SIU SAI WAN"
+            "zh": "小西灣",
+            "en": "SIU SAI WAN"
         },
         "shop_type": "mannings",
         "area": {
@@ -13943,8 +13943,8 @@
         "_id": "MANNINGS_TSUI_LAM_SHOPPING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 翠林商場",
-            "en": "Mannings TSUI LAM SHOPPING CENTRE"
+            "zh": "翠林商場",
+            "en": "TSUI LAM SHOPPING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -13984,8 +13984,8 @@
         "_id": "MANNINGS_NEW_CHOI_MING_SHOPPING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 新彩明商場",
-            "en": "Mannings NEW CHOI MING SHOPPING CENTRE"
+            "zh": "新彩明商場",
+            "en": "NEW CHOI MING SHOPPING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -14025,8 +14025,8 @@
         "_id": "MANNINGS_ISLAND_RESORT",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 藍灣廣場",
-            "en": "Mannings ISLAND RESORT"
+            "zh": "藍灣廣場",
+            "en": "ISLAND RESORT"
         },
         "shop_type": "mannings",
         "area": {
@@ -14066,8 +14066,8 @@
         "_id": "MANNINGS_PO_LAM_ESTATE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 寶琳邨",
-            "en": "Mannings PO LAM ESTATE"
+            "zh": "寶琳邨",
+            "en": "PO LAM ESTATE"
         },
         "shop_type": "mannings",
         "area": {
@@ -14107,8 +14107,8 @@
         "_id": "MANNINGS_METROCITY_PHASE_3",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 都會豪庭",
-            "en": "Mannings METROCITY PHASE 3"
+            "zh": "都會豪庭",
+            "en": "METROCITY PHASE 3"
         },
         "shop_type": "mannings",
         "area": {
@@ -14148,8 +14148,8 @@
         "_id": "MANNINGS_PARK_CENTRAL",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 將軍澳中心",
-            "en": "Mannings PARK CENTRAL"
+            "zh": "將軍澳中心",
+            "en": "PARK CENTRAL"
         },
         "shop_type": "mannings",
         "area": {
@@ -14189,8 +14189,8 @@
         "_id": "MANNINGS_POPCORN",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 將軍澳POPCORN",
-            "en": "Mannings POPCORN"
+            "zh": "將軍澳POPCORN",
+            "en": "POPCORN"
         },
         "shop_type": "mannings",
         "area": {
@@ -14230,8 +14230,8 @@
         "_id": "MANNINGS_METROCITY",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 新都城",
-            "en": "Mannings METROCITY"
+            "zh": "新都城",
+            "en": "METROCITY"
         },
         "shop_type": "mannings",
         "area": {
@@ -14271,8 +14271,8 @@
         "_id": "MANNINGS_SHEUNG_TAK_SHOPPING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 尚德商場",
-            "en": "Mannings SHEUNG TAK SHOPPING CENTRE"
+            "zh": "尚德商場",
+            "en": "SHEUNG TAK SHOPPING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -14312,8 +14312,8 @@
         "_id": "MANNINGS_TSEUNG_KWAN_O_BABY",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 將軍澳Baby",
-            "en": "Mannings TSEUNG KWAN O BABY"
+            "zh": "將軍澳Baby",
+            "en": "TSEUNG KWAN O BABY"
         },
         "shop_type": "mannings",
         "area": {
@@ -14353,8 +14353,8 @@
         "_id": "MANNINGS_THE_LANE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 連理街商場",
-            "en": "Mannings THE LANE"
+            "zh": "連理街商場",
+            "en": "THE LANE"
         },
         "shop_type": "mannings",
         "area": {
@@ -14394,8 +14394,8 @@
         "_id": "MANNINGS_EAST_POINT_CITY",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 東港城",
-            "en": "Mannings EAST POINT CITY"
+            "zh": "東港城",
+            "en": "EAST POINT CITY"
         },
         "shop_type": "mannings",
         "area": {
@@ -14435,8 +14435,8 @@
         "_id": "MANNINGS_HAU_TAK_SHOPPING_CENTRE",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 厚德商場",
-            "en": "Mannings HAU TAK SHOPPING CENTRE"
+            "zh": "厚德商場",
+            "en": "HAU TAK SHOPPING CENTRE"
         },
         "shop_type": "mannings",
         "area": {
@@ -14476,8 +14476,8 @@
         "_id": "MANNINGS_The_Capitol",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 首都",
-            "en": "Mannings The Capitol"
+            "zh": "首都",
+            "en": "The Capitol"
         },
         "shop_type": "mannings",
         "area": {
@@ -14517,8 +14517,8 @@
         "_id": "MANNINGS_SAI_KUNG",
         "atm_type": "eps",
         "name": {
-            "zh": "萬寧 西貢",
-            "en": "Mannings SAI KUNG"
+            "zh": "西貢",
+            "en": "SAI KUNG"
         },
         "shop_type": "mannings",
         "area": {

@@ -113,8 +113,8 @@ function Branch(branch) {
 	this._id = 'MANNINGS_' + branch.location_EN.replace(/ /g, '_').trim();
 	this.atm_type = 'eps';
 	this.name = {
-		zh: '萬寧 ' + branch.location_TC,
-		en: 'Mannings ' + branch.location_EN
+		zh: branch.location_TC,
+		en: branch.location_EN
 	};
 	this.shop_type = 'mannings';
 	this.area = area[branch.area1];

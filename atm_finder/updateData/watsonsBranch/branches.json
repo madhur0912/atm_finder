@@ -3,8 +3,8 @@
         "_id": "WATSONS_Tung_Chung_MTR_Station_(Shop_no._2)",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 東涌港鐵站 (第二分店)",
-            "en": "Watsons Tung Chung MTR Station (Shop no. 2)"
+            "zh": "東涌港鐵站 (第二分店)",
+            "en": "Tung Chung MTR Station (Shop no. 2)"
         },
         "shop_type": "watsons",
         "area": {
@@ -41,8 +41,8 @@
         "_id": "WATSONS_Tung_Chung_MTR_Station_(Shop_no._1)",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 東涌港鐵站 (第一分店)",
-            "en": "Watsons Tung Chung MTR Station (Shop no. 1)"
+            "zh": "東涌港鐵站 (第一分店)",
+            "en": "Tung Chung MTR Station (Shop no. 1)"
         },
         "shop_type": "watsons",
         "area": {
@@ -79,8 +79,8 @@
         "_id": "WATSONS_Leung_King",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 良景",
-            "en": "Watsons Leung King"
+            "zh": "良景",
+            "en": "Leung King"
         },
         "shop_type": "watsons",
         "area": {
@@ -117,8 +117,8 @@
         "_id": "WATSONS_Sun_Tuen_Mun_Centre",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 新屯門中心",
-            "en": "Watsons Sun Tuen Mun Centre"
+            "zh": "新屯門中心",
+            "en": "Sun Tuen Mun Centre"
         },
         "shop_type": "watsons",
         "area": {
@@ -155,8 +155,8 @@
         "_id": "WATSONS_Kin_Sang_Estate",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 建生村",
-            "en": "Watsons Kin Sang Estate"
+            "zh": "建生村",
+            "en": "Kin Sang Estate"
         },
         "shop_type": "watsons",
         "area": {
@@ -193,8 +193,8 @@
         "_id": "WATSONS_Chelsea_Heights",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 卓爾居",
-            "en": "Watsons Chelsea Heights"
+            "zh": "卓爾居",
+            "en": "Chelsea Heights"
         },
         "shop_type": "watsons",
         "area": {
@@ -231,8 +231,8 @@
         "_id": "WATSONS_V_City",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 V City",
-            "en": "Watsons V City"
+            "zh": "V City",
+            "en": "V City"
         },
         "shop_type": "watsons",
         "area": {
@@ -269,8 +269,8 @@
         "_id": "WATSONS_Kai_Man_Path",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 屯門啟民徑",
-            "en": "Watsons Kai Man Path"
+            "zh": "屯門啟民徑",
+            "en": "Kai Man Path"
         },
         "shop_type": "watsons",
         "area": {
@@ -307,8 +307,8 @@
         "_id": "WATSONS_On_Ting_Shopping_Centre",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 安定商場",
-            "en": "Watsons On Ting Shopping Centre"
+            "zh": "安定商場",
+            "en": "On Ting Shopping Centre"
         },
         "shop_type": "watsons",
         "area": {
@@ -345,8 +345,8 @@
         "_id": "WATSONS_Trend_Plaza,_Tuen_Mun",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 屯門時代廣場",
-            "en": "Watsons Trend Plaza, Tuen Mun"
+            "zh": "屯門時代廣場",
+            "en": "Trend Plaza, Tuen Mun"
         },
         "shop_type": "watsons",
         "area": {
@@ -383,8 +383,8 @@
         "_id": "WATSONS_Tuen_Mun_Town_Plaza_Phase_II",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 屯門市廣場2期",
-            "en": "Watsons Tuen Mun Town Plaza Phase II"
+            "zh": "屯門市廣場2期",
+            "en": "Tuen Mun Town Plaza Phase II"
         },
         "shop_type": "watsons",
         "area": {
@@ -421,8 +421,8 @@
         "_id": "WATSONS_Tuen_Mun",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 屯門",
-            "en": "Watsons Tuen Mun"
+            "zh": "屯門",
+            "en": "Tuen Mun"
         },
         "shop_type": "watsons",
         "area": {
@@ -459,8 +459,8 @@
         "_id": "WATSONS_Tseng_Choi_Street",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 井財街",
-            "en": "Watsons Tseng Choi Street"
+            "zh": "井財街",
+            "en": "Tseng Choi Street"
         },
         "shop_type": "watsons",
         "area": {
@@ -497,8 +497,8 @@
         "_id": "WATSONS_Waldorf_Avenue",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 華都大道",
-            "en": "Watsons Waldorf Avenue"
+            "zh": "華都大道",
+            "en": "Waldorf Avenue"
         },
         "shop_type": "watsons",
         "area": {
@@ -535,8 +535,8 @@
         "_id": "WATSONS_Chi_Lok_Fa_Yuen",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 置樂花園",
-            "en": "Watsons Chi Lok Fa Yuen"
+            "zh": "置樂花園",
+            "en": "Chi Lok Fa Yuen"
         },
         "shop_type": "watsons",
         "area": {
@@ -573,8 +573,8 @@
         "_id": "WATSONS_HK_Gold_Coast",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 黃金海岸",
-            "en": "Watsons HK Gold Coast"
+            "zh": "黃金海岸",
+            "en": "HK Gold Coast"
         },
         "shop_type": "watsons",
         "area": {
@@ -611,8 +611,8 @@
         "_id": "WATSONS_Chung_Fu",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 頌富",
-            "en": "Watsons Chung Fu"
+            "zh": "頌富",
+            "en": "Chung Fu"
         },
         "shop_type": "watsons",
         "area": {
@@ -649,8 +649,8 @@
         "_id": "WATSONS_Tin_Chak",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 天水圍天澤商場",
-            "en": "Watsons Tin Chak"
+            "zh": "天水圍天澤商場",
+            "en": "Tin Chak"
         },
         "shop_type": "watsons",
         "area": {
@@ -687,8 +687,8 @@
         "_id": "WATSONS_Locwood_Court",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 新北江商場",
-            "en": "Watsons Locwood Court"
+            "zh": "新北江商場",
+            "en": "Locwood Court"
         },
         "shop_type": "watsons",
         "area": {
@@ -725,8 +725,8 @@
         "_id": "WATSONS_Kingswood_Ginza",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 嘉湖銀座",
-            "en": "Watsons Kingswood Ginza"
+            "zh": "嘉湖銀座",
+            "en": "Kingswood Ginza"
         },
         "shop_type": "watsons",
         "area": {
@@ -763,8 +763,8 @@
         "_id": "WATSONS_Discovery_Bay",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 愉景灣",
-            "en": "Watsons Discovery Bay"
+            "zh": "愉景灣",
+            "en": "Discovery Bay"
         },
         "shop_type": "watsons",
         "area": {
@@ -801,8 +801,8 @@
         "_id": "WATSONS_Yuen_Long_Plaza",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 元朗廣場",
-            "en": "Watsons Yuen Long Plaza"
+            "zh": "元朗廣場",
+            "en": "Yuen Long Plaza"
         },
         "shop_type": "watsons",
         "area": {
@@ -839,8 +839,8 @@
         "_id": "WATSONS_Castle_Peak_Road_(Yuen_Long)",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 元朗青山公路",
-            "en": "Watsons Castle Peak Road (Yuen Long)"
+            "zh": "元朗青山公路",
+            "en": "Castle Peak Road (Yuen Long)"
         },
         "shop_type": "watsons",
         "area": {
@@ -877,8 +877,8 @@
         "_id": "WATSONS_On_Ning_Road",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 安寧路",
-            "en": "Watsons On Ning Road"
+            "zh": "安寧路",
+            "en": "On Ning Road"
         },
         "shop_type": "watsons",
         "area": {
@@ -915,8 +915,8 @@
         "_id": "WATSONS_Yuen_Long",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 元朗",
-            "en": "Watsons Yuen Long"
+            "zh": "元朗",
+            "en": "Yuen Long"
         },
         "shop_type": "watsons",
         "area": {
@@ -953,8 +953,8 @@
         "_id": "WATSONS_New_Yuen_Long",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 新元朗",
-            "en": "Watsons New Yuen Long"
+            "zh": "新元朗",
+            "en": "New Yuen Long"
         },
         "shop_type": "watsons",
         "area": {
@@ -991,8 +991,8 @@
         "_id": "WATSONS_Sau_Fu_Street",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 壽富街",
-            "en": "Watsons Sau Fu Street"
+            "zh": "壽富街",
+            "en": "Sau Fu Street"
         },
         "shop_type": "watsons",
         "area": {
@@ -1029,8 +1029,8 @@
         "_id": "WATSONS_Yuen_Long_Citimall",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 元朗千色廣場",
-            "en": "Watsons Yuen Long Citimall"
+            "zh": "元朗千色廣場",
+            "en": "Yuen Long Citimall"
         },
         "shop_type": "watsons",
         "area": {
@@ -1067,8 +1067,8 @@
         "_id": "WATSONS_Cheung_Chau",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 長洲",
-            "en": "Watsons Cheung Chau"
+            "zh": "長洲",
+            "en": "Cheung Chau"
         },
         "shop_type": "watsons",
         "area": {
@@ -1105,8 +1105,8 @@
         "_id": "WATSONS_Opulence_Height",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 豐裕軒",
-            "en": "Watsons Opulence Height"
+            "zh": "豐裕軒",
+            "en": "Opulence Height"
         },
         "shop_type": "watsons",
         "area": {
@@ -1143,8 +1143,8 @@
         "_id": "WATSONS_Lido_Avenue",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 麗都花園",
-            "en": "Watsons Lido Avenue"
+            "zh": "麗都花園",
+            "en": "Lido Avenue"
         },
         "shop_type": "watsons",
         "area": {
@@ -1181,8 +1181,8 @@
         "_id": "WATSONS_Lok_Ma_Chau_MTR_Station(Shop_no._2)",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 落馬洲港鐵站(第二分店)",
-            "en": "Watsons Lok Ma Chau MTR Station(Shop no. 2)"
+            "zh": "落馬洲港鐵站(第二分店)",
+            "en": "Lok Ma Chau MTR Station(Shop no. 2)"
         },
         "shop_type": "watsons",
         "area": {
@@ -1219,8 +1219,8 @@
         "_id": "WATSONS_Lok_Ma_Chau_Station",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 港鐵落馬洲站",
-            "en": "Watsons Lok Ma Chau Station"
+            "zh": "港鐵落馬洲站",
+            "en": "Lok Ma Chau Station"
         },
         "shop_type": "watsons",
         "area": {
@@ -1257,8 +1257,8 @@
         "_id": "WATSONS_Lok_Ma_Chau_MTR_Station(Shop_no._1)",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 落馬洲港鐵站(第一分店)",
-            "en": "Watsons Lok Ma Chau MTR Station(Shop no. 1)"
+            "zh": "落馬洲港鐵站(第一分店)",
+            "en": "Lok Ma Chau MTR Station(Shop no. 1)"
         },
         "shop_type": "watsons",
         "area": {
@@ -1295,8 +1295,8 @@
         "_id": "WATSONS_Cheung_Fat_Estate",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 長發村",
-            "en": "Watsons Cheung Fat Estate"
+            "zh": "長發村",
+            "en": "Cheung Fat Estate"
         },
         "shop_type": "watsons",
         "area": {
@@ -1333,8 +1333,8 @@
         "_id": "WATSONS_Tsing_Yi_Station",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 港鐵青衣站",
-            "en": "Watsons Tsing Yi Station"
+            "zh": "港鐵青衣站",
+            "en": "Tsing Yi Station"
         },
         "shop_type": "watsons",
         "area": {
@@ -1371,8 +1371,8 @@
         "_id": "WATSONS_Rambler_Plaza",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 藍澄灣",
-            "en": "Watsons Rambler Plaza"
+            "zh": "藍澄灣",
+            "en": "Rambler Plaza"
         },
         "shop_type": "watsons",
         "area": {
@@ -1409,8 +1409,8 @@
         "_id": "WATSONS_Tsuen_Wan_Plaza",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 荃灣廣場",
-            "en": "Watsons Tsuen Wan Plaza"
+            "zh": "荃灣廣場",
+            "en": "Tsuen Wan Plaza"
         },
         "shop_type": "watsons",
         "area": {
@@ -1447,8 +1447,8 @@
         "_id": "WATSONS_Discovery_Park_Shopping_Centre",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 愉景新城",
-            "en": "Watsons Discovery Park Shopping Centre"
+            "zh": "愉景新城",
+            "en": "Discovery Park Shopping Centre"
         },
         "shop_type": "watsons",
         "area": {
@@ -1485,8 +1485,8 @@
         "_id": "WATSONS_Ciytwalk_Phase_2",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 荃新天地2期",
-            "en": "Watsons Ciytwalk Phase 2"
+            "zh": "荃新天地2期",
+            "en": "Ciytwalk Phase 2"
         },
         "shop_type": "watsons",
         "area": {
@@ -1523,8 +1523,8 @@
         "_id": "WATSONS_Tsuen_Kam_Centre",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 荃錦中心",
-            "en": "Watsons Tsuen Kam Centre"
+            "zh": "荃錦中心",
+            "en": "Tsuen Kam Centre"
         },
         "shop_type": "watsons",
         "area": {
@@ -1561,8 +1561,8 @@
         "_id": "WATSONS_Nan_Fung_Centre",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 南豐中心",
-            "en": "Watsons Nan Fung Centre"
+            "zh": "南豐中心",
+            "en": "Nan Fung Centre"
         },
         "shop_type": "watsons",
         "area": {
@@ -1599,8 +1599,8 @@
         "_id": "WATSONS_Chung_On_Street",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 眾安街",
-            "en": "Watsons Chung On Street"
+            "zh": "眾安街",
+            "en": "Chung On Street"
         },
         "shop_type": "watsons",
         "area": {
@@ -1637,8 +1637,8 @@
         "_id": "WATSONS_Luk_Yeung_Sun_Chuen",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 綠楊新村",
-            "en": "Watsons Luk Yeung Sun Chuen"
+            "zh": "綠楊新村",
+            "en": "Luk Yeung Sun Chuen"
         },
         "shop_type": "watsons",
         "area": {
@@ -1675,8 +1675,8 @@
         "_id": "WATSONS_Smartland",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 創意無限廣場",
-            "en": "Watsons Smartland"
+            "zh": "創意無限廣場",
+            "en": "Smartland"
         },
         "shop_type": "watsons",
         "area": {
@@ -1713,8 +1713,8 @@
         "_id": "WATSONS_Choi_Yuen_Plaza",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 彩園村商場",
-            "en": "Watsons Choi Yuen Plaza"
+            "zh": "彩園村商場",
+            "en": "Choi Yuen Plaza"
         },
         "shop_type": "watsons",
         "area": {
@@ -1751,8 +1751,8 @@
         "_id": "WATSONS_Lai_Fong_Street",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 禮芳街",
-            "en": "Watsons Lai Fong Street"
+            "zh": "禮芳街",
+            "en": "Lai Fong Street"
         },
         "shop_type": "watsons",
         "area": {
@@ -1789,8 +1789,8 @@
         "_id": "WATSONS_Metroplaza",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 新都會廣場",
-            "en": "Watsons Metroplaza"
+            "zh": "新都會廣場",
+            "en": "Metroplaza"
         },
         "shop_type": "watsons",
         "area": {
@@ -1827,8 +1827,8 @@
         "_id": "WATSONS_Sheung_Shui",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 上水",
-            "en": "Watsons Sheung Shui"
+            "zh": "上水",
+            "en": "Sheung Shui"
         },
         "shop_type": "watsons",
         "area": {
@@ -1865,8 +1865,8 @@
         "_id": "WATSONS_Kwai_Shing_Est.",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 葵盛東村",
-            "en": "Watsons Kwai Shing Est."
+            "zh": "葵盛東村",
+            "en": "Kwai Shing Est."
         },
         "shop_type": "watsons",
         "area": {
@@ -1903,8 +1903,8 @@
         "_id": "WATSONS_Landmark_North",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 上水廣場",
-            "en": "Watsons Landmark North"
+            "zh": "上水廣場",
+            "en": "Landmark North"
         },
         "shop_type": "watsons",
         "area": {
@@ -1941,8 +1941,8 @@
         "_id": "WATSONS_No.102-114_Belcher’s_Street",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 卑路乍街102-114號",
-            "en": "Watsons No.102-114 Belcher’s Street"
+            "zh": "卑路乍街102-114號",
+            "en": "No.102-114 Belcher’s Street"
         },
         "shop_type": "watsons",
         "area": {
@@ -1979,8 +1979,8 @@
         "_id": "WATSONS_Sheung_Shui_Station",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 港鐵上水站",
-            "en": "Watsons Sheung Shui Station"
+            "zh": "港鐵上水站",
+            "en": "Sheung Shui Station"
         },
         "shop_type": "watsons",
         "area": {
@@ -2017,8 +2017,8 @@
         "_id": "WATSONS_Belcher’s_Street",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 卑路乍街",
-            "en": "Watsons Belcher’s Street"
+            "zh": "卑路乍街",
+            "en": "Belcher’s Street"
         },
         "shop_type": "watsons",
         "area": {
@@ -2055,8 +2055,8 @@
         "_id": "WATSONS_Spot",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 上水滙",
-            "en": "Watsons Spot"
+            "zh": "上水滙",
+            "en": "Spot"
         },
         "shop_type": "watsons",
         "area": {
@@ -2093,8 +2093,8 @@
         "_id": "WATSONS_San_Hong_Street",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 新康街",
-            "en": "Watsons San Hong Street"
+            "zh": "新康街",
+            "en": "San Hong Street"
         },
         "shop_type": "watsons",
         "area": {
@@ -2131,8 +2131,8 @@
         "_id": "WATSONS_Sheung_Shui_Centre",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 上水中心",
-            "en": "Watsons Sheung Shui Centre"
+            "zh": "上水中心",
+            "en": "Sheung Shui Centre"
         },
         "shop_type": "watsons",
         "area": {
@@ -2169,8 +2169,8 @@
         "_id": "WATSONS_Kwai_Hing_Shopping_Centre",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 葵興商場",
-            "en": "Watsons Kwai Hing Shopping Centre"
+            "zh": "葵興商場",
+            "en": "Kwai Hing Shopping Centre"
         },
         "shop_type": "watsons",
         "area": {
@@ -2207,8 +2207,8 @@
         "_id": "WATSONS_Tin_Ping_Estate",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 天平邨",
-            "en": "Watsons Tin Ping Estate"
+            "zh": "天平邨",
+            "en": "Tin Ping Estate"
         },
         "shop_type": "watsons",
         "area": {
@@ -2245,8 +2245,8 @@
         "_id": "WATSONS_Lei_Muk_Shue",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 梨木樹",
-            "en": "Watsons Lei Muk Shue"
+            "zh": "梨木樹",
+            "en": "Lei Muk Shue"
         },
         "shop_type": "watsons",
         "area": {
@@ -2283,8 +2283,8 @@
         "_id": "WATSONS_Wah_Ming_Centre",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 華明中心",
-            "en": "Watsons Wah Ming Centre"
+            "zh": "華明中心",
+            "en": "Wah Ming Centre"
         },
         "shop_type": "watsons",
         "area": {
@@ -2321,8 +2321,8 @@
         "_id": "WATSONS_Wonderland_Villas",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 華景商場",
-            "en": "Watsons Wonderland Villas"
+            "zh": "華景商場",
+            "en": "Wonderland Villas"
         },
         "shop_type": "watsons",
         "area": {
@@ -2359,8 +2359,8 @@
         "_id": "WATSONS_Shek_Yam",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 石蔭",
-            "en": "Watsons Shek Yam"
+            "zh": "石蔭",
+            "en": "Shek Yam"
         },
         "shop_type": "watsons",
         "area": {
@@ -2397,8 +2397,8 @@
         "_id": "WATSONS_Chi_Fu",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 置富",
-            "en": "Watsons Chi Fu"
+            "zh": "置富",
+            "en": "Chi Fu"
         },
         "shop_type": "watsons",
         "area": {
@@ -2435,8 +2435,8 @@
         "_id": "WATSONS_Mei_Foo",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 美孚",
-            "en": "Watsons Mei Foo"
+            "zh": "美孚",
+            "en": "Mei Foo"
         },
         "shop_type": "watsons",
         "area": {
@@ -2473,8 +2473,8 @@
         "_id": "WATSONS_Fanling_Town_Centre",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 粉嶺名都廣場",
-            "en": "Watsons Fanling Town Centre"
+            "zh": "粉嶺名都廣場",
+            "en": "Fanling Town Centre"
         },
         "shop_type": "watsons",
         "area": {
@@ -2511,8 +2511,8 @@
         "_id": "WATSONS_Shek_Lei_Estate_II",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 石籬2村",
-            "en": "Watsons Shek Lei Estate II"
+            "zh": "石籬2村",
+            "en": "Shek Lei Estate II"
         },
         "shop_type": "watsons",
         "area": {
@@ -2549,8 +2549,8 @@
         "_id": "WATSONS_Mei_Foo_Station",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 港鐵美孚站",
-            "en": "Watsons Mei Foo Station"
+            "zh": "港鐵美孚站",
+            "en": "Mei Foo Station"
         },
         "shop_type": "watsons",
         "area": {
@@ -2587,8 +2587,8 @@
         "_id": "WATSONS_Flora_Plaza",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 花都廣場",
-            "en": "Watsons Flora Plaza"
+            "zh": "花都廣場",
+            "en": "Flora Plaza"
         },
         "shop_type": "watsons",
         "area": {
@@ -2625,8 +2625,8 @@
         "_id": "WATSONS_Centre_Street",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 正街",
-            "en": "Watsons Centre Street"
+            "zh": "正街",
+            "en": "Centre Street"
         },
         "shop_type": "watsons",
         "area": {
@@ -2663,8 +2663,8 @@
         "_id": "WATSONS_Regentville",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 帝庭軒",
-            "en": "Watsons Regentville"
+            "zh": "帝庭軒",
+            "en": "Regentville"
         },
         "shop_type": "watsons",
         "area": {
@@ -2701,8 +2701,8 @@
         "_id": "WATSONS_Dawning_Views_Plaza",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 牽晴間",
-            "en": "Watsons Dawning Views Plaza"
+            "zh": "牽晴間",
+            "en": "Dawning Views Plaza"
         },
         "shop_type": "watsons",
         "area": {
@@ -2739,8 +2739,8 @@
         "_id": "WATSONS_Hoi_Lai_Estate",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 海麗邨",
-            "en": "Watsons Hoi Lai Estate"
+            "zh": "海麗邨",
+            "en": "Hoi Lai Estate"
         },
         "shop_type": "watsons",
         "area": {
@@ -2777,8 +2777,8 @@
         "_id": "WATSONS_South_Horizons",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 海怡半島",
-            "en": "Watsons South Horizons"
+            "zh": "海怡半島",
+            "en": "South Horizons"
         },
         "shop_type": "watsons",
         "area": {
@@ -2815,8 +2815,8 @@
         "_id": "WATSONS_The_Pacifica_Mall",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 宇晴軒",
-            "en": "Watsons The Pacifica Mall"
+            "zh": "宇晴軒",
+            "en": "The Pacifica Mall"
         },
         "shop_type": "watsons",
         "area": {
@@ -2853,8 +2853,8 @@
         "_id": "WATSONS_Caine_Road",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 堅道",
-            "en": "Watsons Caine Road"
+            "zh": "堅道",
+            "en": "Caine Road"
         },
         "shop_type": "watsons",
         "area": {
@@ -2891,8 +2891,8 @@
         "_id": "WATSONS_Shun_Tak_Centre",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 信德中心",
-            "en": "Watsons Shun Tak Centre"
+            "zh": "信德中心",
+            "en": "Shun Tak Centre"
         },
         "shop_type": "watsons",
         "area": {
@@ -2929,8 +2929,8 @@
         "_id": "WATSONS_Aberdeen_Centre",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 香港仔中心",
-            "en": "Watsons Aberdeen Centre"
+            "zh": "香港仔中心",
+            "en": "Aberdeen Centre"
         },
         "shop_type": "watsons",
         "area": {
@@ -2967,8 +2967,8 @@
         "_id": "WATSONS_Un_Chau_Shopping_Centre",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 元洲村",
-            "en": "Watsons Un Chau Shopping Centre"
+            "zh": "元洲村",
+            "en": "Un Chau Shopping Centre"
         },
         "shop_type": "watsons",
         "area": {
@@ -3005,8 +3005,8 @@
         "_id": "WATSONS_Lei_Tung_Estate",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 利東村",
-            "en": "Watsons Lei Tung Estate"
+            "zh": "利東村",
+            "en": "Lei Tung Estate"
         },
         "shop_type": "watsons",
         "area": {
@@ -3043,8 +3043,8 @@
         "_id": "WATSONS_Un_Chau_Street",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 元洲街",
-            "en": "Watsons Un Chau Street"
+            "zh": "元洲街",
+            "en": "Un Chau Street"
         },
         "shop_type": "watsons",
         "area": {
@@ -3081,8 +3081,8 @@
         "_id": "WATSONS_Prosperous_Building",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 裕昌大廈",
-            "en": "Watsons Prosperous Building"
+            "zh": "裕昌大廈",
+            "en": "Prosperous Building"
         },
         "shop_type": "watsons",
         "area": {
@@ -3119,8 +3119,8 @@
         "_id": "WATSONS_Melbourne_Plaza",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 萬邦行",
-            "en": "Watsons Melbourne Plaza"
+            "zh": "萬邦行",
+            "en": "Melbourne Plaza"
         },
         "shop_type": "watsons",
         "area": {
@@ -3157,8 +3157,8 @@
         "_id": "WATSONS_Lai_Kok_Estate",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 麗閣邨",
-            "en": "Watsons Lai Kok Estate"
+            "zh": "麗閣邨",
+            "en": "Lai Kok Estate"
         },
         "shop_type": "watsons",
         "area": {
@@ -3195,8 +3195,8 @@
         "_id": "WATSONS_Fung_House",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 馮氏大廈",
-            "en": "Watsons Fung House"
+            "zh": "馮氏大廈",
+            "en": "Fung House"
         },
         "shop_type": "watsons",
         "area": {
@@ -3233,8 +3233,8 @@
         "_id": "WATSONS_Hong_Kong_Station",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 香港站",
-            "en": "Watsons Hong Kong Station"
+            "zh": "香港站",
+            "en": "Hong Kong Station"
         },
         "shop_type": "watsons",
         "area": {
@@ -3271,8 +3271,8 @@
         "_id": "WATSONS_Castle_Peak_Road",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 青山道",
-            "en": "Watsons Castle Peak Road"
+            "zh": "青山道",
+            "en": "Castle Peak Road"
         },
         "shop_type": "watsons",
         "area": {
@@ -3309,8 +3309,8 @@
         "_id": "WATSONS_Olympian_City_3",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 奧海城3期",
-            "en": "Watsons Olympian City 3"
+            "zh": "奧海城3期",
+            "en": "Olympian City 3"
         },
         "shop_type": "watsons",
         "area": {
@@ -3347,8 +3347,8 @@
         "_id": "WATSONS_Dragon_Centre",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 西九龍中心",
-            "en": "Watsons Dragon Centre"
+            "zh": "西九龍中心",
+            "en": "Dragon Centre"
         },
         "shop_type": "watsons",
         "area": {
@@ -3385,8 +3385,8 @@
         "_id": "WATSONS_Tai_Wo_Estate",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 太和村",
-            "en": "Watsons Tai Wo Estate"
+            "zh": "太和村",
+            "en": "Tai Wo Estate"
         },
         "shop_type": "watsons",
         "area": {
@@ -3423,8 +3423,8 @@
         "_id": "WATSONS_Lai_Chi_Kok",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 荔枝角道",
-            "en": "Watsons Lai Chi Kok"
+            "zh": "荔枝角道",
+            "en": "Lai Chi Kok"
         },
         "shop_type": "watsons",
         "area": {
@@ -3461,8 +3461,8 @@
         "_id": "WATSONS_Tai_Kok_Tsui",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 大角咀",
-            "en": "Watsons Tai Kok Tsui"
+            "zh": "大角咀",
+            "en": "Tai Kok Tsui"
         },
         "shop_type": "watsons",
         "area": {
@@ -3499,8 +3499,8 @@
         "_id": "WATSONS_Kiu_Kiang_Street",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 九江街",
-            "en": "Watsons Kiu Kiang Street"
+            "zh": "九江街",
+            "en": "Kiu Kiang Street"
         },
         "shop_type": "watsons",
         "area": {
@@ -3537,8 +3537,8 @@
         "_id": "WATSONS_Olympian_City",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 奧海城",
-            "en": "Watsons Olympian City"
+            "zh": "奧海城",
+            "en": "Olympian City"
         },
         "shop_type": "watsons",
         "area": {
@@ -3575,8 +3575,8 @@
         "_id": "WATSONS_Sham_Shui_Po",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 深水埗",
-            "en": "Watsons Sham Shui Po"
+            "zh": "深水埗",
+            "en": "Sham Shui Po"
         },
         "shop_type": "watsons",
         "area": {
@@ -3613,8 +3613,8 @@
         "_id": "WATSONS_Pacific_Place",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 太古廣場",
-            "en": "Watsons Pacific Place"
+            "zh": "太古廣場",
+            "en": "Pacific Place"
         },
         "shop_type": "watsons",
         "area": {
@@ -3651,8 +3651,8 @@
         "_id": "WATSONS_Admiralty_Centre",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 金鐘海富中心",
-            "en": "Watsons Admiralty Centre"
+            "zh": "金鐘海富中心",
+            "en": "Admiralty Centre"
         },
         "shop_type": "watsons",
         "area": {
@@ -3689,8 +3689,8 @@
         "_id": "WATSONS_United_Centre",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 統一中心",
-            "en": "Watsons United Centre"
+            "zh": "統一中心",
+            "en": "United Centre"
         },
         "shop_type": "watsons",
         "area": {
@@ -3727,8 +3727,8 @@
         "_id": "WATSONS_Eightland_Garden",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 八號花園",
-            "en": "Watsons Eightland Garden"
+            "zh": "八號花園",
+            "en": "Eightland Garden"
         },
         "shop_type": "watsons",
         "area": {
@@ -3765,8 +3765,8 @@
         "_id": "WATSONS_Po_Heung_Street",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 寶鄉街",
-            "en": "Watsons Po Heung Street"
+            "zh": "寶鄉街",
+            "en": "Po Heung Street"
         },
         "shop_type": "watsons",
         "area": {
@@ -3803,8 +3803,8 @@
         "_id": "WATSONS_Kwong_Fuk_Lane",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 廣褔里",
-            "en": "Watsons Kwong Fuk Lane"
+            "zh": "廣褔里",
+            "en": "Kwong Fuk Lane"
         },
         "shop_type": "watsons",
         "area": {
@@ -3841,8 +3841,8 @@
         "_id": "WATSONS_Prince_Edward_Rd_West",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 太子道西",
-            "en": "Watsons Prince Edward Rd West"
+            "zh": "太子道西",
+            "en": "Prince Edward Rd West"
         },
         "shop_type": "watsons",
         "area": {
@@ -3879,8 +3879,8 @@
         "_id": "WATSONS_Union_Park_Centre",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 柏宜中心",
-            "en": "Watsons Union Park Centre"
+            "zh": "柏宜中心",
+            "en": "Union Park Centre"
         },
         "shop_type": "watsons",
         "area": {
@@ -3917,8 +3917,8 @@
         "_id": "WATSONS_China_Hong_Kong_City",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 中港城",
-            "en": "Watsons China Hong Kong City"
+            "zh": "中港城",
+            "en": "China Hong Kong City"
         },
         "shop_type": "watsons",
         "area": {
@@ -3955,8 +3955,8 @@
         "_id": "WATSONS_Harbour_City_(Health)",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 海港城",
-            "en": "Watsons Harbour City (Health)"
+            "zh": "海港城",
+            "en": "Harbour City (Health)"
         },
         "shop_type": "watsons",
         "area": {
@@ -3993,8 +3993,8 @@
         "_id": "WATSONS_Langham_Place",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 朗豪坊",
-            "en": "Watsons Langham Place"
+            "zh": "朗豪坊",
+            "en": "Langham Place"
         },
         "shop_type": "watsons",
         "area": {
@@ -4031,8 +4031,8 @@
         "_id": "WATSONS_Star_House",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 星光行",
-            "en": "Watsons Star House"
+            "zh": "星光行",
+            "en": "Star House"
         },
         "shop_type": "watsons",
         "area": {
@@ -4069,8 +4069,8 @@
         "_id": "WATSONS_Heung_Yip_Road",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 香葉道",
-            "en": "Watsons Heung Yip Road"
+            "zh": "香葉道",
+            "en": "Heung Yip Road"
         },
         "shop_type": "watsons",
         "area": {
@@ -4107,8 +4107,8 @@
         "_id": "WATSONS_Uptown_Plaza",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 新達廣場",
-            "en": "Watsons Uptown Plaza"
+            "zh": "新達廣場",
+            "en": "Uptown Plaza"
         },
         "shop_type": "watsons",
         "area": {
@@ -4145,8 +4145,8 @@
         "_id": "WATSONS_Mongkok",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 旺角",
-            "en": "Watsons Mongkok"
+            "zh": "旺角",
+            "en": "Mongkok"
         },
         "shop_type": "watsons",
         "area": {
@@ -4183,8 +4183,8 @@
         "_id": "WATSONS_Johnston_Road",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 莊士敦道",
-            "en": "Watsons Johnston Road"
+            "zh": "莊士敦道",
+            "en": "Johnston Road"
         },
         "shop_type": "watsons",
         "area": {
@@ -4221,8 +4221,8 @@
         "_id": "WATSONS_Sai_Yeung_Choi_Street_South",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 西洋菜南街",
-            "en": "Watsons Sai Yeung Choi Street South"
+            "zh": "西洋菜南街",
+            "en": "Sai Yeung Choi Street South"
         },
         "shop_type": "watsons",
         "area": {
@@ -4259,8 +4259,8 @@
         "_id": "WATSONS_Nathan_Road",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 彌敦道",
-            "en": "Watsons Nathan Road"
+            "zh": "彌敦道",
+            "en": "Nathan Road"
         },
         "shop_type": "watsons",
         "area": {
@@ -4297,8 +4297,8 @@
         "_id": "WATSONS_Alhambra_Building",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 平安大廈",
-            "en": "Watsons Alhambra Building"
+            "zh": "平安大廈",
+            "en": "Alhambra Building"
         },
         "shop_type": "watsons",
         "area": {
@@ -4335,8 +4335,8 @@
         "_id": "WATSONS_Hankow_Road",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 漢口道",
-            "en": "Watsons Hankow Road"
+            "zh": "漢口道",
+            "en": "Hankow Road"
         },
         "shop_type": "watsons",
         "area": {
@@ -4373,8 +4373,8 @@
         "_id": "WATSONS_Hopewell_Centre",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 合和中心",
-            "en": "Watsons Hopewell Centre"
+            "zh": "合和中心",
+            "en": "Hopewell Centre"
         },
         "shop_type": "watsons",
         "area": {
@@ -4411,8 +4411,8 @@
         "_id": "WATSONS_Shamrock_Hotel",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 新樂酒店",
-            "en": "Watsons Shamrock Hotel"
+            "zh": "新樂酒店",
+            "en": "Shamrock Hotel"
         },
         "shop_type": "watsons",
         "area": {
@@ -4449,8 +4449,8 @@
         "_id": "WATSONS_Fa_Yuen_Street",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 花園街",
-            "en": "Watsons Fa Yuen Street"
+            "zh": "花園街",
+            "en": "Fa Yuen Street"
         },
         "shop_type": "watsons",
         "area": {
@@ -4487,8 +4487,8 @@
         "_id": "WATSONS_Golden_Era_Plaza",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 金雞廣場",
-            "en": "Watsons Golden Era Plaza"
+            "zh": "金雞廣場",
+            "en": "Golden Era Plaza"
         },
         "shop_type": "watsons",
         "area": {
@@ -4525,8 +4525,8 @@
         "_id": "WATSONS_Tai_Po_Mega_Mall",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 大埔超級城",
-            "en": "Watsons Tai Po Mega Mall"
+            "zh": "大埔超級城",
+            "en": "Tai Po Mega Mall"
         },
         "shop_type": "watsons",
         "area": {
@@ -4563,8 +4563,8 @@
         "_id": "WATSONS_Mong_Kok_East_Station",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 旺角東站",
-            "en": "Watsons Mong Kok East Station"
+            "zh": "旺角東站",
+            "en": "Mong Kok East Station"
         },
         "shop_type": "watsons",
         "area": {
@@ -4601,8 +4601,8 @@
         "_id": "WATSONS_Austin_Road",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 柯士甸道",
-            "en": "Watsons Austin Road"
+            "zh": "柯士甸道",
+            "en": "Austin Road"
         },
         "shop_type": "watsons",
         "area": {
@@ -4639,8 +4639,8 @@
         "_id": "WATSONS_Cameron_Road",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 金馬倫道",
-            "en": "Watsons Cameron Road"
+            "zh": "金馬倫道",
+            "en": "Cameron Road"
         },
         "shop_type": "watsons",
         "area": {
@@ -4677,8 +4677,8 @@
         "_id": "WATSONS_K11",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 K11",
-            "en": "Watsons K11"
+            "zh": "K11",
+            "en": "K11"
         },
         "shop_type": "watsons",
         "area": {
@@ -4715,8 +4715,8 @@
         "_id": "WATSONS_Festival_Walk",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 又一城",
-            "en": "Watsons Festival Walk"
+            "zh": "又一城",
+            "en": "Festival Walk"
         },
         "shop_type": "watsons",
         "area": {
@@ -4753,8 +4753,8 @@
         "_id": "WATSONS_Fu_Shin_Estate",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 富善邨",
-            "en": "Watsons Fu Shin Estate"
+            "zh": "富善邨",
+            "en": "Fu Shin Estate"
         },
         "shop_type": "watsons",
         "area": {
@@ -4791,8 +4791,8 @@
         "_id": "WATSONS_Hennessy_Road",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 軒尼詩道",
-            "en": "Watsons Hennessy Road"
+            "zh": "軒尼詩道",
+            "en": "Hennessy Road"
         },
         "shop_type": "watsons",
         "area": {
@@ -4829,8 +4829,8 @@
         "_id": "WATSONS_Hilton_Tower",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 希爾頓大廈",
-            "en": "Watsons Hilton Tower"
+            "zh": "希爾頓大廈",
+            "en": "Hilton Tower"
         },
         "shop_type": "watsons",
         "area": {
@@ -4867,8 +4867,8 @@
         "_id": "WATSONS_Kwong_Sang_Hong",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 廣生行大廈",
-            "en": "Watsons Kwong Sang Hong"
+            "zh": "廣生行大廈",
+            "en": "Kwong Sang Hong"
         },
         "shop_type": "watsons",
         "area": {
@@ -4905,8 +4905,8 @@
         "_id": "WATSONS_Tai_Wai",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 大圍",
-            "en": "Watsons Tai Wai"
+            "zh": "大圍",
+            "en": "Tai Wai"
         },
         "shop_type": "watsons",
         "area": {
@@ -4943,8 +4943,8 @@
         "_id": "WATSONS_Tai_Wai_KCR_Station",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 大圍港鐵站",
-            "en": "Watsons Tai Wai KCR Station"
+            "zh": "大圍港鐵站",
+            "en": "Tai Wai KCR Station"
         },
         "shop_type": "watsons",
         "area": {
@@ -4981,8 +4981,8 @@
         "_id": "WATSONS_Oi_Man",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 愛民",
-            "en": "Watsons Oi Man"
+            "zh": "愛民",
+            "en": "Oi Man"
         },
         "shop_type": "watsons",
         "area": {
@@ -5019,8 +5019,8 @@
         "_id": "WATSONS_Homantin_Plaza",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 何文田廣場",
-            "en": "Watsons Homantin Plaza"
+            "zh": "何文田廣場",
+            "en": "Homantin Plaza"
         },
         "shop_type": "watsons",
         "area": {
@@ -5057,8 +5057,8 @@
         "_id": "WATSONS_Times_Square_Baby",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 時代廣場(Baby)",
-            "en": "Watsons Times Square Baby"
+            "zh": "時代廣場(Baby)",
+            "en": "Times Square Baby"
         },
         "shop_type": "watsons",
         "area": {
@@ -5095,8 +5095,8 @@
         "_id": "WATSONS_Times_Square",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 時代廣場",
-            "en": "Watsons Times Square"
+            "zh": "時代廣場",
+            "en": "Times Square"
         },
         "shop_type": "watsons",
         "area": {
@@ -5133,8 +5133,8 @@
         "_id": "WATSONS_Causeway_Bay_Plaza_1",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 銅鑼灣廣場1期",
-            "en": "Watsons Causeway Bay Plaza 1"
+            "zh": "銅鑼灣廣場1期",
+            "en": "Causeway Bay Plaza 1"
         },
         "shop_type": "watsons",
         "area": {
@@ -5171,8 +5171,8 @@
         "_id": "WATSONS_Metropolis_Mall",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 國際都會",
-            "en": "Watsons Metropolis Mall"
+            "zh": "國際都會",
+            "en": "Metropolis Mall"
         },
         "shop_type": "watsons",
         "area": {
@@ -5209,8 +5209,8 @@
         "_id": "WATSONS_The_World_Trade_Centre",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 世貿中心",
-            "en": "Watsons The World Trade Centre"
+            "zh": "世貿中心",
+            "en": "The World Trade Centre"
         },
         "shop_type": "watsons",
         "area": {
@@ -5247,8 +5247,8 @@
         "_id": "WATSONS_Happy_Valley",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 跑馬地",
-            "en": "Watsons Happy Valley"
+            "zh": "跑馬地",
+            "en": "Happy Valley"
         },
         "shop_type": "watsons",
         "area": {
@@ -5285,8 +5285,8 @@
         "_id": "WATSONS_Fortune_Centre",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 恩平中心",
-            "en": "Watsons Fortune Centre"
+            "zh": "恩平中心",
+            "en": "Fortune Centre"
         },
         "shop_type": "watsons",
         "area": {
@@ -5323,8 +5323,8 @@
         "_id": "WATSONS_Hunghom_Bay",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 紅磡灣",
-            "en": "Watsons Hunghom Bay"
+            "zh": "紅磡灣",
+            "en": "Hunghom Bay"
         },
         "shop_type": "watsons",
         "area": {
@@ -5361,8 +5361,8 @@
         "_id": "WATSONS_Windsor_House",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 皇室堡",
-            "en": "Watsons Windsor House"
+            "zh": "皇室堡",
+            "en": "Windsor House"
         },
         "shop_type": "watsons",
         "area": {
@@ -5399,8 +5399,8 @@
         "_id": "WATSONS_Lok_Fu_Shopping_Centre",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 樂富中心",
-            "en": "Watsons Lok Fu Shopping Centre"
+            "zh": "樂富中心",
+            "en": "Lok Fu Shopping Centre"
         },
         "shop_type": "watsons",
         "area": {
@@ -5437,8 +5437,8 @@
         "_id": "WATSONS_Lok_Fu",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 樂富",
-            "en": "Watsons Lok Fu"
+            "zh": "樂富",
+            "en": "Lok Fu"
         },
         "shop_type": "watsons",
         "area": {
@@ -5475,8 +5475,8 @@
         "_id": "WATSONS_Citylink_Plaza",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 連城廣場",
-            "en": "Watsons Citylink Plaza"
+            "zh": "連城廣場",
+            "en": "Citylink Plaza"
         },
         "shop_type": "watsons",
         "area": {
@@ -5513,8 +5513,8 @@
         "_id": "WATSONS_Fuk_Lo_Tsun_Road",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 福佬村道",
-            "en": "Watsons Fuk Lo Tsun Road"
+            "zh": "福佬村道",
+            "en": "Fuk Lo Tsun Road"
         },
         "shop_type": "watsons",
         "area": {
@@ -5551,8 +5551,8 @@
         "_id": "WATSONS_Eldex_Building",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 義達工業大廈",
-            "en": "Watsons Eldex Building"
+            "zh": "義達工業大廈",
+            "en": "Eldex Building"
         },
         "shop_type": "watsons",
         "area": {
@@ -5589,8 +5589,8 @@
         "_id": "WATSONS_Tung_Lo_Wan_Road",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 銅鑼灣道",
-            "en": "Watsons Tung Lo Wan Road"
+            "zh": "銅鑼灣道",
+            "en": "Tung Lo Wan Road"
         },
         "shop_type": "watsons",
         "area": {
@@ -5627,8 +5627,8 @@
         "_id": "WATSONS_New_Town_Plaza",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 新城市廣場",
-            "en": "Watsons New Town Plaza"
+            "zh": "新城市廣場",
+            "en": "New Town Plaza"
         },
         "shop_type": "watsons",
         "area": {
@@ -5665,8 +5665,8 @@
         "_id": "WATSONS_Hunghom_Commercial_Centre",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 紅磡商業中心",
-            "en": "Watsons Hunghom Commercial Centre"
+            "zh": "紅磡商業中心",
+            "en": "Hunghom Commercial Centre"
         },
         "shop_type": "watsons",
         "area": {
@@ -5703,8 +5703,8 @@
         "_id": "WATSONS_Kowloon_City_Plaza",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 九龍城廣場",
-            "en": "Watsons Kowloon City Plaza"
+            "zh": "九龍城廣場",
+            "en": "Kowloon City Plaza"
         },
         "shop_type": "watsons",
         "area": {
@@ -5741,8 +5741,8 @@
         "_id": "WATSONS_Shatin_Plaza",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 沙田廣場",
-            "en": "Watsons Shatin Plaza"
+            "zh": "沙田廣場",
+            "en": "Shatin Plaza"
         },
         "shop_type": "watsons",
         "area": {
@@ -5779,8 +5779,8 @@
         "_id": "WATSONS_Whampoa_Garden",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 黃埔花園",
-            "en": "Watsons Whampoa Garden"
+            "zh": "黃埔花園",
+            "en": "Whampoa Garden"
         },
         "shop_type": "watsons",
         "area": {
@@ -5817,8 +5817,8 @@
         "_id": "WATSONS_Jubilant_Place",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 欣榮花園",
-            "en": "Watsons Jubilant Place"
+            "zh": "欣榮花園",
+            "en": "Jubilant Place"
         },
         "shop_type": "watsons",
         "area": {
@@ -5855,8 +5855,8 @@
         "_id": "WATSONS_Nga_Tsin_Wai_Road",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 衙前圍道",
-            "en": "Watsons Nga Tsin Wai Road"
+            "zh": "衙前圍道",
+            "en": "Nga Tsin Wai Road"
         },
         "shop_type": "watsons",
         "area": {
@@ -5893,8 +5893,8 @@
         "_id": "WATSONS_Shatin_Centre",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 沙田中心",
-            "en": "Watsons Shatin Centre"
+            "zh": "沙田中心",
+            "en": "Shatin Centre"
         },
         "shop_type": "watsons",
         "area": {
@@ -5931,8 +5931,8 @@
         "_id": "WATSONS_Tokwawan",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 土瓜灣",
-            "en": "Watsons Tokwawan"
+            "zh": "土瓜灣",
+            "en": "Tokwawan"
         },
         "shop_type": "watsons",
         "area": {
@@ -5969,8 +5969,8 @@
         "_id": "WATSONS_Lucky_Plaza",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 好運中心",
-            "en": "Watsons Lucky Plaza"
+            "zh": "好運中心",
+            "en": "Lucky Plaza"
         },
         "shop_type": "watsons",
         "area": {
@@ -6007,8 +6007,8 @@
         "_id": "WATSONS_Lung_Cheung_Mall",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 龍翔中心",
-            "en": "Watsons Lung Cheung Mall"
+            "zh": "龍翔中心",
+            "en": "Lung Cheung Mall"
         },
         "shop_type": "watsons",
         "area": {
@@ -6045,8 +6045,8 @@
         "_id": "WATSONS_Tin_Hau",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 天后",
-            "en": "Watsons Tin Hau"
+            "zh": "天后",
+            "en": "Tin Hau"
         },
         "shop_type": "watsons",
         "area": {
@@ -6083,8 +6083,8 @@
         "_id": "WATSONS_Chuk_Yuen",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 竹園",
-            "en": "Watsons Chuk Yuen"
+            "zh": "竹園",
+            "en": "Chuk Yuen"
         },
         "shop_type": "watsons",
         "area": {
@@ -6121,8 +6121,8 @@
         "_id": "WATSONS_Wong_Tai_Sin_Shopping_Centre",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 黃大仙中心",
-            "en": "Watsons Wong Tai Sin Shopping Centre"
+            "zh": "黃大仙中心",
+            "en": "Wong Tai Sin Shopping Centre"
         },
         "shop_type": "watsons",
         "area": {
@@ -6159,8 +6159,8 @@
         "_id": "WATSONS_Nam_Tin_Building",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 南天大厦",
-            "en": "Watsons Nam Tin Building"
+            "zh": "南天大厦",
+            "en": "Nam Tin Building"
         },
         "shop_type": "watsons",
         "area": {
@@ -6197,8 +6197,8 @@
         "_id": "WATSONS_Provident_Centre",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 和富中心",
-            "en": "Watsons Provident Centre"
+            "zh": "和富中心",
+            "en": "Provident Centre"
         },
         "shop_type": "watsons",
         "area": {
@@ -6235,8 +6235,8 @@
         "_id": "WATSONS_Garden_Rivera",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 河畔花園",
-            "en": "Watsons Garden Rivera"
+            "zh": "河畔花園",
+            "en": "Garden Rivera"
         },
         "shop_type": "watsons",
         "area": {
@@ -6273,8 +6273,8 @@
         "_id": "WATSONS_Wo_Che_Estate",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 禾輋村",
-            "en": "Watsons Wo Che Estate"
+            "zh": "禾輋村",
+            "en": "Wo Che Estate"
         },
         "shop_type": "watsons",
         "area": {
@@ -6311,8 +6311,8 @@
         "_id": "WATSONS_Mikiki",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 譽港灣",
-            "en": "Watsons Mikiki"
+            "zh": "譽港灣",
+            "en": "Mikiki"
         },
         "shop_type": "watsons",
         "area": {
@@ -6349,8 +6349,8 @@
         "_id": "WATSONS_San_Po_Kong",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 爵祿街",
-            "en": "Watsons San Po Kong"
+            "zh": "爵祿街",
+            "en": "San Po Kong"
         },
         "shop_type": "watsons",
         "area": {
@@ -6387,8 +6387,8 @@
         "_id": "WATSONS_Sheung_Fung_Street",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 雙鳳街",
-            "en": "Watsons Sheung Fung Street"
+            "zh": "雙鳳街",
+            "en": "Sheung Fung Street"
         },
         "shop_type": "watsons",
         "area": {
@@ -6425,8 +6425,8 @@
         "_id": "WATSONS_375_King’s_Road",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 英皇道375號",
-            "en": "Watsons 375 King’s Road"
+            "zh": "英皇道375號",
+            "en": "375 King’s Road"
         },
         "shop_type": "watsons",
         "area": {
@@ -6463,8 +6463,8 @@
         "_id": "WATSONS_Palazzo",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 御龍山",
-            "en": "Watsons Palazzo"
+            "zh": "御龍山",
+            "en": "Palazzo"
         },
         "shop_type": "watsons",
         "area": {
@@ -6501,8 +6501,8 @@
         "_id": "WATSONS_Java_Road",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 渣華道",
-            "en": "Watsons Java Road"
+            "zh": "渣華道",
+            "en": "Java Road"
         },
         "shop_type": "watsons",
         "area": {
@@ -6539,8 +6539,8 @@
         "_id": "WATSONS_Tsz_Wan_Shan",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 慈雲山",
-            "en": "Watsons Tsz Wan Shan"
+            "zh": "慈雲山",
+            "en": "Tsz Wan Shan"
         },
         "shop_type": "watsons",
         "area": {
@@ -6577,8 +6577,8 @@
         "_id": "WATSONS_Diamond_Hill",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 鑽石山",
-            "en": "Watsons Diamond Hill"
+            "zh": "鑽石山",
+            "en": "Diamond Hill"
         },
         "shop_type": "watsons",
         "area": {
@@ -6615,8 +6615,8 @@
         "_id": "WATSONS_Island_Place",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 港運城",
-            "en": "Watsons Island Place"
+            "zh": "港運城",
+            "en": "Island Place"
         },
         "shop_type": "watsons",
         "area": {
@@ -6653,8 +6653,8 @@
         "_id": "WATSONS_Ching_Long_Shopping_Centre",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 晴朗商場",
-            "en": "Watsons Ching Long Shopping Centre"
+            "zh": "晴朗商場",
+            "en": "Ching Long Shopping Centre"
         },
         "shop_type": "watsons",
         "area": {
@@ -6691,8 +6691,8 @@
         "_id": "WATSONS_Fortune_City_One_Plus",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 置富第一城∙樂薈",
-            "en": "Watsons Fortune City One Plus"
+            "zh": "置富第一城∙樂薈",
+            "en": "Fortune City One Plus"
         },
         "shop_type": "watsons",
         "area": {
@@ -6729,8 +6729,8 @@
         "_id": "WATSONS_Ping_Shek_Estate",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 坪石邨",
-            "en": "Watsons Ping Shek Estate"
+            "zh": "坪石邨",
+            "en": "Ping Shek Estate"
         },
         "shop_type": "watsons",
         "area": {
@@ -6767,8 +6767,8 @@
         "_id": "WATSONS_Infinity_Eight",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 匯八坊",
-            "en": "Watsons Infinity Eight"
+            "zh": "匯八坊",
+            "en": "Infinity Eight"
         },
         "shop_type": "watsons",
         "area": {
@@ -6805,8 +6805,8 @@
         "_id": "WATSONS_Quarry_Bay",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 鰂魚涌",
-            "en": "Watsons Quarry Bay"
+            "zh": "鰂魚涌",
+            "en": "Quarry Bay"
         },
         "shop_type": "watsons",
         "area": {
@@ -6843,8 +6843,8 @@
         "_id": "WATSONS_Stanley",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 赤柱",
-            "en": "Watsons Stanley"
+            "zh": "赤柱",
+            "en": "Stanley"
         },
         "shop_type": "watsons",
         "area": {
@@ -6881,8 +6881,8 @@
         "_id": "WATSONS_Choi_Tak_Shopping_Centre",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 彩德商場",
-            "en": "Watsons Choi Tak Shopping Centre"
+            "zh": "彩德商場",
+            "en": "Choi Tak Shopping Centre"
         },
         "shop_type": "watsons",
         "area": {
@@ -6919,8 +6919,8 @@
         "_id": "WATSONS_Telford_Plaza",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 德福廣場",
-            "en": "Watsons Telford Plaza"
+            "zh": "德福廣場",
+            "en": "Telford Plaza"
         },
         "shop_type": "watsons",
         "area": {
@@ -6957,8 +6957,8 @@
         "_id": "WATSONS_Choi_Wan_Shopping_Centre",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 彩雲商場",
-            "en": "Watsons Choi Wan Shopping Centre"
+            "zh": "彩雲商場",
+            "en": "Choi Wan Shopping Centre"
         },
         "shop_type": "watsons",
         "area": {
@@ -6995,8 +6995,8 @@
         "_id": "WATSONS_Amoy_Plaza",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 淘大商場",
-            "en": "Watsons Amoy Plaza"
+            "zh": "淘大商場",
+            "en": "Amoy Plaza"
         },
         "shop_type": "watsons",
         "area": {
@@ -7033,8 +7033,8 @@
         "_id": "WATSONS_Kornhill_Plaza",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 康怡廣場",
-            "en": "Watsons Kornhill Plaza"
+            "zh": "康怡廣場",
+            "en": "Kornhill Plaza"
         },
         "shop_type": "watsons",
         "area": {
@@ -7071,8 +7071,8 @@
         "_id": "WATSONS_Cityplaza",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 太古城",
-            "en": "Watsons Cityplaza"
+            "zh": "太古城",
+            "en": "Cityplaza"
         },
         "shop_type": "watsons",
         "area": {
@@ -7109,8 +7109,8 @@
         "_id": "WATSONS_Lok_Wah",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 樂華",
-            "en": "Watsons Lok Wah"
+            "zh": "樂華",
+            "en": "Lok Wah"
         },
         "shop_type": "watsons",
         "area": {
@@ -7147,8 +7147,8 @@
         "_id": "WATSONS_Lai_Wan_Building",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 麗灣大厦",
-            "en": "Watsons Lai Wan Building"
+            "zh": "麗灣大厦",
+            "en": "Lai Wan Building"
         },
         "shop_type": "watsons",
         "area": {
@@ -7185,8 +7185,8 @@
         "_id": "WATSONS_Ngau_Tau_Kok_Road",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 牛頭角道",
-            "en": "Watsons Ngau Tau Kok Road"
+            "zh": "牛頭角道",
+            "en": "Ngau Tau Kok Road"
         },
         "shop_type": "watsons",
         "area": {
@@ -7223,8 +7223,8 @@
         "_id": "WATSONS_Sha_Tau_Kok_Chuen",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 沙頭角邨",
-            "en": "Watsons Sha Tau Kok Chuen"
+            "zh": "沙頭角邨",
+            "en": "Sha Tau Kok Chuen"
         },
         "shop_type": "watsons",
         "area": {
@@ -7261,8 +7261,8 @@
         "_id": "WATSONS_Crocodile_Centre",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 鱷魚恤中心",
-            "en": "Watsons Crocodile Centre"
+            "zh": "鱷魚恤中心",
+            "en": "Crocodile Centre"
         },
         "shop_type": "watsons",
         "area": {
@@ -7299,8 +7299,8 @@
         "_id": "WATSONS_Chung_On",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 頌安",
-            "en": "Watsons Chung On"
+            "zh": "頌安",
+            "en": "Chung On"
         },
         "shop_type": "watsons",
         "area": {
@@ -7337,8 +7337,8 @@
         "_id": "WATSONS_Laguna_City",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 麗港城",
-            "en": "Watsons Laguna City"
+            "zh": "麗港城",
+            "en": "Laguna City"
         },
         "shop_type": "watsons",
         "area": {
@@ -7375,8 +7375,8 @@
         "_id": "WATSONS_Shau_Kei_Wan",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 筲箕灣",
-            "en": "Watsons Shau Kei Wan"
+            "zh": "筲箕灣",
+            "en": "Shau Kei Wan"
         },
         "shop_type": "watsons",
         "area": {
@@ -7413,8 +7413,8 @@
         "_id": "WATSONS_Ma_On_Shan",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 馬鞍山",
-            "en": "Watsons Ma On Shan"
+            "zh": "馬鞍山",
+            "en": "Ma On Shan"
         },
         "shop_type": "watsons",
         "area": {
@@ -7451,8 +7451,8 @@
         "_id": "WATSONS_Sunshine_City",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 新港城中心",
-            "en": "Watsons Sunshine City"
+            "zh": "新港城中心",
+            "en": "Sunshine City"
         },
         "shop_type": "watsons",
         "area": {
@@ -7489,8 +7489,8 @@
         "_id": "WATSONS_Sau_Mau_Ping_Shopping_Centre",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 秀茂坪商場",
-            "en": "Watsons Sau Mau Ping Shopping Centre"
+            "zh": "秀茂坪商場",
+            "en": "Sau Mau Ping Shopping Centre"
         },
         "shop_type": "watsons",
         "area": {
@@ -7527,8 +7527,8 @@
         "_id": "WATSONS_Sceneway_Plaza",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 匯景廣場",
-            "en": "Watsons Sceneway Plaza"
+            "zh": "匯景廣場",
+            "en": "Sceneway Plaza"
         },
         "shop_type": "watsons",
         "area": {
@@ -7565,8 +7565,8 @@
         "_id": "WATSONS_Kai_Tin",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 啟田",
-            "en": "Watsons Kai Tin"
+            "zh": "啟田",
+            "en": "Kai Tin"
         },
         "shop_type": "watsons",
         "area": {
@@ -7603,8 +7603,8 @@
         "_id": "WATSONS_Hing_Wah_Shopping_Centre",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 興華村",
-            "en": "Watsons Hing Wah Shopping Centre"
+            "zh": "興華村",
+            "en": "Hing Wah Shopping Centre"
         },
         "shop_type": "watsons",
         "area": {
@@ -7641,8 +7641,8 @@
         "_id": "WATSONS_New_Jade_Shopping_Arcade",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 新翠商場",
-            "en": "Watsons New Jade Shopping Arcade"
+            "zh": "新翠商場",
+            "en": "New Jade Shopping Arcade"
         },
         "shop_type": "watsons",
         "area": {
@@ -7679,8 +7679,8 @@
         "_id": "WATSONS_Tak_Tin_Shopping_Centre",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 德田商場",
-            "en": "Watsons Tak Tin Shopping Centre"
+            "zh": "德田商場",
+            "en": "Tak Tin Shopping Centre"
         },
         "shop_type": "watsons",
         "area": {
@@ -7717,8 +7717,8 @@
         "_id": "WATSONS_Domain",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 大本型",
-            "en": "Watsons Domain"
+            "zh": "大本型",
+            "en": "Domain"
         },
         "shop_type": "watsons",
         "area": {
@@ -7755,8 +7755,8 @@
         "_id": "WATSONS_Lei_Yue_Mun",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 鯉魚門",
-            "en": "Watsons Lei Yue Mun"
+            "zh": "鯉魚門",
+            "en": "Lei Yue Mun"
         },
         "shop_type": "watsons",
         "area": {
@@ -7793,8 +7793,8 @@
         "_id": "WATSONS_Double_Cove_Place",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 迎海薈",
-            "en": "Watsons Double Cove Place"
+            "zh": "迎海薈",
+            "en": "Double Cove Place"
         },
         "shop_type": "watsons",
         "area": {
@@ -7831,8 +7831,8 @@
         "_id": "WATSONS_Siu_Sai_Wan_Shopping_Centre",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 小西灣商場",
-            "en": "Watsons Siu Sai Wan Shopping Centre"
+            "zh": "小西灣商場",
+            "en": "Siu Sai Wan Shopping Centre"
         },
         "shop_type": "watsons",
         "area": {
@@ -7869,8 +7869,8 @@
         "_id": "WATSONS_Metro_Town",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 都會馬尺",
-            "en": "Watsons Metro Town"
+            "zh": "都會馬尺",
+            "en": "Metro Town"
         },
         "shop_type": "watsons",
         "area": {
@@ -7907,8 +7907,8 @@
         "_id": "WATSONS_Metro_City_Phase_II",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 新都城中心二期",
-            "en": "Watsons Metro City Phase II"
+            "zh": "新都城中心二期",
+            "en": "Metro City Phase II"
         },
         "shop_type": "watsons",
         "area": {
@@ -7945,8 +7945,8 @@
         "_id": "WATSONS_Sheung_Tak",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 尚德",
-            "en": "Watsons Sheung Tak"
+            "zh": "尚德",
+            "en": "Sheung Tak"
         },
         "shop_type": "watsons",
         "area": {
@@ -7983,8 +7983,8 @@
         "_id": "WATSONS_Tseung_Kwan_O_Plaza",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 將軍澳廣場",
-            "en": "Watsons Tseung Kwan O Plaza"
+            "zh": "將軍澳廣場",
+            "en": "Tseung Kwan O Plaza"
         },
         "shop_type": "watsons",
         "area": {
@@ -8021,8 +8021,8 @@
         "_id": "WATSONS_East_Point_City",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 東港城2",
-            "en": "Watsons East Point City"
+            "zh": "東港城2",
+            "en": "East Point City"
         },
         "shop_type": "watsons",
         "area": {
@@ -8059,8 +8059,8 @@
         "_id": "WATSONS_Hau_Tak",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 厚德",
-            "en": "Watsons Hau Tak"
+            "zh": "厚德",
+            "en": "Hau Tak"
         },
         "shop_type": "watsons",
         "area": {
@@ -8097,8 +8097,8 @@
         "_id": "WATSONS_Sai_Kung",
         "atm_type": "eps",
         "name": {
-            "zh": "屈臣氏 西貢",
-            "en": "Watsons Sai Kung"
+            "zh": "西貢",
+            "en": "Sai Kung"
         },
         "shop_type": "watsons",
         "area": {

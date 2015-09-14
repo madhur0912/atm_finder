@@ -105,8 +105,8 @@ function Branch(branch) {
 	this.atm_type = 'hsbcgroup';
 	this.shop_type = 'hsbc';
 	this.name = {
-		zh: '匯豐銀行 ' + branch.name,
-		en: 'HSBC ' + branch.en.name
+		zh: branch.name,
+		en: branch.en.name
 	};
 	this.area = {
 		zh: branch.address.prov,

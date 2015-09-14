@@ -21,8 +21,8 @@ function Branch(branch) {
 	this.atm_type = 'eps';
 	this.shop_type = 'circlek';
 	this.name = {
-		zh: 'OK便利店',
-		en: 'CircleK'
+		zh: '',
+		en: ''
 	};
 	this.area = {
 		zh: branch.zh.zone,

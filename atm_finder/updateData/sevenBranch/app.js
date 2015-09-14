@@ -15,8 +15,8 @@ function Branch(branch) {
 	this._id = 'SEVEN_' + branch.id;
 	this.atm_type = 'eps';
 	this.name = {
-		zh: '7-11便利店',
-		en: '7-Eleven'
+		zh: '',
+		en: ''
 	};
 	this.shop_type = 'seven';
 	this.area = {
