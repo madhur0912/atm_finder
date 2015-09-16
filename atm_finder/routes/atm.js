@@ -23,26 +23,7 @@ var filter_language = function(language, obj) {
 	return result;
 };
 
-var distanceFromPoint = function(lat1, lon1, lat2, lon2, unit) {
-	var radlat1 = Math.PI * lat1 / 180
-	var radlat2 = Math.PI * lat2 / 180
-	var radlon1 = Math.PI * lon1 / 180
-	var radlon2 = Math.PI * lon2 / 180
-	var theta = lon1 - lon2
-	var radtheta = Math.PI * theta / 180
-	var dist = Math.sin(radlat1) * Math.sin(radlat2) + Math.cos(radlat1) * Math.cos(radlat2) * Math.cos(radtheta);
-	dist = Math.acos(dist)
-	dist = dist * 180 / Math.PI
-	dist = dist * 60 * 1.1515
-	if (unit == "K") {
-		dist = dist * 1.609344
-	}
-	if (unit == "N") {
-		dist = dist * 0.8684
-	}
-	return dist
-}
-
+// Helper function for query atm
 var atmQuery = function(code, center, atm_type, shop_type, callback) {
 
 	var find = {
@@ -77,7 +58,7 @@ var atmQuery = function(code, center, atm_type, shop_type, callback) {
 		.then(function(data) {
 			callback(null, filter_language(code, data));
 		});
-}
+};
 
 /* GET all atm. */
 router.get('/all/:code', function(req, res) {
@@ -101,6 +82,7 @@ router.get('/all/:code', function(req, res) {
 	}
 });
 
+/* GET the atm_type and shop_type list */
 router.get('/shop_type', function(req, res) {
 	var group = {
 		key: {
@@ -121,12 +103,38 @@ router.get('/shop_type', function(req, res) {
 
 		results.sort(function(a, b) {
 			return (b.atm_type.localeCompare(a.atm_type));
-		})
+		});
 
 		res.send({
 			shop_type: results
 		});
 	});
+});
+
+/* GET all atm inside area. */
+router.get('/detail/:code/:_id', function(req, res) {
+
+	var code = req.params.code;
+	if (availableLanguages.indexOf(code) === -1) {
+		var err = new Error('Language Code should be either "zh" or "en"');
+		err.status = 400;
+		res.send(err);
+	} else {
+		var _id = req.params._id;
+
+		Atm
+			.find({
+				_id: _id
+			})
+			.then(function(data) {
+
+				console.log(data);
+
+				res.send({
+					atm: filter_language(code, data)
+				});
+			});
+	}
 });
 
 /* GET all atm inside area. */
@@ -145,7 +153,7 @@ router.get('/near/:code/center/:center', function(req, res) {
 			res.send({
 				atm: atms
 			});
-		})
+		});
 	}
 });
 
@@ -167,7 +175,7 @@ router.get('/near/:code/center/:center/atm_type/:atm_type', function(req, res) {
 			res.send({
 				atm: atms
 			});
-		})
+		});
 	}
 });
 
@@ -189,7 +197,7 @@ router.get('/near/:code/center/:center/shop_type/:shop_type', function(req, res)
 			res.send({
 				atm: atms
 			});
-		})
+		});
 	}
 });
 

@@ -1292,6 +1292,44 @@
         "tel": null
     },
     {
+        "_id": "WATSONS_Belvedere_Square",
+        "atm_type": "eps",
+        "name": {
+            "zh": "麗城薈",
+            "en": "Belvedere Square"
+        },
+        "shop_type": "watsons",
+        "area": {
+            "zh": "新界",
+            "en": "New Territories"
+        },
+        "district": {
+            "zh": "荃灣",
+            "en": "Tsuen Wan"
+        },
+        "address": {
+            "zh": "新界荃灣青山路625號麗城花園三期麗城薈地下52-53號舖",
+            "en": "Shop Nos. 52-53, G/F Belvedere Square, 625 Castle Peak Rd, Tsuen Wan, N.T"
+        },
+        "service": null,
+        "detail": null,
+        "atm24": false,
+        "loc": [
+            114.101801,
+            22.371949
+        ],
+        "workHrs": {
+            "monday": "-",
+            "tuesday": "-",
+            "wednesday": "-",
+            "thursday": "-",
+            "friday": "-",
+            "saturday": "-",
+            "sunday": "-"
+        },
+        "tel": null
+    },
+    {
         "_id": "WATSONS_Cheung_Fat_Estate",
         "atm_type": "eps",
         "name": {
@@ -1364,6 +1402,44 @@
             "friday": "09:30 - 22:00",
             "saturday": "09:30 - 22:00",
             "sunday": "09:30 - 22:00"
+        },
+        "tel": null
+    },
+    {
+        "_id": "WATSONS_Maritime_Square",
+        "atm_type": "eps",
+        "name": {
+            "zh": "青衣城",
+            "en": "Maritime Square"
+        },
+        "shop_type": "watsons",
+        "area": {
+            "zh": "新界",
+            "en": "New Territories"
+        },
+        "district": {
+            "zh": "青衣",
+            "en": "Tsing Yi"
+        },
+        "address": {
+            "zh": "新界青衣青敬路33號青衣城3樓311-312號舖",
+            "en": "Shop Unit 311-312, Level 3, Maritime Square, 33 Tsing King Road, Tsing Yi Island, N.T."
+        },
+        "service": null,
+        "detail": null,
+        "atm24": false,
+        "loc": [
+            114.107945,
+            22.358724
+        ],
+        "workHrs": {
+            "monday": "-",
+            "tuesday": "-",
+            "wednesday": "-",
+            "thursday": "-",
+            "friday": "-",
+            "saturday": "-",
+            "sunday": "-"
         },
         "tel": null
     },
@@ -3333,13 +3409,13 @@
             22.321902
         ],
         "workHrs": {
-            "monday": "10:00 - 22:00",
-            "tuesday": "10:00 - 22:00",
-            "wednesday": "10:00 - 22:00",
-            "thursday": "10:00 - 22:00",
-            "friday": "10:00 - 22:00",
-            "saturday": "10:00 - 22:00",
-            "sunday": "10:00 - 22:00"
+            "monday": "11:00 - 21:30",
+            "tuesday": "11:00 - 21:30",
+            "wednesday": "11:00 - 21:30",
+            "thursday": "11:00 - 21:30",
+            "friday": "11:00 - 21:30",
+            "saturday": "11:00 - 21:30",
+            "sunday": "11:00 - 21:30"
         },
         "tel": null
     },
@@ -4256,44 +4332,6 @@
         "tel": null
     },
     {
-        "_id": "WATSONS_Nathan_Road",
-        "atm_type": "eps",
-        "name": {
-            "zh": "彌敦道",
-            "en": "Nathan Road"
-        },
-        "shop_type": "watsons",
-        "area": {
-            "zh": "九龍",
-            "en": "Kowloon"
-        },
-        "district": {
-            "zh": "油麻地",
-            "en": "Yau Ma Tei"
-        },
-        "address": {
-            "zh": "九龍彌敦道522號金龍商業大厦地下",
-            "en": "Shop on G/F, Golden Dragon Commercial Building, No.522 Nathan Road, Kowloon"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": false,
-        "loc": [
-            114.171016,
-            22.312538
-        ],
-        "workHrs": {
-            "monday": "10:00 - 22:30",
-            "tuesday": "10:00 - 22:30",
-            "wednesday": "10:00 - 22:30",
-            "thursday": "10:00 - 22:30",
-            "friday": "10:00 - 22:30",
-            "saturday": "10:00 - 22:30",
-            "sunday": "10:00 - 22:30"
-        },
-        "tel": null
-    },
-    {
         "_id": "WATSONS_Alhambra_Building",
         "atm_type": "eps",
         "name": {
@@ -4328,6 +4366,44 @@
             "friday": "10:30 - 22:30",
             "saturday": "10:30 - 22:30",
             "sunday": "10:30 - 22:30"
+        },
+        "tel": null
+    },
+    {
+        "_id": "WATSONS_Nathan_Road",
+        "atm_type": "eps",
+        "name": {
+            "zh": "彌敦道",
+            "en": "Nathan Road"
+        },
+        "shop_type": "watsons",
+        "area": {
+            "zh": "九龍",
+            "en": "Kowloon"
+        },
+        "district": {
+            "zh": "油麻地",
+            "en": "Yau Ma Tei"
+        },
+        "address": {
+            "zh": "九龍彌敦道522號金龍商業大厦地下",
+            "en": "Shop on G/F, Golden Dragon Commercial Building, No.522 Nathan Road, Kowloon"
+        },
+        "service": null,
+        "detail": null,
+        "atm24": false,
+        "loc": [
+            114.171016,
+            22.312538
+        ],
+        "workHrs": {
+            "monday": "10:00 - 22:30",
+            "tuesday": "10:00 - 22:30",
+            "wednesday": "10:00 - 22:30",
+            "thursday": "10:00 - 22:30",
+            "friday": "10:00 - 22:30",
+            "saturday": "10:00 - 22:30",
+            "sunday": "10:00 - 22:30"
         },
         "tel": null
     },
@@ -5043,13 +5119,13 @@
             22.31658
         ],
         "workHrs": {
-            "monday": "10:00 - 21:00",
-            "tuesday": "10:00 - 21:00",
-            "wednesday": "10:00 - 21:00",
-            "thursday": "10:00 - 21:00",
-            "friday": "10:00 - 21:00",
-            "saturday": "10:00 - 21:00",
-            "sunday": "10:00 - 21:00"
+            "monday": "23:30 - 20:30",
+            "tuesday": "23:30 - 20:30",
+            "wednesday": "23:30 - 20:30",
+            "thursday": "23:30 - 20:30",
+            "friday": "23:30 - 20:30",
+            "saturday": "23:30 - 20:30",
+            "sunday": "23:30 - 20:30"
         },
         "tel": null
     },
@@ -5423,13 +5499,13 @@
             22.338545
         ],
         "workHrs": {
-            "monday": "10:00 - 22:00",
-            "tuesday": "10:00 - 22:00",
-            "wednesday": "10:00 - 22:00",
-            "thursday": "10:00 - 22:00",
-            "friday": "10:00 - 22:00",
-            "saturday": "10:00 - 22:00",
-            "sunday": "10:00 - 22:00"
+            "monday": "10:30 - 21:30",
+            "tuesday": "10:30 - 21:30",
+            "wednesday": "10:30 - 21:30",
+            "thursday": "10:30 - 21:30",
+            "friday": "10:30 - 21:30",
+            "saturday": "10:00 - 21:30",
+            "sunday": "10:00 - 21:30"
         },
         "tel": null
     },
@@ -5537,13 +5613,13 @@
             22.327904
         ],
         "workHrs": {
-            "monday": "09:30 - 21:30",
-            "tuesday": "09:30 - 21:30",
-            "wednesday": "09:30 - 21:30",
-            "thursday": "09:30 - 21:30",
-            "friday": "09:30 - 21:30",
-            "saturday": "09:30 - 21:30",
-            "sunday": "09:30 - 21:30"
+            "monday": "10:00 - 9Dailyail",
+            "tuesday": "10:00 - 9Dailyail",
+            "wednesday": "10:00 - 9Dailyail",
+            "thursday": "10:00 - 9Dailyail",
+            "friday": "10:00 - 9Dailyail",
+            "saturday": "10:00 - 9Dailyail",
+            "sunday": "10:00 - 9Dailyail"
         },
         "tel": null
     },
@@ -5689,13 +5765,13 @@
             22.310321
         ],
         "workHrs": {
-            "monday": "10:30 - 21:00",
-            "tuesday": "10:30 - 21:00",
-            "wednesday": "10:30 - 21:00",
-            "thursday": "10:30 - 21:00",
-            "friday": "10:30 - 21:00",
-            "saturday": "10:30 - 21:00",
-            "sunday": "10:30 - 21:00"
+            "monday": "11:00 - 21:00",
+            "tuesday": "11:00 - 21:00",
+            "wednesday": "11:00 - 21:00",
+            "thursday": "11:00 - 21:00",
+            "friday": "11:00 - 21:00",
+            "saturday": "11:00 - 21:00",
+            "sunday": "11:00 - 21:00"
         },
         "tel": null
     },
@@ -5884,8 +5960,8 @@
             "wednesday": "10:00 - 21:00",
             "thursday": "10:00 - 21:00",
             "friday": "10:00 - 21:00",
-            "saturday": "10:00 - 21:00",
-            "sunday": "10:00 - 21:00"
+            "saturday": "11:00 - 21:00",
+            "sunday": "11:00 - 21:00"
         },
         "tel": null
     },
@@ -6107,13 +6183,13 @@
             22.344938
         ],
         "workHrs": {
-            "monday": "09:30 - 21:00",
-            "tuesday": "09:30 - 21:00",
-            "wednesday": "09:30 - 21:00",
-            "thursday": "09:30 - 21:00",
-            "friday": "09:30 - 21:00",
-            "saturday": "09:30 - 21:00",
-            "sunday": "09:30 - 21:00"
+            "monday": "10:00 - 21:00",
+            "tuesday": "10:00 - 21:00",
+            "wednesday": "10:00 - 21:00",
+            "thursday": "10:00 - 21:00",
+            "friday": "10:00 - 21:00",
+            "saturday": "10:00 - 21:00",
+            "sunday": "10:00 - 21:00"
         },
         "tel": null
     },
@@ -6145,13 +6221,13 @@
             22.341443
         ],
         "workHrs": {
-            "monday": "10:30 - 22:00",
-            "tuesday": "10:30 - 22:00",
-            "wednesday": "10:30 - 22:00",
-            "thursday": "10:30 - 22:00",
-            "friday": "10:30 - 22:00",
-            "saturday": "10:30 - 22:00",
-            "sunday": "10:30 - 22:00"
+            "monday": "11:00 - 22:00",
+            "tuesday": "11:00 - 22:00",
+            "wednesday": "11:00 - 22:00",
+            "thursday": "11:00 - 22:00",
+            "friday": "11:00 - 22:00",
+            "saturday": "11:00 - 22:00",
+            "sunday": "11:00 - 22:00"
         },
         "tel": null
     },
@@ -6335,13 +6411,13 @@
             22.332352
         ],
         "workHrs": {
-            "monday": "12:30 - 20:30",
-            "tuesday": "12:30 - 20:30",
-            "wednesday": "12:30 - 20:30",
-            "thursday": "12:30 - 20:30",
-            "friday": "12:30 - 20:30",
-            "saturday": "12:30 - 20:30",
-            "sunday": "12:30 - 20:30"
+            "monday": "12:00 - 20:00",
+            "tuesday": "12:00 - 20:00",
+            "wednesday": "12:00 - 20:00",
+            "thursday": "12:00 - 20:00",
+            "friday": "12:00 - 20:00",
+            "saturday": "12:00 - 20:00",
+            "sunday": "12:00 - 20:00"
         },
         "tel": null
     },
@@ -6373,13 +6449,13 @@
             22.335992
         ],
         "workHrs": {
-            "monday": "09:30 - 21:00",
-            "tuesday": "09:30 - 21:00",
-            "wednesday": "09:30 - 21:00",
-            "thursday": "09:30 - 21:00",
-            "friday": "09:30 - 21:00",
-            "saturday": "09:30 - 21:00",
-            "sunday": "09:30 - 21:00"
+            "monday": "10:00 - 20:00",
+            "tuesday": "10:00 - 20:00",
+            "wednesday": "10:00 - 20:00",
+            "thursday": "10:00 - 20:00",
+            "friday": "10:00 - 20:00",
+            "saturday": "11:00 - 21:00",
+            "sunday": "11:00 - 21:00"
         },
         "tel": null
     },
@@ -6411,13 +6487,13 @@
             22.343646
         ],
         "workHrs": {
-            "monday": "11:00 - 20:00",
-            "tuesday": "11:00 - 20:00",
-            "wednesday": "11:00 - 20:00",
-            "thursday": "11:00 - 20:00",
-            "friday": "11:00 - 20:00",
-            "saturday": "11:00 - 20:00",
-            "sunday": "11:00 - 20:00"
+            "monday": "12:00 - 20:00",
+            "tuesday": "12:00 - 20:00",
+            "wednesday": "12:00 - 20:00",
+            "thursday": "12:00 - 20:00",
+            "friday": "12:00 - 20:00",
+            "saturday": "12:00 - 20:00",
+            "sunday": "12:00 - 20:00"
         },
         "tel": null
     },
@@ -6563,13 +6639,13 @@
             22.347426
         ],
         "workHrs": {
-            "monday": "09:30 - 22:00",
-            "tuesday": "09:30 - 22:00",
-            "wednesday": "09:30 - 22:00",
-            "thursday": "09:30 - 22:00",
-            "friday": "09:30 - 22:00",
-            "saturday": "09:30 - 22:00",
-            "sunday": "09:30 - 22:00"
+            "monday": "10:00 - 10DailyDai",
+            "tuesday": "10:00 - 10DailyDai",
+            "wednesday": "10:00 - 10DailyDai",
+            "thursday": "10:00 - 10DailyDai",
+            "friday": "10:00 - 10DailyDai",
+            "saturday": "10:00 - 10DailyDai",
+            "sunday": "10:00 - 10DailyDai"
         },
         "tel": null
     },
@@ -6791,13 +6867,13 @@
             22.334069
         ],
         "workHrs": {
-            "monday": "11:00 - 20:00",
-            "tuesday": "11:00 - 20:00",
-            "wednesday": "11:00 - 20:00",
-            "thursday": "11:00 - 20:00",
-            "friday": "11:00 - 20:00",
-            "saturday": "11:00 - 20:00",
-            "sunday": "11:00 - 20:00"
+            "monday": "12:00 - 20:00",
+            "tuesday": "12:00 - 20:00",
+            "wednesday": "12:00 - 20:00",
+            "thursday": "12:00 - 20:00",
+            "friday": "12:00 - 20:00",
+            "saturday": "12:00 - 20:00",
+            "sunday": "12:00 - 20:00"
         },
         "tel": null
     },
@@ -6981,13 +7057,13 @@
             22.33392
         ],
         "workHrs": {
-            "monday": "10:30 - 20:30",
-            "tuesday": "10:30 - 20:30",
-            "wednesday": "10:30 - 20:30",
-            "thursday": "10:30 - 20:30",
-            "friday": "10:30 - 20:30",
-            "saturday": "10:30 - 20:30",
-            "sunday": "10:30 - 20:30"
+            "monday": "11:00 - 20:00",
+            "tuesday": "11:00 - 20:00",
+            "wednesday": "11:00 - 20:00",
+            "thursday": "11:00 - 20:00",
+            "friday": "11:00 - 20:00",
+            "saturday": "11:00 - 20:00",
+            "sunday": "11:00 - 20:00"
         },
         "tel": null
     },
@@ -7285,12 +7361,12 @@
             22.311729
         ],
         "workHrs": {
-            "monday": "08:30 - 21:00",
-            "tuesday": "08:30 - 21:00",
-            "wednesday": "08:30 - 21:00",
-            "thursday": "08:30 - 21:00",
-            "friday": "08:30 - 21:00",
-            "saturday": "08:30 - 21:00",
+            "monday": "09:00 - 21:00",
+            "tuesday": "09:00 - 21:00",
+            "wednesday": "09:00 - 21:00",
+            "thursday": "09:00 - 21:00",
+            "friday": "09:00 - 21:00",
+            "saturday": "09:00 - 21:00",
             "sunday": "11:00 - 21:00"
         },
         "tel": null
@@ -7589,13 +7665,13 @@
             22.308659
         ],
         "workHrs": {
-            "monday": "09:30 - 22:00",
-            "tuesday": "09:30 - 22:00",
-            "wednesday": "09:30 - 22:00",
-            "thursday": "09:30 - 22:00",
-            "friday": "09:30 - 22:00",
-            "saturday": "09:30 - 22:00",
-            "sunday": "09:30 - 22:00"
+            "monday": "10:00 - 22:00",
+            "tuesday": "10:00 - 22:00",
+            "wednesday": "10:00 - 22:00",
+            "thursday": "10:00 - 22:00",
+            "friday": "10:00 - 22:00",
+            "saturday": "10:00 - 22:00",
+            "sunday": "10:00 - 22:00"
         },
         "tel": null
     },

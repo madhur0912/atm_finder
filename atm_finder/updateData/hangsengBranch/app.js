@@ -155,8 +155,8 @@ var formatBranch = function(branch) {
 		}
 
 		// Set detailString to be ATM working hour
-		var detailStringZh = '自動櫃員機服務時間\n' + branch.zh.HourAMB.replace(/<br\/>/g, '\n');
-		var detailStringEn = 'ATM Service Hours\n' + branch.en.HourAMB.replace(/<br\/>/g, '\n');
+		var detailStringZh = branch.zh.HourAMB.replace(/<br\/>/g, '\n');
+		var detailStringEn = branch.en.HourAMB.replace(/<br\/>/g, '\n');
 
 		// Set atm24
 		var atm24 = (JSON.stringify(branch.zh).indexOf('24小') != -1);

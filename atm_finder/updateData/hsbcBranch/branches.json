@@ -19,10 +19,6 @@
             "zh": "大嶼山大澳街市街二十五號地下D座",
             "en": "Block D, G/F, 25 Market Street, Tai O, Lantau Island"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             113.862026,
             22.254382
@@ -55,10 +51,6 @@
             "zh": "赤鱲角香港國際機場南環路80號正門側",
             "en": "G/F, Main Gate, HAECO Base Maintenance, HK Int'l Airport, Chek Lap Kok, New Territories"
         },
-        "detail": {
-            "zh": "受限制區域",
-            "en": "Restricted area"
-        },
         "loc": [
             113.89933,
             22.30359
@@ -66,8 +58,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "現金提款",
-            "en": "Cash Withdrawal"
+            "zh": "受限制區域\n現金提款",
+            "en": "Restricted area\nCash Withdrawal"
         },
         "tel": null
     },
@@ -90,10 +82,6 @@
         "address": {
             "zh": "新界屯門踏石角中華電力公司 - 青山發電廠",
             "en": "Castle Peak Station, Tap Shek Kok Power Station, Tuen Mun, New Territories."
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             113.92116,
@@ -127,10 +115,6 @@
             "zh": "赤鱲角香港國際機場駿運路國泰航空貨運站三樓",
             "en": "Space for ATM on 3/F, Chun Wan Road, Cathay Pacific Cargo Terminal, Hong Kong International Airport, Chek Lap Kok, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             113.926447,
             22.296686
@@ -163,10 +147,6 @@
             "zh": "赤鱲角香港國際機場1號客運大樓離港登機層西翼禁區6W570B號",
             "en": "Unit 6W570B, Airside West Hall (Restricted Area), Hong Kong International Airport, Chek Lap Kok, New Territories"
         },
-        "detail": {
-            "zh": "位於機場禁區範圍內",
-            "en": "Situated at the airport restricted area"
-        },
         "loc": [
             113.927139,
             22.312324
@@ -174,8 +154,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "現金提款\n輪椅通道 (自動櫃員機)",
-            "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
+            "zh": "位於機場禁區範圍內\n現金提款\n輪椅通道 (自動櫃員機)",
+            "en": "Situated at the airport restricted area\nCash Withdrawal\nWheel Chair Access (ATM)"
         },
         "tel": null
     },
@@ -199,10 +179,6 @@
             "zh": "赤鱲角超級1號貨站辦公室大樓南座地下",
             "en": "G/F, South Office Block, SuperTerminal 1, Chek Lap Kok, New Territories"
         },
-        "detail": {
-            "zh": "受限制區域",
-            "en": "Restricted Area"
-        },
         "loc": [
             113.9297,
             22.2986
@@ -210,8 +186,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "現金提款\n輪椅通道 (自動櫃員機)",
-            "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
+            "zh": "受限制區域\n現金提款\n輪椅通道 (自動櫃員機)",
+            "en": "Restricted Area\nCash Withdrawal\nWheel Chair Access (ATM)"
         },
         "tel": null
     },
@@ -235,10 +211,6 @@
             "zh": "赤鱲角香港國際機場1號客運大樓離港登機層東大堂禁區6E201號",
             "en": "Unit 6E201, Departures Boarding Level East Hall (Restricted Area), Terminal 1, Hong Kong International Airport, Chek Lap Kok, New Territories"
         },
-        "detail": {
-            "zh": "位於機場禁區範圍內",
-            "en": "Situated at the airport restricted area"
-        },
         "loc": [
             113.93403,
             22.31514
@@ -246,8 +218,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "現金提款\n輪椅通道 (自動櫃員機)",
-            "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
+            "zh": "位於機場禁區範圍內\n現金提款\n輪椅通道 (自動櫃員機)",
+            "en": "Situated at the airport restricted area\nCash Withdrawal\nWheel Chair Access (ATM)"
         },
         "tel": null
     },
@@ -271,10 +243,6 @@
             "zh": "大嶼山赤鱲角觀景道8號國泰城商場1樓B-E舖",
             "en": "Shops B-E, Level 1, Cathay Pacific City, 8 Scenic Road, Chek Lap Kok, Lantau Island"
         },
-        "detail": {
-            "zh": "受限制區域",
-            "en": "Restricted Area"
-        },
         "loc": [
             113.934183,
             22.298083
@@ -290,8 +258,8 @@
         },
         "atm24": true,
         "service": {
-            "zh": "現金提款\n外幣兌換服務\n匯豐卓越理財服務櫃檯\n現金存款\n網上理財服務\n輪椅通道 (分行)\n更新存摺簿交易資料",
-            "en": "Cash Withdrawal\nForeign Currency Exchange\nHSBC Premier Counter\nCash Deposit\nOnline Financial Services \nWheel Chair Access (Branch)\nPassbook Update"
+            "zh": "受限制區域\n現金提款\n外幣兌換服務\n匯豐卓越理財服務櫃檯\n現金存款\n網上理財服務\n輪椅通道 (分行)\n更新存摺簿交易資料",
+            "en": "Restricted Area\nCash Withdrawal\nForeign Currency Exchange\nHSBC Premier Counter\nCash Deposit\nOnline Financial Services \nWheel Chair Access (Branch)\nPassbook Update"
         },
         "tel": null
     },
@@ -314,10 +282,6 @@
         "address": {
             "zh": "大嶼山赤鱲角香港國際機場1號客運大樓抵港層5T002",
             "en": "Unit No. 5T002, Level 5, Arrivals Level, Terminal 1, HK International Airport, Chek Lap Kok, Lantau Island"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             113.934338,
@@ -350,10 +314,6 @@
         "address": {
             "zh": "大嶼山東涌逸東商場1樓110號舖側5號自動櫃員機",
             "en": "ATM No.5, Next to Shop 110, 1/F, Yat Tung Shopping Centre, Yat Tung Estate, Tung Chung, Lantau Island"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             113.93477,
@@ -395,10 +355,6 @@
             "zh": "大嶼山赤鱲角香港國際機場1號客運大樓抵港層5T054-056",
             "en": "Unit No. 5T054-056, Level 5, Arrivals Level, Terminal 1, HK International Airport, Chek Lap Kok, Lantau Island"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             113.9348,
             22.3145
@@ -430,10 +386,6 @@
         "address": {
             "zh": "赤鱲角香港國際機場1號客運大樓離港登機層7T076號舖",
             "en": "Unit 7T076, Level 7, Check-in Level, Terminal 1, HK Int'l Airport, Chek Lap Kok, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             113.93533,
@@ -467,10 +419,6 @@
             "zh": "赤鱲角香港國際機場1號客運大樓地面運輸中心5G086A號",
             "en": "Unit 5G086A, Landside Ground Transportation Centre, Hong Kong International Airport, Chek Lap Kok, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             113.936731,
             22.315227
@@ -502,10 +450,6 @@
         "address": {
             "zh": "大嶼山赤鱲角香港國際機場二號客運大樓6P016-018",
             "en": "Unit Nos. 6P016-018, Passenger Terminal 2, HK International Airport, Chek Lap Kok"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             113.938683,
@@ -539,10 +483,6 @@
             "zh": "赤鱲角香港國際機場東輝路11-12號港龍大廈地下",
             "en": "G/F, CNAC and Dragonair House, 11-12 Tung Fai Road, HK Int'l Airport, Chek Lap Kok, New Territories"
         },
-        "detail": {
-            "zh": "受限制區域",
-            "en": "Restricted area"
-        },
         "loc": [
             113.93927,
             22.30342
@@ -550,8 +490,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "現金提款\n輪椅通道 (自動櫃員機)",
-            "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
+            "zh": "受限制區域\n現金提款\n輪椅通道 (自動櫃員機)",
+            "en": "Restricted area\nCash Withdrawal\nWheel Chair Access (ATM)"
         },
         "tel": null
     },
@@ -574,10 +514,6 @@
         "address": {
             "zh": "大嶼山東涌達東路東薈城名店倉地下G25號舖",
             "en": "Shop G25, G/F, Citygate Outlets, 20 Tat Tung Road, Tung Chung, Lantau Island"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             113.94042,
@@ -610,10 +546,6 @@
         "address": {
             "zh": "新界富東邨富東商埸自動櫃員機1號",
             "en": "ATM No.1, 1/F Fu Tung Shopping Centre, Fu Tung Estate, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             113.942422,
@@ -655,10 +587,6 @@
             "zh": "新界香港國際機場航天城東路一號香港天際萬豪酒店走廊商業中心外面空地",
             "en": "Space outside the Business Centre The Corridor, Hong Kong SkyCity Marriott Hotel, 1 Sky City Road East, Hong Kong International Airport, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             113.943785,
             22.319207
@@ -691,10 +619,6 @@
             "zh": "赤鱲角香港國際機場亞洲國際博覽館1號場館對外地下",
             "en": "G/F, outside Hall 1, AsiaWorld-Expo, Hong Kong International Airport, Chek Lap Kok, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             113.94483,
             22.32222
@@ -726,10 +650,6 @@
         "address": {
             "zh": "新界屯門蝴蝶邨蝴蝶廣場地下自動櫃員機1號(毗鄰Shop L112號舖)",
             "en": "ATM No.1 (next to Shop L112), Ground Floor, Butterfly Plaza, Butterfly Estate, 1 Wu Chui Road, Tuen Mun, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             113.96266,
@@ -771,10 +691,6 @@
             "zh": "新界屯門良景邨良景商場213A舖",
             "en": "Shop 213A, Leung King Shopping Centre, Leung King Estate, Tuen Mun, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             113.96297,
             22.40658
@@ -806,10 +722,6 @@
         "address": {
             "zh": "新界屯門新屯門中心商場第3層",
             "en": "Level 3, Sun Tuen Mun Centre, Tuen Mun, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             113.965052,
@@ -843,10 +755,6 @@
             "zh": "新界屯門山景邨商場2樓215號舖",
             "en": "Shop 215, Shan King Commercial Centre, Shan King Estate, Tuen Mun, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             113.966,
             22.39661
@@ -879,10 +787,6 @@
             "zh": "新界屯門湖翠路168-236 號海趣坊87-92號舖",
             "en": "Shop Nos. 87-92, Ocean Walk, 168-236 Wu Chui Road, Tuen Mun, New Territories"
         },
-        "detail": {
-            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款",
-            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit"
-        },
         "loc": [
             113.966281,
             22.37275
@@ -890,8 +794,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
-            "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
+            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款\n現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
+            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit\nCash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
         },
         "tel": null
     },
@@ -914,10 +818,6 @@
         "address": {
             "zh": "新界屯門龍門路43號龍門居39號舖",
             "en": "Shop No.39 of Lung Mun Oasis, No.43 Lung Mun Road, Tuen Mun, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             113.966573,
@@ -950,10 +850,6 @@
         "address": {
             "zh": "新界屯門寶田邨寶田商場1樓扶手梯側空地(109號舖對面)",
             "en": "Open space beside Escalator (opposite to Shop 109), 1/F, Po Tin Shopping Centre, Po Tin Estate, Tuen Mun, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             113.96658,
@@ -995,10 +891,6 @@
             "zh": "新界屯門建生邨建生商場2樓206號舖外空地",
             "en": "ATM outside the Shop No. 206, Level 2, Kin Sang Shopping Centre, Kin Sang Estate, Tuen Mun, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             113.96976,
             22.40693
@@ -1030,10 +922,6 @@
         "address": {
             "zh": "新界屯門西鐵屯門站收費區外38號舖",
             "en": "Shop No TUM 38, Unpaid Concourse, Tuen Mun Station, West Rail Line, Tuen Mun, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             113.97322,
@@ -1075,10 +963,6 @@
             "zh": "屯門翠寧花園地下12-13號舖",
             "en": "Circle K Store at Shop 12 & 13, G/F, Tsui Ning Garden, Tuen Mun, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             113.973774,
             22.384193
@@ -1110,10 +994,6 @@
         "address": {
             "zh": "新界屯門石排頭路1號卓爾廣場1樓116及126號舖",
             "en": "Shop No. 116 & 126, 1/F, Chelsea Heights, 1 Shek Pai Tau Road, Tuen Mun, New Territorries"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             113.97427,
@@ -1155,10 +1035,6 @@
             "zh": "新界屯門屯合街2號屯門時代廣場商場南冀地下21號舖",
             "en": "Shop No.21 Level 1 South Wing Trend Plaza No.2 Tuen Hop Street Tuen Mun New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             113.975767,
             22.392415
@@ -1198,10 +1074,6 @@
         "address": {
             "zh": "屯門安定邨安定商場地下C111及C112號舖",
             "en": "Shop No.C111 and C112, G/F, On Ting Shopping Centre, On Ting Estate, Tuen Mun, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             113.975902,
@@ -1243,10 +1115,6 @@
             "zh": "新界屯門屯門市廣場第二期地下1號舖",
             "en": "Shop 1, G/F, Shopping Arcade Phase II, Tuen Mun Town Plaza, Tuen Mun, New Territories"
         },
-        "detail": {
-            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款",
-            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit"
-        },
         "loc": [
             113.976449,
             22.393893
@@ -1254,8 +1122,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
-            "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
+            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
+            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
         },
         "tel": null
     },
@@ -1278,10 +1146,6 @@
         "address": {
             "zh": "新界屯門屯盛街1號屯門市廣場一期高層地下UG001-002號舖",
             "en": "UG001-UG002 UG/F, Tuen Mun Town Plaza Phase I, 1 Tuen Shing Street, Tuen Mun, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             113.976473,
@@ -1323,10 +1187,6 @@
             "zh": "新界屯門青松觀道屯門醫院地下",
             "en": "G/F Atrium Block, Tuen Mun Hospital, Tuen Mun, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             113.97653,
             22.40766
@@ -1358,10 +1218,6 @@
         "address": {
             "zh": "新界屯門恆福商場地下112號舖",
             "en": "Shop 112, G/F, Hanford Plaza, Sam Shing, Tuen Mun, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             113.97798,
@@ -1395,10 +1251,6 @@
             "zh": "新界屯門井財街9號錦發大廈地下2號舖",
             "en": "Shop 2, G/F, Kam Fat Building, 9 Tseng Choi Street, Tuen Mun, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             113.97813,
             22.40321
@@ -1430,10 +1282,6 @@
         "address": {
             "zh": "新界屯門港鐵兆康站收費區外30號舖",
             "en": "Shop No. 30, Unpaid Concourse, MTR Siu Hong Station, Tuen Mun, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             113.97876,
@@ -1475,10 +1323,6 @@
             "zh": "新界屯門置樂花園商業中心地下35號",
             "en": "Shop No. 35, G/F Chi Lok Fa Yuen Commercial Centre, Tuen Mun, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             113.97986,
             22.38756
@@ -1510,10 +1354,6 @@
         "address": {
             "zh": "新界屯門屯貴路9號富泰商場地下電梯下(毗鄰3號舖)",
             "en": "Space under the Escalator (next to Shop 3), G/F, Fu Tai Shopping Centre, No. 9 Tuen Kwai Road, Tuen Mun, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             113.983,
@@ -1547,10 +1387,6 @@
             "zh": "新界屯門黃金海岸購物商場1A號舖",
             "en": "Shop 1A, Marina Magic Shopping Mall, Castle Peak Rd., Tuen Mun, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             113.99276,
             22.37188
@@ -1583,10 +1419,6 @@
             "zh": "新界元朗洪水橋大街德祥樓9號舖",
             "en": "Shop 9, G/F, Tak Cheung Building, Lot 4177, DD124, Hung Shui Kiu, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             113.99589,
             22.43276
@@ -1618,10 +1450,6 @@
         "address": {
             "zh": "新界天水圍天恩邨天恩商場自動扶手電梯下空地",
             "en": "Open space under elevator, G/F, Tin Yan Shopping Centre, Tin Shui Wai, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             113.996301,
@@ -1663,10 +1491,6 @@
             "zh": "新界天水圍頌富商場20號舖側空地",
             "en": "Open Space adjacent to Shop 20, G/F, Chung Fu Shopping Centre, Tin Shui Wai, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             113.99778,
             22.46161
@@ -1698,10 +1522,6 @@
         "address": {
             "zh": "新界天水圍天瑞路77號天澤商場地下",
             "en": "Open space near the main entrance adjacent to Shop 15, G/F, Tin Chak Shopping Centre, Tin Shui Wai, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             113.998786,
@@ -1735,10 +1555,6 @@
             "zh": "新界元朗天水圍天湖路1號嘉湖新北江商場地下A10-A13號舖7-Eleven便利店",
             "en": "7-Eleven, Shop A10-A13, G/F, Kingswood Richly Plaza, 1 Tin Wu Road, Tin Shui Wai, Yuen Long, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.00044,
             22.45219
@@ -1771,10 +1587,6 @@
             "zh": "大嶼山銀礦灣4號",
             "en": "DD4, Lot 667, Silvermine Bay, Lantau Island"
         },
-        "detail": {
-            "zh": "24小時自動櫃員機服務",
-            "en": "24-hour ATM service"
-        },
         "loc": [
             114.000674,
             22.264907
@@ -1790,8 +1602,8 @@
         },
         "atm24": true,
         "service": {
-            "zh": "現金提款\n外幣兌換服務\n匯豐卓越理財服務櫃檯\n網上理財服務\n保險箱服務\n更新存摺簿交易資料",
-            "en": "Cash Withdrawal\nForeign Currency Exchange\nHSBC Premier Counter\nOnline Financial Services \nSafe Deposit Box\nPassbook Update"
+            "zh": "24小時自動櫃員機服務\n現金提款\n外幣兌換服務\n匯豐卓越理財服務櫃檯\n網上理財服務\n保險箱服務\n更新存摺簿交易資料",
+            "en": "24-hour ATM service\nCash Withdrawal\nForeign Currency Exchange\nHSBC Premier Counter\nOnline Financial Services \nSafe Deposit Box\nPassbook Update"
         },
         "tel": null
     },
@@ -1814,10 +1626,6 @@
         "address": {
             "zh": "新界天水圍天晴邨天晴商場地下7號舖位",
             "en": "Shop 7, G/F., Tin Ching Shopping Centre, Tin Ching Estate, Tin Shui Wai, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.002917,
@@ -1851,10 +1659,6 @@
             "zh": "新界天水圍嘉湖銀座第二期",
             "en": "Phase II, Kingswood Ginza, Tin Shui Wai, New Territories"
         },
-        "detail": {
-            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款",
-            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit"
-        },
         "loc": [
             114.003268,
             22.457068
@@ -1862,8 +1666,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
-            "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
+            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
+            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
         },
         "tel": null
     },
@@ -1886,10 +1690,6 @@
         "address": {
             "zh": "新界元朗天水圍天湖路二號天耀商埸地下L019A號舖",
             "en": "Shop No.L019A, G/F, Tin Yiu Shopping Centre, 2 Tin Wu Road, Tin Shui Wai, Yuen Long, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.003308,
@@ -1922,10 +1722,6 @@
         "address": {
             "zh": "收費區 - 港鐵天水圍站收費區17號舖 及 收費區外 - 港鐵天水圍站收費區外櫃員機,自動售賣機A01號位",
             "en": "Paid Concourse - Shop TIS 17, Paid Concourse AND Unpaid Concourse - ATM Vending Machine Room No. A01, Unpaid Concurrence, MTR Tin Shui Wai Station, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.00515,
@@ -1967,10 +1763,6 @@
             "zh": "新界天水圍天喜街9號天慈邨天慈商場地下",
             "en": "Open Space near the escalator opposite to Shop 7, G/F, Tin Tsz Shopping Centre, Tin Shui Wai, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.006929,
             22.453077
@@ -2003,10 +1795,6 @@
             "zh": "大嶼山愉景灣愉景廣場地下G15A, 12D 及 G13 號舖",
             "en": "Shop G13, G12D & G15A, G/F, Discovery Bay Plaza, Discovery Bay, Lantau Island"
         },
-        "detail": {
-            "zh": "24小時自動櫃員機服務",
-            "en": "24-hour ATM service"
-        },
         "loc": [
             114.016905,
             22.296396
@@ -2022,8 +1810,8 @@
         },
         "atm24": true,
         "service": {
-            "zh": "現金提款\n外幣兌換服務\n匯豐卓越理財服務櫃檯\n網上理財服務\n輪椅通道 (分行)\n更新存摺簿交易資料",
-            "en": "Cash Withdrawal\nForeign Currency Exchange\nHSBC Premier Counter\nOnline Financial Services \nWheel Chair Access (Branch)\nPassbook Update"
+            "zh": "24小時自動櫃員機服務\n現金提款\n外幣兌換服務\n匯豐卓越理財服務櫃檯\n網上理財服務\n輪椅通道 (分行)\n更新存摺簿交易資料",
+            "en": "24-hour ATM service\nCash Withdrawal\nForeign Currency Exchange\nHSBC Premier Counter\nOnline Financial Services \nWheel Chair Access (Branch)\nPassbook Update"
         },
         "tel": null
     },
@@ -2046,10 +1834,6 @@
         "address": {
             "zh": "元朗水邊圍邨康水樓103 & 105號舖Circle-K便利店",
             "en": "Circle K Store at Shop 103 & 105, Hong Shui House, Shui Pin Wai Estate, Yuen Long, New Territories (Store No. 014)"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.02102,
@@ -2083,10 +1867,6 @@
             "zh": "元朗朗屏商場鏡屏樓平台3B號舖",
             "en": "Shop No. M003B, Mezzanine Floor, Kang Ping House, Long Ping Estate, 1 Long Ping Road, Yuen Long"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.02316,
             22.45035
@@ -2118,10 +1898,6 @@
         "address": {
             "zh": "新界元朗港鐵朗屏站收費區外自動櫃員機A02號",
             "en": "ATM Site No. A02, Unpaid Concourse, MTR Long Ping Station, Yuen Long, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.02471,
@@ -2163,10 +1939,6 @@
             "zh": "新界元朗青山公路元朗段218號富興大廈地下A號舖Circle-K便利店",
             "en": "Circle-K, Shop A, G/F, Fu Hing Building, 218 Castle Peak Road, Yuen Long, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.02508,
             22.4443
@@ -2198,10 +1970,6 @@
         "address": {
             "zh": "新界元朗青山公路150-160號 元朗滙豐大廈地下",
             "en": "G/F, HSBC Building Yuen Long, 150-160 Castle Peak Road, Yuen Long, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.027392,
@@ -2235,10 +2003,6 @@
             "zh": "長洲北社海傍路19A地下",
             "en": "G/F, 19A Pak She Praya Road, Cheung Chau"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.02806,
             22.21072
@@ -2271,10 +2035,6 @@
             "zh": "長洲南海傍路1116號地段",
             "en": "Lot No. 1116, Praya South, Cheung Chau"
         },
-        "detail": {
-            "zh": "24小時自動櫃員機服務",
-            "en": "24-hour ATM service"
-        },
         "loc": [
             114.02846,
             22.206163
@@ -2290,8 +2050,8 @@
         },
         "atm24": true,
         "service": {
-            "zh": "現金提款\n外幣兌換服務\n匯豐卓越理財服務櫃檯\n網上理財服務\n保險箱服務\n更新存摺簿交易資料",
-            "en": "Cash Withdrawal\nForeign Currency Exchange\nHSBC Premier Counter\nOnline Financial Services \nSafe Deposit Box\nPassbook Update"
+            "zh": "24小時自動櫃員機服務\n現金提款\n外幣兌換服務\n匯豐卓越理財服務櫃檯\n網上理財服務\n保險箱服務\n更新存摺簿交易資料",
+            "en": "24-hour ATM service\nCash Withdrawal\nForeign Currency Exchange\nHSBC Premier Counter\nOnline Financial Services \nSafe Deposit Box\nPassbook Update"
         },
         "tel": null
     },
@@ -2314,10 +2074,6 @@
         "address": {
             "zh": "新界元朗元朗新街1-49號合益廣場地下A59舖",
             "en": "Shop A59, G/F Hop Yick Plaza, 1-49 Yuen Long New Street, Yuen Long, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.02915,
@@ -2351,10 +2107,6 @@
             "zh": "新界元朗安寧路8號冠煌樓地下C號舖",
             "en": "Shop C, G/F, Koon Wong Manson, 8 On Ning Road, Yuen Long, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.029583,
             22.446154
@@ -2386,10 +2138,6 @@
         "address": {
             "zh": "新界元朗港鐵元朗站收費區外19號舖",
             "en": "Shop No. 19, Unpaid Concourse, MTR Yuen Long Station, Yuen Long, New Territories."
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.034717,
@@ -2423,10 +2171,6 @@
             "zh": "坪洲永興街1-3號",
             "en": "1-3 Wing Hing Street, Peng Chau"
         },
-        "detail": {
-            "zh": "24小時自動櫃員機服務",
-            "en": "24-hour ATM service"
-        },
         "loc": [
             114.038596,
             22.284411
@@ -2442,8 +2186,8 @@
         },
         "atm24": true,
         "service": {
-            "zh": "現金提款\n外幣兌換服務\n匯豐卓越理財服務櫃檯\n網上理財服務\n更新存摺簿交易資料",
-            "en": "Cash Withdrawal\nForeign Currency Exchange\nHSBC Premier Counter\nOnline Financial Services \nPassbook Update"
+            "zh": "24小時自動櫃員機服務\n現金提款\n外幣兌換服務\n匯豐卓越理財服務櫃檯\n網上理財服務\n更新存摺簿交易資料",
+            "en": "24-hour ATM service\nCash Withdrawal\nForeign Currency Exchange\nHSBC Premier Counter\nOnline Financial Services \nPassbook Update"
         },
         "tel": null
     },
@@ -2466,10 +2210,6 @@
         "address": {
             "zh": "新界元朗錦綉花園市中心D座地下1C號舖",
             "en": "Shop 1C, G/F, Block D, Town Centre, Fairview Park, Yuen Long, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.04512,
@@ -2503,10 +2243,6 @@
             "zh": "新界元朗加州花園商業中心G17號舖",
             "en": "Shop G17, Palm Springs Commercial Centre, Yuen Long, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.05412,
             22.48641
@@ -2538,10 +2274,6 @@
         "address": {
             "zh": "新界深井海韻花園地下G6號舖",
             "en": "Shop G6, G/F, Rhine Garden, Sham Tseng, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.06172,
@@ -2575,10 +2307,6 @@
             "zh": "新界元朗港鐵錦上路站收費區外1號舖",
             "en": "Shop No. 1, Unpaid Concourse, MTR Kam Sheung Road Station, Yuen Long, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.0631,
             22.43525
@@ -2610,10 +2338,6 @@
         "address": {
             "zh": "港鐵落馬洲站, 一樓車站離境大堂,  LMC 131號舖",
             "en": "Shop LMC 131, 1/F., Departures Concourse, MTR Lok Ma Chau Station"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.066625,
@@ -2655,10 +2379,6 @@
             "zh": "新界元朗錦田大馬路40號",
             "en": "Shop 1, G/F, Wing Lung House, 40 Kam Tin Road, Kam Tin, Yuen Long, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.06681,
             22.43992
@@ -2690,10 +2410,6 @@
         "address": {
             "zh": "新界長宏邨長宏商場地下自動櫃員機",
             "en": "G/F, Cheung Wang Shopping Centre, Cheung Wang Estate, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.095619,
@@ -2727,10 +2443,6 @@
             "zh": "新界青衣長亨邨長亨商埸地下自動櫃員機二號",
             "en": "ATM No.2, G/F, Cheung Hang Shopping Centre, Cheung Hang Estate, Tsing Yi, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.097607,
             22.354911
@@ -2762,10 +2474,6 @@
         "address": {
             "zh": "新界青衣長康邨長康邨2期商場1樓1號自動櫃員機",
             "en": "ATM Space No. 1, 1/F, Cheung Hong Shopping Centre II, Cheung Hong Estate, Tsing Yi, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.09849,
@@ -2799,10 +2507,6 @@
             "zh": "新界青衣長發商場318A號舖",
             "en": "Shop 318A, Cheung Fat Shopping Centre, Tsing Yi, NewTerritories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.10335,
             22.36257
@@ -2834,10 +2538,6 @@
         "address": {
             "zh": "新界荃灣荃灣中心購物商場地庫上層71號舖",
             "en": "Shop 71, UG/F, Tsuen Wan Centre Shopping Centre, Tsuen Wan, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.10762,
@@ -2871,10 +2571,6 @@
             "zh": "新界青衣青衣城地下G07A號舖",
             "en": "Shop G07A, G/F, Maritime Square, Tsing Yi, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.10845,
             22.3592
@@ -2906,10 +2602,6 @@
         "address": {
             "zh": "新界青衣翠怡花園商場地下1號舖",
             "en": "Shop 1, Greenfield Garden Shopping Arcade, Greendfield Garden, Tsing Yi, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.10845,
@@ -2943,10 +2635,6 @@
             "zh": "新界青衣長青邨長青商場2樓平台青葵樓正門入口外空地",
             "en": "Open space near Main Entrance, Ching Kwai House, Podium 2/F Cheung Ching Shopping Centre, Cheung Ching Estate, Tsing Yi, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.10929,
             22.34517
@@ -2978,10 +2666,6 @@
         "address": {
             "zh": "港鐵荃灣西站17號舖",
             "en": "Shop No. 17, MTR Tsuen Wan West Station, Tsuen Wan, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.11095,
@@ -3023,10 +2707,6 @@
             "zh": "南丫島榕樹灣大街19號",
             "en": "19 Main Street, Yung Shue Wan, Lamma Island"
         },
-        "detail": {
-            "zh": "24小時自動櫃員機服務",
-            "en": "24-hour ATM service"
-        },
         "loc": [
             114.111429,
             22.226625
@@ -3042,8 +2722,8 @@
         },
         "atm24": true,
         "service": {
-            "zh": "現金提款\n外幣兌換服務\n匯豐卓越理財服務櫃檯\n網上理財服務\n更新存摺簿交易資料",
-            "en": "Cash Withdrawal\nForeign Currency Exchange\nHSBC Premier Counter\nOnline Financial Services \nPassbook Update"
+            "zh": "24小時自動櫃員機服務\n現金提款\n外幣兌換服務\n匯豐卓越理財服務櫃檯\n網上理財服務\n更新存摺簿交易資料",
+            "en": "24-hour ATM service\nCash Withdrawal\nForeign Currency Exchange\nHSBC Premier Counter\nOnline Financial Services \nPassbook Update"
         },
         "tel": null
     },
@@ -3066,10 +2746,6 @@
         "address": {
             "zh": "新界荃灣愉景新城購物商場第三層3022及3023號舖",
             "en": "Shop No 3022 & 3023, Level 3, Discovery Park, Tsuen Wan, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.111795,
@@ -3111,10 +2787,6 @@
             "zh": "新界羅湖港鐵羅湖站收費區外2樓",
             "en": "2/F, Unpaid Concourse, MTR Lo Wu Station, Lo Wu, New Territories"
         },
-        "detail": {
-            "zh": "受限制區域",
-            "en": "Restricted area"
-        },
         "loc": [
             114.11299,
             22.52892
@@ -3130,8 +2802,8 @@
         },
         "atm24": false,
         "service": {
-            "zh": "輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
-            "en": "Wheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
+            "zh": "受限制區域\n輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
+            "en": "Restricted area\nWheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
         },
         "tel": null
     },
@@ -3155,10 +2827,6 @@
             "zh": "新界荃灣楊屋道1號荃新天地地下21-22號舖",
             "en": "Shops G21-22, Citywalk, 1 Yeung Uk Road, Tsuen Wan, New Territories"
         },
-        "detail": {
-            "zh": "「提存易」接受港幣$20及$50元現鈔存款",
-            "en": "Multi-Function Machine accepts HKD $20 and $50 banknotes deposit"
-        },
         "loc": [
             114.113923,
             22.369186
@@ -3166,8 +2834,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
-            "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
+            "zh": "「提存易」接受港幣$20及$50元現鈔存款\n現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
+            "en": "Multi-Function Machine accepts HKD $20 and $50 banknotes deposit\nCash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
         },
         "tel": null
     },
@@ -3190,10 +2858,6 @@
         "address": {
             "zh": "新界荃灣怡樂街 1-5 號海濱花園 E 座地下 101 號舖位",
             "en": "Shop No. 101 on G/F Podium E of Riviera Gardens, Nos 1-5 Yi Lok Street, Tsuen Wan, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.114497,
@@ -3227,10 +2891,6 @@
             "zh": "新界荃灣眾安街69號地下7-Eleven便利店",
             "en": "7-Eleven, G/F, No. 69 Chung On Street, Tsuen Wan, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.11639,
             22.36941
@@ -3262,10 +2922,6 @@
         "address": {
             "zh": "荃灣青山道185-187號荃勝大廈地下A2舖",
             "en": "Shop A2, G/F, Victory Court, Nos 185-187 Castle Peak Road, Tsuen Wan"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.117911,
@@ -3299,10 +2955,6 @@
             "zh": "新界荃灣荃灣街市街67-95號荃灣千色匯2期地下G3&G4舖",
             "en": "Shops G3 & G4, Ground Floor, KOLOUR • Tsuen Wan II, 67-95 Tsuen Wan Market Street, Tsuen Wan, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.118118,
             22.371225
@@ -3334,10 +2986,6 @@
         "address": {
             "zh": "新界荃灣青山公路210號富華中心一樓4A,4B(A)-4B(C),5及6舖",
             "en": "Shop Nos. 4A,4B(A)-4B(C),5&6, 1/F, Fou Wah Centre, 210 Castle Peak Road, Tsuen Wan, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.118292,
@@ -3371,10 +3019,6 @@
             "zh": "新界葵涌永基路55號嘉里貨運中心電梯大堂 P1 樓",
             "en": "Level P1, Lift Lobby, Kerry Cargo Centre, No.55 Wing Kei Road, Kwai Chung, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.121071,
             22.363737
@@ -3406,10 +3050,6 @@
         "address": {
             "zh": "新界葵涌葵盛西邨第7座地下1B號舖",
             "en": "Shop 1B, G/F, Block 7, Kwai Shing West Estate, Kwai Chung, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.122691,
@@ -3443,10 +3083,6 @@
             "zh": "荃灣大窩口大廈街15-17號仁雅大廈地下A舖7-Eleven便利店",
             "en": "7-Eleven, Shop A, G/F, Yen Ya Building, 15-17 Tai Ha Street, Tai Wo Hou, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.12299,
             22.36875
@@ -3478,10 +3114,6 @@
         "address": {
             "zh": "新界葵涌大窩口道15號大窩口商場3樓ATM No.2",
             "en": "ATM No.2, 3/F Tai Wo Hau Commercial Centre, 15 Tai Wo Hau Road, Kwai Chung, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.123755,
@@ -3515,10 +3147,6 @@
             "zh": "新界葵涌現代貨櫃1號碼頭地下",
             "en": "G/F, Berth 1, Kwai Chung, New Territories"
         },
-        "detail": {
-            "zh": "受限制區域",
-            "en": "Restricted area"
-        },
         "loc": [
             114.124,
             22.34594
@@ -3526,8 +3154,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "現金提款",
-            "en": "Cash Withdrawal"
+            "zh": "受限制區域\n現金提款",
+            "en": "Restricted area\nCash Withdrawal"
         },
         "tel": null
     },
@@ -3550,10 +3178,6 @@
         "address": {
             "zh": "新界荃灣石圍角邨石圍角商場3樓326號舖側",
             "en": "3/F, Next to Shop 326, Shek Wai Kok Commercial Complex, Shek Wai Kok Estate, Tsuen Wan, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.12415,
@@ -3587,10 +3211,6 @@
             "zh": "新界上水彩園邨彩園廣場3樓自動櫃員機3號 (20號舖側)",
             "en": "ATM No.3 (beside Shop 20), 3/F, Choi Yuen Plaza, Choi Yuen Estate, Sheung Shui, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.125751,
             22.500881
@@ -3622,10 +3242,6 @@
         "address": {
             "zh": "新界葵芳新都會廣場地下153-160號舖",
             "en": "Shops 153-160, Level 1, Metroplaza, Kwai Fong, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.126503,
@@ -3667,10 +3283,6 @@
             "zh": "新界葵芳新都會廣場地下151-152號舖",
             "en": "Shops 151-152, Level 1, Metroplaza, Kwai Fong, New Territories"
         },
-        "detail": {
-            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款",
-            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit"
-        },
         "loc": [
             114.126533,
             22.357971
@@ -3686,8 +3298,8 @@
         },
         "atm24": false,
         "service": {
-            "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
-            "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
+            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
+            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
         },
         "tel": null
     },
@@ -3710,10 +3322,6 @@
         "address": {
             "zh": "新界葵涌荔景山道賢麗苑商場地下7-Eleven便利店對面空地",
             "en": "Open space opposite to 7-Eleven, G/F, Yin Lai Court Shopping Centre, Lai King Hill Road, Kwai Chung, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.12656,
@@ -3747,10 +3355,6 @@
             "zh": "新界粉嶺清河邨清河商場13號舖Circle-K",
             "en": "Circle-K, Shop 13, Ching Ho Shopping Centre, Ching Ho Estate, Fanling, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.12657,
             22.494
@@ -3782,10 +3386,6 @@
         "address": {
             "zh": "香港西環卑路乍街144-148號金豪閣地下2C-2D號舖",
             "en": "Shops 2C & 2D, Kam Ho Court, 144-148 Belcher's Street, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.12676,
@@ -3819,10 +3419,6 @@
             "zh": "新界上水上水新豐路79-81號",
             "en": "79-81 San Fung Avenue, Sheung Shui, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.126969,
             22.504174
@@ -3854,10 +3450,6 @@
         "address": {
             "zh": "新界葵盛東邨葵盛東商埸自動櫃員機2號",
             "en": "ATM No.2, G/F, Kwai Shing East Shopping Centre, Kwai Shing East Estate, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.127157,
@@ -3899,10 +3491,6 @@
             "zh": "新界上水港鐵上水站(收費區外)",
             "en": "Unpaid Concourse, MTR Sheung Shui Station, Sheung Shui, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.12774,
             22.5015
@@ -3935,10 +3523,6 @@
             "zh": "新界葵涌邨葵涌商場212舖位側空地",
             "en": "Open Space adjacent to Shop 212, 2/F, Kwai Chung Shopping Centre, Kwai Chung Estate, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.1282,
             22.36742
@@ -3970,10 +3554,6 @@
         "address": {
             "zh": "香港薄扶林數碼港道100 號商場3樓5號舖",
             "en": "Shop No. 305, The Arcade, 100 Cyberport Road, Pok Fu Lam, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.12976,
@@ -4015,10 +3595,6 @@
             "zh": "新界葵芳邨葵芳商埸自動櫃員機1號",
             "en": "ATM No.1, 1/F, Kwai Fong Shopping Centre, Kwai Fong Estate, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.129839,
             22.357786
@@ -4059,10 +3635,6 @@
             "zh": "新界上水上水中心商場地下1029號舖",
             "en": "Shop 1029, Level 1, Sheung Shui Centre, Sheung Shui, New Territories"
         },
-        "detail": {
-            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款",
-            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit"
-        },
         "loc": [
             114.130049,
             22.500585
@@ -4070,8 +3642,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
-            "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
+            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
+            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
         },
         "tel": null
     },
@@ -4094,10 +3666,6 @@
         "address": {
             "zh": "新界荃灣象山邨象山邨商場3樓自動櫃員機位(313-317號舖對面)",
             "en": "ATM space (opposite to Shop 313-317), 3/F, Cheung Shan Estate Shopping Centre, Cheung Shan Estate, Tsuen Wan, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.13059,
@@ -4131,10 +3699,6 @@
             "zh": "香港薄扶林道瑪麗醫院A翼大堂入口",
             "en": "Main Entrance Block, Wing A, Queen Mary Hospital, Pok Fu Lam, Hong Kong"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.131,
             22.27054
@@ -4166,10 +3730,6 @@
         "address": {
             "zh": "新界葵涌麗瑤邨麗瑤商場中心地下",
             "en": "G/F, Lai Yiu Commercial Centre, Kwai Chung, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.13105,
@@ -4203,10 +3763,6 @@
             "zh": "新界葵涌興芳路166-174號 新葵興廣場3樓2號舖",
             "en": "Shop 2, 3/F, Sun Kwai Hing Plaza, 166-174 Hing Fong Road, Kwai Chung, New Territories"
         },
-        "detail": {
-            "zh": "「提存易」接受港幣$20及$50元現鈔存款",
-            "en": "Multi-Function Machine accepts HKD $20 and $50 banknotes deposit"
-        },
         "loc": [
             114.131421,
             22.363218
@@ -4222,8 +3778,8 @@
         },
         "atm24": false,
         "service": {
-            "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
-            "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
+            "zh": "「提存易」接受港幣$20及$50元現鈔存款\n現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
+            "en": "Multi-Function Machine accepts HKD $20 and $50 banknotes deposit\nCash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
         },
         "tel": null
     },
@@ -4246,10 +3802,6 @@
         "address": {
             "zh": "香港西環卑路乍街8號西寶城地下低層1-3 號舖",
             "en": "LG01-3, Lower Ground Floor, The Westwood, 8 Belcher's Street, Sai Wan, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.133132,
@@ -4283,10 +3835,6 @@
             "zh": "新界上水天平邨天平商場地下自動櫃員機2號",
             "en": "ATM No.2, G/F, Tin Ping Shopping Centre, Tin Ping Estate, Sheung Shui, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.13359,
             22.50325
@@ -4318,10 +3866,6 @@
         "address": {
             "zh": "九龍荔枝角荔景山道瑪嘉烈醫院主樓地下",
             "en": "G/F, Main Block, Princess Margret Hospital, Lai King Hill Road, Lai Chi Kok, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.13484,
@@ -4355,10 +3899,6 @@
             "zh": "新界粉嶺嘉福邨嘉福商場地下自動櫃員機位1號",
             "en": "ATM No. 1, G/F, Ka Fuk Shopping Centre, Ka Fuk Estate, Fanling, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.13545,
             22.49375
@@ -4390,10 +3930,6 @@
         "address": {
             "zh": "香港大學站HKU 6號舖",
             "en": "Shop HKU 6 , MTR HKU Station, West Island Line, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.135574,
@@ -4435,10 +3971,6 @@
             "zh": "香港薄扶林華富邨華珍樓718號舖",
             "en": "Shop 718, Wah Chun House, Wah Fu Estate, Pok Fu Lam, Hong Kong"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.13625,
             22.25043
@@ -4471,10 +4003,6 @@
             "zh": "九龍港鐵美孚站收費區外MEF ATM 23號自動櫃員機機位",
             "en": "ATM site no. MEF ATM 23, Unpaid Concourse, MTR Mei Foo Station, Kowloon"
         },
-        "detail": {
-            "zh": "此自動櫃員機將於2015年9月17日至30日暫停服務",
-            "en": "Service will be temporarily suspended from 17 - 30 September 2015"
-        },
         "loc": [
             114.13643,
             22.33783
@@ -4490,8 +4018,8 @@
         },
         "atm24": false,
         "service": {
-            "zh": "現金提款\n輪椅通道 (自動櫃員機)",
-            "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
+            "zh": "此自動櫃員機將於2015年9月17日至30日暫停服務\n現金提款\n輪椅通道 (自動櫃員機)",
+            "en": "Service will be temporarily suspended from 17 - 30 September 2015\nCash Withdrawal\nWheel Chair Access (ATM)"
         },
         "tel": null
     },
@@ -4514,10 +4042,6 @@
         "address": {
             "zh": "新界葵涌和宜合道5-27號寶星中心1樓11號舖",
             "en": "Shop 11 on 1/F, Po Shing Centre, 5-27 Wo Yi Hop Road, Kwai Chung, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.136463,
@@ -4550,10 +4074,6 @@
         "address": {
             "zh": "新界葵涌梨木樹邨梨木樹商場25號舖",
             "en": "Shop 25, Lei Muk Shue Shopping Centre, Lei Muk Shue Estate, Kwai Chung, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.13675,
@@ -4595,10 +4115,6 @@
             "zh": "新界葵涌盈暉臺家居城景荔徑8號1樓",
             "en": "Venue B, 1/F, The Household Centre, 8 King Lai Path, Kwai Chung, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.137725,
             22.3418
@@ -4638,10 +4154,6 @@
         "address": {
             "zh": "新界粉嶺雍盛苑雍盛商場地下1號櫃員機",
             "en": "ATM No. 1, G/F, Yung Shing Shopping Centre, Yung Shing Court, Fanling, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.13862,
@@ -4683,10 +4195,6 @@
             "zh": "新界葵涌石蔭邨石蔭商場 LG 1樓 LG122 號舖",
             "en": "Shop LG122, LG1/F, Shek Yam Shopping Centre, Sham Yam Estate, Kwai Chung, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.13863,
             22.37155
@@ -4726,10 +4234,6 @@
         "address": {
             "zh": "香港西營盤薄扶林道香港大學邵仁枚樓",
             "en": "Shaw Building, University Of HK, Pok Fu Lam Road, Sai Ying Pun, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.1387,
@@ -4771,10 +4275,6 @@
             "zh": "港鐵粉嶺站(收費區外)",
             "en": "Unpaid Concourse, MTR Fanling Station, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.138722,
             22.492614
@@ -4806,10 +4306,6 @@
         "address": {
             "zh": "香港薄扶林置富南區廣場第五層 527-528號舖",
             "en": "Shop Nos. 527-528, Level 5, Chi Fu Landmark, Pokfulam, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.13875,
@@ -4851,10 +4347,6 @@
             "zh": "新界葵涌石籬邨石籬商場2期3樓310號舖",
             "en": "Shop 310, 3/F, Shek Lei Shopping Centre Phase 2, Shek Lei Estate, Kwai Chung, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.13922,
             22.36571
@@ -4895,10 +4387,6 @@
             "zh": "新界粉嶺名都商場2樓18號舖",
             "en": "Shop No. 18, Level 2, Fanling Town Centre, Fanling, New Territories"
         },
-        "detail": {
-            "zh": "「提存易」接受港幣$20及$50元現鈔存款",
-            "en": "Multi-Function Machine accepts HKD $20 and $50 banknotes deposit"
-        },
         "loc": [
             114.13959,
             22.49226
@@ -4914,8 +4402,8 @@
         },
         "atm24": false,
         "service": {
-            "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
-            "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
+            "zh": "「提存易」接受港幣$20及$50元現鈔存款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
+            "en": "Multi-Function Machine accepts HKD $20 and $50 banknotes deposit\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
         },
         "tel": null
     },
@@ -4938,10 +4426,6 @@
         "address": {
             "zh": "新界粉嶺祥華邨祥華商場地下2 號自助櫃員機",
             "en": "ATM No. 2, G/F, Cheung Wah Shopping Centre, Cheung Wah Estate, Fanling, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.14084,
@@ -4975,10 +4459,6 @@
             "zh": "新界粉嶺華明邨華明商場地下自動櫃員機1號",
             "en": "ATM No.1, G/F, Wah Ming Shopping Centre, Wah Ming Estate, Fanling, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.14103,
             22.48414
@@ -5011,10 +4491,6 @@
             "zh": "新界葵涌安蔭邨安蔭商場1樓102號舖側",
             "en": "Open space beside Shop No. 102, 1/F, On Yam Shopping Centre, On Yam Estate, Kwai Chung, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.14165,
             22.37106
@@ -5046,10 +4522,6 @@
         "address": {
             "zh": "新界粉嶺聯和墟和豐街14-16號",
             "en": "14-16 Wo Fung Street, Luen Wo Market, Fanling, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.142279,
@@ -5091,10 +4563,6 @@
             "zh": "九龍荔枝角寶輪街一號曼坊地下G11號舖",
             "en": "Shop No. G11, G/F, Manhattan Mid-Town, No.1 Po Lun Street, Lai Chi Kok, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.142394,
             22.334288
@@ -5126,10 +4594,6 @@
         "address": {
             "zh": "香港皇后大道西 288 號 豐景閣地下1 及 2 號舖",
             "en": "Shops 1&2, G/F Fung King Court, 288 Queen's Road West, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.14254,
@@ -5163,10 +4627,6 @@
             "zh": "香港西營盤般含道68號蔚庭軒",
             "en": "Wilton Place, 68 Bonham Road, Sai Ying Pun, Hong Kong"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.142778,
             22.284301
@@ -5198,10 +4658,6 @@
         "address": {
             "zh": "鴨脷洲海怡半島廣場西翼商場地下G14號舖",
             "en": "Shop G14, G/F, Marina Square, West Commercial Block, South Horizons, Ap Lei Chau, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.146683,
@@ -5235,10 +4691,6 @@
             "zh": "九龍深水埗海麗邨海麗商場地下1號舖側空地",
             "en": "Open space adjacent to Shop 1, G/F, Hoi Lai Shopping Centre, Hoi Lai Estate, Sham Shiu Po, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.14682,
             22.33257
@@ -5270,10 +4722,6 @@
         "address": {
             "zh": "香港上環德輔道西40-50號西區中心大廈",
             "en": "Western Centre, 40-50 Des Voeux Road West, Sheung Wan, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.146933,
@@ -5315,10 +4763,6 @@
             "zh": "香港鴨脷洲海怡半島廣場西翼商場地下G14號舖",
             "en": "Shop G14, G/F, Marina Square, West Commercial Block, South Horizons, Ap Lei Chau, Hong Kong"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.14723,
             22.24402
@@ -5358,10 +4802,6 @@
         "address": {
             "zh": "九龍長沙灣青山道654至656號浪淘大廈地下",
             "en": "G/F, Long To Building, 654 - 656 Castle Peak Road, Cheung Sha Wan, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.148272,
@@ -5403,10 +4843,6 @@
             "zh": "香港皇后大道西2-12號聯發商場A舖",
             "en": "Shop A, Arion Commercial Centre, 2-12 Queen's Road West, Hong Kong"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.14829,
             22.2864
@@ -5438,10 +4874,6 @@
         "address": {
             "zh": "九龍長沙灣道833號長沙灣廣場1樓119號舖對面",
             "en": "The corner facing Unit 119, 1/F, Cheung Sha Wan Plaza, No. 833 Cheung Sha Wan Road, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.14845,
@@ -5483,10 +4915,6 @@
             "zh": "九龍荔枝角道833號昇悅居昇悅商場一樓陳列櫃4",
             "en": "Display Showcase 4, 1/F Liberte Place, Liberte, 833 Lai Chi Kok Road, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.14893,
             22.33469
@@ -5526,10 +4954,6 @@
         "address": {
             "zh": "九龍長沙灣道833號長沙灣廣場1樓116C號舖及128A號舖",
             "en": "Unit 116C & 128A, 1/F, Cheung Sha Wan Plaza, No.833 Cheung Sha Wan Road, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.149065,
@@ -5571,10 +4995,6 @@
             "zh": "香港香港仔田灣邨田灣商場101號舖",
             "en": "Shop 101, Tin Wan Shopping Centre, Tin Wan Estate, Aberdeen, Hong Kong"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.14957,
             22.25103
@@ -5606,10 +5026,6 @@
         "address": {
             "zh": "香港山頂道118號山頂廣場1樓",
             "en": "Level one, The Peak Galleria, 118 Peak Road, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.14975,
@@ -5651,10 +5067,6 @@
             "zh": "九龍長沙灣道777-779號天安工業大廈地下",
             "en": "G/F, Tin On Industrial Building, 777-779 Cheung Sha Wan Road, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.15021,
             22.33786
@@ -5687,10 +5099,6 @@
             "zh": "香港西摩道1號地下7號舖7-Eleven便利店",
             "en": "7-Eleven, Shop No. 7, G/F Fairview Height, 1 Seymour Road, Hong Kong"
         },
-        "detail": {
-            "zh": "自動櫃員機將於2015年9月28日至10月2日暫停服務",
-            "en": "ATM service will be temporarily suspended from 28 September - 2 October 2015"
-        },
         "loc": [
             114.15077,
             22.28017
@@ -5698,8 +5106,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "現金提款",
-            "en": "Cash Withdrawal"
+            "zh": "自動櫃員機將於2015年9月28日至10月2日暫停服務\n現金提款",
+            "en": "ATM service will be temporarily suspended from 28 September - 2 October 2015\nCash Withdrawal"
         },
         "tel": null
     },
@@ -5722,10 +5130,6 @@
         "address": {
             "zh": "香港干諾道中168-200號信德中心2樓294-295號舖",
             "en": "Shop 294 - 295, 2/F, Shun Tak Centre, 168-200 Connaught Road Central, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.15109,
@@ -5759,10 +5163,6 @@
             "zh": "香港上環德輔道中293-301號 粵海投資大廈地下A舖",
             "en": "Shop A, G/F, Guangdong Investment Tower,  293-301 Des Voeux Road Central, Sheung Wan, Hong Kong"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.15115,
             22.287037
@@ -5794,10 +5194,6 @@
         "address": {
             "zh": "新界大埔康樂園市中心徑3號地下1號舖",
             "en": "Shop 1, G/F, No. 3, Town Centre Crescent, Hong Lok Yuen, Tai Po, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.15228,
@@ -5831,10 +5227,6 @@
             "zh": "香港上環文咸東街35-45號(只供工商客戶使用)",
             "en": "35-45 Bonham Strand, Sheung Wan, Hong Kong (For commercial customers only)"
         },
-        "detail": {
-            "zh": "附設「商業客戶服務」專屬櫃位",
-            "en": "With dedicated Commercial Customer Service area"
-        },
         "loc": [
             114.152386,
             22.285582
@@ -5850,8 +5242,8 @@
         },
         "atm24": false,
         "service": {
-            "zh": "現金提款\n外幣兌換服務\n現金存款\n網上理財服務\n工商金融服務櫃檯\n支票存款",
-            "en": "Cash Withdrawal\nForeign Currency Exchange\nCash Deposit\nOnline Financial Services \nCommercial Counter\nCheque Deposit"
+            "zh": "附設「商業客戶服務」專屬櫃位\n現金提款\n外幣兌換服務\n現金存款\n網上理財服務\n工商金融服務櫃檯\n支票存款",
+            "en": "With dedicated Commercial Customer Service area\nCash Withdrawal\nForeign Currency Exchange\nCash Deposit\nOnline Financial Services \nCommercial Counter\nCheque Deposit"
         },
         "tel": null
     },
@@ -5875,10 +5267,6 @@
             "zh": "九龍深水埗港鐵南昌站收費區內14號舖",
             "en": "Shop No. 14, Paid Concourse, MTR Nam Cheong Station, Kowloon"
         },
-        "detail": {
-            "zh": "位於車站收費區內",
-            "en": "Inside the paid concourse of the MTR station."
-        },
         "loc": [
             114.15333,
             22.3273
@@ -5894,8 +5282,8 @@
         },
         "atm24": false,
         "service": {
-            "zh": "現金提款\n輪椅通道 (自動櫃員機)\n更新存摺簿交易資料",
-            "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nPassbook Update"
+            "zh": "位於車站收費區內\n現金提款\n輪椅通道 (自動櫃員機)\n更新存摺簿交易資料",
+            "en": "Inside the paid concourse of the MTR station.\nCash Withdrawal\nWheel Chair Access (ATM)\nPassbook Update"
         },
         "tel": null
     },
@@ -5919,10 +5307,6 @@
             "zh": "香港香港仔香港仔中心第1期地下2號舖",
             "en": "Shop 2, G/F, Site I, Aberdeen Centre, Aberdeen, Hong Kong"
         },
-        "detail": {
-            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款",
-            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit"
-        },
         "loc": [
             114.153489,
             22.249069
@@ -5930,8 +5314,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
-            "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
+            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款\n現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
+            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit\nCash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
         },
         "tel": null
     },
@@ -5954,10 +5338,6 @@
         "address": {
             "zh": "香港中環擺花街23-39號中環大廈地下E舖",
             "en": "Shop E. G/F, Lyndhurst Building, 23-39 Lyndhurst Terrace, Central, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.153695,
@@ -5991,10 +5371,6 @@
             "zh": "香港中環堅道27號地下7-Eleven便利店",
             "en": "7-Eleven, G/F, 27 Caine Road, Hong Kong"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.15384,
             22.28033
@@ -6027,10 +5403,6 @@
             "zh": "香港中環皇后大道中128-40號威享大廈",
             "en": "V Heun Building, 128-140 Queen's Road Central, Central, Hong Kong"
         },
-        "detail": {
-            "zh": "24小時自動櫃員機服務",
-            "en": "24-hour ATM service"
-        },
         "loc": [
             114.154214,
             22.284024
@@ -6046,8 +5418,8 @@
         },
         "atm24": true,
         "service": {
-            "zh": "現金提款\n外幣兌換服務\n輪椅通道 (自動櫃員機)\n現金存款\n網上理財服務\n輪椅通道 (分行)\n保險箱服務\n更新存摺簿交易資料\n匯豐運籌理財服務櫃檯\n支票存款",
-            "en": "Cash Withdrawal\nForeign Currency Exchange\nWheel Chair Access (ATM)\nCash Deposit\nOnline Financial Services \nWheel Chair Access (Branch)\nSafe Deposit Box\nPassbook Update\nHSBC Advance Counter\nCheque Deposit"
+            "zh": "24小時自動櫃員機服務\n現金提款\n外幣兌換服務\n輪椅通道 (自動櫃員機)\n現金存款\n網上理財服務\n輪椅通道 (分行)\n保險箱服務\n更新存摺簿交易資料\n匯豐運籌理財服務櫃檯\n支票存款",
+            "en": "24-hour ATM service\nCash Withdrawal\nForeign Currency Exchange\nWheel Chair Access (ATM)\nCash Deposit\nOnline Financial Services \nWheel Chair Access (Branch)\nSafe Deposit Box\nPassbook Update\nHSBC Advance Counter\nCheque Deposit"
         },
         "tel": null
     },
@@ -6070,10 +5442,6 @@
         "address": {
             "zh": "九龍長沙灣幸祥街幸福邨幸福邨商場1樓1號自動櫃員機位",
             "en": "ATM No. 1, 1/F Fortune Shopping Centre, Fortune Estate, Heng Cheung Street, Cheung Sha Wan, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.15452,
@@ -6115,10 +5483,6 @@
             "zh": "九龍深水埗富昌邨富昌商場1樓103號舖",
             "en": "Shop 103, 1/F, Fu Cheong Shopping Centre, Fu Cheong Estate, Sham Shui Po, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.15464,
             22.32759
@@ -6159,10 +5523,6 @@
             "zh": "香港香港仔成都道20-28號添喜大廈1樓6號舖",
             "en": "Portion 6, 1/F, Albert House, 20-28 Chengtu Road, Aberdeen, Hong Kong"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.154963,
             22.248759
@@ -6195,10 +5555,6 @@
             "zh": "香港上環德輔道中141號中保集團大廈",
             "en": "China Insurance Group Building, 141 Des Voeux Road Central, Sheung Wan, Hong Kong"
         },
-        "detail": {
-            "zh": "24小時自動櫃員機服務",
-            "en": "24-hour ATM service"
-        },
         "loc": [
             114.155043,
             22.285456
@@ -6214,8 +5570,8 @@
         },
         "atm24": true,
         "service": {
-            "zh": "現金提款\n外幣兌換服務\n現金存款\n網上理財服務\n更新存摺簿交易資料\n匯豐運籌理財服務櫃檯",
-            "en": "Cash Withdrawal\nForeign Currency Exchange\nCash Deposit\nOnline Financial Services \nPassbook Update\nHSBC Advance Counter"
+            "zh": "24小時自動櫃員機服務\n現金提款\n外幣兌換服務\n現金存款\n網上理財服務\n更新存摺簿交易資料\n匯豐運籌理財服務櫃檯",
+            "en": "24-hour ATM service\nCash Withdrawal\nForeign Currency Exchange\nCash Deposit\nOnline Financial Services \nPassbook Update\nHSBC Advance Counter"
         },
         "tel": null
     },
@@ -6238,10 +5594,6 @@
         "address": {
             "zh": "香港中環德己立街41號地下7號鋪",
             "en": "Shop 7, G/F, D'Aguilar Street No.41, Central, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.155095,
@@ -6275,10 +5627,6 @@
             "zh": "香港鴨脷洲利東邨商場1期208A舖",
             "en": "Shop 208A, Commercial Centre, Phase 1, Lei Tung Estate, Ap Lei Chau, Hong Kong"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.15598,
             22.24092
@@ -6311,10 +5659,6 @@
             "zh": "九龍深水埗青山道 332 號地下7-Eleven便利店",
             "en": "7-Eleven, G/F, 332 Castle Peak Road, Cheung Sha Wan, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.156186,
             22.338706
@@ -6346,10 +5690,6 @@
         "address": {
             "zh": "香港九龍長沙灣元州街303號元州商場1樓F08室",
             "en": "Shop No.F08, First Floor, Un Chau Shopping Centre, Un Chau Estate, 303 Un Chau Street, Cheung Sha Wan, Kowloon."
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.1562,
@@ -6391,10 +5731,6 @@
             "zh": "香港仔鴨脷洲大街33號順景閣地下D舖",
             "en": "Shop D, G/F, Shun King court, 33 Main Street, Apleichau, Aberdeen, Hong Kong"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.15668,
             22.24432
@@ -6426,10 +5762,6 @@
         "address": {
             "zh": "九龍深水埗麗閣邨麗閣商場地下20A號舖",
             "en": "Shop 20A, G/F, Lai Kok Shopping Centre, Lai Kok Estate, Sham Shiu Po, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.15679,
@@ -6463,10 +5795,6 @@
             "zh": "香港中環皇后大道中29號地下",
             "en": "G/F, 29 Queen's Road Central, Central, Hong Kong"
         },
-        "detail": {
-            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款",
-            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit"
-        },
         "loc": [
             114.156935,
             22.281658
@@ -6474,8 +5802,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
-            "en": "Cash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
+            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
+            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
         },
         "tel": null
     },
@@ -6498,10 +5826,6 @@
         "address": {
             "zh": "香港香港仔石排灣邨石排灣商場低層1樓2號舖側空地",
             "en": "Open Space next to Shop 2 LG1/F, Shek Pai Wan Shopping Centre, Shek Pai Wan Estate, Aberdeen, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.15735,
@@ -6535,10 +5859,6 @@
             "zh": "香港中環交易廣場1樓101號舖",
             "en": "Shop 101, 1/F, Exchange Square Podium, 8 Connaught Place, Central, Hong Kong"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.158413,
             22.283356
@@ -6570,10 +5890,6 @@
         "address": {
             "zh": "九龍長沙灣李鄭屋邨李鄭屋商場地下",
             "en": "ATM space at the Corner (Next to the Tenant \"Wellcome\"), G/F, Lei Cheng Uk Shopping Centre, Cheung Sha Wan, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.15857,
@@ -6607,10 +5923,6 @@
             "zh": "香港中環皇后大道中 1 號地庫",
             "en": "BL1, 1 Queen's Road Central, Central, Hong Kong"
         },
-        "detail": {
-            "zh": "附設「商業客戶服務」專屬櫃位",
-            "en": "With dedicated Commercial Customer Service area"
-        },
         "loc": [
             114.159373,
             22.280725
@@ -6626,8 +5938,8 @@
         },
         "atm24": false,
         "service": {
-            "zh": "現金提款\n外幣兌換服務\n現金存款\n更新存摺簿交易資料\n工商金融服務櫃檯\n支票存款",
-            "en": "Cash Withdrawal\nForeign Currency Exchange\nCash Deposit\nPassbook Update\nCommercial Counter\nCheque Deposit"
+            "zh": "附設「商業客戶服務」專屬櫃位\n現金提款\n外幣兌換服務\n現金存款\n更新存摺簿交易資料\n工商金融服務櫃檯\n支票存款",
+            "en": "With dedicated Commercial Customer Service area\nCash Withdrawal\nForeign Currency Exchange\nCash Deposit\nPassbook Update\nCommercial Counter\nCheque Deposit"
         },
         "tel": null
     },
@@ -6650,10 +5962,6 @@
         "address": {
             "zh": "中環金融街八號國際金融中心商場一樓1105A-C號舖",
             "en": "Shop 1105A-C, Podium Level 1, ifc mall, No. 8 Finance Street, Central, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.1594,
@@ -6687,10 +5995,6 @@
             "zh": "九龍深水埗欽州街西九龍中心1樓126號舖",
             "en": "Shop 126, 1/F, Dragon Centre, Yen Chow Street, Sham shui Po, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.15956,
             22.3309
@@ -6723,10 +6027,6 @@
             "zh": "香港中環皇后大道中1號3樓及地庫",
             "en": "Level 3 & BL1, 1 Queen's Road Central, Central, Hong Kong"
         },
-        "detail": {
-            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款.",
-            "en": "Cash Deposit Machine accepts HKD$20 and $50 banknotes"
-        },
         "loc": [
             114.15959,
             22.28037
@@ -6742,8 +6042,8 @@
         },
         "atm24": false,
         "service": {
-            "zh": "現金提款\n外幣兌換服務\n輪椅通道 (自動櫃員機)\n現金存款\n網上理財服務\n輪椅通道 (分行)\n禮券銷售\n保險箱服務\n更新存摺簿交易資料\n匯豐運籌理財服務櫃檯\n工商金融服務櫃檯\n支票存款",
-            "en": "Cash Withdrawal\nForeign Currency Exchange\nWheel Chair Access (ATM)\nCash Deposit\nOnline Financial Services \nWheel Chair Access (Branch)\nSale of Gift Cheque\nSafe Deposit Box\nPassbook Update\nHSBC Advance Counter\nCommercial Counter\nCheque Deposit"
+            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款.\n現金提款\n外幣兌換服務\n輪椅通道 (自動櫃員機)\n現金存款\n網上理財服務\n輪椅通道 (分行)\n禮券銷售\n保險箱服務\n更新存摺簿交易資料\n匯豐運籌理財服務櫃檯\n工商金融服務櫃檯\n支票存款",
+            "en": "Cash Deposit Machine accepts HKD$20 and $50 banknotes\nCash Withdrawal\nForeign Currency Exchange\nWheel Chair Access (ATM)\nCash Deposit\nOnline Financial Services \nWheel Chair Access (Branch)\nSale of Gift Cheque\nSafe Deposit Box\nPassbook Update\nHSBC Advance Counter\nCommercial Counter\nCheque Deposit"
         },
         "tel": null
     },
@@ -6766,10 +6066,6 @@
         "address": {
             "zh": "香港皇后大道中1號滙豐總行大廈地面廣場",
             "en": "HSBC Main Building Plaza, 1 Queen's Road Central, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.1597,
@@ -6802,10 +6098,6 @@
         "address": {
             "zh": "九龍深水埗欽州街37K西九龍中心3樓309-310舖",
             "en": "Shop 309-310, 3/F, Dragon Centre, 37K Yen Chow Street, Sham Shui Po, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.160051,
@@ -6847,10 +6139,6 @@
             "zh": "九龍柯士甸道西1號環球貿易廣場 47 樓",
             "en": "Level 47, International Commerce Centre, 1 Austin Road West, Kowloon."
         },
-        "detail": {
-            "zh": "受限制區域",
-            "en": "Restricted area"
-        },
         "loc": [
             114.16027,
             22.30339
@@ -6858,8 +6146,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "現金提款\n輪椅通道 (自動櫃員機)",
-            "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
+            "zh": "受限制區域\n現金提款\n輪椅通道 (自動櫃員機)",
+            "en": "Restricted area\nCash Withdrawal\nWheel Chair Access (ATM)"
         },
         "tel": null
     },
@@ -6883,10 +6171,6 @@
             "zh": "香港九龍柯士甸道西1號環球貿易廣場56樓",
             "en": "Space for ATM at Level 56, International Commerce Centre, 1 Austin Road West, Kowloon, Hong Kong"
         },
-        "detail": {
-            "zh": "受限制區域",
-            "en": "Restricted area"
-        },
         "loc": [
             114.160287,
             22.30354
@@ -6894,8 +6178,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "現金提款\n輪椅通道 (自動櫃員機)",
-            "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
+            "zh": "受限制區域\n現金提款\n輪椅通道 (自動櫃員機)",
+            "en": "Restricted area\nCash Withdrawal\nWheel Chair Access (ATM)"
         },
         "tel": null
     },
@@ -6918,10 +6202,6 @@
         "address": {
             "zh": "九龍大角咀港灣豪庭廣場地下公共走廊自動櫃員機位(近G30號舖)",
             "en": "Open space at Common Corridor, G/F Metro Harbour Plaza, Tai Kok Tsui, Kowloon (Near Shop G30)"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.160502,
@@ -6963,10 +6243,6 @@
             "zh": "新界大埔太和邨太和廣場S221A號舖",
             "en": "Shop No. S221A, Tai Wo Plaza, Tai Wo Estate, Tai Po, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.16089,
             22.45051
@@ -6998,10 +6274,6 @@
         "address": {
             "zh": "九龍尖沙咀柯士甸道西一號圓方一樓一號提款機",
             "en": "ATM 1, First Level, Elements, 1 Austin Road West, Tsim Sha Tsui, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.16103,
@@ -7035,10 +6307,6 @@
             "zh": "九龍大角咀深旺道一號滙豐中心高層地下D舖",
             "en": "Shop D, UG/F, HSBC Centre, 1 Sham Mong Road, Tai Kok Tsui, Kowloon"
         },
-        "detail": {
-            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款",
-            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit"
-        },
         "loc": [
             114.161031,
             22.318177
@@ -7046,8 +6314,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n外幣現金提款\n禮券銷售\n更新存摺簿交易資料\n支票存款",
-            "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nForeign Currency Cash Withdrawal\nSale of Gift Cheque\nPassbook Update\nCheque Deposit"
+            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款\n現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n外幣現金提款\n禮券銷售\n更新存摺簿交易資料\n支票存款",
+            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit\nCash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nForeign Currency Cash Withdrawal\nSale of Gift Cheque\nPassbook Update\nCheque Deposit"
         },
         "tel": null
     },
@@ -7070,10 +6338,6 @@
         "address": {
             "zh": "香港中環7號碼頭(天星小輪)上層一號提款機",
             "en": "ATM 1, Upper Deck, Central Pier 7 (Star Ferry), Central, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.16108,
@@ -7107,10 +6371,6 @@
             "zh": "港鐵太和站收費區內 TWO ATM 4自動櫃員機機位",
             "en": "No. TWO ATM 4, Paid Concourse, MTR Tai Wo Station, New Territories"
         },
-        "detail": {
-            "zh": "位於車站收費區內",
-            "en": "Inside the paid concourse of the MTR station."
-        },
         "loc": [
             114.1613,
             22.45102
@@ -7126,8 +6386,8 @@
         },
         "atm24": false,
         "service": {
-            "zh": "輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
-            "en": "Wheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
+            "zh": "位於車站收費區內\n輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
+            "en": "Inside the paid concourse of the MTR station.\nWheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
         },
         "tel": null
     },
@@ -7151,10 +6411,6 @@
             "zh": "九龍深水埗桂林街133-135 號地下B舖 7-Eleven便利店",
             "en": "7-Eleven, Shop B, G/F, 133-135 Kweilin Street, Sham Shui Po, Kowloon"
         },
-        "detail": {
-            "zh": "自動櫃員機將於2015年9月16日至18日暫停服務",
-            "en": "ATM service will be temporarily suspended from 16 - 18 September 2015"
-        },
         "loc": [
             114.16153,
             22.33088
@@ -7162,8 +6418,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "現金提款",
-            "en": "Cash Withdrawal"
+            "zh": "自動櫃員機將於2015年9月16日至18日暫停服務\n現金提款",
+            "en": "ATM service will be temporarily suspended from 16 - 18 September 2015\nCash Withdrawal"
         },
         "tel": null
     },
@@ -7186,10 +6442,6 @@
         "address": {
             "zh": "新界大埔太和邨太和廣場K2號舖",
             "en": "Shop K2, Tai Wo Plaza, Tai Wo Estate, Tai Po, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.16168,
@@ -7223,10 +6475,6 @@
             "zh": "九龍深水埗荔枝角道245號",
             "en": "245 Lai Chi Kok Road, Sham Shui Po, Kowloon"
         },
-        "detail": {
-            "zh": "24小時自動櫃員機服務",
-            "en": "24-hour ATM Service"
-        },
         "loc": [
             114.161867,
             22.327247
@@ -7242,8 +6490,8 @@
         },
         "atm24": true,
         "service": {
-            "zh": "現金提款\n外幣兌換服務\n匯豐卓越理財服務櫃檯\n現金存款\n網上理財服務\n更新存摺簿交易資料\n匯豐運籌理財服務櫃檯\n支票存款",
-            "en": "Cash Withdrawal\nForeign Currency Exchange\nHSBC Premier Counter\nCash Deposit\nOnline Financial Services \nPassbook Update\nHSBC Advance Counter\nCheque Deposit"
+            "zh": "24小時自動櫃員機服務\n現金提款\n外幣兌換服務\n匯豐卓越理財服務櫃檯\n現金存款\n網上理財服務\n更新存摺簿交易資料\n匯豐運籌理財服務櫃檯\n支票存款",
+            "en": "24-hour ATM Service\nCash Withdrawal\nForeign Currency Exchange\nHSBC Premier Counter\nCash Deposit\nOnline Financial Services \nPassbook Update\nHSBC Advance Counter\nCheque Deposit"
         },
         "tel": null
     },
@@ -7267,10 +6515,6 @@
             "zh": "香港中環夏慤道10號和記大廈地下",
             "en": "G/F, Hutchison House, 10 Harcourt Road, Central, Hong Kong"
         },
-        "detail": {
-            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款",
-            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit"
-        },
         "loc": [
             114.16259,
             22.281125
@@ -7278,8 +6522,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
-            "en": "Cash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
+            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
+            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
         },
         "tel": null
     },
@@ -7302,10 +6546,6 @@
         "address": {
             "zh": "九龍深水埗元州街73號富雅閣地下",
             "en": "G/F, Full Art Court, 73 Un Chau Street, Sham Shui Po, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.16283,
@@ -7339,10 +6579,6 @@
             "zh": "九龍深水埗福榮街68號地下 A 舖 7-Eleven便利店",
             "en": "7-Eleven, Shop A, G/F, 68 Fuk Wing Street, Sham Shui Po, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.16326,
             22.33172
@@ -7374,10 +6610,6 @@
         "address": {
             "zh": "九龍旺角西海泓道富榮花園地下32-33號舖Circle-K便利店",
             "en": "Circle-K, Shop Nos. 32 & 33, G/F, Charming Garden, Hoi Wang Road, Mong Kok West, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.1646,
@@ -7411,10 +6643,6 @@
             "zh": "九龍澤安邨富澤樓地下3號舖",
             "en": "ATM at Shop 3, Fu Chak House, Chak On Estate, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.164734,
             22.339775
@@ -7446,10 +6674,6 @@
         "address": {
             "zh": "香港金鐘道88號太古廣場商場403號舖",
             "en": "Shop 403, Pacific Place Mall, 88 Queensway, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.165126,
@@ -7483,10 +6707,6 @@
             "zh": "香港金鐘道88號太古廣場商場102號舖",
             "en": "Shop 102, Pacific Place Mall, 88 Queensway, Hong Kong"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.165372,
             22.277746
@@ -7518,10 +6738,6 @@
         "address": {
             "zh": "港鐵柯士甸站(收費區外) AUS 102 號舖",
             "en": "Unpaid Concourse, Shop AUS 102, MTR Austin Staton"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.16621,
@@ -7563,10 +6779,6 @@
             "zh": "新界大埔廣福道54-62號",
             "en": "54-62 Kwong Fuk Road, Tai Po, New Territories"
         },
-        "detail": {
-            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款",
-            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit"
-        },
         "loc": [
             114.166652,
             22.448767
@@ -7574,8 +6786,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
-            "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
+            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
+            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
         },
         "tel": null
     },
@@ -7598,10 +6810,6 @@
         "address": {
             "zh": "九龍石硤尾白田邨麗田樓地下11至20號單位外空地",
             "en": "Open space near Unit No. 11-20, G/F, Lai Tin House, Pak Tin Estate, Shek Kip Mei, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.16742,
@@ -7635,10 +6843,6 @@
             "zh": "新界大埔運頭塘邨商場K1號舖",
             "en": "Shop K1, Wan Tau Tong Estate Shopping Centre, Tai Po, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.16744,
             22.44209
@@ -7670,10 +6874,6 @@
         "address": {
             "zh": "九龍尖沙咀中港城2樓11號舖",
             "en": "Shop No.11, 2/F, China Hong Kong City, Tsim Sha Tsui, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.16788,
@@ -7707,10 +6907,6 @@
             "zh": "香港灣仔軍器廠街警政大樓香港警察總部",
             "en": "Hong Kong Police Headquarters, Arsenal House, Arsenal Street, Wan Chai, HK"
         },
-        "detail": {
-            "zh": "受限制區域",
-            "en": "Restricted area"
-        },
         "loc": [
             114.1679,
             22.27814
@@ -7718,8 +6914,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "現金提款\n輪椅通道 (自動櫃員機)",
-            "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
+            "zh": "受限制區域\n現金提款\n輪椅通道 (自動櫃員機)",
+            "en": "Restricted area\nCash Withdrawal\nWheel Chair Access (ATM)"
         },
         "tel": null
     },
@@ -7742,10 +6938,6 @@
         "address": {
             "zh": "九龍尖沙咀海港城港威商場三階K2號舖",
             "en": "Shop K2, Level 3, Gateway Arcade, Harbour City, Tsim Sha Tsui, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.16794,
@@ -7787,10 +6979,6 @@
             "zh": "新界大埔大元邨大元市場409A號舖",
             "en": "Unit 409A, Tai Yuen Market, Tai Yuen Estate, Tai Po, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.168028,
             22.454029
@@ -7822,10 +7010,6 @@
         "address": {
             "zh": "新界大埔翠屏花園商場26號",
             "en": "Shop No. 26, Jade Plaza, Tai Po, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.168591,
@@ -7859,10 +7043,6 @@
             "zh": "九龍 尖沙咀 天星碼頭 地下５號舖",
             "en": "Shop Unit KP-05, Kowloon Point Ferry Pier, Star Ferry, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.168742,
             22.293832
@@ -7895,10 +7075,6 @@
             "zh": "九龍佐敦寳靈街48-50號地下7-Eleven便利店",
             "en": "7-Eleven, G/F, 48-50 Bowring Street, Jordan, Kowloon"
         },
-        "detail": {
-            "zh": "自動櫃員機將於2015年9月7日至10日暫停服務",
-            "en": "ATM service will be temporarily suspended from 7 - 10 September 2015"
-        },
         "loc": [
             114.16899,
             22.30405
@@ -7906,8 +7082,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "現金提款",
-            "en": "Cash Withdrawal"
+            "zh": "自動櫃員機將於2015年9月7日至10日暫停服務\n現金提款",
+            "en": "ATM service will be temporarily suspended from 7 - 10 September 2015\nCash Withdrawal"
         },
         "tel": null
     },
@@ -7931,10 +7107,6 @@
             "zh": "九龍旺角彌敦道750號始創中心2樓218舖",
             "en": "Shop 218, 2/F, Pioneer Centre, 750 Nathan Rd, Mong Kok, Kowloon"
         },
-        "detail": {
-            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款",
-            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit"
-        },
         "loc": [
             114.169031,
             22.322617
@@ -7950,8 +7122,8 @@
         },
         "atm24": false,
         "service": {
-            "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
-            "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
+            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
+            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
         },
         "tel": null
     },
@@ -7974,10 +7146,6 @@
         "address": {
             "zh": "九龍尖沙咀海港城海洋中心三階K3",
             "en": "Kiosk 3, Level 3 , Ocean Centre, Harbour City, Tsim Sha Tsui, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.16905,
@@ -8019,10 +7187,6 @@
             "zh": "香港黃竹坑香葉道2號One Island South1樓102-103號舖對面",
             "en": "Space Opposite to Shop Nos.102-103, 1st Floor, One Island South, No.2 Heung Yip Road, Wong Chuk Hang, Hong Kong"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.169085,
             22.249044
@@ -8054,10 +7218,6 @@
         "address": {
             "zh": "九龍旺角彌敦道673號2樓",
             "en": "2/F, 673 Nathan Road, Mong Kok, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.169163,
@@ -8099,10 +7259,6 @@
             "zh": "九龍旺角彌敦道673號低層地下",
             "en": "L/G, 673 Nathan Road, Mong Kok, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.16925,
             22.31883
@@ -8143,10 +7299,6 @@
             "zh": "九龍旺角水渠道34-36號東樂大樓地下A號舖",
             "en": "Shop A, G/F Tung Lok Mansion, 34-36 Nullah Road, Mongkok, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.169858,
             22.323691
@@ -8178,10 +7330,6 @@
         "address": {
             "zh": "新界大埔安邦路8及10號大埔超級城B區一田百貨地下自動櫃員機位",
             "en": "Open space, G/F, Zone B, YATA Tai Po Department Store, Tai Po Mega Mall, No. 8 & 10 On Pong Road, Tai Po, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.169879,
@@ -8223,10 +7371,6 @@
             "zh": "九龍旺角通菜街126A號地下7-Eleven便利店",
             "en": "7-Eleven, G/F, 126A Tung Choi Street, Mong Kok, Kowloon"
         },
-        "detail": {
-            "zh": "自動櫃員機將於2015年9月9日至11日暫停服務",
-            "en": "ATM service will be temporarily suspended from 9 - 11 September 2015"
-        },
         "loc": [
             114.17031,
             22.32136
@@ -8234,8 +7378,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "現金提款",
-            "en": "Cash Withdrawal"
+            "zh": "自動櫃員機將於2015年9月9日至11日暫停服務\n現金提款",
+            "en": "ATM service will be temporarily suspended from 9 - 11 September 2015\nCash Withdrawal"
         },
         "tel": null
     },
@@ -8258,10 +7402,6 @@
         "address": {
             "zh": "新界大埔港鐵大埔墟站收費區外6號舖",
             "en": "Shop No. 6, Unpaid Concourse, MTR Tai Po Market Station, Tai Po, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.17044,
@@ -8303,10 +7443,6 @@
             "zh": "九龍旺角通菜街81號地下7-Eleven便利店",
             "en": "7-Eleven, G/F, 81 Tung Choi Street, Mong Kok, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.17048,
             22.31899
@@ -8338,10 +7474,6 @@
         "address": {
             "zh": "九龍尖沙咀海防道38-40號 中達大廈2樓 (只供工商客戶使用)",
             "en": "2/F, Zhongda Building, 38-40 Haiphong Road, Tsim Sha Tsui, Kowloon (For commercial customers only)"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.170759,
@@ -8383,10 +7515,6 @@
             "zh": "九龍油麻地彌敦道528號康祐大廈地下",
             "en": "G/F, Onward Building, 528 Nathan Road, Yau Ma Tei, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.17087,
             22.31321
@@ -8418,10 +7546,6 @@
         "address": {
             "zh": "新界沙田美田邨美田商場2樓203號舖對面空地",
             "en": "Open space opposite to Shop 203, 2/F, Mei Tin Shopping Centre, Mei Tin Estate, Sha Tin, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.1709,
@@ -8455,10 +7579,6 @@
             "zh": "新界沙田顯徑邨商場B翼地下",
             "en": "ATM2, Wing B, G/F, Hin Keng Estate Shopping Centre, Sha Tin, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.17128,
             22.36317
@@ -8490,10 +7610,6 @@
         "address": {
             "zh": "九龍旺角山東街50號地下B舖",
             "en": "Shop B, G/F, 50 Shantung Street, Mongkok, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.171325,
@@ -8527,10 +7643,6 @@
             "zh": "香港灣仔軒尼詩道71-85熙華大廈地下",
             "en": "G/F, Hay Wah Building, 71-85 Hennessy Road, Wan Chai, Hong Kong"
         },
-        "detail": {
-            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款",
-            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit"
-        },
         "loc": [
             114.171389,
             22.277727
@@ -8538,8 +7650,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
-            "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
+            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
+            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
         },
         "tel": null
     },
@@ -8562,10 +7674,6 @@
         "address": {
             "zh": "新界大埔富亨邨富亨商場地下2號自助櫃員機",
             "en": "ATM 2, G/F, Fu Heng Shopping Centre, Fu Heng Estate, Tai Po, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.17153,
@@ -8599,10 +7707,6 @@
             "zh": "九龍南山邨近南樂樓地下112號舖",
             "en": "G/F near Shop 112, Nam Lok House, Nam Shan Estate, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.171542,
             22.33523
@@ -8634,10 +7738,6 @@
         "address": {
             "zh": "香港灣仔皇后大道東183號合和中心地下4號舖",
             "en": "Shop No.4, G/F, Hopewell Centre, 183 Queen's Road East, Wan Chai, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.171695,
@@ -8671,10 +7771,6 @@
             "zh": "九龍旺角豉油街60-140號鴻都大廈地下16號舖",
             "en": "Shop 16, G/F, The Concor Building, 60-140 Soy Street, Mongkok, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.171765,
             22.316942
@@ -8707,10 +7803,6 @@
             "zh": "九龍油麻地彌敦道238號地下8號舖",
             "en": "Shop No. 8 , G/F, 238 Nathan Road, Yau Ma Tei, Kowloon"
         },
-        "detail": {
-            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款",
-            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit"
-        },
         "loc": [
             114.171934,
             22.304942
@@ -8726,8 +7818,8 @@
         },
         "atm24": false,
         "service": {
-            "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
-            "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
+            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
+            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
         },
         "tel": null
     },
@@ -8750,10 +7842,6 @@
         "address": {
             "zh": "九龍尖沙咀彌敦道21號九龍酒店1樓",
             "en": "1/F, Kowloon Hotel, 21 Nathan Road, Tsim Sha Tsui, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.17215,
@@ -8795,10 +7883,6 @@
             "zh": "尖沙咀彌敦道82-84號 地下",
             "en": "G/F, 82-84 Nathan Road, Tsim Sha Tsui, Kowloon"
         },
-        "detail": {
-            "zh": "附設「商業客戶服務」專屬櫃位",
-            "en": "With dedicated Commercial Customer Service area"
-        },
         "loc": [
             114.172325,
             22.298845
@@ -8814,8 +7898,8 @@
         },
         "atm24": false,
         "service": {
-            "zh": "外幣兌換服務\n輪椅通道 (分行)\n工商金融服務櫃檯",
-            "en": "Foreign Currency Exchange\nWheel Chair Access (Branch)\nCommercial Counter"
+            "zh": "附設「商業客戶服務」專屬櫃位\n外幣兌換服務\n輪椅通道 (分行)\n工商金融服務櫃檯",
+            "en": "With dedicated Commercial Customer Service area\nForeign Currency Exchange\nWheel Chair Access (Branch)\nCommercial Counter"
         },
         "tel": null
     },
@@ -8839,10 +7923,6 @@
             "zh": "九龍尖沙咀彌敦道82-84 號",
             "en": "82-84 Nathan Road, Tsim Sha Tsui, Kowloon"
         },
-        "detail": {
-            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款",
-            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit"
-        },
         "loc": [
             114.172457,
             22.298835
@@ -8850,8 +7930,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
-            "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
+            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
+            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
         },
         "tel": null
     },
@@ -8875,10 +7955,6 @@
             "zh": "九龍旺角港鐵旺角東站收費區內MKK16號舖",
             "en": "Shop MKK16, Paid Concourse, MTR Mong Kok East Station, Mong Kok, Kowloon."
         },
-        "detail": {
-            "zh": "位於車站收費區內",
-            "en": "Inside the paid concourse of the MTR station."
-        },
         "loc": [
             114.17263,
             22.32226
@@ -8894,8 +7970,8 @@
         },
         "atm24": false,
         "service": {
-            "zh": "輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
-            "en": "Wheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
+            "zh": "位於車站收費區內\n輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
+            "en": "Inside the paid concourse of the MTR station.\nWheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
         },
         "tel": null
     },
@@ -8919,10 +7995,6 @@
             "zh": "香港香港仔海洋公園道18號警察訓練學校",
             "en": "G/F, Admin Block, Police Training School, 18 Ocean Park Road, Aberdeen, Hong Kong"
         },
-        "detail": {
-            "zh": "受限制區域",
-            "en": "Restricted area"
-        },
         "loc": [
             114.17315,
             22.24594
@@ -8930,8 +8002,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "現金提款",
-            "en": "Cash Withdrawal"
+            "zh": "受限制區域\n現金提款",
+            "en": "Restricted area\nCash Withdrawal"
         },
         "tel": null
     },
@@ -8955,10 +8027,6 @@
             "zh": "新界大埔安埔里地下6號",
             "en": "G/F, 6 On Po Lane, Tai Po, New Territories"
         },
-        "detail": {
-            "zh": "受限制區域",
-            "en": "Restricted area"
-        },
         "loc": [
             114.17333,
             22.45166
@@ -8966,8 +8034,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "現金提款",
-            "en": "Cash Withdrawal"
+            "zh": "受限制區域\n現金提款",
+            "en": "Restricted area\nCash Withdrawal"
         },
         "tel": null
     },
@@ -8990,10 +8058,6 @@
         "address": {
             "zh": "九龍尖沙咀港鐵尖東站收費區外14號舖",
             "en": "Shop 14, Unpaid Concourse, MTR East Tsim Sha Tsui Station, Tsim Sha Tsui, Kowloon."
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.17359,
@@ -9035,10 +8099,6 @@
             "zh": "香港灣仔港灣道1號會展廣場102A室",
             "en": "102A Shopping Arcade Convention Plaza, 1 Harbour Road, Wan Chai, Hong Kong"
         },
-        "detail": {
-            "zh": "「提存易」接受港幣$20及$50元現鈔存款",
-            "en": "Multi-Function Machine accepts HKD $20 and $50 banknotes deposit"
-        },
         "loc": [
             114.17378,
             22.28093
@@ -9046,8 +8106,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "輪椅通道 (自動櫃員機)\n現金存款\n支票存款\n現金提款 (港幣及人民幣)",
-            "en": "Wheel Chair Access (ATM)\nCash Deposit\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
+            "zh": "「提存易」接受港幣$20及$50元現鈔存款\n輪椅通道 (自動櫃員機)\n現金存款\n支票存款\n現金提款 (港幣及人民幣)",
+            "en": "Multi-Function Machine accepts HKD $20 and $50 banknotes deposit\nWheel Chair Access (ATM)\nCash Deposit\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
         },
         "tel": null
     },
@@ -9070,10 +8130,6 @@
         "address": {
             "zh": "新界大埔廣福邨商場K1號舖",
             "en": "ATM1, Commercial Complex, Kwong Fuk Estate, Tai Po, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.17417,
@@ -9107,10 +8163,6 @@
             "zh": "九龍九龍塘達之路80號又一城LG2-01",
             "en": "Shop LG2-01, Festival Walk, 80 Tat Chee Avenue, Kowloon Tong, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.17459,
             22.337282
@@ -9142,10 +8194,6 @@
         "address": {
             "zh": "新界大埔富善邨商場地下22號舖",
             "en": "Shop G22, Fu Shin Shopping Centre, Tai Po, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.17462,
@@ -9179,10 +8227,6 @@
             "zh": "九龍加士居道依利沙伯醫院西翼地下",
             "en": "G/F Western Lobby, Queen Elizabeth Hospital, Gascoign Road, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.1748,
             22.30947
@@ -9214,10 +8258,6 @@
         "address": {
             "zh": "九龍九龍塘達之路80號又一城港鐵接駁通道",
             "en": "MTR Integrated Entrance, Festival Walk, 80 Tat Chee Avenue, Kowloon Tong, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.17486,
@@ -9259,10 +8299,6 @@
             "zh": "九龍何文田窩打老道71號",
             "en": "71 Waterloo Road, Ho Man Tin, Kowloon"
         },
-        "detail": {
-            "zh": "24小時自動櫃員機服務",
-            "en": "24-hour ATM Service"
-        },
         "loc": [
             114.175453,
             22.31881
@@ -9278,8 +8314,8 @@
         },
         "atm24": true,
         "service": {
-            "zh": "現金提款\n外幣兌換服務\n輪椅通道 (自動櫃員機)\n現金存款\n網上理財服務\n輪椅通道 (分行)\n更新存摺簿交易資料\n匯豐運籌理財服務櫃檯\n支票存款",
-            "en": "Cash Withdrawal\nForeign Currency Exchange\nWheel Chair Access (ATM)\nCash Deposit\nOnline Financial Services \nWheel Chair Access (Branch)\nPassbook Update\nHSBC Advance Counter\nCheque Deposit"
+            "zh": "24小時自動櫃員機服務\n現金提款\n外幣兌換服務\n輪椅通道 (自動櫃員機)\n現金存款\n網上理財服務\n輪椅通道 (分行)\n更新存摺簿交易資料\n匯豐運籌理財服務櫃檯\n支票存款",
+            "en": "24-hour ATM Service\nCash Withdrawal\nForeign Currency Exchange\nWheel Chair Access (ATM)\nCash Deposit\nOnline Financial Services \nWheel Chair Access (Branch)\nPassbook Update\nHSBC Advance Counter\nCheque Deposit"
         },
         "tel": null
     },
@@ -9302,10 +8338,6 @@
         "address": {
             "zh": "九龍塘港鐵站KOT 126號商舖",
             "en": "Shop No. KOT 126 at Kowloon Tong MTR Station"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.17567,
@@ -9347,10 +8379,6 @@
             "zh": "沙田大圍美林商場1樓ATM2",
             "en": "ATM2, 1/F, Mei Lam Shopping Centre, Mei Lam Estate ,Shatin, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.17591,
             22.37802
@@ -9383,10 +8411,6 @@
             "zh": "香港灣仔軒尼詩道256號地下1號舖",
             "en": "Shop No. 1, G/F, 256 Hennessy Road, Wan Chai, Hong Kong."
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.17611,
             22.2777
@@ -9418,10 +8442,6 @@
         "address": {
             "zh": "香港仔海洋公圉入口平台西翼",
             "en": "Podium Floor, West Retail Building, Entry Plaza of Ocean Park, Aberdeen, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.176147,
@@ -9463,10 +8483,6 @@
             "zh": "香港灣仔軒尼詩道288號英皇集團中心1樓110-120號舖(只供工商客戶使用)",
             "en": "Shops 110-120, 1/F, Emperor Group Centre, 288 Hennessy Road, Wan Chai, Hong Kong (For commercial customers only)"
         },
-        "detail": {
-            "zh": "附設「商業客戶服務」專屬櫃位",
-            "en": "With dedicated Commercial Customer Service area"
-        },
         "loc": [
             114.176837,
             22.277518
@@ -9482,8 +8498,8 @@
         },
         "atm24": true,
         "service": {
-            "zh": "現金提款\n外幣兌換服務\n輪椅通道 (自動櫃員機)\n現金存款\n網上理財服務\n輪椅通道 (分行)\n更新存摺簿交易資料\n工商金融服務櫃檯\n支票存款",
-            "en": "Cash Withdrawal\nForeign Currency Exchange\nWheel Chair Access (ATM)\nCash Deposit\nOnline Financial Services \nWheel Chair Access (Branch)\nPassbook Update\nCommercial Counter\nCheque Deposit"
+            "zh": "附設「商業客戶服務」專屬櫃位\n現金提款\n外幣兌換服務\n輪椅通道 (自動櫃員機)\n現金存款\n網上理財服務\n輪椅通道 (分行)\n更新存摺簿交易資料\n工商金融服務櫃檯\n支票存款",
+            "en": "With dedicated Commercial Customer Service area\nCash Withdrawal\nForeign Currency Exchange\nWheel Chair Access (ATM)\nCash Deposit\nOnline Financial Services \nWheel Chair Access (Branch)\nPassbook Update\nCommercial Counter\nCheque Deposit"
         },
         "tel": null
     },
@@ -9506,10 +8522,6 @@
         "address": {
             "zh": "九龍尖沙咀麼地道 67號半島中心地下G55-60號",
             "en": "Units G55-60, G/F, Peninsula Centre, 67 Mody Road, Tsim Sha Tsui, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.17692,
@@ -9551,10 +8563,6 @@
             "zh": "香港灣仔港灣道30號新鴻基中心1樓115-117, 127-133舖",
             "en": "Shops 115-117 & 127-133, 1/F, Sun Hung Kai Centre, 30 Harbour Road, Wan Chai, Hong Kong"
         },
-        "detail": {
-            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款",
-            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit"
-        },
         "loc": [
             114.176929,
             22.280245
@@ -9562,8 +8570,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
-            "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
+            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
+            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
         },
         "tel": null
     },
@@ -9587,10 +8595,6 @@
             "zh": "九龍尖東麼地道67號半島中心地下及一樓G55-60號",
             "en": "Units G55-60, G/F & 1/F, Peninsula Centre, 67 Mody Road, Tsim Sha Tsui East, Kowloon"
         },
-        "detail": {
-            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款",
-            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit"
-        },
         "loc": [
             114.177078,
             22.298934
@@ -9598,8 +8602,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
-            "en": "Cash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
+            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
+            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
         },
         "tel": null
     },
@@ -9622,10 +8626,6 @@
         "address": {
             "zh": "九龍尖沙咀加連威老道98號東海商業中心地下G18A號舖",
             "en": "Shop Nos. G18A, G/F, East Ocean Centre, 98 Granville Road, Tsim Sha Tsui East, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.177547,
@@ -9667,10 +8667,6 @@
             "zh": "新界沙田港鐵大圍站42-44號舖",
             "en": "Shops 42-44, MTR Tai Wai Station, Sha Tin, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.178151,
             22.372817
@@ -9710,10 +8706,6 @@
         "address": {
             "zh": "九龍愛民邨愛民商場1樓F23A號舖",
             "en": "Shop F23A, 1/F, Oi Man Commercial Complex, Oi Man Estate, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.17867,
@@ -9755,10 +8747,6 @@
             "zh": "新界沙田大圍港鐵大圍站(收費區內)",
             "en": "Paid Concourse, MTR Tai Wai Station, Tai Wai, Sha Tin, New Territories"
         },
-        "detail": {
-            "zh": "位於車站收費區內",
-            "en": "Inside the paid concourse of the MTR station."
-        },
         "loc": [
             114.17874,
             22.37329
@@ -9774,8 +8762,8 @@
         },
         "atm24": false,
         "service": {
-            "zh": "輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
-            "en": "Wheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
+            "zh": "位於車站收費區內\n輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
+            "en": "Inside the paid concourse of the MTR station.\nWheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
         },
         "tel": null
     },
@@ -9798,10 +8786,6 @@
         "address": {
             "zh": "新界沙田隆亨邨隆亨商場2樓公共走廊自動櫃員機位",
             "en": "ATM Space at Common Corridor, 2/F, Lung Hang Shopping Centre, Lung Hang Estate, Sha Tin, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.17965,
@@ -9835,10 +8819,6 @@
             "zh": "香港灣仔駱克道382號莊士企業大廈地下7-Eleven便利店",
             "en": "7-Eleven, G/F, Chuang's Enterprises Building, 382 Lockhart Road, Wan Chai, Hong Kong"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.17979,
             22.27931
@@ -9871,10 +8851,6 @@
             "zh": "香港灣仔天樂里9-17號兆豐大廈地下C舖7-Eleven便利店",
             "en": "7-Eleven, Shop C, G/F, Siu Fung Building, 9-17 Tin Lok Lane, Wan Chai, Hong Kong"
         },
-        "detail": {
-            "zh": "自動櫃員機將於2015年7月11日起暫停服務直至另行通知",
-            "en": "ATM service will be temporarily suspended from 11 July 2015 until further notice."
-        },
         "loc": [
             114.1799,
             22.27825
@@ -9882,8 +8858,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "現金提款",
-            "en": "Cash Withdrawal"
+            "zh": "自動櫃員機將於2015年7月11日起暫停服務直至另行通知\n現金提款",
+            "en": "ATM service will be temporarily suspended from 11 July 2015 until further notice.\nCash Withdrawal"
         },
         "tel": null
     },
@@ -9906,10 +8882,6 @@
         "address": {
             "zh": "九龍九龍城亞皆老街147號A西翼地下低層",
             "en": "UG/F, West Wing, 147A Argyle Street, Kowloon City, Kowloon."
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.18046,
@@ -9943,10 +8915,6 @@
             "zh": "香港跑馬地體育道1號香港賽馬會總部地下出納處",
             "en": "Portion of Space in Cashier Room, G/F Hong Kong Jockey Club Headquarters, 1 Sports Road, Happy Valley, Hong Kong"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.18098,
             22.27509
@@ -9978,10 +8946,6 @@
         "address": {
             "zh": "新界沙田新翠邨商場地下6號Circle-K便利店",
             "en": "Circle-K, Shop 6, G/F, Commercial Centre, Sun Chui Estate, Sha Tin, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.181,
@@ -10015,10 +8979,6 @@
             "zh": "九龍何文田佛光街33號香港房屋委員會總辦事處地下",
             "en": "G/F, HK Housing Authority Headquarters Bldg., 33 Fat Kwong Street, Ho Man Tin, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.18103,
             22.3157
@@ -10050,10 +9010,6 @@
         "address": {
             "zh": "九龍何文田何文田廣場2樓219號舖",
             "en": "Shop No. 219, Level 2, Ho Man Tin Plaza, Ho Man Tin, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.18186,
@@ -10095,10 +9051,6 @@
             "zh": "香港駱克道463至483號銅鑼灣廣埸二期地下G08號舖",
             "en": "Shop G08, G/F, Causeway Bay Plaza 2, 463-483 Lockhart Road, Hong Kong"
         },
-        "detail": {
-            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款",
-            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit"
-        },
         "loc": [
             114.18192,
             22.28028
@@ -10106,8 +9058,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
-            "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
+            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
+            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
         },
         "tel": null
     },
@@ -10130,10 +9082,6 @@
         "address": {
             "zh": "九龍紅磡港鐵紅磡站收費區外自動櫃員機 HUH ATM 3",
             "en": "HUH ATM 3, Unpaid Concourse, MTR Hung Hom Station, Hung Hom, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.181986,
@@ -10175,10 +9123,6 @@
             "zh": "香港銅鑼灣勿地臣街1號時代廣場3樓電梯E23及E24下(312號舖側)",
             "en": "Space under Escalators Nos. E23 & E24, beside Shop No. 312, 3/F, Times Square, 1 Matheson Street, Causeway Bay, Hong Kong"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.18223,
             22.27842
@@ -10218,10 +9162,6 @@
         "address": {
             "zh": "香港銅鑼灣勿地臣街一號時代廣場地庫二樓(電梯E57&E58下)",
             "en": "Space under Escalators No. E57 & E58, Basement 2, Times Square, 1 Matheson Street, Causeway Bay, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.18248,
@@ -10263,10 +9203,6 @@
             "zh": "九龍九龍城亞皆老街190號",
             "en": "190 Argyle Street, Kowloon City, Kowloon."
         },
-        "detail": {
-            "zh": "受限制區域",
-            "en": "Restricted area"
-        },
         "loc": [
             114.18313,
             22.32354
@@ -10274,8 +9210,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "現金提款\n輪椅通道 (自動櫃員機)",
-            "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
+            "zh": "受限制區域\n現金提款\n輪椅通道 (自動櫃員機)",
+            "en": "Restricted area\nCash Withdrawal\nWheel Chair Access (ATM)"
         },
         "tel": null
     },
@@ -10298,10 +9234,6 @@
         "address": {
             "zh": "香港禮頓道26號凱基商業大廈地下",
             "en": "G/F, Capital Commercial Building, 26 Leighton Road, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.18314,
@@ -10334,10 +9266,6 @@
         "address": {
             "zh": "香港銅鑼灣軒尼詩道500號希慎廣場2樓217B號舖",
             "en": "Shop 217B, 2/F, Hysan Place, 500 Hennessy Road, Causeway Bay, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.183808,
@@ -10379,10 +9307,6 @@
             "zh": "香港跑馬地黃泥涌道15號常德樓地下 7-Eleven便利店",
             "en": "7-Eleven , G/F, Winner House, 15 Wong Nei Chung Road, Happy Valley, Hong Kong"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.18409,
             22.26965
@@ -10414,10 +9338,6 @@
         "address": {
             "zh": "香港銅鑼灣告士打道280號世貿中心地下G022室",
             "en": "Shop No. G022, G/F, World Trade Centre, 280 Gloucester Rd., Causeway Bay, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.184149,
@@ -10451,10 +9371,6 @@
             "zh": "新界沙田新田圍邨商場5樓",
             "en": "5/F, Sun Tin Wai Estate Commercial Centre, Sha Tin, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.18583,
             22.37032
@@ -10486,10 +9402,6 @@
         "address": {
             "zh": "香港銅鑼灣百德新街2-20號 恒隆中心地下G03-04舖",
             "en": "Shops G03-04, G/F, Hang Lung Centre, 2-20 Paterson Street, Causeway Bay, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.185947,
@@ -10523,10 +9435,6 @@
             "zh": "香港跑馬地成和道45號日月大廈地下",
             "en": "G/F, Sun & Moon Building, 45 Sing Woo Road, Happy Valley, Hong Kong"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.18624,
             22.268891
@@ -10559,10 +9467,6 @@
             "zh": "九龍紅磡必嘉街紅磡灣中心商場14號舖",
             "en": "Shop 14, Hung Hom Bay Centre, Baker Street, Hung Hom, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.186257,
             22.305505
@@ -10594,10 +9498,6 @@
         "address": {
             "zh": "九龍天馬苑天馬苑商埸自動櫃員機1號",
             "en": "ATM No.1, 1/F, Tin Ma Court Commercial Centre, Tin Ma Court, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.186723,
@@ -10639,10 +9539,6 @@
             "zh": "新界沙田秦石邨秦石商場68-69號舖對出空地",
             "en": "Space near Shop 68-69, G/F, Chun Shek Shopping Centre, Chun Shek Estate, Sha Tin, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.18686,
             22.37322
@@ -10683,10 +9579,6 @@
             "zh": "九龍土瓜灣馬頭圍道272號福裕樓地下A號舖",
             "en": "Portion 5 of Shop A, G/F, Fook Yue Mansion, 272 Ma Tau Wai Road, To Kwa Wan, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.18743,
             22.31532
@@ -10718,10 +9610,6 @@
         "address": {
             "zh": "九龍馬頭圍邨洋葵樓地下111號舖",
             "en": "Circle K Store at Shop 111, Geranium House, Ma Tau Wai Estate, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.18749,
@@ -10755,10 +9643,6 @@
             "zh": "九龍橫頭磡樂富廣場UG2樓L202號舖",
             "en": "Shop No. L202, Upper Ground Floor II, Lok Fu Plaza, Wang Tau Hom, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.187589,
             22.33762
@@ -10790,10 +9674,6 @@
         "address": {
             "zh": "新界沙田港鐵沙田站(收費區外)SHT32號舖",
             "en": "Shop No. SHT32, Unpaid Concourse, MTR Sha Tin Station, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.18765,
@@ -10827,10 +9707,6 @@
             "zh": "九龍九龍城福佬村道18號地下",
             "en": "G/F, 18 Fuk Lo Tsun Road, Kowloon City, Kowloon"
         },
-        "detail": {
-            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款",
-            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit"
-        },
         "loc": [
             114.187708,
             22.32847
@@ -10838,8 +9714,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
-            "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
+            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款\n現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
+            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit\nCash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
         },
         "tel": null
     },
@@ -10863,10 +9739,6 @@
             "zh": "九龍紅磡馬頭圍道37-39 號紅磡商業中心",
             "en": "Hung Hom Commercial Centre, 37-39 Ma Tau Wai Road, Hung Hom, Kowloon"
         },
-        "detail": {
-            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款",
-            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit"
-        },
         "loc": [
             114.187748,
             22.310322
@@ -10874,8 +9746,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
-            "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
+            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款\n現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
+            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit\nCash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
         },
         "tel": null
     },
@@ -10898,10 +9770,6 @@
         "address": {
             "zh": "九龍紅磡黃埔新村民泰街2-32 永華樓地下B2A-B 7-Eleven便利店",
             "en": "7-Eleven, Shop B2A-B, 2-32 Man Tai Street, Wing Wah Building, Whampoa Estate, Hung Hom, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.187905,
@@ -10935,10 +9803,6 @@
             "zh": "九龍土瓜灣北帝街24-24A號地下A號舖7-Eleven便利店",
             "en": "7-Eleven, Shop A, G/F, 24-24A Pak Tai Street, To Kwa Wan, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.1881,
             22.32032
@@ -10970,10 +9834,6 @@
         "address": {
             "zh": "香港掃桿埔東院道55號香港大球場",
             "en": "55 Eastern Hospital Road, So Kon Po, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.18892,
@@ -11007,10 +9867,6 @@
             "zh": "九龍紅磡黃埔花園第4期商場地下G6及6A號舖",
             "en": "Shop No. G6 & 6A, G/F, Site 4, Whampoa Garden, Hung Hom, Kowloon"
         },
-        "detail": {
-            "zh": "24小時自動櫃員機服務",
-            "en": "24-hour ATM Service"
-        },
         "loc": [
             114.189021,
             22.303624
@@ -11026,8 +9882,8 @@
         },
         "atm24": true,
         "service": {
-            "zh": "現金提款\n外幣兌換服務\n現金存款\n網上理財服務\n輪椅通道 (分行)\n更新存摺簿交易資料\n匯豐運籌理財服務櫃檯\n支票存款",
-            "en": "Cash Withdrawal\nForeign Currency Exchange\nCash Deposit\nOnline Financial Services \nWheel Chair Access (Branch)\nPassbook Update\nHSBC Advance Counter\nCheque Deposit"
+            "zh": "24小時自動櫃員機服務\n現金提款\n外幣兌換服務\n現金存款\n網上理財服務\n輪椅通道 (分行)\n更新存摺簿交易資料\n匯豐運籌理財服務櫃檯\n支票存款",
+            "en": "24-hour ATM Service\nCash Withdrawal\nForeign Currency Exchange\nCash Deposit\nOnline Financial Services \nWheel Chair Access (Branch)\nPassbook Update\nHSBC Advance Counter\nCheque Deposit"
         },
         "tel": null
     },
@@ -11050,10 +9906,6 @@
         "address": {
             "zh": "新界沙田沙田正街21-27號沙田廣場L1樓49舖",
             "en": "Shop 49, Level 1, Shatin Plaza, 21-27 Sha Tin Centre Street, Sha Tin, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.189599,
@@ -11087,10 +9939,6 @@
             "zh": "九龍土瓜灣炮仗街142-144A",
             "en": "142-144A Pau Chung Street, To Kwa Wan, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.189687,
             22.320813
@@ -11122,10 +9970,6 @@
         "address": {
             "zh": "新界沙田好運中心商場第三層109號A2",
             "en": "Shop 109A2, Level 3, Lucky Plaza, Sha Tin, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.19117,
@@ -11159,10 +10003,6 @@
             "zh": "九龍紅磡海逸道8號海逸坊1樓",
             "en": "Space for ATM on 1/F, The Laguna Mall, No. 8 Laguna Verde Avenue, Hung Hom, Kowloon"
         },
-        "detail": {
-            "zh": "受限制區域",
-            "en": "Restricted area"
-        },
         "loc": [
             114.191197,
             22.309054
@@ -11178,8 +10018,8 @@
         },
         "atm24": false,
         "service": {
-            "zh": "現金提款\n現金存款",
-            "en": "Cash Withdrawal\nCash Deposit"
+            "zh": "受限制區域\n現金提款\n現金存款",
+            "en": "Restricted area\nCash Withdrawal\nCash Deposit"
         },
         "tel": null
     },
@@ -11202,10 +10042,6 @@
         "address": {
             "zh": "香港白建時道5號牛奶公司購物商場",
             "en": "Perkins Road Dairy Farm Shopping Centre, 5 Perkins Road, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.19158,
@@ -11239,10 +10075,6 @@
             "zh": "香港北角電氣道148號地下2號舖",
             "en": "Shop 2, G/F, No.148 Electric Road, North Point, Hong Kong"
         },
-        "detail": {
-            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款",
-            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit"
-        },
         "loc": [
             114.191632,
             22.286486
@@ -11250,8 +10082,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
-            "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
+            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款\n現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
+            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit\nCash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
         },
         "tel": null
     },
@@ -11274,10 +10106,6 @@
         "address": {
             "zh": "新界沙田瀝源邨瀝源商場1樓15號舖側",
             "en": "Open space beside Shop No. 15, First Floor, Lek Yuen Shopping Centre, Lek Yuen Estate, Shatin, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.19186,
@@ -11319,10 +10147,6 @@
             "zh": "九龍 竹園道 15 號 竹園商埸 1 樓 自動櫃員機",
             "en": "Location ATM, First Floor, Chuk Yuen Shopping Centre, 15 Chuk Yuen Road, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.193085,
             22.345015
@@ -11354,10 +10178,6 @@
         "address": {
             "zh": "新界沙田博康邨博康商場9及10號舖7-Eleven",
             "en": "7-Eleven, Shops 9 & 10, Pok Hong Shopping Centre, Pok Hong Estate, Sha Tin, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.19321,
@@ -11391,10 +10211,6 @@
             "zh": "九龍土瓜灣新碼頭街38號翔龍灣翔龍灣廣場地下ATM02 自動櫃員機位",
             "en": "ATM02, G/F, Grand Waterfront Plaza, 38 San Ma Tau Street, Ma Tau Kok, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.193627,
             22.318959
@@ -11426,10 +10242,6 @@
         "address": {
             "zh": "新界沙田沙角邨商場3樓39號舖",
             "en": "The back of Shop 39, Sha Kok Commercial Centre, Sha Kok Estate, Sha Tin, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.19409,
@@ -11463,10 +10275,6 @@
             "zh": "新界沙田穗禾苑1樓F6A號舖",
             "en": "Shop F6A, 1/F, Sui Wo Court, Sha Tin, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.19436,
             22.39186
@@ -11499,10 +10307,6 @@
             "zh": "九龍黃大仙黃大仙下邨正德街103號 黃大仙中心地下高層UG13C號舖及UG14A號舖",
             "en": "Shop Nos. UG13C & UG14A, Upper Ground Floor, Wong Tai Sin Plaza, Lower Wong Tai Sin (II) Estate, 103 Ching Tak Street, Wong Tai Sin, Kowloon"
         },
-        "detail": {
-            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款",
-            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit"
-        },
         "loc": [
             114.19437,
             22.3414
@@ -11518,8 +10322,8 @@
         },
         "atm24": false,
         "service": {
-            "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
-            "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
+            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款\n現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
+            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit\nCash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
         },
         "tel": null
     },
@@ -11543,10 +10347,6 @@
             "zh": "新界沙田港鐵沙田圍站收費區內5B號舖",
             "en": "Shop No. 5B, Paid Concourse, MTR Sha Tin Wai Station, Sha Tin, New Territories"
         },
-        "detail": {
-            "zh": "位於車站收費區內",
-            "en": "Inside the paid concourse of the MTR station."
-        },
         "loc": [
             114.19458,
             22.37675
@@ -11562,8 +10362,8 @@
         },
         "atm24": false,
         "service": {
-            "zh": "現金提款\n輪椅通道 (自動櫃員機)",
-            "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
+            "zh": "位於車站收費區內\n現金提款\n輪椅通道 (自動櫃員機)",
+            "en": "Inside the paid concourse of the MTR station.\nCash Withdrawal\nWheel Chair Access (ATM)"
         },
         "tel": null
     },
@@ -11586,10 +10386,6 @@
         "address": {
             "zh": "新界沙田禾輋邨禾輋商場2樓212 號舖",
             "en": "Shop 212, 2/F, Wo Che Commercial Centre, Wo Che Estate, Sha Tin, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.19519,
@@ -11623,10 +10419,6 @@
             "zh": "香港淺水灣道109號影灣園地下1號攤位",
             "en": "Kiosk 1, G/F, The Repulse Bay, 109 Repulse Bay Road, Hong Kong"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.1959,
             22.23896
@@ -11659,10 +10451,6 @@
             "zh": "沙田大涌橋路20-30號河畔花園地下36舖7-Eleven",
             "en": "7-Eleven, Shop 36, G/F, Garden Rivera, Nos. 20-30 Tai Chung Kiu Road, Shatin"
         },
-        "detail": {
-            "zh": "自動櫃員機將於2015年9月21日至24日暫停服務",
-            "en": "ATM service will be temporarily suspended from 21 - 24 September 2015"
-        },
         "loc": [
             114.19591,
             22.38127
@@ -11670,8 +10458,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "現金提款",
-            "en": "Cash Withdrawal"
+            "zh": "自動櫃員機將於2015年9月21日至24日暫停服務\n現金提款",
+            "en": "ATM service will be temporarily suspended from 21 - 24 September 2015\nCash Withdrawal"
         },
         "tel": null
     },
@@ -11695,10 +10483,6 @@
             "zh": "香港北角英皇道306-316號雲華大廈",
             "en": "Winner House, 306-316 King's Road, North Point, Hong Kong"
         },
-        "detail": {
-            "zh": "「提存易」接受港幣$20及$50元現鈔存款",
-            "en": "Multi-Function Machine accepts HKD $20 and $50 banknotes deposit"
-        },
         "loc": [
             114.195963,
             22.289982
@@ -11706,8 +10490,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
-            "en": "Cash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
+            "zh": "「提存易」接受港幣$20及$50元現鈔存款\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
+            "en": "Multi-Function Machine accepts HKD $20 and $50 banknotes deposit\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
         },
         "tel": null
     },
@@ -11730,10 +10514,6 @@
         "address": {
             "zh": "香港北角雲景道33號牛奶公司購物中心地下3A 舖",
             "en": "3A, G/F, Cloudview Road, Dairy Farm Shopping Centre, North Point, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.19624,
@@ -11766,10 +10546,6 @@
         "address": {
             "zh": "九龍黃大仙龍翔道120號新光中心2樓6-8號及17-25號舖",
             "en": "Shop Nos. 6-8 & 17-25, 2/F, Hsin Kuang Centre, 120 Lung Cheung Road, Wong Tai Sin, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.196261,
@@ -11811,10 +10587,6 @@
             "zh": "九龍新蒲崗太子道東638號Mikiki 地下自動櫃員機機位A",
             "en": "Licence Area A, Ground Floor, Mikiki, No.638 Prince Edward Road East, San Po Kong, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.196559,
             22.333459
@@ -11846,10 +10618,6 @@
         "address": {
             "zh": "九龍新蒲崗爵祿街98號爵祿居地下C舖",
             "en": "Shop C, G/F, Wealth Court, 98 Tseuk Luk Street, San Po Kong, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.19762,
@@ -11883,10 +10651,6 @@
             "zh": "九龍新蒲崗大有街26-28號",
             "en": "26-28 Tai Yau Street, San Po Kong, Kowloon"
         },
-        "detail": {
-            "zh": "24小時自動櫃員機服務",
-            "en": "24-hour ATM Service"
-        },
         "loc": [
             114.197882,
             22.337272
@@ -11902,8 +10666,8 @@
         },
         "atm24": true,
         "service": {
-            "zh": "現金提款\n外幣兌換服務\n匯豐卓越理財服務櫃檯\n現金存款\n網上理財服務\n輪椅通道 (分行)\n更新存摺簿交易資料\n匯豐運籌理財服務櫃檯\n工商金融服務櫃檯\n支票存款",
-            "en": "Cash Withdrawal\nForeign Currency Exchange\nHSBC Premier Counter\nCash Deposit\nOnline Financial Services \nWheel Chair Access (Branch)\nPassbook Update\nHSBC Advance Counter\nCommercial Counter\nCheque Deposit"
+            "zh": "24小時自動櫃員機服務\n現金提款\n外幣兌換服務\n匯豐卓越理財服務櫃檯\n現金存款\n網上理財服務\n輪椅通道 (分行)\n更新存摺簿交易資料\n匯豐運籌理財服務櫃檯\n工商金融服務櫃檯\n支票存款",
+            "en": "24-hour ATM Service\nCash Withdrawal\nForeign Currency Exchange\nHSBC Premier Counter\nCash Deposit\nOnline Financial Services \nWheel Chair Access (Branch)\nPassbook Update\nHSBC Advance Counter\nCommercial Counter\nCheque Deposit"
         },
         "tel": null
     },
@@ -11927,10 +10691,6 @@
             "zh": "新界沙田港鐵火炭站(收費區內)",
             "en": "Paid Concourse, MTR Fo Tan Station, Fo Tan, New Territories"
         },
-        "detail": {
-            "zh": "位於車站收費區內",
-            "en": "Inside the paid concourse of the MTR station."
-        },
         "loc": [
             114.1983,
             22.39541
@@ -11938,8 +10698,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
-            "en": "Wheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
+            "zh": "位於車站收費區內\n輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
+            "en": "Inside the paid concourse of the MTR station.\nWheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
         },
         "tel": null
     },
@@ -11962,10 +10722,6 @@
         "address": {
             "zh": "大潭水塘道88號陽明山莊",
             "en": "Parkview Commercial Centre, 88 Tai Tam Reservior Road, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.19896,
@@ -11999,10 +10755,6 @@
             "zh": "九龍鑽石山鳳德邨鳳德商場227號舖",
             "en": "No. 227, Fung Tak Shopping Centre, Fung Tak Estate, Diamond Hill, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.19996,
             22.34386
@@ -12034,10 +10786,6 @@
         "address": {
             "zh": "九龍慈雲山毓華街23號慈雲山中心326號舖",
             "en": "Shop 326, Tsz Wan Shan Shopping Centre, 23 Yuk Wah Street, Tze Wan Shan, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.20057,
@@ -12071,10 +10819,6 @@
             "zh": "新界沙田銀城街威爾斯親王醫院2樓",
             "en": "2/F, Prince of Wales Hospital, Ngan Shing Street, Sha Tin, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.20155,
             22.37985
@@ -12106,10 +10850,6 @@
         "address": {
             "zh": "香港北角英皇道500號港運城131-132號",
             "en": "Shop 131 - 132, Island Place, 500 King's Road, North Point, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.201968,
@@ -12143,10 +10883,6 @@
             "zh": "九龍慈雲山慈正邨慈正商埸二期地下",
             "en": "ATM No. 1, G/F, Tsz Ching Shopping Centre Phase 2, Tsz Wan Shan, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.20214,
             22.34956
@@ -12178,10 +10914,6 @@
         "address": {
             "zh": "九龍九龍城承啟道28號晴朗商場地下 B007 商舖",
             "en": "Shop  No.B007, G/F, Ching Long Shopping Centre, 28 Shing Kai Road, Kowloon City, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.203106,
@@ -12215,10 +10947,6 @@
             "zh": "新界沙田第一城置富第一城 . 樂薈地下15-21號舖",
             "en": "15-21, G/F, Fortune City One Plus, City One Shatin, New Territories."
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.203256,
             22.387133
@@ -12251,10 +10979,6 @@
             "zh": "新界沙田港鐵第一城站收費區內7號舖",
             "en": "Shop No. 7, Paid Concourse, MTR City One Station, NT"
         },
-        "detail": {
-            "zh": "位於車站收費區內",
-            "en": "Inside the paid concourse of the MTR station."
-        },
         "loc": [
             114.20354,
             22.38288
@@ -12270,8 +10994,8 @@
         },
         "atm24": false,
         "service": {
-            "zh": "現金提款\n輪椅通道 (自動櫃員機)",
-            "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
+            "zh": "位於車站收費區內\n現金提款\n輪椅通道 (自動櫃員機)",
+            "en": "Inside the paid concourse of the MTR station.\nCash Withdrawal\nWheel Chair Access (ATM)"
         },
         "tel": null
     },
@@ -12294,10 +11018,6 @@
         "address": {
             "zh": "九龍九龍灣展貿徑1號國際展貿中心地下陳列櫃01A",
             "en": "Display Showcase 01A, G/F, Hongkong Int'l Trade & Exhibition Centre, 1 Trademart Drive, Kowloon Bay, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.20387,
@@ -12339,10 +11059,6 @@
             "zh": "九龍彩虹邨金坪市場20號舖",
             "en": "Shopstall 20, Kam Ping Market, Choi Hung Estate, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.20533,
             22.33515
@@ -12374,10 +11090,6 @@
         "address": {
             "zh": "九龍九龍灣宏光道80號麗晶商場地下G3號舖",
             "en": "Shop 3G, G/F, Commercial & Garage Block, Richland Garden, 80 Wang Kwong Road, Kowloon Bay, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.20596,
@@ -12411,10 +11123,6 @@
             "zh": "新界沙田港鐵石門站收費區內4B號舖",
             "en": "Shop No. 4B, Paid Concourse, MTR Shek Mun Station, Sha Tin, New Territories"
         },
-        "detail": {
-            "zh": "位於車站收費區內",
-            "en": "Inside the paid concourse of the MTR station."
-        },
         "loc": [
             114.20846,
             22.38785
@@ -12430,8 +11138,8 @@
         },
         "atm24": false,
         "service": {
-            "zh": "現金提款\n輪椅通道 (自動櫃員機)",
-            "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
+            "zh": "位於車站收費區內\n現金提款\n輪椅通道 (自動櫃員機)",
+            "en": "Inside the paid concourse of the MTR station.\nCash Withdrawal\nWheel Chair Access (ATM)"
         },
         "tel": null
     },
@@ -12454,10 +11162,6 @@
         "address": {
             "zh": "九龍九龍灣啓業邨啓賢樓地下公共走廊自動櫃員機位",
             "en": "Open space at Common Corridor, G/F, Kai Yin House, Kai Yip Estate, Kowloon Bay, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.20883,
@@ -12491,10 +11195,6 @@
             "zh": "九龍富山邨富信樓K1號舖",
             "en": "Shop K1, Fu Shun House, Fu Shan Estate, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.20911,
             22.34278
@@ -12526,10 +11226,6 @@
         "address": {
             "zh": "新界沙田石門邨健硕樓地下空位自動櫃員機",
             "en": "ATM at Empty Bay, G/F, Kin Shek House, Shek Mun Estate, Sha Tin, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.209157,
@@ -12563,10 +11259,6 @@
             "zh": "九龍坪石邨玉石樓地下正門入口側空地",
             "en": "Open space next to Main Entrance, G/F, Yuk Shek House, Ping Shek Estate, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.20953,
             22.33352
@@ -12599,10 +11291,6 @@
             "zh": "香港赤柱赤柱廣場三樓二號自動櫃員機",
             "en": "ATM No.2, Level 3, Stanley Plaza, Stanley, Hong Kong"
         },
-        "detail": {
-            "zh": "「提存易」接受港幣$20及$50元現鈔存款",
-            "en": "Multi-Function Machine accepts HKD $20 and $50 banknotes deposit"
-        },
         "loc": [
             114.209623,
             22.219588
@@ -12610,8 +11298,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "現金提款\n現金存款",
-            "en": "Cash Withdrawal\nCash Deposit"
+            "zh": "「提存易」接受港幣$20及$50元現鈔存款\n現金提款\n現金存款",
+            "en": "Multi-Function Machine accepts HKD $20 and $50 banknotes deposit\nCash Withdrawal\nCash Deposit"
         },
         "tel": null
     },
@@ -12634,10 +11322,6 @@
         "address": {
             "zh": "九龍清水灣道8號匯八坊地下G03舖",
             "en": "Shop G03, G/F, Infinity Eight, No. 8 Clear Water Bay Road, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.20987,
@@ -12671,10 +11355,6 @@
             "zh": "新界沙田港鐵大學站(收費區內)",
             "en": "Paid Concourse, MTR University Station, Sha Tin, New Territories"
         },
-        "detail": {
-            "zh": "位於車站收費區內",
-            "en": "Inside the paid concourse of the MTR station."
-        },
         "loc": [
             114.21024,
             22.4133
@@ -12682,8 +11362,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
-            "en": "Wheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
+            "zh": "位於車站收費區內\n輪椅通道 (自動櫃員機)\n現金提款 (港幣及人民幣)",
+            "en": "Inside the paid concourse of the MTR station.\nWheel Chair Access (ATM)\nCash Withdrawal (HKD and RMB)"
         },
         "tel": null
     },
@@ -12707,10 +11387,6 @@
             "zh": "九龍九龍灣臨興街32號美羅中心1期地下3B舖(只供工商客戶使用)",
             "en": "Unit 3B, G/F, Metro Centre I, 32 Lam Hing Street, Kowloon Bay, Kowloon (For commercial customers only)"
         },
-        "detail": {
-            "zh": "附設「商業客戶服務」專屬櫃位",
-            "en": "With dedicated Commercial Customer Service area"
-        },
         "loc": [
             114.210349,
             22.324294
@@ -12726,8 +11402,8 @@
         },
         "atm24": true,
         "service": {
-            "zh": "現金提款\n外幣兌換服務\n輪椅通道 (自動櫃員機)\n現金存款\n網上理財服務\n輪椅通道 (分行)\n更新存摺簿交易資料\n工商金融服務櫃檯\n支票存款",
-            "en": "Cash Withdrawal\nForeign Currency Exchange\nWheel Chair Access (ATM)\nCash Deposit\nOnline Financial Services \nWheel Chair Access (Branch)\nPassbook Update\nCommercial Counter\nCheque Deposit"
+            "zh": "附設「商業客戶服務」專屬櫃位\n現金提款\n外幣兌換服務\n輪椅通道 (自動櫃員機)\n現金存款\n網上理財服務\n輪椅通道 (分行)\n更新存摺簿交易資料\n工商金融服務櫃檯\n支票存款",
+            "en": "With dedicated Commercial Customer Service area\nCash Withdrawal\nForeign Currency Exchange\nWheel Chair Access (ATM)\nCash Deposit\nOnline Financial Services \nWheel Chair Access (Branch)\nPassbook Update\nCommercial Counter\nCheque Deposit"
         },
         "tel": null
     },
@@ -12750,10 +11426,6 @@
         "address": {
             "zh": "香港鰂魚涌英皇道971號地下",
             "en": "G/F, 971 King's Road, Quarry Bay, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.21041,
@@ -12786,10 +11458,6 @@
         "address": {
             "zh": "九龍彩德邨彩德商場5樓(515號舖側)近2號升降機空地",
             "en": "ATM at Open Space near Lift No.2, 5/F, (near Shop 515) Choi Tak Shopping Centre, Choi Tak Estate, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.212365,
@@ -12831,10 +11499,6 @@
             "zh": "九龍九龍灣德福廣場1期G座P16號舖",
             "en": "Unit P16, Block G, Telford Plaza I, Blk G, Telford Plaza I, Kowloon Bay, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.212633,
             22.323148
@@ -12866,10 +11530,6 @@
         "address": {
             "zh": "新界沙田香港科學園科技大道西1 號地 下G03 商舖",
             "en": "Shop 3, G/F, 1 Science Park West Avenue, Hong Kong Science Park, Sha Tin, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.21278,
@@ -12903,10 +11563,6 @@
             "zh": "香港鰂魚涌英皇道1037號",
             "en": "1037 King's Road, Quarry Bay, Hong Kong"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.213357,
             22.28488
@@ -12938,10 +11594,6 @@
         "address": {
             "zh": "九龍牛頭角彩盈邨彩盈坊3號舖Circle-K便利店",
             "en": "Circle K Shop No. 3, Choi Ying Place, Choi Ying Estate, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.214307,
@@ -12975,10 +11627,6 @@
             "zh": "九龍彩雲(一)邨彩雲3期商場2 樓B201 號舖側",
             "en": "2/F, Next to Shop B201, Choi Wan Shopping Centre Phase III, Choi Wan (I) Estate, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.21442,
             22.33393
@@ -13011,10 +11659,6 @@
             "zh": "新界沙田廣源邨商場第1座4號舖",
             "en": "Shop 4 Commercial Block 1, Kwong Yuen Estate, Sha Tin, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.21531,
             22.38065
@@ -13046,10 +11690,6 @@
         "address": {
             "zh": "九龍牛頭角牛頭角道77號淘大商場第2期地下G193-200及203號舖",
             "en": "Shops G193 - 200 & 203, G/F, Amoy Plaza Phase II, 77 Ngau Tau Kok Road, Ngau Tau Kok, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.215773,
@@ -13091,10 +11731,6 @@
             "zh": "九龍牛頭角牛頭角道77號淘大商場第2期地下G193-200及203號舖",
             "en": "Shops G193 - 200 & 203, G/F, Amoy Plaza Phase II, 77 Ngau Tau Kok Road, Ngau Tau Kok, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.215877,
             22.324372
@@ -13126,10 +11762,6 @@
         "address": {
             "zh": "九龍牛頭角上邨常泰樓空地自動櫃員機",
             "en": "ATM at Empty Bay, Sheung Tai House, Upper Ngau Tau Kok Estate, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.216185,
@@ -13163,10 +11795,6 @@
             "zh": "香港鰂魚涌太古城中心第1期065號舖",
             "en": "Unit 065, Cityplaza I, Taikoo Shing, Quarry Bay, Hong Kong"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.217005,
             22.285994
@@ -13198,10 +11826,6 @@
         "address": {
             "zh": "九龍牛頭角樂華北邨商場平台空地自動櫃員機一號",
             "en": "ATM No. 1, Open Space at Platform, Commercial Complex, Lok Wah North Est, Ngau Tau Kok, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.21983,
@@ -13235,10 +11859,6 @@
             "zh": "香港筲箕灣興東邨興東邨商場1樓1號自動櫃員機",
             "en": "ATM No. 1, 1/F, Hing Tung Estate Shopping Centre, Hing Tung Estate, Shau Kei Wan, Hong Kong"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.22012,
             22.28078
@@ -13270,10 +11890,6 @@
         "address": {
             "zh": "觀塘觀塘道378號創紀之城二期1樓自動提款機3號",
             "en": "ATM Space 3, 1/F Millennium City 2, 378 Kwun Tong Road, Kwun Tong, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.22024,
@@ -13307,10 +11923,6 @@
             "zh": "香港西灣河筲箕灣道65-67號太安樓",
             "en": "Tai On Building, 65-67 Shau Kei Wan Road, Sai Wan Ho, Hong Kong"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.22182,
             22.28266
@@ -13343,10 +11955,6 @@
             "zh": "新界沙田港鐵大水坑站收費區內3號舖",
             "en": "Shop No. 3, Paid Concourse, MTR Tai Shui Hang Station, Sha Tin, New Territories"
         },
-        "detail": {
-            "zh": "位於車站收費區內",
-            "en": "Inside the paid concourse of the MTR station."
-        },
         "loc": [
             114.22268,
             22.40827
@@ -13362,8 +11970,8 @@
         },
         "atm24": false,
         "service": {
-            "zh": "現金提款\n輪椅通道 (自動櫃員機)",
-            "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
+            "zh": "位於車站收費區內\n現金提款\n輪椅通道 (自動櫃員機)",
+            "en": "Inside the paid concourse of the MTR station.\nCash Withdrawal\nWheel Chair Access (ATM)"
         },
         "tel": null
     },
@@ -13386,10 +11994,6 @@
         "address": {
             "zh": "香港筲箕灣耀東購物中心5A號舖",
             "en": "Shop 5A, G/F Yiu Tung Shopping Ctr, Yiu Tung Estate, Shau Kei Wan, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.22433,
@@ -13423,10 +12027,6 @@
             "zh": "九龍觀塘開源道71號王子大廈地下",
             "en": "G/F, Wong Tze Building, 71 Hoi Yuen Road, Kwun Tong, Kowloon"
         },
-        "detail": {
-            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款",
-            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit"
-        },
         "loc": [
             114.22494,
             22.31104
@@ -13434,8 +12034,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
-            "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
+            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
+            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
         },
         "tel": null
     },
@@ -13459,10 +12059,6 @@
             "zh": "九龍觀塘開源道71號王子大廈3樓(只供工商客戶使用)",
             "en": "3/F, Wong Tze Building, 71 Hoi Yuen Road, Kwun Tong, Kowloon (For commercial customers only)"
         },
-        "detail": {
-            "zh": "附設「商業客戶服務」專屬櫃位",
-            "en": "With dedicated Commercial Customer Service area"
-        },
         "loc": [
             114.225224,
             22.311071
@@ -13478,8 +12074,8 @@
         },
         "atm24": false,
         "service": {
-            "zh": "外幣兌換服務\n現金存款\n網上理財服務\n輪椅通道 (分行)\n工商金融服務櫃檯\n支票存款",
-            "en": "Foreign Currency Exchange\nCash Deposit\nOnline Financial Services \nWheel Chair Access (Branch)\nCommercial Counter\nCheque Deposit"
+            "zh": "附設「商業客戶服務」專屬櫃位\n外幣兌換服務\n現金存款\n網上理財服務\n輪椅通道 (分行)\n工商金融服務櫃檯\n支票存款",
+            "en": "With dedicated Commercial Customer Service area\nForeign Currency Exchange\nCash Deposit\nOnline Financial Services \nWheel Chair Access (Branch)\nCommercial Counter\nCheque Deposit"
         },
         "tel": null
     },
@@ -13502,10 +12098,6 @@
         "address": {
             "zh": "九龍觀塘物華街55號安寧大樓地下A號舖",
             "en": "Shop A, G/F, On Ning Building, 55 Mut Wah Street, Kwun Tong, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.22541,
@@ -13539,10 +12131,6 @@
             "zh": "新界沙田馬鞍山欣安邨欣喜樓地下空位自動櫃員機",
             "en": "ATM at Empty Bay, G/F, Yan Hei House, Yan On Estate, Ma On Shan, Shatin, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.225487,
             22.414609
@@ -13574,10 +12162,6 @@
         "address": {
             "zh": "香港筲箕灣筲箕灣道324號潤民商業中心",
             "en": "Asia Harvest Commercial Centre, 324 Shau Kei Wan Road, Shau Kei Wan, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.226034,
@@ -13611,10 +12195,6 @@
             "zh": "九龍觀塘順天邨天榮樓地下104A號舖",
             "en": "Shop 104A, Ground Floor, Tin Wing House, Shun Tin Estate, Kwun Tong, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.2262,
             22.32615
@@ -13646,10 +12226,6 @@
         "address": {
             "zh": "九龍觀塘順利邨利溢樓地下29號空格",
             "en": "Empty Bay No. 29, G/F, Lee Yat House, Shun Lee Estate, Kwun Tong, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.22628,
@@ -13683,10 +12259,6 @@
             "zh": "新界馬鞍山頌安邨頌安商場地下2號自助櫃員機",
             "en": "ATM No. 2, G/F, Chung On Shopping Centre, Chung On Estate, Ma On Shan, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.22645,
             22.42152
@@ -13718,10 +12290,6 @@
         "address": {
             "zh": "香港筲箕灣愛東邨愛東商場1樓109號舖側空地",
             "en": "Open Space next to Shop 109 at 1/F, Oi Tung Shopping Centre, Oi Tung Estate, Shau Kei Wan, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.22782,
@@ -13763,10 +12331,6 @@
             "zh": "新界馬鞍山恆安邨商場2樓K1號舖",
             "en": "Shop K1, Level 2, Heng On Commercial Centre, Ma On Shan, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.22828,
             22.41669
@@ -13798,10 +12362,6 @@
         "address": {
             "zh": "香港筲箕灣愛禮街2號愛蝶灣地下50號舖",
             "en": "Shop No. 50, G/F, 2 Oi Lai Street, Aldrich Garden, Shau Kei Wan , Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.22846,
@@ -13835,10 +12395,6 @@
             "zh": "新界馬鞍山新港城廣場2樓51號舖",
             "en": "Shop 51, Level 2, Sunshine Bazaar, Ma On Shan, New Territories"
         },
-        "detail": {
-            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款",
-            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit"
-        },
         "loc": [
             114.22973,
             22.42506
@@ -13846,8 +12402,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "現金存款\n更新存摺簿交易資料\n支票存款",
-            "en": "Cash Deposit\nPassbook Update\nCheque Deposit"
+            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款\n現金存款\n更新存摺簿交易資料\n支票存款",
+            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit\nCash Deposit\nPassbook Update\nCheque Deposit"
         },
         "tel": null
     },
@@ -13870,10 +12426,6 @@
         "address": {
             "zh": "九龍觀塘翠屏邨翠桃樓76-78號舖",
             "en": "Shop 76 - 78, Tsui To Hse, Tsui Ping (North) Estate, Kwun Tong, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.22979,
@@ -13907,10 +12459,6 @@
             "zh": "新界馬鞍山西沙路628號新港城廣場2樓5-8號舖",
             "en": "Shops 5-8, Level 2, Sunshine Bazaar, 628 Sai Sha Road, Ma On Shan, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.229897,
             22.424666
@@ -13943,10 +12491,6 @@
             "zh": "新界馬鞍山耀安邨商場106號舖側",
             "en": "Next to Shop 106, G/F, Yiu On Shopping Centre, Yiu On Estate, Ma On Shan, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.23047,
             22.4205
@@ -13978,10 +12522,6 @@
         "address": {
             "zh": "九龍觀塘秀茂坪邨秀茂坪商場2樓自動櫃員機2及3號",
             "en": "ATM 2 & ATM 3, Level 2, Sau Mau Ping Shopping Centre, Sau Mau Ping Estate, Kwun Tong, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.23221,
@@ -14023,10 +12563,6 @@
             "zh": "九龍藍田滙景道8號滙景廣場第四層H 號舖",
             "en": "Shop No. H, Level 4, Sceneway Plaza, 8 Sceneway Road, Lam Tin, Kowloon"
         },
-        "detail": {
-            "zh": "「提存易」接受港幣$20及$50元現鈔存款",
-            "en": "Multi-Function Machine accepts HKD $20 and $50 banknotes deposit"
-        },
         "loc": [
             114.23293,
             22.30746
@@ -14042,8 +12578,8 @@
         },
         "atm24": false,
         "service": {
-            "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
-            "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
+            "zh": "「提存易」接受港幣$20及$50元現鈔存款\n現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
+            "en": "Multi-Function Machine accepts HKD $20 and $50 banknotes deposit\nCash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
         },
         "tel": null
     },
@@ -14066,10 +12602,6 @@
         "address": {
             "zh": "香港興民邨興民商場四樓自動櫃員機1號",
             "en": "4/F, Hing Man Shopping Centre, Hing Man Estate, Chai Wan, Hong Kong."
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.233077,
@@ -14102,10 +12634,6 @@
         "address": {
             "zh": "九龍藍田啟田道啟田商場2樓櫃員機位2號",
             "en": "ATM Space No.2, 2/F, Kai Tin Shopping Centre, Kai Tin Road, Lam Tin, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.23489,
@@ -14147,10 +12675,6 @@
             "zh": "香港柴灣興華(一)邨興華商埸2樓入口側空地",
             "en": "Open space at 2/F Entrance of Hing Wah Shopping Centre, Hing Wah (I) Estate, Chai Wan, Hong Kong"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.23537,
             22.26287
@@ -14191,10 +12715,6 @@
             "zh": "新界沙田馬鞍山錦英苑商場13號舖",
             "en": "Shop 13, Kam Ying Court Commercial Centre, Kam Ying Court, Ma On Shan, Sha Tin, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.23578,
             22.42223
@@ -14227,10 +12747,6 @@
             "zh": "九龍油塘油麗邨三期豐麗樓升降機大樓底層",
             "en": "L/G Lobby of Fung Lai House Lift Tower in Phase 3, Yau Lai Estate, Yau Tong, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.236207,
             22.300247
@@ -14262,10 +12778,6 @@
         "address": {
             "zh": "九龍觀塘秀茂坪寶達商場地下扶手梯1號及2號梯底(1號舖對面)",
             "en": "Bottom of Escalator No. 1 & 2 (opposite to shop 1), G/F, Po Tat Shopping Centre, Sau Mau Ping, Kwun Tong, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.23625,
@@ -14307,10 +12819,6 @@
             "zh": "香港柴灣東區尤德夫人那打素醫院地下",
             "en": "Pamela Youde Nethersole Eastern Hospital, G/F, 3 Lok Man Road, Chai Wan, Hong Kong"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.23634,
             22.2695
@@ -14342,10 +12850,6 @@
         "address": {
             "zh": "油塘站YAT 8號舖",
             "en": "Concession No. YAT 8 at MTR Yau Tong Station"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.236673,
@@ -14387,10 +12891,6 @@
             "zh": "九龍平田邨平田商埸二樓自動櫃員機",
             "en": "ATM on 2/F, Ping Tin Shopping Centre, Ping Tin Estate, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.237149,
             22.305952
@@ -14423,10 +12923,6 @@
             "zh": "香港環翠邨環翠商場一樓自動櫃員機1號",
             "en": "ATM1, 1/F, Wan Tsui Shopping Centre, Wan Tsui Estate, Hong Kong"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.237648,
             22.262896
@@ -14458,10 +12954,6 @@
         "address": {
             "zh": "九龍藍田碧雲道223號德田商場1樓自動提款機1號",
             "en": "ATM Space 1, 1/F, Tak Tin Shopping Centre, 223 Pik Wan Road, Lam Tin, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.23807,
@@ -14503,10 +12995,6 @@
             "zh": "九龍油塘大本型港鐵樓層升降機大堂側",
             "en": "A site near lift lobby at MTR Floor, Domain, Yau Tong, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.238077,
             22.296676
@@ -14538,10 +13026,6 @@
         "address": {
             "zh": "九龍藍田興田邨興田商場地下自動提款機1號",
             "en": "ATM No. 1 at Open Space, Ground Floor, Hing Tin Shopping Centre, Hing Tin Estate, Lam Tin, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.23814,
@@ -14583,10 +13067,6 @@
             "zh": "九龍油塘鯉魚門80號鯉魚門廣場地下自動櫃員機4號",
             "en": "ATM 4, G/F, Lei Yue Mun Plaza, 80 Lei Yue Mun Road, Yau Tong, Kowloon"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.238672,
             22.295862
@@ -14618,10 +13098,6 @@
         "address": {
             "zh": "九龍藍田碧雲道168號廣田商場地下自動提款機1號",
             "en": "ATM Space 1, G/F, Kwong Tin Shopping Centre, 168 Pik Wan Road, Lam Tin, Kowloon"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.23958,
@@ -14655,10 +13131,6 @@
             "zh": "香港柴灣宏德居B座地下73-74 號舖",
             "en": "Shops 73 & 74, Block B, G/F, Walton Estate, Chai Wan, Hong Kong"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.24005,
             22.26406
@@ -14691,10 +13163,6 @@
             "zh": "香港柴灣翠灣邨辦事處大樓翠灣商業中心地下1號自動櫃員機",
             "en": "ATM No. 1, G/F, Office Building, Tsui Wan Commercial Centre, Tsui Wan Estate, Chai Wan, Hong Kong"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.2401,
             22.2682
@@ -14726,10 +13194,6 @@
         "address": {
             "zh": "香港柴灣杏花新城東翼商場209號舖",
             "en": "Shop No. 209, East Commercial Block, Paradise Mall, Heng Fa Chuen, Chai Wan, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.24047,
@@ -14771,10 +13235,6 @@
             "zh": "新界馬鞍山利安邨利安商場地庫2樓自動櫃員機位(毗鄰LG203號舖)",
             "en": "ATM space (next to Shop No.LG203), LG2/F, Lee On Shopping Centre, Lee On Estate, Ma On Shan, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.24104,
             22.42657
@@ -14806,10 +13266,6 @@
         "address": {
             "zh": "香港柴灣常安街77號地下",
             "en": "G/F, Federal Centre, 77 Sheung On St, Chai Wan, Hong Kong."
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.24358,
@@ -14843,10 +13299,6 @@
             "zh": "新界沙田港鐵烏溪沙站收費區內 WKS ATM 2 自動櫃員機機位",
             "en": "WKS ATM 2, Paid Concourse, MTR Wu Kai Sha Station, Shatin, New Territories"
         },
-        "detail": {
-            "zh": "位於車站收費區內",
-            "en": "Inside the paid concourse of the MTR station."
-        },
         "loc": [
             114.243844,
             22.429258
@@ -14862,8 +13314,8 @@
         },
         "atm24": false,
         "service": {
-            "zh": "現金提款\n輪椅通道 (自動櫃員機)",
-            "en": "Cash Withdrawal\nWheel Chair Access (ATM)"
+            "zh": "位於車站收費區內\n現金提款\n輪椅通道 (自動櫃員機)",
+            "en": "Inside the paid concourse of the MTR station.\nCash Withdrawal\nWheel Chair Access (ATM)"
         },
         "tel": null
     },
@@ -14886,10 +13338,6 @@
         "address": {
             "zh": "香港小西灣小西灣商場108A號舖",
             "en": "Shop 108A, Siu Sai Wan Shopping Centre, Siu Sai Wan Estate, Chai Wan, Hong Kong"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.24856,
@@ -14923,10 +13371,6 @@
             "zh": "新界將軍澳翠林邨翠林商場102號舖",
             "en": "Shop 102, Tsui Lam Shopping Centre, Tsui Lam Estate, Tseung Kwan O, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.2492,
             22.32275
@@ -14958,10 +13402,6 @@
         "address": {
             "zh": "新界將軍澳彩明苑彩明商場2樓264號舖",
             "en": "Shop No. 264, 2/F Choi Ming Shopping Centre, Choi Ming Court, Tseung Kwan O, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.25119,
@@ -14995,10 +13435,6 @@
             "zh": "新界將軍澳寶林邨寶林商場1樓205號舖對面空地",
             "en": "Open space opposite to shop 205, 1/F, Po Lam Shopping Centre, Po Lam Estate, Tseung Kwan O, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.25614,
             22.32522
@@ -15030,10 +13466,6 @@
         "address": {
             "zh": "新界將軍澳唐德街 9 號 將軍澳中心一樓108號舖",
             "en": "Shop 108, Level 1, Park Central, 9 Tong Tak Street, Tseung Kwan O, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.25725,
@@ -15067,10 +13499,6 @@
             "zh": "新界將軍澳貿業路8號新都城中心三期商場2樓221-222號舖",
             "en": "Shop Nos. 221-222, Level 2, Metro City Plaza III,  8 Mau Yip Road, Tseung Kwan O, New Territories"
         },
-        "detail": {
-            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款",
-            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit"
-        },
         "loc": [
             114.257511,
             22.322173
@@ -15078,8 +13506,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
-            "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
+            "zh": "「存錢妥」接受港幣$20及$50元現鈔存款\n現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
+            "en": "Cash Deposit Machine accepts HKD $20 and $50 banknotes deposit\nCash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
         },
         "tel": null
     },
@@ -15102,10 +13530,6 @@
         "address": {
             "zh": "新界將軍澳尚德邨尚德商場3樓302號舖",
             "en": "Shop 302, 3/F, Sheung Tak Shopping Centre, Sheung Tak Estate, Tseung Kwan O, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.25896,
@@ -15147,10 +13571,6 @@
             "zh": "新界西貢清水灣道大埔仔村7號地下",
             "en": "G/F, 7 Tai Po Tsai Village, Clearwater Bay Road, Sai Kung, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.25938,
             22.33694
@@ -15183,10 +13603,6 @@
             "zh": "新界將軍澳景林邨商場地下9號舖",
             "en": "Shop No. 9, G/F, King Lam Shopping Centre, Tseung Kwan O, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.26143,
             22.32086
@@ -15218,10 +13634,6 @@
         "address": {
             "zh": "新界將軍澳厚德邨厚德商場西翼地下電梯下",
             "en": "Space under Escalator, G/F, Hau Tak Shopping Center (West Wing), Hau Tak Estate, Tseung Kwan O, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.26421,
@@ -15263,10 +13675,6 @@
             "zh": "新界將軍澳重華路8號東港城商場2樓Area F",
             "en": "Area F on Level 2, East Point City, 8 Chung Wa Road, Tseung Kwan O"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.264931,
             22.316597
@@ -15306,10 +13714,6 @@
         "address": {
             "zh": "新界將軍澳重華路8號東港城108號舖",
             "en": "Shop No. 108, East Point City, 8 Chung Wa Road, Tseung Kwan O, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.26513,
@@ -15351,10 +13755,6 @@
             "zh": "新界將軍澳明德邨明德商場地下17號舖對出空地",
             "en": "Open space opposite to Shop 17, G/F, Ming Tak Shopping Centre, Ming Tak Estate, Tseung Kwan O, New Territories"
         },
-        "detail": {
-            "zh": null,
-            "en": null
-        },
         "loc": [
             114.26856,
             22.31653
@@ -15387,10 +13787,6 @@
             "zh": "新界西貢普通道11A,15-15A號舖地下7-Eleven便利店",
             "en": "7-Eleven, G/F, Shop 11A, 15 & 15A, Po Tung Road, Sai Kung, New Territories"
         },
-        "detail": {
-            "zh": "自動櫃員機將於2015年9月14日至17日暫停服務",
-            "en": "ATM service will be temporarily suspended from 14 - 17 September 2015"
-        },
         "loc": [
             114.27057,
             22.38177
@@ -15398,8 +13794,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "現金提款",
-            "en": "Cash Withdrawal"
+            "zh": "自動櫃員機將於2015年9月14日至17日暫停服務\n現金提款",
+            "en": "ATM service will be temporarily suspended from 14 - 17 September 2015\nCash Withdrawal"
         },
         "tel": null
     },
@@ -15422,10 +13818,6 @@
         "address": {
             "zh": "新界西貢親民街西貢花園8號舖",
             "en": "Shops No. 8, Sai Kung Garden, Chan Man Street, Sai Kung, New Territories"
-        },
-        "detail": {
-            "zh": null,
-            "en": null
         },
         "loc": [
             114.271179,

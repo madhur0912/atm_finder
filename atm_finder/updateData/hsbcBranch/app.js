@@ -120,10 +120,6 @@ function Branch(branch) {
 		zh: branch.address.line1,
 		en: branch.en.address.line1
 	};
-	this.detail = {
-		zh: branch.addInfo !== null ? branch.addInfo.callOutText : null,
-		en: branch.en.addInfo !== null ? branch.en.addInfo.callOutText : null,
-	};
 	this.loc = [parseFloat(branch.address.lng), parseFloat(branch.address.lat)];
 
 	// Set workHrs
@@ -157,6 +153,18 @@ function Branch(branch) {
 	for (var j = 0; j < branch.en.services.length; j++) {
 		serviceStringEn = serviceStringEn + branch.en.services[j].service + '\n';
 	}
+
+	var detailStringZh = branch.addInfo !== null ? branch.addInfo.callOutText + '\n' : null;
+	var detailStringEn = branch.en.addInfo !== null ? branch.en.addInfo.callOutText + '\n' : null;
+
+	if (detailStringZh !== null) {
+		serviceStringZh = detailStringZh + serviceStringZh.trim();
+	}
+	if (detailStringEn !== null) {
+		serviceStringEn = detailStringEn + serviceStringEn.trim();
+	}
+
+	var detail = null;
 
 	this.service = {
 		zh: serviceStringZh.trim(),

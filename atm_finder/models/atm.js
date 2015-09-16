@@ -22,7 +22,10 @@ var AtmSchema = new Schema({
 		"en": String
 	},
 	"loc": Array,
-	"service": String,
+	"service": {
+		"zh": String,
+		"en": String
+	},
 	"tel": String,
 	"detail": {
 		"zh": String,
