@@ -3,7 +3,9 @@
 Setup
 =
 A running mongoDB, port 27017
+
 A google geocoder API key
+
 npm
 
 Install
