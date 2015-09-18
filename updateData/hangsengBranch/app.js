@@ -7,12 +7,13 @@ var Promise = require('bluebird');
 var fs = require('fs');
 var $ = require('cheerio');
 var request = require('request');
+var key = require('./../key');
 
 // Geocoder
 var geocoderProvider = 'google';
 var httpAdapter = 'https';
 var extra = {
-	apiKey: 'AIzaSyAnWZsls0EtRKLWMeNZsJ_-qAWBJ3PanIM', // for Mapquest, OpenCage, Google Premier
+	apiKey: key.geocoderKey, // for Mapquest, OpenCage, Google Premier
 	language: 'zh-hk',
 	formatter: null // 'gpx', 'string', ...
 };

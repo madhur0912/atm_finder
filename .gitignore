@@ -28,3 +28,6 @@ node_modules
 
 # Ignore mongodb data
 data
+
+# Ignore private data
+key.js
