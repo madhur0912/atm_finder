@@ -90,16 +90,26 @@ router.get('/shop_type', function(req, res) {
 		},
 		cond: {},
 		reduce: function(doc, out) {
-			if (out.shop_types.indexOf(doc.shop_type) === -1) {
-				out.shop_types.push(doc.shop_type);
+			if (Object.keys(out.shop_types).indexOf(doc.shop_type) === -1) {
+				out.shop_types[doc.shop_type] = 1;
+			} else {
+				out.shop_types[doc.shop_type]++;
 			}
 		},
 		initial: {
-			shop_types: []
+			shop_types: {},
+		},
+		finalize: function(result) {
+
+			var keys = Object.keys(result.shop_types);
+			keys.sort(function(a, b) {
+				return result.shop_types[b] - result.shop_types[a];
+			});
+			result.shop_types = keys;
 		}
 	};
 
-	Atm.collection.group(group.key, group.cond, group.initial, group.reduce, true, function(err, results) {
+	Atm.collection.group(group.key, group.cond, group.initial, group.reduce, group.finalize, true, function(err, results) {
 
 		results.sort(function(a, b) {
 			return (b.atm_type.localeCompare(a.atm_type));
