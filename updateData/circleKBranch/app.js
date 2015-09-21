@@ -297,7 +297,7 @@ var branches = Promise
 			});
 
 			// Save to branches.json
-			fs.writeFileSync('branches.json', JSON.stringify(branches, 0, 4), 'utf-8');
+			fs.writeFileSync(dataDir + 'branches.json', JSON.stringify(branches, 0, 4), 'utf-8');
 			console.log('CircleK: Save branches.json success!');
 			console.log('CircleK: Finish.');
 

@@ -2952,47 +2952,6 @@
         "tel": null
     },
     {
-        "_id": "MANNINGS_NEW_TSUEN_WAN_PLAZA",
-        "atm_type": "eps",
-        "name": {
-            "zh": "新荃灣廣場",
-            "en": "NEW TSUEN WAN PLAZA"
-        },
-        "shop_type": "mannings",
-        "area": {
-            "zh": "新界",
-            "en": "New Territories"
-        },
-        "district": {
-            "zh": "荃灣",
-            "en": "Tsuen Wan"
-        },
-        "address": {
-            "zh": "荃灣荃灣廣場3樓308-313號舖",
-            "en": "Shop 308-313, Level 3, Tsuen Wan Plaza, Tsuen Wan"
-        },
-        "service": null,
-        "detail": {
-            "zh": "星期一至日 10:30-22:30",
-            "en": "Monday-Sunday 10:30-22:30"
-        },
-        "atm24": false,
-        "loc": [
-            114.113,
-            22.368746
-        ],
-        "workHrs": {
-            "monday": "10:30 - 22:30",
-            "tuesday": "10:30 - 22:30",
-            "wednesday": "10:30 - 22:30",
-            "thursday": "10:30 - 22:30",
-            "friday": "10:30 - 22:30",
-            "saturday": "10:30 - 22:30",
-            "sunday": "10:30 - 22:30"
-        },
-        "tel": null
-    },
-    {
         "_id": "MANNINGS_NINA_TOWER",
         "atm_type": "eps",
         "name": {
@@ -3034,11 +2993,11 @@
         "tel": null
     },
     {
-        "_id": "MANNINGS_LO_WU_STATION",
+        "_id": "MANNINGS_NEW_TSUEN_WAN_PLAZA",
         "atm_type": "eps",
         "name": {
-            "zh": "羅湖港鐵站",
-            "en": "LO WU STATION"
+            "zh": "新荃灣廣場",
+            "en": "NEW TSUEN WAN PLAZA"
         },
         "shop_type": "mannings",
         "area": {
@@ -3046,31 +3005,31 @@
             "en": "New Territories"
         },
         "district": {
-            "zh": "北區",
-            "en": "North"
+            "zh": "荃灣",
+            "en": "Tsuen Wan"
         },
         "address": {
-            "zh": "新界羅湖港鐵站LOW 108 號舖",
-            "en": "Shop Low 108, MTR Lo Wu Station, Lo Wu, N.T."
+            "zh": "荃灣荃灣廣場3樓308-313號舖",
+            "en": "Shop 308-313, Level 3, Tsuen Wan Plaza, Tsuen Wan"
         },
         "service": null,
         "detail": {
-            "zh": "星期一至日 8:00-22:00",
-            "en": "Monday-Sunday 8:00-22:00"
+            "zh": "星期一至日 10:30-22:30",
+            "en": "Monday-Sunday 10:30-22:30"
         },
         "atm24": false,
         "loc": [
-            114.113192,
-            22.527801
+            114.113,
+            22.368746
         ],
         "workHrs": {
-            "monday": "08:00 - 22:00",
-            "tuesday": "08:00 - 22:00",
-            "wednesday": "08:00 - 22:00",
-            "thursday": "08:00 - 22:00",
-            "friday": "08:00 - 22:00",
-            "saturday": "08:00 - 22:00",
-            "sunday": "08:00 - 22:00"
+            "monday": "10:30 - 22:30",
+            "tuesday": "10:30 - 22:30",
+            "wednesday": "10:30 - 22:30",
+            "thursday": "10:30 - 22:30",
+            "friday": "10:30 - 22:30",
+            "saturday": "10:30 - 22:30",
+            "sunday": "10:30 - 22:30"
         },
         "tel": null
     },
@@ -3112,6 +3071,47 @@
             "friday": "09:00 - 22:00",
             "saturday": "09:00 - 22:00",
             "sunday": "09:00 - 22:00"
+        },
+        "tel": null
+    },
+    {
+        "_id": "MANNINGS_LO_WU_STATION",
+        "atm_type": "eps",
+        "name": {
+            "zh": "羅湖港鐵站",
+            "en": "LO WU STATION"
+        },
+        "shop_type": "mannings",
+        "area": {
+            "zh": "新界",
+            "en": "New Territories"
+        },
+        "district": {
+            "zh": "北區",
+            "en": "North"
+        },
+        "address": {
+            "zh": "新界羅湖港鐵站LOW 108 號舖",
+            "en": "Shop Low 108, MTR Lo Wu Station, Lo Wu, N.T."
+        },
+        "service": null,
+        "detail": {
+            "zh": "星期一至日 8:00-22:00",
+            "en": "Monday-Sunday 8:00-22:00"
+        },
+        "atm24": false,
+        "loc": [
+            114.113192,
+            22.527801
+        ],
+        "workHrs": {
+            "monday": "08:00 - 22:00",
+            "tuesday": "08:00 - 22:00",
+            "wednesday": "08:00 - 22:00",
+            "thursday": "08:00 - 22:00",
+            "friday": "08:00 - 22:00",
+            "saturday": "08:00 - 22:00",
+            "sunday": "08:00 - 22:00"
         },
         "tel": null
     },
@@ -7298,47 +7298,6 @@
         "tel": null
     },
     {
-        "_id": "MANNINGS_UPTOWN_PLAZA",
-        "atm_type": "eps",
-        "name": {
-            "zh": "新達廣場",
-            "en": "UPTOWN PLAZA"
-        },
-        "shop_type": "mannings",
-        "area": {
-            "zh": "新界",
-            "en": "New Territories"
-        },
-        "district": {
-            "zh": "大埔",
-            "en": "Tai Po"
-        },
-        "address": {
-            "zh": "新界大埔新達廣場1 樓 7 號",
-            "en": "Shop 007, Level 1, Uptown Plaza, Tai Po, N.T."
-        },
-        "service": null,
-        "detail": {
-            "zh": "星期一至四 10:00-22:00\n星期五至日,公眾假期 9:30-22:30",
-            "en": "Monday-Thursday 10:00-22:00\nFriday-Sunday & Public Holiday 9:30-22:30"
-        },
-        "atm24": false,
-        "loc": [
-            114.168882,
-            22.444087
-        ],
-        "workHrs": {
-            "monday": "10:00 - 22:00",
-            "tuesday": "10:00 - 22:00",
-            "wednesday": "10:00 - 22:00",
-            "thursday": "10:00 - 22:00",
-            "friday": "09:30 - 22:30",
-            "saturday": "09:30 - 22:30",
-            "sunday": "09:30 - 22:30"
-        },
-        "tel": null
-    },
-    {
         "_id": "MANNINGS_KOLOUR_·_Tsuen_Wan_I",
         "atm_type": "eps",
         "name": {
@@ -7376,6 +7335,47 @@
             "friday": "09:30 - 20:30",
             "saturday": "10:00 - 22:30",
             "sunday": "10:00 - 22:30"
+        },
+        "tel": null
+    },
+    {
+        "_id": "MANNINGS_UPTOWN_PLAZA",
+        "atm_type": "eps",
+        "name": {
+            "zh": "新達廣場",
+            "en": "UPTOWN PLAZA"
+        },
+        "shop_type": "mannings",
+        "area": {
+            "zh": "新界",
+            "en": "New Territories"
+        },
+        "district": {
+            "zh": "大埔",
+            "en": "Tai Po"
+        },
+        "address": {
+            "zh": "新界大埔新達廣場1 樓 7 號",
+            "en": "Shop 007, Level 1, Uptown Plaza, Tai Po, N.T."
+        },
+        "service": null,
+        "detail": {
+            "zh": "星期一至四 10:00-22:00\n星期五至日,公眾假期 9:30-22:30",
+            "en": "Monday-Thursday 10:00-22:00\nFriday-Sunday & Public Holiday 9:30-22:30"
+        },
+        "atm24": false,
+        "loc": [
+            114.168882,
+            22.444087
+        ],
+        "workHrs": {
+            "monday": "10:00 - 22:00",
+            "tuesday": "10:00 - 22:00",
+            "wednesday": "10:00 - 22:00",
+            "thursday": "10:00 - 22:00",
+            "friday": "09:30 - 22:30",
+            "saturday": "09:30 - 22:30",
+            "sunday": "09:30 - 22:30"
         },
         "tel": null
     },
@@ -8319,47 +8319,6 @@
             "friday": "09:00 - 23:00",
             "saturday": "09:00 - 23:00",
             "sunday": "09:00 - 23:00"
-        },
-        "tel": null
-    },
-    {
-        "_id": "MANNINGS_FORTRESS_TOWER",
-        "atm_type": "eps",
-        "name": {
-            "zh": "北角城",
-            "en": "FORTRESS TOWER"
-        },
-        "shop_type": "mannings",
-        "area": {
-            "zh": "香港島",
-            "en": "Hong Kong Island"
-        },
-        "district": {
-            "zh": "東區",
-            "en": "Eastern"
-        },
-        "address": {
-            "zh": "香港英皇道250號北角城中心地下02號舖",
-            "en": "Shop 02, G/F, Fortress Tower, 250 King’s Road, North Point, Hong Kong"
-        },
-        "service": null,
-        "detail": {
-            "zh": "星期一至日 9:30-22:30",
-            "en": "Monday-Sunday 9:00-22:30"
-        },
-        "atm24": false,
-        "loc": [
-            114.17168,
-            22.27968
-        ],
-        "workHrs": {
-            "monday": "09:00 - 22:30",
-            "tuesday": "09:00 - 22:30",
-            "wednesday": "09:00 - 22:30",
-            "thursday": "09:00 - 22:30",
-            "friday": "09:00 - 22:30",
-            "saturday": "09:00 - 22:30",
-            "sunday": "09:00 - 22:30"
         },
         "tel": null
     },
@@ -10902,6 +10861,47 @@
             "friday": "10:30 - 21:30",
             "saturday": "10:00 - 21:30",
             "sunday": "10:00 - 21:30"
+        },
+        "tel": null
+    },
+    {
+        "_id": "MANNINGS_FORTRESS_TOWER",
+        "atm_type": "eps",
+        "name": {
+            "zh": "北角城",
+            "en": "FORTRESS TOWER"
+        },
+        "shop_type": "mannings",
+        "area": {
+            "zh": "香港島",
+            "en": "Hong Kong Island"
+        },
+        "district": {
+            "zh": "東區",
+            "en": "Eastern"
+        },
+        "address": {
+            "zh": "香港英皇道250號北角城中心地下02號舖",
+            "en": "Shop 02, G/F, Fortress Tower, 250 King’s Road, North Point, Hong Kong"
+        },
+        "service": null,
+        "detail": {
+            "zh": "星期一至日 9:30-22:30",
+            "en": "Monday-Sunday 9:00-22:30"
+        },
+        "atm24": false,
+        "loc": [
+            114.194377,
+            22.288631
+        ],
+        "workHrs": {
+            "monday": "09:00 - 22:30",
+            "tuesday": "09:00 - 22:30",
+            "wednesday": "09:00 - 22:30",
+            "thursday": "09:00 - 22:30",
+            "friday": "09:00 - 22:30",
+            "saturday": "09:00 - 22:30",
+            "sunday": "09:00 - 22:30"
         },
         "tel": null
     },

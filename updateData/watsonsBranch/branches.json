@@ -342,6 +342,44 @@
         "tel": null
     },
     {
+        "_id": "WATSONS_K-Point_(Watson_Health)",
+        "atm_type": "eps",
+        "name": {
+            "zh": "錦薈坊",
+            "en": "K-Point (Watson Health)"
+        },
+        "shop_type": "watsons",
+        "area": {
+            "zh": "新界",
+            "en": "New Territories"
+        },
+        "district": {
+            "zh": "屯門",
+            "en": "Tuen Mun"
+        },
+        "address": {
+            "zh": "屯門屯隆街一號錦薈坊3樓338-343號舖",
+            "en": "Shop Nos.338-343 on Level 3 of K-Point, 1 Tuen Lung Street, Tuen Mun, N.T."
+        },
+        "service": null,
+        "detail": null,
+        "atm24": false,
+        "loc": [
+            113.975509,
+            22.394195
+        ],
+        "workHrs": {
+            "monday": "10:00 - 22:00",
+            "tuesday": "10:00 - 22:00",
+            "wednesday": "10:00 - 22:00",
+            "thursday": "10:00 - 22:00",
+            "friday": "10:00 - 22:00",
+            "saturday": "10:00 - 22:00",
+            "sunday": "10:00 - 22:00"
+        },
+        "tel": null
+    },
+    {
         "_id": "WATSONS_Trend_Plaza,_Tuen_Mun",
         "atm_type": "eps",
         "name": {
@@ -1319,13 +1357,13 @@
             22.371949
         ],
         "workHrs": {
-            "monday": "-",
-            "tuesday": "-",
-            "wednesday": "-",
-            "thursday": "-",
-            "friday": "-",
-            "saturday": "-",
-            "sunday": "-"
+            "monday": "10:00 - 22:00",
+            "tuesday": "10:00 - 22:00",
+            "wednesday": "10:00 - 22:00",
+            "thursday": "10:00 - 22:00",
+            "friday": "10:00 - 22:00",
+            "saturday": "10:00 - 22:00",
+            "sunday": "10:00 - 22:00"
         },
         "tel": null
     },
@@ -1433,13 +1471,13 @@
             22.358724
         ],
         "workHrs": {
-            "monday": "-",
-            "tuesday": "-",
-            "wednesday": "-",
-            "thursday": "-",
-            "friday": "-",
-            "saturday": "-",
-            "sunday": "-"
+            "monday": "10:00 - 22:00",
+            "tuesday": "10:00 - 22:00",
+            "wednesday": "10:00 - 22:00",
+            "thursday": "10:00 - 22:00",
+            "friday": "10:00 - 22:00",
+            "saturday": "10:00 - 22:00",
+            "sunday": "10:00 - 22:00"
         },
         "tel": null
     },
@@ -4332,44 +4370,6 @@
         "tel": null
     },
     {
-        "_id": "WATSONS_Alhambra_Building",
-        "atm_type": "eps",
-        "name": {
-            "zh": "平安大廈",
-            "en": "Alhambra Building"
-        },
-        "shop_type": "watsons",
-        "area": {
-            "zh": "九龍",
-            "en": "Kowloon"
-        },
-        "district": {
-            "zh": "油麻地",
-            "en": "Yau Ma Tei"
-        },
-        "address": {
-            "zh": "九龍彌敦道383-389C號平安大廈地下9 號",
-            "en": "Shop No. 9, G/F. Alhambra Building, 383-389C Nathan Road, Kowloon"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": false,
-        "loc": [
-            114.171016,
-            22.308734
-        ],
-        "workHrs": {
-            "monday": "10:30 - 22:30",
-            "tuesday": "10:30 - 22:30",
-            "wednesday": "10:30 - 22:30",
-            "thursday": "10:30 - 22:30",
-            "friday": "10:30 - 22:30",
-            "saturday": "10:30 - 22:30",
-            "sunday": "10:30 - 22:30"
-        },
-        "tel": null
-    },
-    {
         "_id": "WATSONS_Nathan_Road",
         "atm_type": "eps",
         "name": {
@@ -4404,6 +4404,44 @@
             "friday": "10:00 - 22:30",
             "saturday": "10:00 - 22:30",
             "sunday": "10:00 - 22:30"
+        },
+        "tel": null
+    },
+    {
+        "_id": "WATSONS_Alhambra_Building",
+        "atm_type": "eps",
+        "name": {
+            "zh": "平安大廈",
+            "en": "Alhambra Building"
+        },
+        "shop_type": "watsons",
+        "area": {
+            "zh": "九龍",
+            "en": "Kowloon"
+        },
+        "district": {
+            "zh": "油麻地",
+            "en": "Yau Ma Tei"
+        },
+        "address": {
+            "zh": "九龍彌敦道383-389C號平安大廈地下9 號",
+            "en": "Shop No. 9, G/F. Alhambra Building, 383-389C Nathan Road, Kowloon"
+        },
+        "service": null,
+        "detail": null,
+        "atm24": false,
+        "loc": [
+            114.171016,
+            22.308734
+        ],
+        "workHrs": {
+            "monday": "10:30 - 22:30",
+            "tuesday": "10:30 - 22:30",
+            "wednesday": "10:30 - 22:30",
+            "thursday": "10:30 - 22:30",
+            "friday": "10:30 - 22:30",
+            "saturday": "10:30 - 22:30",
+            "sunday": "10:30 - 22:30"
         },
         "tel": null
     },
@@ -6836,44 +6874,6 @@
             "friday": "10:00 - 20:00",
             "saturday": "10:00 - 20:00",
             "sunday": "10:00 - 20:00"
-        },
-        "tel": null
-    },
-    {
-        "_id": "WATSONS_Infinity_Eight",
-        "atm_type": "eps",
-        "name": {
-            "zh": "匯八坊",
-            "en": "Infinity Eight"
-        },
-        "shop_type": "watsons",
-        "area": {
-            "zh": "九龍",
-            "en": "Kowloon"
-        },
-        "district": {
-            "zh": "彩虹",
-            "en": "Choi Hung"
-        },
-        "address": {
-            "zh": "九龍彩虹清水灣道 8 號匯八坊低層二樓 B206 號舖",
-            "en": "Shop B206, Basement 2 Floor, Infinity Eight, 8 Clear Water Bay Road, Choi Hung, Kowloon"
-        },
-        "service": null,
-        "detail": null,
-        "atm24": false,
-        "loc": [
-            114.209798,
-            22.334069
-        ],
-        "workHrs": {
-            "monday": "12:00 - 20:00",
-            "tuesday": "12:00 - 20:00",
-            "wednesday": "12:00 - 20:00",
-            "thursday": "12:00 - 20:00",
-            "friday": "12:00 - 20:00",
-            "saturday": "12:00 - 20:00",
-            "sunday": "12:00 - 20:00"
         },
         "tel": null
     },

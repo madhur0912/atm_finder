@@ -5,9 +5,18 @@ var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 
+var uri = 'mongodb://localhost:27017/atm';
+
+var atmCollectionName = 'atm';
+var localizedCollectionName = 'localized';
+
+if (process.argv.length >= 3) {
+	uri = process.argv[2];
+}
+
 // Database
 var mongo = require('mongodb');
-var mongoose = require('mongoose').connect('mongodb://localhost:27017/atm');
+var mongoose = require('mongoose').connect(uri);
 var db = mongoose.connection;
 db.on('error', console.error.bind(console, 'connection error:'));
 db.once('open', function(callback) {

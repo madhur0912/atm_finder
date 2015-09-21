@@ -1032,8 +1032,8 @@
             "en": "Tuen Mun"
         },
         "address": {
-            "zh": "新界屯門屯合街2號屯門時代廣場商場南冀地下21號舖",
-            "en": "Shop No.21 Level 1 South Wing Trend Plaza No.2 Tuen Hop Street Tuen Mun New Territories"
+            "zh": "新界屯門屯合街2號屯門時代廣場商場南翼地下21號舖",
+            "en": "Shop No.21. Level 1, South Wing Trend Plaza, No.2 Tuen Hop Street, Tuen Mun, New Territories"
         },
         "loc": [
             113.975767,
@@ -4056,6 +4056,46 @@
         "tel": null
     },
     {
+        "_id": "HSBC_119-04513",
+        "atm_type": "hsbcgroup",
+        "shop_type": "hsbc",
+        "name": {
+            "zh": "港鐡美孚站理財易中心",
+            "en": "MTR Mei Foo Station Express Banking"
+        },
+        "area": {
+            "zh": "九龍",
+            "en": "Kowloon"
+        },
+        "district": {
+            "zh": "深水埗",
+            "en": "Sham Shui Po"
+        },
+        "address": {
+            "zh": "九龍港鐵西鐵站美孚站MEF 101號舖",
+            "en": "Shop MEF 101, MTR West Rail Line Mei Foo Station, Kowloon"
+        },
+        "loc": [
+            114.136524,
+            22.338593
+        ],
+        "workHrs": {
+            "monday": "06:00 - 00:30",
+            "tuesday": "06:00 - 00:30",
+            "wednesday": "06:00 - 00:30",
+            "thursday": "06:00 - 00:30",
+            "friday": "06:00 - 00:30",
+            "saturday": "06:00 - 00:30",
+            "sunday": "06:00 - 00:30"
+        },
+        "atm24": false,
+        "service": {
+            "zh": "現金提款\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款",
+            "en": "Cash Withdrawal\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit"
+        },
+        "tel": null
+    },
+    {
         "_id": "HSBC_094-04501",
         "atm_type": "hsbcgroup",
         "shop_type": "hsbc",
@@ -5106,8 +5146,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "自動櫃員機將於2015年9月28日至10月2日暫停服務\n現金提款",
-            "en": "ATM service will be temporarily suspended from 28 September - 2 October 2015\nCash Withdrawal"
+            "zh": "自動櫃員機將於2015年9月26日起暫停服務直至另行通知\n現金提款",
+            "en": "ATM service will be temporarily suspended from 26 September 2015 until further notice.\nCash Withdrawal"
         },
         "tel": null
     },
@@ -6418,8 +6458,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "自動櫃員機將於2015年9月16日至18日暫停服務\n現金提款",
-            "en": "ATM service will be temporarily suspended from 16 - 18 September 2015\nCash Withdrawal"
+            "zh": "現金提款",
+            "en": "Cash Withdrawal"
         },
         "tel": null
     },
@@ -7082,8 +7122,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "自動櫃員機將於2015年9月7日至10日暫停服務\n現金提款",
-            "en": "ATM service will be temporarily suspended from 7 - 10 September 2015\nCash Withdrawal"
+            "zh": "現金提款",
+            "en": "Cash Withdrawal"
         },
         "tel": null
     },
@@ -7378,8 +7418,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "自動櫃員機將於2015年9月9日至11日暫停服務\n現金提款",
-            "en": "ATM service will be temporarily suspended from 9 - 11 September 2015\nCash Withdrawal"
+            "zh": "自動櫃員機將於2015年9月9日起暫停服務直至另行通知\n現金提款",
+            "en": "ATM service will be temporarily suspended from 9 September 2015 until further notice.\nCash Withdrawal"
         },
         "tel": null
     },
@@ -9388,8 +9428,8 @@
         "atm_type": "hsbcgroup",
         "shop_type": "hsbc",
         "name": {
-            "zh": "百德新街理財易中心",
-            "en": "Paterson Street Express Banking"
+            "zh": "百德新街理財易中心-將於2015年10月12日遷往柏寧酒店1樓",
+            "en": "Paterson Street Express Banking - will be relocated to 1/F, Park Lane Hotel on 12 October 2015"
         },
         "area": {
             "zh": "香港島",
@@ -9410,8 +9450,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
-            "en": "Wheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
+            "zh": "將於2015年10月12日遷往柏寧酒店1樓\n輪椅通道 (自動櫃員機)\n現金存款\n更新存摺簿交易資料\n支票存款\n現金提款 (港幣及人民幣)",
+            "en": "Express Banking will be relocated to 1/F, Park Lane Hotel on 12 October 2015.\nWheel Chair Access (ATM)\nCash Deposit\nPassbook Update\nCheque Deposit\nCash Withdrawal (HKD and RMB)"
         },
         "tel": null
     },
@@ -10458,8 +10498,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "自動櫃員機將於2015年9月21日至24日暫停服務\n現金提款",
-            "en": "ATM service will be temporarily suspended from 21 - 24 September 2015\nCash Withdrawal"
+            "zh": "自動櫃員機將於2015年9月21日起暫停服務直至另行通知\n現金提款",
+            "en": "ATM service will be temporarily suspended from 21 September 2015 until further notice.\nCash Withdrawal"
         },
         "tel": null
     },
@@ -13794,8 +13834,8 @@
         "workHrs": null,
         "atm24": true,
         "service": {
-            "zh": "自動櫃員機將於2015年9月14日至17日暫停服務\n現金提款",
-            "en": "ATM service will be temporarily suspended from 14 - 17 September 2015\nCash Withdrawal"
+            "zh": "現金提款",
+            "en": "Cash Withdrawal"
         },
         "tel": null
     },
