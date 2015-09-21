@@ -128,8 +128,6 @@ router.get('/detail/:code/:_id', function(req, res) {
 			})
 			.then(function(data) {
 
-				console.log(data);
-
 				res.send({
 					atm: filter_language(code, data)
 				});

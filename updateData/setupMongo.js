@@ -156,38 +156,4 @@ MongoClient.connect(uri, function(err, db) {
 			console.log('SetupMongo: Setup Mongo complete. Close db.');
 			db.close();
 		});
-
-	// Establish connection to db
-	// db.open(function(err, db) {
-	// 	assert.equal(null, err);
-
-	// 	var insertLocalized = Promise
-	// 		.map([localizedCollectionName], createCollectionWithName)
-	// 		.then(insertLocalizedToCollection)
-	// 		.then(function() {
-	// 			console.log('SetupMongo: Insert localized Finish.');
-	// 		})
-	// 		.catch(function(err) {
-	// 			console.log(err);
-	// 		});
-
-	// 	var insertAtm = Promise
-	// 		.map([atmCollectionName], createCollectionWithName)
-	// 		.then(insertAtmToCollection)
-	// 		.then(createGeoIndex)
-	// 		.then(function(result) {
-	// 			console.log('SetupMongo: Insert ATM Finish.');
-	// 			console.log('SetupMongo: ATM Index Finish - ' + result + '.');
-	// 		})
-	// 		.catch(function(err) {
-	// 			console.log(err);
-	// 		});
-
-	// 	Promise
-	// 		.all([insertLocalized, insertAtm])
-	// 		.then(function() {
-	// 			console.log('SetupMongo: Setup Mongo complete. Close db.');
-	// 			db.close();
-	// 		});
-	// });
 });
