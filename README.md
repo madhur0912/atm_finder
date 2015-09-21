@@ -20,6 +20,7 @@ It will install/update all package you need.
 
 
 Since some of the ATM and EPS merchants data need geocoder to translate their address to latitude, longitude.
+
 You need to provide you Google geocoder API key to setup the database.
 
 Then, `cd` to `updateData/`
@@ -43,10 +44,11 @@ Save it.
 
 Next, run
 ```
-node setupMongo.js < mongoDB_Host >
+node setupMongo.js MONGO_DB_HOST
 ```
-It will download all the ATM and EPS merchants data,
-and import to you mongoDB.
+You could leave the MONGO_DB_HOST empty, it will use the default host `localhost`.
+
+It will download all the ATM and EPS merchants data, and import to you mongoDB.
 
 Lastly, run
 ```
