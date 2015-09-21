@@ -2,7 +2,7 @@
 
 Setup
 =
-A running mongoDB, port 27017
+A mongoDB
 
 A google geocoder API key
 
@@ -44,14 +44,14 @@ Save it.
 
 Next, run
 ```
-node setupMongo.js MONGO_DB_HOST
+node setupMongo.js MONGO_DB_URI
 ```
-You could leave the MONGO_DB_HOST empty, it will use the default host `localhost`.
+You could leave the MONGO_DB_URI empty, it will use default uri `mongodb://localhost:27017`.
 
 It will download all the ATM and EPS merchants data, and import to you mongoDB.
 
 Lastly, run
 ```
-npm start
+npm start MONGO_DB_URI (DEFAULT: mongodb://localhost:27017)
 ```
 You server is ready!
